@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme {
+  --color-kunst: #8B5CF6;
+  --color-oorlogen: #EF4444;
+  --color-uitvindingen: #06B6D4;
+  --color-ontdekkingen: #F59E0B;
+  --color-leiders: #10B981;
+  --color-personen: #EC4899;
+  --color-economie: #6366F1;
+
+  --color-europa: #3B82F6;
+  --color-azie: #F59E0B;
+  --color-afrika: #10B981;
+  --color-amerika: #EF4444;
+  --color-oceanie: #8B5CF6;
+
+  --color-surface: #0f172a;
+  --color-surface-light: #1e293b;
+  --color-surface-lighter: #334155;
+  --color-text-primary: #f1f5f9;
+  --color-text-secondary: #94a3b8;
+  --color-border: #475569;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--color-surface);
+  color: var(--color-text-primary);
+  overflow: hidden;
+  height: 100vh;
+  width: 100vw;
+}
+
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-surface);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-surface-lighter);
+  border-radius: 3px;
+}
