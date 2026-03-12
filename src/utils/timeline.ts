@@ -1,4 +1,5 @@
-import { HistoricalEvent, FilterState, ZOOM_LEVELS, Category, Region } from '../types';
+import type { HistoricalEvent, FilterState } from '../types';
+import { ZOOM_LEVELS } from '../types';
 
 export const MIN_YEAR = -3000;
 export const MAX_YEAR = 2024;
@@ -91,12 +92,4 @@ export function getRandomPopularEvent(events: HistoricalEvent[]): HistoricalEven
     if (random <= 0) return event;
   }
   return events[events.length - 1];
-}
-
-export function getCategoryForEvent(event: HistoricalEvent): Category {
-  return event.category;
-}
-
-export function getRegionForEvent(event: HistoricalEvent): Region {
-  return event.region;
 }

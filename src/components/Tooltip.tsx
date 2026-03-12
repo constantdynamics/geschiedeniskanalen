@@ -1,4 +1,5 @@
-import { HistoricalEvent, CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
+import type { HistoricalEvent } from '../types';
+import { CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
 
 interface TooltipProps {
   event: HistoricalEvent;

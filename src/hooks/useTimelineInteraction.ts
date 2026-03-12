@@ -1,5 +1,6 @@
-import { useState, useCallback, useRef, useEffect } from 'react';
-import { ViewState, ZOOM_LEVELS } from '../types';
+import { useState, useCallback, useRef } from 'react';
+import type { ViewState } from '../types';
+import { ZOOM_LEVELS } from '../types';
 import { MIN_YEAR, MAX_YEAR, xToYear } from '../utils/timeline';
 
 const MAX_ZOOM = ZOOM_LEVELS.length - 1;

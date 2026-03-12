@@ -1,4 +1,4 @@
-import { HistoricalEvent } from '../types';
+import type { HistoricalEvent } from '../types';
 
 export const historicalEvents: HistoricalEvent[] = [
   // === OUDHEID (3000 v.Chr. - 500 n.Chr.) ===
