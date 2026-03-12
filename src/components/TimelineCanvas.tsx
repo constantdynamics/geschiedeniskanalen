@@ -1,12 +1,6 @@
 import { useRef, useEffect, useCallback, useMemo } from 'react';
-import {
-  HistoricalEvent,
-  ZOOM_LEVELS,
-  CATEGORY_CONFIG,
-  REGION_CONFIG,
-  ColorMode,
-  formatYear,
-} from '../types';
+import type { HistoricalEvent, ColorMode } from '../types';
+import { ZOOM_LEVELS, CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
 import {
   yearToX,
   getVisibleYearRange,
@@ -20,7 +14,6 @@ interface TimelineCanvasProps {
   zoom: number;
   colorMode: ColorMode;
   selectedEventId: string | null;
-  isZooming: boolean;
   onEventClick: (eventId: string) => void;
   onEventHover: (event: HistoricalEvent | null, x: number, y: number) => void;
   width: number;
@@ -38,7 +31,6 @@ export default function TimelineCanvas({
   zoom,
   colorMode,
   selectedEventId,
-  isZooming,
   onEventClick,
   onEventHover,
   width,
@@ -173,7 +165,6 @@ export default function TimelineCanvas({
       if (y > height) continue;
 
       const isSelected = event.id === selectedEventId;
-      const color = getColor(event);
       const alpha = event.uncertaintyLevel === 'estimated' ? 0.6 : event.uncertaintyLevel === 'approximate' ? 0.8 : 1;
 
       // Bar shadow
