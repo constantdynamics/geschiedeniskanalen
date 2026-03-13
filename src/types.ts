@@ -2,10 +2,19 @@ export type Category =
   | 'kunst'
   | 'oorlogen'
   | 'uitvindingen'
+  | 'wetenschap'
   | 'ontdekkingen'
-  | 'leiders'
-  | 'personen'
-  | 'economie';
+  | 'politiek'
+  | 'religie'
+  | 'economie'
+  | 'gezondheid'
+  | 'natuur'
+  | 'sport'
+  | 'filosofie'
+  | 'architectuur'
+  | 'sociale-bewegingen'
+  | 'kolonialisme'
+  | 'media';
 
 export type Region = 'europa' | 'azie' | 'afrika' | 'amerika' | 'oceanie';
 
@@ -55,10 +64,19 @@ export const CATEGORY_CONFIG: Record<Category, { label: string; color: string; i
   kunst: { label: 'Kunst & Cultuur', color: '#8B5CF6', icon: '🎨' },
   oorlogen: { label: 'Oorlogen & Conflicten', color: '#EF4444', icon: '⚔️' },
   uitvindingen: { label: 'Uitvindingen & Tech', color: '#06B6D4', icon: '🔧' },
-  ontdekkingen: { label: 'Ontdekkingen', color: '#F59E0B', icon: '🌍' },
-  leiders: { label: 'Politieke Leiders', color: '#10B981', icon: '👑' },
-  personen: { label: 'Bekende Personen', color: '#EC4899', icon: '⭐' },
-  economie: { label: 'Economie', color: '#6366F1', icon: '💰' },
+  wetenschap: { label: 'Wetenschap', color: '#0EA5E9', icon: '🔬' },
+  ontdekkingen: { label: 'Ontdekkingen & Reizen', color: '#F59E0B', icon: '🧭' },
+  politiek: { label: 'Politiek & Bestuur', color: '#10B981', icon: '🏛️' },
+  religie: { label: 'Religie & Spiritualiteit', color: '#A855F7', icon: '🕊️' },
+  economie: { label: 'Economie & Handel', color: '#6366F1', icon: '💰' },
+  gezondheid: { label: 'Gezondheid & Pandemie', color: '#F43F5E', icon: '🏥' },
+  natuur: { label: 'Natuur & Milieu', color: '#22C55E', icon: '🌿' },
+  sport: { label: 'Sport & Evenementen', color: '#F97316', icon: '🏅' },
+  filosofie: { label: 'Filosofie & Denkers', color: '#D946EF', icon: '💭' },
+  architectuur: { label: 'Architectuur & Bouw', color: '#78716C', icon: '🏗️' },
+  'sociale-bewegingen': { label: 'Sociale Bewegingen', color: '#EC4899', icon: '✊' },
+  kolonialisme: { label: 'Kolonialisme & Imperialisme', color: '#B45309', icon: '🚢' },
+  media: { label: 'Media & Communicatie', color: '#14B8A6', icon: '📡' },
 };
 
 export const REGION_CONFIG: Record<Region, { label: string; color: string }> = {
@@ -79,9 +97,10 @@ export const ZOOM_LEVELS: ZoomLevel[] = [
   { level: 6, label: 'Maanden', yearsPerPixel: 0.02, tickInterval: 1, labelFormat: (y) => formatYear(y) },
 ];
 
-export const APP_VERSION = '2.1.0';
+export const APP_VERSION = '2.2.0';
 
 export function formatYear(year: number): string {
   if (year < 0) return `${Math.abs(year)} v.Chr.`;
-  return `${year} n.Chr.`;
+  if (year < 500) return `${year} n.Chr.`;
+  return `${year}`;
 }

@@ -89,6 +89,8 @@ export function useTimelineInteraction(canvasWidth: number) {
 
   const handleMouseUp = useCallback(() => {
     isPanning.current = false;
+    // Reset isDragging after a short delay so click handlers can still check it
+    setTimeout(() => { isDragging.current = false; }, 0);
   }, []);
 
   const selectEvent = useCallback((eventId: string | null) => {

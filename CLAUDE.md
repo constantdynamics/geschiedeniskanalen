@@ -47,7 +47,7 @@ interface HistoricalEvent {
   name: string;
   start: number;        // year, negative = BCE
   end: number;
-  category: Category;   // 'kunst'|'oorlogen'|'uitvindingen'|'ontdekkingen'|'leiders'|'personen'|'economie'
+  category: Category;   // 'kunst'|'oorlogen'|'uitvindingen'|'wetenschap'|'ontdekkingen'|'politiek'|'religie'|'economie'|'gezondheid'|'natuur'|'sport'|'filosofie'|'architectuur'|'sociale-bewegingen'|'kolonialisme'|'media'
   region: Region;       // 'europa'|'azie'|'afrika'|'amerika'|'oceanie'
   description: string;
   image: string;        // emoji
