@@ -47,7 +47,7 @@ interface HistoricalEvent {
   name: string;
   start: number;        // year, negative = BCE
   end: number;
-  category: Category;   // 'kunst'|'oorlogen'|'uitvindingen'|'ontdekkingen'|'leiders'|'personen'|'economie'
+  category: Category;   // 'kunst'|'oorlogen'|'uitvindingen'|'wetenschap'|'ontdekkingen'|'politiek'|'religie'|'economie'|'gezondheid'|'natuur'|'sport'|'filosofie'|'architectuur'|'sociale-bewegingen'|'kolonialisme'|'media'
   region: Region;       // 'europa'|'azie'|'afrika'|'amerika'|'oceanie'
   description: string;
   image: string;        // emoji
@@ -57,6 +57,14 @@ interface HistoricalEvent {
   relatedEvents: string[]; // array of other event IDs
 }
 ```
+
+### Adding events
+
+**CRITICAL**: Before adding new events to `src/data/events.ts`, ALWAYS check that the event ID does not already exist. Run:
+```bash
+grep "id: 'your-event-id'" src/data/events.ts
+```
+Each event `id` MUST be unique. If an event with that ID already exists, either skip it or update the existing one — never create a duplicate. When adding events in bulk, deduplicate against the full existing list first.
 
 ### Versioning
 
