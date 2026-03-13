@@ -51,7 +51,7 @@ export default function DiscoverySpinner({ events, onSelectEvent }: DiscoverySpi
     return (
       <button
         onClick={() => setIsOpen(true)}
-        className="fixed bottom-6 right-6 w-14 h-14 bg-gradient-to-br from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 rounded-full shadow-lg shadow-purple-900/50 flex items-center justify-center transition-all hover:scale-110 z-40"
+        className="fixed bottom-12 right-6 w-14 h-14 bg-gradient-to-br from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 rounded-full shadow-lg shadow-purple-900/50 flex items-center justify-center transition-all hover:scale-110 z-40"
         title="Ontdek een willekeurig historisch event!"
       >
         <Sparkles size={24} className="text-white" />

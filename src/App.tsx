@@ -7,6 +7,7 @@ import { useTimelineInteraction } from './hooks/useTimelineInteraction';
 import TimelineCanvas from './components/TimelineCanvas';
 import Toolbar from './components/Toolbar';
 import FilterPanel from './components/FilterPanel';
+import StatsPanel from './components/StatsPanel';
 import Legend from './components/Legend';
 import EventDetail from './components/EventDetail';
 import Tooltip from './components/Tooltip';
@@ -143,6 +144,26 @@ function App() {
     }));
   }, [setViewState]);
 
+  const handleFilterCategory = useCallback((cat: import('./types').Category) => {
+    setFilters((prev) => {
+      const has = prev.categories.includes(cat);
+      return {
+        ...prev,
+        categories: has ? prev.categories.filter((c) => c !== cat) : [...prev.categories, cat],
+      };
+    });
+  }, []);
+
+  const handleFilterRegion = useCallback((reg: import('./types').Region) => {
+    setFilters((prev) => {
+      const has = prev.regions.includes(reg);
+      return {
+        ...prev,
+        regions: has ? prev.regions.filter((r) => r !== reg) : [...prev.regions, reg],
+      };
+    });
+  }, []);
+
   return (
     <div className="h-screen w-screen flex flex-col bg-surface overflow-hidden">
       {/* Header bar */}
@@ -173,6 +194,14 @@ function App() {
 
       {/* Main content */}
       <div className="flex-1 flex min-h-0">
+        {/* Stats sidebar */}
+        <StatsPanel
+          allEvents={historicalEvents}
+          filteredEvents={filteredEvents}
+          onFilterCategory={handleFilterCategory}
+          onFilterRegion={handleFilterRegion}
+        />
+
         {/* Timeline canvas area */}
         <div
           ref={containerRef}

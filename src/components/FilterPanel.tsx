@@ -2,7 +2,8 @@ import { useState, useRef, useEffect, useMemo } from 'react';
 import { createPortal } from 'react-dom';
 import { ChevronDown, ChevronUp, Filter, Search, BarChart3, Info } from 'lucide-react';
 import type { FilterState, Category, Region, HistoricalEvent } from '../types';
-import { CATEGORY_CONFIG, REGION_CONFIG, APP_VERSION } from '../types';
+import { CATEGORY_CONFIG, REGION_CONFIG } from '../types';
+import { APP_VERSION } from '../version';
 
 interface FilterPanelProps {
   filters: FilterState;
