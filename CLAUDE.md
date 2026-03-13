@@ -20,7 +20,7 @@ This is a single-page React + TypeScript app that renders an interactive histori
 ### Data flow
 
 ```
-src/data/events.ts          → flat array of HistoricalEvent objects (~1500+ events)
+src/data/events.ts          → flat array of HistoricalEvent objects (~1400 events)
 src/utils/timeline.ts       → pure functions: coordinate math, filtering, swim-lane layout
 src/hooks/useTimelineInteraction.ts  → all pan/zoom/select state (ViewState)
 App.tsx                     → wires everything together, owns FilterState
@@ -52,6 +52,7 @@ interface HistoricalEvent {
   description: string;
   image: string;        // emoji
   funFacts: string[];   // exactly 2 strings
+  teaserQuestion?: string; // optional trivia question
   popularityScore: number; // 0–100
   uncertaintyLevel: 'exact'|'approximate'|'uncertain';
   relatedEvents: string[]; // array of other event IDs
@@ -64,11 +65,11 @@ interface HistoricalEvent {
 ```bash
 grep "id: 'your-event-id'" src/data/events.ts
 ```
-Each event `id` MUST be unique. If an event with that ID already exists, either skip it or update the existing one — never create a duplicate. When adding events in bulk, deduplicate against the full existing list first.
+Each event `id` MUST be unique. If an event with that ID already exists, either skip it or update the existing one — never create a duplicate. When adding events in bulk, deduplicate against the full existing list first. A runtime dedup guard at the bottom of `events.ts` catches any remaining duplicates and logs a warning in dev mode.
 
 ### Versioning
 
-`src/version.ts` exports `APP_VERSION`. **Update this with every data or feature change** and communicate the new version. The version is displayed in the app header next to the title.
+`src/version.ts` exports `APP_VERSION` and `DATA_UPDATED`. **Update both with every data or feature change** and communicate the new version. The version is displayed in the app header next to the title.
 
 ### Color modes
 
@@ -76,7 +77,11 @@ Two color modes selectable in the UI: `'thema'` (by category) and `'geo'` (by re
 
 ## Deployment
 
+Vite `base` is set to `/geschiedeniskanalen/` in `vite.config.ts` (required for GitHub Pages subpath).
+
 After pushing to a `claude/*` branch, create a PR and merge it to `main` via the GitHub API. GitHub Pages auto-deploys from `main`.
+
+**Known issue**: The auto-merge workflow uses `GITHUB_TOKEN` to merge PRs. GitHub does not trigger workflows (like the Pages deploy) for pushes made by `GITHUB_TOKEN`. If the deploy doesn't trigger after auto-merge, use the API with a PAT to merge, or manually trigger "Deploy to GitHub Pages" via `workflow_dispatch` in the Actions tab.
 
 ### Auto-merge PRs via API
 
