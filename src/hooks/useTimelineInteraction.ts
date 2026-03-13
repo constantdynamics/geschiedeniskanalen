@@ -13,7 +13,9 @@ export function useTimelineInteraction(canvasWidth: number) {
   });
 
   const isPanning = useRef(false);
+  const isDragging = useRef(false);
   const lastPanX = useRef(0);
+  const panStartX = useRef(0);
   const zoomTimeout = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [isZooming, setIsZooming] = useState(false);
 
@@ -62,12 +64,17 @@ export function useTimelineInteraction(canvasWidth: number) {
 
   const handleMouseDown = useCallback((e: React.MouseEvent) => {
     isPanning.current = true;
+    isDragging.current = false;
     lastPanX.current = e.clientX;
+    panStartX.current = e.clientX;
   }, []);
 
   const handleMouseMove = useCallback(
     (e: React.MouseEvent) => {
       if (!isPanning.current) return;
+      const totalDx = Math.abs(e.clientX - panStartX.current);
+      if (totalDx < 4) return; // Don't pan until drag threshold is met
+      isDragging.current = true;
       const dx = e.clientX - lastPanX.current;
       lastPanX.current = e.clientX;
 
@@ -154,6 +161,7 @@ export function useTimelineInteraction(canvasWidth: number) {
   return {
     viewState,
     isZooming,
+    isDragging,
     handleWheel,
     handleMouseDown,
     handleMouseMove,

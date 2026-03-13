@@ -12,6 +12,7 @@ import EventDetail from './components/EventDetail';
 import Tooltip from './components/Tooltip';
 import DiscoverySpinner from './components/DiscoverySpinner';
 import { Clock } from 'lucide-react';
+import { APP_VERSION } from './version';
 
 function App() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -33,6 +34,7 @@ function App() {
   const {
     viewState,
     isZooming,
+    isDragging,
     handleWheel,
     handleMouseDown,
     handleMouseMove,
@@ -86,9 +88,10 @@ function App() {
 
   const handleEventClick = useCallback(
     (eventId: string) => {
+      if (isDragging.current) return;
       selectEvent(viewState.selectedEventId === eventId ? null : eventId);
     },
-    [selectEvent, viewState.selectedEventId]
+    [selectEvent, viewState.selectedEventId, isDragging]
   );
 
   const handleEventHover = useCallback(
@@ -149,11 +152,12 @@ function App() {
           <h1 className="text-base font-bold text-text-primary tracking-tight">
             Tijdlijn<span className="text-blue-400">.</span>
           </h1>
+          <span className="text-xs text-text-secondary/50 font-mono">v{APP_VERSION}</span>
         </div>
 
         <div className="h-5 w-px bg-border" />
 
-        <FilterPanel filters={filters} onChange={setFilters} />
+        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} />
 
         <div className="flex-1">
           <Toolbar
