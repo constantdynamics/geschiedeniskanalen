@@ -12,6 +12,7 @@ import EventDetail from './components/EventDetail';
 import Tooltip from './components/Tooltip';
 import DiscoverySpinner from './components/DiscoverySpinner';
 import { Clock } from 'lucide-react';
+import { APP_VERSION } from './version';
 
 function App() {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -151,6 +152,7 @@ function App() {
           <h1 className="text-base font-bold text-text-primary tracking-tight">
             Tijdlijn<span className="text-blue-400">.</span>
           </h1>
+          <span className="text-xs text-text-secondary/50 font-mono">v{APP_VERSION}</span>
         </div>
 
         <div className="h-5 w-px bg-border" />
