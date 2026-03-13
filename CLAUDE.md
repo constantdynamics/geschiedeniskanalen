@@ -65,3 +65,29 @@ interface HistoricalEvent {
 ### Color modes
 
 Two color modes selectable in the UI: `'thema'` (by category) and `'geo'` (by region). Colors defined in `CATEGORY_CONFIG` and `REGION_CONFIG` in `types.ts`.
+
+## Deployment
+
+After pushing to a `claude/*` branch, create a PR and merge it to `main` via the GitHub API. GitHub Pages auto-deploys from `main`.
+
+### Auto-merge PRs via API
+
+The GitHub fine-grained PAT is stored in `/root/.config/gh/hosts.yml` (oauth_token field). Read the token from there and use it for API calls:
+
+```bash
+TOKEN=$(grep oauth_token /root/.config/gh/hosts.yml | head -1 | awk '{print $2}')
+
+# Create PR
+curl -X POST "https://api.github.com/repos/constantdynamics/geschiedeniskanalen/pulls" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Accept: application/vnd.github.v3+json" \
+  -d '{"title":"...","head":"claude/branch-name","base":"main"}'
+
+# Merge PR (replace {number})
+curl -X PUT "https://api.github.com/repos/constantdynamics/geschiedeniskanalen/pulls/{number}/merge" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Accept: application/vnd.github.v3+json" \
+  -d '{"merge_method":"merge"}'
+```
+
+**IMPORTANT**: Always set `HTTPS_PROXY="$GLOBAL_AGENT_HTTP_PROXY"` and `HTTP_PROXY="$GLOBAL_AGENT_HTTP_PROXY"` when making curl calls to api.github.com. Always create the PR, merge it, and confirm merge was successful before telling the user they need to do anything manually.
