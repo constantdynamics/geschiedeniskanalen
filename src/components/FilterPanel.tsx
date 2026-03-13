@@ -1,18 +1,20 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef, useEffect, useMemo } from 'react';
 import { createPortal } from 'react-dom';
-import { ChevronDown, ChevronUp, Filter, Search } from 'lucide-react';
-import type { FilterState, Category, Region } from '../types';
-import { CATEGORY_CONFIG, REGION_CONFIG } from '../types';
+import { ChevronDown, ChevronUp, Filter, Search, BarChart3, Info } from 'lucide-react';
+import type { FilterState, Category, Region, HistoricalEvent } from '../types';
+import { CATEGORY_CONFIG, REGION_CONFIG, APP_VERSION } from '../types';
 
 interface FilterPanelProps {
   filters: FilterState;
   onChange: (filters: FilterState) => void;
+  events: HistoricalEvent[];
+  filteredCount: number;
 }
 
 const ALL_CATEGORIES = Object.keys(CATEGORY_CONFIG) as Category[];
 const ALL_REGIONS = Object.keys(REGION_CONFIG) as Region[];
 
-export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
+export default function FilterPanel({ filters, onChange, events, filteredCount }: FilterPanelProps) {
   const [isOpen, setIsOpen] = useState(false);
   const buttonRef = useRef<HTMLButtonElement>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
@@ -69,6 +71,20 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
     onChange({ categories: [], regions: [], colorMode: filters.colorMode, searchQuery: '' });
   };
 
+  const categoryStats = useMemo(() => {
+    const counts: Record<string, number> = {};
+    for (const cat of ALL_CATEGORIES) counts[cat] = 0;
+    for (const ev of events) counts[ev.category]++;
+    return counts;
+  }, [events]);
+
+  const regionStats = useMemo(() => {
+    const counts: Record<string, number> = {};
+    for (const reg of ALL_REGIONS) counts[reg] = 0;
+    for (const ev of events) counts[ev.region]++;
+    return counts;
+  }, [events]);
+
   const activeCount = filters.categories.length + filters.regions.length + (filters.searchQuery ? 1 : 0);
 
   return (
@@ -94,8 +110,8 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
         createPortal(
           <div
             ref={dropdownRef}
-            className="fixed w-80 bg-surface-light border border-border rounded-xl shadow-2xl overflow-hidden"
-            style={{ top: dropdownPos.top, left: dropdownPos.left, zIndex: 9999 }}
+            className="fixed w-80 bg-surface-light border border-border rounded-xl shadow-2xl overflow-y-auto"
+            style={{ top: dropdownPos.top, left: dropdownPos.left, zIndex: 9999, maxHeight: 'calc(100vh - 80px)' }}
           >
             {/* Search */}
             <div className="p-3 border-b border-border">
@@ -182,7 +198,7 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
 
             {/* Clear */}
             {activeCount > 0 && (
-              <div className="p-3">
+              <div className="px-3 pt-3 pb-0">
                 <button
                   onClick={clearAll}
                   className="text-xs text-red-400 hover:text-red-300 transition-colors"
@@ -191,6 +207,50 @@ export default function FilterPanel({ filters, onChange }: FilterPanelProps) {
                 </button>
               </div>
             )}
+
+            {/* Stats */}
+            <div className="p-3 border-t border-border">
+              <div className="flex items-center gap-1.5 mb-2">
+                <BarChart3 size={12} className="text-text-secondary" />
+                <span className="text-xs text-text-secondary uppercase tracking-wider">Statistieken</span>
+              </div>
+              <div className="grid grid-cols-2 gap-1.5 mb-2">
+                <div className="bg-surface rounded-lg px-2.5 py-1.5 text-center">
+                  <div className="text-lg font-bold text-blue-400">{events.length}</div>
+                  <div className="text-[10px] text-text-secondary">Totaal</div>
+                </div>
+                <div className="bg-surface rounded-lg px-2.5 py-1.5 text-center">
+                  <div className="text-lg font-bold text-emerald-400">{filteredCount}</div>
+                  <div className="text-[10px] text-text-secondary">Gefilterd</div>
+                </div>
+              </div>
+              <div className="space-y-1">
+                {ALL_CATEGORIES.map((cat) => {
+                  const cfg = CATEGORY_CONFIG[cat];
+                  const count = categoryStats[cat];
+                  const pct = events.length > 0 ? (count / events.length) * 100 : 0;
+                  return (
+                    <div key={cat} className="flex items-center gap-2 text-xs">
+                      <span className="w-4 text-center">{cfg.icon}</span>
+                      <span className="flex-1 text-text-secondary truncate">{cfg.label}</span>
+                      <div className="w-16 h-1.5 bg-surface rounded-full overflow-hidden">
+                        <div className="h-full rounded-full" style={{ width: `${pct}%`, backgroundColor: cfg.color }} />
+                      </div>
+                      <span className="text-text-secondary w-6 text-right tabular-nums">{count}</span>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+
+            {/* Version */}
+            <div className="px-3 py-2 border-t border-border flex items-center justify-between">
+              <div className="flex items-center gap-1.5">
+                <Info size={10} className="text-text-secondary" />
+                <span className="text-[10px] text-text-secondary">Tijdlijn v{APP_VERSION}</span>
+              </div>
+              <span className="text-[10px] text-text-secondary">{events.length} events</span>
+            </div>
           </div>,
           document.body
         )}

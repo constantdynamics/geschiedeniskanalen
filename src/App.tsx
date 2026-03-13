@@ -153,7 +153,7 @@ function App() {
 
         <div className="h-5 w-px bg-border" />
 
-        <FilterPanel filters={filters} onChange={setFilters} />
+        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} />
 
         <div className="flex-1">
           <Toolbar
