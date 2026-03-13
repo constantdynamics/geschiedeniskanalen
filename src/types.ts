@@ -79,7 +79,7 @@ export const ZOOM_LEVELS: ZoomLevel[] = [
   { level: 6, label: 'Maanden', yearsPerPixel: 0.02, tickInterval: 1, labelFormat: (y) => formatYear(y) },
 ];
 
-export const APP_VERSION = '2.0.0';
+export const APP_VERSION = '2.1.0';
 
 export function formatYear(year: number): string {
   if (year < 0) return `${Math.abs(year)} v.Chr.`;

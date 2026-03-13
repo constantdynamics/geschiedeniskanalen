@@ -58,6 +58,14 @@ interface HistoricalEvent {
 }
 ```
 
+### Adding events
+
+**CRITICAL**: Before adding new events to `src/data/events.ts`, ALWAYS check that the event ID does not already exist. Run:
+```bash
+grep "id: 'your-event-id'" src/data/events.ts
+```
+Each event `id` MUST be unique. If an event with that ID already exists, either skip it or update the existing one — never create a duplicate. When adding events in bulk, deduplicate against the full existing list first.
+
 ### Versioning
 
 `src/version.ts` exports `APP_VERSION`. **Update this with every data or feature change** and communicate the new version. The version is displayed in the app header next to the title.
