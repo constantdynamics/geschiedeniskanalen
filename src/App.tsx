@@ -33,6 +33,7 @@ function App() {
   const {
     viewState,
     isZooming,
+    isDragging,
     handleWheel,
     handleMouseDown,
     handleMouseMove,
@@ -86,9 +87,10 @@ function App() {
 
   const handleEventClick = useCallback(
     (eventId: string) => {
+      if (isDragging.current) return;
       selectEvent(viewState.selectedEventId === eventId ? null : eventId);
     },
-    [selectEvent, viewState.selectedEventId]
+    [selectEvent, viewState.selectedEventId, isDragging]
   );
 
   const handleEventHover = useCallback(
