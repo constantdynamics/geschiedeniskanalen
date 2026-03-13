@@ -5979,7 +5979,7 @@ export const historicalEvents: HistoricalEvent[] = [
     description: 'De Republiek der Zeven Verenigde Nederlanden werd de dominante handels- en maritieme macht ter wereld in de 17e eeuw.',
     image: '🌷',
     funFacts: [
-      'De VOC was 's werelds eerste multinational en handelde van Japan tot West-Afrika.',
+      'De VOC was \'s werelds eerste multinational en handelde van Japan tot West-Afrika.',
       'Rembrandt, Vermeer en andere Hollandse meesters floreerden tijdens de Gouden Eeuw.',
     ],
     popularityScore: 82,
@@ -8569,7 +8569,7 @@ export const historicalEvents: HistoricalEvent[] = [
     end: 1998,
     category: 'uitvindingen',
     region: 'amerika',
-    description: 'Larry Page en Sergey Brin richtten Google op in een garagestudio, wat uitgroeide tot 's werelds meest gebruikte zoekmachine.',
+    description: 'Larry Page en Sergey Brin richtten Google op in een garagestudio, wat uitgroeide tot \'s werelds meest gebruikte zoekmachine.',
     image: '🔍',
     funFacts: [
       'Google\'s originele naam was "BackRub".',
@@ -10594,7 +10594,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '🔥',
     funFacts: [
       'Koken verkort de tijd die nodig is om voedsel te verteren, wat meer energie vrijmaakte voor de hersenen.',
-      'Vuur bood bescherming tegen roofdieren en maakte 's nachts samenkomen mogelijk.',
+      'Vuur bood bescherming tegen roofdieren en maakte \'s nachts samenkomen mogelijk.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -10750,7 +10750,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'Het exodusverhaal beïnvloedde bevrijdingsbewegingen van de Amerikaanse burgerrechtenbeweging tot de anti-apartheidsstrijd.',
     ],
     popularityScore: 79,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['joodse-diaspora', 'egyptische-beschaving'],
   },
   {
@@ -12252,7 +12252,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '🌸',
     funFacts: [
       'De opstand begon toen de Tunesische straatverkoper Mohammed Bouazizi zichzelf in brand stak.',
-      'Syrië's burgeroorlog begon als onderdeel van de Arabische Lente maar escaleerde catastrofaal.',
+      'Syrië\'s burgeroorlog begon als onderdeel van de Arabische Lente maar escaleerde catastrofaal.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -12921,7 +12921,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '💡',
     funFacts: [
       'Edison probeerde meer dan 6.000 materialen voor de gloeidraad voordat koolstofvezel werkte.',
-      'De Menlo Park-onderzoeksfabriek was 's werelds eerste geplande onderzoeksinstelling.',
+      'De Menlo Park-onderzoeksfabriek was \'s werelds eerste geplande onderzoeksinstelling.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -14616,7 +14616,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '🛢️',
     funFacts: [
       'Chávez overleefde in 2002 een staatsgreep doordat zijn aanhangers de kazernes omsingelden.',
-      'Venezuela had 's werelds grootste bewezen oliereserves maar kende na zijn beleid ook hyperinflatie.',
+      'Venezuela had \'s werelds grootste bewezen oliereserves maar kende na zijn beleid ook hyperinflatie.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -15441,7 +15441,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'Investigatief journalist Seymour Hersh beweerde de VS verantwoordelijk was, wat de VS ontkende.',
     ],
     popularityScore: 79,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['rusland-ukraine-invasie', 'koude-oorlog'],
   },
   {
@@ -15489,7 +15489,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '🗺️',
     funFacts: [
       'China beschouwt Taiwan als een afvallige provincie; Taiwan beschouwt zichzelf als onafhankelijke democratie.',
-      'TSMC in Taiwan produceert meer dan 90% van 's werelds meest geavanceerde microchips.',
+      'TSMC in Taiwan produceert meer dan 90% van \'s werelds meest geavanceerde microchips.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -16721,7 +16721,7 @@ export const historicalEvents: HistoricalEvent[] = [
     description: 'Brazilië\'s Amazone verloor 20% van zijn oppervlak door landbouw, mijnbouw en infrastructuur – een klimaatcrisis in wording.',
     image: '🌳',
     funFacts: [
-      'Het Amazonewoud produceert 20% van 's werelds zuurstof en huisvest 10% van alle soorten op aarde.',
+      'Het Amazonewoud produceert 20% van \'s werelds zuurstof en huisvest 10% van alle soorten op aarde.',
       'Brazilianische president Bolsonaro (2019-2022) versnelde de ontbossing dramatisch.',
     ],
     popularityScore: 82,
@@ -18077,7 +18077,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'Boeddha gaf zijn eerste toespraak in het Hert-park bij Varanasi; dit evenement staat bekend als "het in beweging zetten van het wiel van de Dharma".',
     ],
     popularityScore: 87,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['ashoka-keizer', 'verspreiding-boeddhisme-azie'],
   },
   {
@@ -18094,7 +18094,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'De Tien Geboden zijn de basis van de westerse juridische ethiek; uitdrukkingen als "moord", "diefstal" en "vals getuigen" zijn direct hieruit afgeleid.',
     ],
     popularityScore: 84,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['bouw-tweede-tempel', 'verwoesting-jerusalem'],
   },
   {
@@ -18111,7 +18111,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'De datum 25 december werd in de 4e eeuw door de kerk vastgesteld, mogelijk samenvallend met het Romeinse Saturnalia-feest voor een makkelijkere overgang.',
     ],
     popularityScore: 92,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['oprichting-christendom', 'kruistochten'],
   },
   {
@@ -19707,7 +19707,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2012,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'In 2012 won een neuraal netwerk van Geoffrey Hinton de ImageNet-wedstrijd overtuigend, wat de deep learning revolutie inluidde. Vanaf 2017 (Transformer architectuur) en 2022 (ChatGPT) transformeerde AI communicatie, creativiteit en werk op een tempo vergelijkbaar met de Industriële Revolutie.',
     image: '🤖',
     funFacts: [
@@ -19724,7 +19724,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2015,
     end: 2015,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Op 14 september 2015 detecteerde de LIGO-detector voor het eerst gravitatiegolven – rimpelingen in de ruimtetijd veroorzaakt door twee botsende zwarte gaten 1,3 miljard lichtjaar weg. Einstein had hun bestaan in 1916 voorspeld. De ontdekking opende een nieuw venster op het heelal.',
     image: '🌌',
     funFacts: [
@@ -19896,7 +19896,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 1960,
     end: 1980,
     category: 'personen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'De tweede feministische golf streed voor gelijke rechten en kansen. Betty Friedan\'s "The Feminine Mystique" (1963) en de oprichting van NOW (National Organization for Women) in 1966 waren mijlpalen. In de VS werd abortus legaal (Roe v. Wade, 1973), seksuele intimidatie werd benoemd als discriminatie.',
     image: '♀️',
     funFacts: [
@@ -19913,7 +19913,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2017,
     end: 2018,
     category: 'personen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Na onthullingen over Harvey Weinstein verspreidde de hashtag #MeToo zich in 2017 razendsnel op sociale media. Miljoenen vrouwen deelden hun ervaringen met seksueel misbruik. De beweging leidde tot het aftreden en veroordeling van tientallen machtige mannen in film, media, politiek en sport.',
     image: '📢',
     funFacts: [
@@ -19930,7 +19930,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 1969,
     end: 1969,
     category: 'personen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Op 28 juni 1969 verzetten bezoekers van de Stonewall Inn in New York zich voor het eerst actief tegen politierazzia\'s in de bar. De opstand werd het startschot van de moderne LGBTQ+-beweging. Het eerste Pride-evenement werd een jaar later gehouden op de verjaardag van de rellen.',
     image: '🏳️‍🌈',
     funFacts: [
@@ -20049,7 +20049,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2013,
     end: 2020,
     category: 'personen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Black Lives Matter begon als hashtag in 2013 na de vrijspraak van George Zimmerman. Na de dood van George Floyd door politiegeweld in mei 2020 groeide het uit tot de grootste protestbeweging in de Amerikaanse geschiedenis. Protesten vonden ook buiten de VS plaats.',
     image: '✊',
     funFacts: [
@@ -20204,7 +20204,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2016,
     end: 2016,
     category: 'leiders',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Op 8 november 2016 won Donald Trump de Amerikaanse presidentsverkiezingen van Hillary Clinton. De uitkomst verraste vrijwel alle peilingen. Trumps overwinning markeert het doorbreken van het populistisch nationalisme in de mondiale politiek en een breuk met de naoorlogse liberale wereldorde.',
     image: '🇺🇸',
     funFacts: [
@@ -20238,7 +20238,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 1945,
     end: 1945,
     category: 'leiders',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Op 26 juni 1945 tekenden 50 landen in San Francisco het Handvest van de Verenigde Naties. De VN verving de Volkenbond en had als doel internationaal vrede en veiligheid te handhaven. De vijf permanente leden van de Veiligheidsraad (VS, VK, Fr, Rus, Chi) hebben vetorecht.',
     image: '🌐',
     funFacts: [
@@ -20260,7 +20260,7 @@ export const historicalEvents: HistoricalEvent[] = [
     image: '🐉',
     funFacts: [
       'China heeft in 15 jaar meer beton gebruikt dan de VS in de gehele 20e eeuw, als indicator van de ongekende snelheid van haar infrastructuurontwikkeling.',
-      'China is in 2030 naar verwachting 's werelds grootste economie; voor het eerst in 200 jaar wordt de VS niet de grootste economie ter wereld.',
+      'China is in 2030 naar verwachting \'s werelds grootste economie; voor het eerst in 200 jaar wordt de VS niet de grootste economie ter wereld.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -20272,7 +20272,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2004,
     end: 2020,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Facebook (2004), YouTube (2005), Twitter (2006) en Instagram (2010) transformeerden hoe mensen communiceren, nieuws consumeren en protesteren. Sociale media democratiseerde de stem maar creëerde ook filterbubbels, desinformatie en polarisatie als nooit tevoren.',
     image: '📱',
     funFacts: [
@@ -20357,7 +20357,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2022,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'In november 2022 lanceerde OpenAI ChatGPT, dat in vijf dagen een miljoen gebruikers bereikte. Generatieve AI voor tekst, beeld en video verspreidde zich razendsnel. De technologie belooft enorme productiviteitswinst maar roept ook vragen op over banen, auteursrecht en AI-veiligheid.',
     image: '🤖',
     funFacts: [
@@ -20408,7 +20408,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2020,
     end: 2021,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'De Covid-19-pandemie versnelde de mRNA-vaccintechnologie van laboratorium naar honderden miljoenen mensen in minder dan een jaar. Moderna en BioNTech/Pfizer bouwden voort op decennia van onderzoek. mRNA-vaccins worden nu ontwikkeld voor kanker, HIV en influenza.',
     image: '💉',
     funFacts: [
@@ -20425,7 +20425,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2021,
     end: 2022,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'De James Webb Ruimtetelescoop, gelanceerd op Kerstdag 2021, leverde in 2022 de diepste en scherpste infraroodfoto\'s van het vroege heelal. De eerste beelden toonden sterrenstelsels van 13,3 miljard jaar geleden. Webb opende een nieuw tijdperk in de sterrenkunde en kosmologie.',
     image: '🔭',
     funFacts: [
@@ -20442,7 +20442,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2002,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Elon Musks SpaceX revolutioneerde ruimtevaart door herbruikbare raketten te ontwikkelen. In 2020 bracht SpaceX als eerste commercieel bedrijf astronauten naar het Internationaal Ruimtestation. De Starship-raket maakt reis naar Mars een haalbaar toekomstplan.',
     image: '🚀',
     funFacts: [
@@ -20459,7 +20459,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2001,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Wikipedia werd in 2001 gelanceerd als een vrij toegankelijke encyclopedie die iedereen kon bewerken. In 2024 bevat ze meer dan 60 miljoen artikelen in 300+ talen. Ze is de op vijf na meest bezochte website ter wereld en een revolutie in de democratisering van kennis.',
     image: '📚',
     funFacts: [
@@ -20493,7 +20493,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2016,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'Meta (voorheen Facebook) kondigde in 2021 zijn visie op het Metaverse aan: een virtuele wereld waar mensen werken, spelen en socialiseren. VR-headsets als Quest werden populairder. Hoewel het Metaverse niet werd zoals beloofd, transformeerde VR wél geneeskunde, training en gaming.',
     image: '🥽',
     funFacts: [
@@ -20561,7 +20561,7 @@ export const historicalEvents: HistoricalEvent[] = [
     start: 2019,
     end: 2024,
     category: 'uitvindingen',
-    region: 'Amerika',
+    region: 'amerika',
     description: 'In 2019 beweerde Google "kwantumsuprematie" te hebben bereikt: zijn kwantumcomputer voltooide een berekening in 200 seconden die een klassieke computer 10.000 jaar zou kosten. Kwantumcomputing belooft revoluties in medicijnontdekking, cryptografie en materiaalkunde.',
     image: '⚛️',
     funFacts: [
@@ -20741,7 +20741,7 @@ export const historicalEvents: HistoricalEvent[] = [
       'De Late Bronstijdcrisis rond 1200 v.Chr. vernietigde vrijwel alle grote beschavingen tegelijk: Hethieten, Myceense Grieken, Ugarit en Egypte.',
     ],
     popularityScore: 73,
-    uncertaintyLevel: 'uncertain',
+    uncertaintyLevel: 'approximate',
     relatedEvents: ['minoan-beschaving', 'klassieke-griekse-kunst'],
   },
   {
@@ -21469,7 +21469,7 @@ export const historicalEvents: HistoricalEvent[] = [
     end: 1912,
     category: 'leiders',
     region: 'azie',
-    description: 'De Qing-dynastie, gesticht door de Mantsjoes, bereikte zijn hoogtepunt onder Kangxi en Qianlong. China was in de 18e eeuw nog 's werelds grootste economie. De 19e eeuw bracht de Opiumoorlogen, de Taiping-opstand (de bloedigste burgeroorlog in de geschiedenis) en verzwakking door het Westen.',
+    description: 'De Qing-dynastie, gesticht door de Mantsjoes, bereikte zijn hoogtepunt onder Kangxi en Qianlong. China was in de 18e eeuw nog \'s werelds grootste economie. De 19e eeuw bracht de Opiumoorlogen, de Taiping-opstand (de bloedigste burgeroorlog in de geschiedenis) en verzwakking door het Westen.',
     image: '🏮',
     funFacts: [
       'De Taiping-opstand (1850–1864) kostte naar schatting 20–30 miljoen levens – meer dan de Eerste Wereldoorlog – maar is buiten China nauwelijks bekend.',
@@ -25576,7 +25576,7 @@ export const historicalEvents: HistoricalEvent[] = [
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
     relatedEvents: ['rwandese-genocide', 'myanmar-staatsgreep-2021'],
-  },,
+  },
   {
     id: 'stonehenge',
     name: 'Bouw van Stonehenge',

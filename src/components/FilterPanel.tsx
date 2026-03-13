@@ -78,13 +78,6 @@ export default function FilterPanel({ filters, onChange, events, filteredCount }
     return counts;
   }, [events]);
 
-  const regionStats = useMemo(() => {
-    const counts: Record<string, number> = {};
-    for (const reg of ALL_REGIONS) counts[reg] = 0;
-    for (const ev of events) counts[ev.region]++;
-    return counts;
-  }, [events]);
-
   const activeCount = filters.categories.length + filters.regions.length + (filters.searchQuery ? 1 : 0);
 
   return (
