@@ -13920,6 +13920,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Duitsland hoopte dat Lenin Rusland uit de oorlog zou halen, wat hem ook lukte.',
       '"Ze hebben hem in Duitsland als een pestbacil in een bus gestopt" - Winston Churchill.',
+      'Er zaten 32 Russische revolutionairen in de trein, waaronder Lenin\'s vrouw Nadezjda Kroepskaja.',
+      'De trein vertrok op 9 april 1917 vanuit Zürich en arriveerde een week later op het Finland Station in Petrograd.',
+      'Lenin leefde voor zijn treinreis al bijna tien jaar in ballingschap in Zwitserland.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -13937,6 +13940,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De laatste WO1-herstelbetalingen werden door Duitsland voldaan in 2010.',
       'Keynes verliet de vredesconferentie in protest en schreef "The Economic Consequences of the Peace".',
+      'Het verdrag bevatte 440 artikelen en werd ondertekend in de Spiegelzaal van het Paleis van Versailles.',
+      'Duitsland moest in het verdrag de volledige schuld voor de oorlog accepteren via de beruchte Artikel 231.',
+      'De Amerikaanse Senaat weigerde het verdrag te ratificeren, waardoor de VS nooit lid werd van de Volkenbond.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -13954,6 +13960,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Atatürk verbood de fez en promootte Europese hoeden als onderdeel van modernisering.',
       'Hij gaf alle Turken achternamen; zichzelf noemde hij Atatürk ("Vader van de Turken").',
+      'Atatürk verving het Arabische schrift door het Latijnse alfabet in slechts drie maanden tijd.',
+      'Hij gaf vrouwen kiesrecht in 1934, eerder dan in veel Europese landen zoals Frankrijk en Italië.',
+      'De Turkse hoofdstad werd verplaatst van Istanbul naar Ankara om een breuk met het Ottomaanse verleden te markeren.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -13971,6 +13980,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mussolini reisde zelf niet mee maar nam de trein; zijn "mars" was een mythologisering.',
       'Het woord "fascisme" is afgeleid van het Latijnse "fasces", bundel stokken als symbool van eenheid.',
+      'Koning Victor Emanuel III weigerde de noodtoestand uit te roepen en benoemde Mussolini tot premier op 29 oktober 1922.',
+      'Mussolini was voor zijn politieke carrière journalist en hoofdredacteur van de socialistische krant Avanti!.',
+      'Slechts 30.000 fascisten namen deel aan de mars, terwijl het leger hen gemakkelijk had kunnen stoppen.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -13988,6 +14000,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'John Steinbeck beschreef dit in "Of Mice and Men" en "The Grapes of Wrath".',
       'De droogte werd mede veroorzaakt door slechte landbouwpraktijken die de topsoil vernietigden.',
+      'Op "Black Sunday" (14 april 1935) raasde een enorme stofstorm van Canada tot Texas en verduisterde de hemel volledig.',
+      'Fotograaf Dorothea Lange maakte het beroemde portret "Migrant Mother" dat het gezicht van de crisis werd.',
+      'Veel Okies werden in Californië gediscrimineerd en mochten bepaalde steden niet betreden.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -14005,6 +14020,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'FDR\'s beroemde radioradioradiotoespraken ("fireside chats") herstelden het vertrouwen van Amerikanen.',
       'De Social Security Act van 1935 creëerde voor het eerst federale pensioenen in de VS.',
+      'In de eerste honderd dagen van zijn presidentschap ondertekende Roosevelt vijftien grote wetten.',
+      'Het Civilian Conservation Corps (CCC) gaf werk aan drie miljoen jonge mannen in natuurbehoud.',
+      'Roosevelt werd vier keer verkozen tot president, de enige in de Amerikaanse geschiedenis die dat bereikte.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -14022,6 +14040,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De bombardementen van Guernica door de Luftwaffe inspireerden Picasso\'s gelijknamig schilderij.',
       'George Orwell vocht voor de Republiek en beschreef zijn ervaringen in "Homage to Catalonia".',
+      'Ongeveer 35.000 vrijwilligers uit 53 landen vochten in de Internationale Brigades aan republikeinse zijde.',
+      'De Luftwaffe gebruikte Spanje als testgebied voor nieuwe bombardementstactieken die later in WO2 werden ingezet.',
+      'Dictator Francisco Franco bleef na zijn overwinning aan de macht tot zijn dood in 1975.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -14039,6 +14060,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hitlers intocht in Wenen werd door enthousiaste menigten verwelkomd.',
       'De Alliantie aanvaardde de annexatie omdat niemand bereid was te vechten.',
+      'Hitler werd zelf in Oostenrijk geboren, in het stadje Braunau am Inn, vlakbij de Duitse grens.',
+      'Binnen enkele dagen na de Anschluss werden meer dan 70.000 mensen in Wenen gearresteerd.',
+      'Bij een referendum na de annexatie stemde officieel 99,7% voor de eenwording, hoewel het onder dwang plaatsvond.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -14056,6 +14080,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tsjechoslowakije was niet uitgenodigd bij de onderhandelingen over zijn eigen grondgebied.',
       '"Appeasement" is sindsdien synoniem geworden met zwakke capitulatie aan agressors.',
+      'Chamberlain zwaaide bij terugkomst in Londen met het akkoord en verklaarde "peace for our time".',
+      'Zes maanden na het akkoord bezette Hitler de rest van Tsjechoslowakije, waarmee het verdrag waardeloos bleek.',
+      'Winston Churchill noemde het akkoord in het Lagerhuis "een totale en onvermengde nederlaag".',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -14073,6 +14100,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Einstein was in de VS toen Hitler aan de macht kwam; hij keerde nooit terug.',
       'Hij waarschuwde Roosevelt in 1939 voor de mogelijkheid van een nucleaire bom - wat het Manhattan Project startte.',
+      'De nazi\'s zetten een premie van 5.000 dollar op Einsteins hoofd en verbrandden zijn boeken.',
+      'Einstein kreeg in 1940 het Amerikaanse staatsburgerschap en bleef tot zijn dood in 1955 in Princeton.',
+      'Hij werd in 1952 het presidentschap van Israël aangeboden, maar sloeg dit beleefd af.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -14090,6 +14120,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Herzl stierf 44 jaar oud in 1904; hij haalde de stichting van Israël in 1948 niet mee.',
       'Zijn lichaam werd in 1949 herbegraven in Jeruzalem als staatsbegrafenis.',
+      'Het Eerste Zionistisch Congres vond plaats in 1897 in Basel, Zwitserland, met 208 afgevaardigden.',
+      'Herzl schreef in zijn dagboek na het congres: "Over vijftig jaar zal iedereen het inzien" - Israël werd 51 jaar later gesticht.',
+      'De Dreyfus-affaire in Frankrijk, waarbij een Joodse officier vals werd beschuldigd, was voor Herzl de directe aanleiding.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -14107,6 +14140,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De mars begon met 78 mensen en eindigde met tienduizenden volgers.',
       'Time Magazine noemde Gandhi "Man van het Jaar" na de mars.',
+      'De mars duurde 24 dagen, van 12 maart tot 6 april 1930, over een afstand van 388 kilometer.',
+      'Na de mars werden meer dan 60.000 Indiërs gearresteerd voor het illegaal maken van zout.',
+      'Gandhi was 61 jaar oud tijdens de Zoutmars en liep gemiddeld 16 kilometer per dag.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -14124,6 +14160,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "Lange Mars" van 1934-1935 was een terugtrekking van 9.000 km waarbij 80% van de communisten stierf.',
       'Chiang Kai-shek vluchtte met 2 miljoen mensen naar Taiwan waar hij een eigen China stichtte.',
+      'Tijdens de Tweede Wereldoorlog werkten de nationalisten en communisten tijdelijk samen tegen Japan.',
+      'Mao Zedong riep de Volksrepubliek China uit op 1 oktober 1949 vanaf de Poort van de Hemelse Vrede in Beijing.',
+      'De burgeroorlog kostte naar schatting acht miljoen levens, inclusief militairen en burgers.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -14141,6 +14180,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Orson Welles\' "War of the Worlds" in 1938 veroorzaakte paniek door zijn realistisch radiotoneel.',
       'Hitler, Roosevelt en Churchill gebruikten radio als primair politiek communicatiemiddel.',
+      'De eerste commerciële radiostation, KDKA in Pittsburgh, begon met uitzenden op 2 november 1920.',
+      'In 1930 had al 40% van de Amerikaanse huishoudens een radiotoestel in huis.',
+      'De BBC werd opgericht in 1922 en werd het model voor publieke omroepen wereldwijd.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -14158,6 +14200,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste jazzopname was "Livery Stable Blues" door de Original Dixieland Jazz Band in 1917.',
       'Jazz werd aanvankelijk als immoreel en gevaarlijk beschouwd door het blanke establishment.',
+      'Louis Armstrong werd een van de eerste zwarte supersterren en bracht jazz van New Orleans naar de hele wereld.',
+      'De wijk Storyville in New Orleans, het beruchte rode-lichtdistrict, was de bakermat van de vroege jazz.',
+      'Het tijdperk van de jaren twintig werd mede door jazz zo bekend dat het "The Jazz Age" werd genoemd.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -14175,6 +14220,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het geheime protocol verdeelde Polen en de Baltische staten tussen Duitsland en de USSR.',
       'Stalin geloofde niet dat Hitler hem zou aanvallen ondanks alle waarschuwingen.',
+      'Het pact werd op 23 augustus 1939 getekend, slechts een week voor de Duitse inval in Polen.',
+      'Communisten wereldwijd waren geschokt dat de Sovjet-Unie een pact sloot met hun aartsvijand nazi-Duitsland.',
+      'Het geheime protocol werd pas na de oorlog ontdekt toen geallieerde troepen Duitse archieven vonden.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -14192,6 +14240,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"The Jazz Singer" (1927) was de eerste "talkie" (geluidsfilm) en veranderde alles.',
       '"Gone with the Wind" (1939) is gecorrigeerd voor inflatie nog steeds de meest winstgevende film aller tijden.',
+      'Charlie Chaplin was in de jaren twintig de beroemdste persoon ter wereld dankzij zijn stomme films.',
+      'Walt Disney bracht in 1928 "Steamboat Willie" uit, de eerste geluidsanimatie met Mickey Mouse.',
+      'Het studiosysteem van Hollywood controleerde alles: van productie tot distributie en bioscopen.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -14211,6 +14262,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nederland capituleerde in vijf dagen nadat Rotterdam was gebombardeerd als dreigement.',
       'De aanval op België via de Ardennen was totaal verrassend omdat men er onbegaanbaar bos had verondersteld.',
+      'Bij het bombardement op Rotterdam op 14 mei 1940 kwamen ongeveer 900 burgers om het leven en werd het stadscentrum verwoest.',
+      'Duitse parachutisten landden bij de Moerdijkbruggen om de Nederlandse verdedigingslinie te doorbreken.',
+      'Koningin Wilhelmina vluchtte op 13 mei 1940 per schip naar Engeland en leidde van daaruit het verzet.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -14228,6 +14282,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Burgers stuurden hun bootjes - jachtjes, veerponten, vissersschuiten - om soldaten te redden.',
       'Hitler stopte zijn tanks mysterieus twee dagen voordat de evacuatie plaatsvond.',
+      'Operatie Dynamo, zoals de evacuatie officieel heette, redde 338.226 soldaten in negen dagen.',
+      'De Britse regering had aanvankelijk gehoopt op de evacuatie van slechts 45.000 man.',
+      'Ongeveer 40.000 Franse soldaten bleven achter en werden krijgsgevangen gemaakt door de Duitsers.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -14245,6 +14302,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Churchill over de RAF-piloten: "Never in the field of human conflict was so much owed by so many to so few."',
       'Radar, net voor de oorlog uitgevonden, was bepalend voor de Britse overwinning.',
+      'Tijdens de Blitz bombardeerde de Luftwaffe Londen 57 opeenvolgende nachten lang.',
+      'Ongeveer 544 RAF-piloten sneuvelden tijdens de Slag om Engeland, samen met bijna 2.600 Luftwaffe-bemanningsleden.',
+      'Poolse en Tsjechische piloten vormden enkele van de meest effectieve squadrons van de RAF.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -14262,6 +14322,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste weken waren zo succesvol dat Hitler dacht de oorlog al gewonnen te hebben.',
       'De Russische winter en Sovjet-tegenstand maakten van Duitslands oosterkampagne zijn fatale blunder.',
+      'Operatie Barbarossa was vernoemd naar de middeleeuwse keizer Frederik Barbarossa, die ooit ook naar het oosten trok.',
+      'De Duitsers veroverden in de eerste vijf maanden een gebied groter dan heel West-Europa.',
+      'Het Sovjet-leger verloor in de eerste zes maanden meer dan 3,3 miljoen krijgsgevangenen.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -14279,6 +14342,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Churchill: "Before Alamein we never had a victory. After Alamein we never had a defeat."',
       'Rommel, de "Woestijnvos", werd door zijn tegenstanders zo gerespecteerd dat ze uitroepen als "What a general!".',
+      'De slag duurde twaalf dagen en werd uitgevochten in extreme woestijnhitte van meer dan 50 graden.',
+      'Montgomery beschikte over gedecodeerde Duitse berichten dankzij het Britse Ultra-programma.',
+      'Na El Alamein trokken de Asmogendheden zich terug over een afstand van meer dan 2.000 kilometer.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -14296,6 +14362,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De conferentie duurde slechts 90 minuten.',
       'Oorspronkelijk waren 14 exemplaren van het protocol gemaakt; slechts één overleefde de oorlog.',
+      'De conferentie vond plaats in een luxe villa aan de Wannsee, een meer bij Berlijn.',
+      'Adolf Eichmann stelde de notulen op en beschreef de moord op miljoenen mensen in bureaucratische taal.',
+      'De villa is tegenwoordig een herdenkingsmuseum dat jaarlijks door duizenden bezoekers wordt bezocht.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -14313,6 +14382,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nederlandse Engelandvaarders zwommen de Noordzee over om bij de geallieerden te komen.',
       'De Deense bevolking smokkelde bijna alle 7.000 Deense Joden in één nacht naar neutraal Zweden.',
+      'In Nederland verspreidden verzetskranten zoals Het Parool en Trouw illegaal nieuws tijdens de bezetting.',
+      'De Noorse verzetsstrijders saboteerden de zwaar-waterfabriek in Vemork en verhinderden zo de Duitse atoombomproductie.',
+      'Het Franse verzet, de Maquis, groeide van kleine groepjes tot een leger van honderdduizenden strijders.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -14330,6 +14402,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De gehele nep-invasie bij Pas-de-Calais misleidde Hitler weken lang, zodat geen versterkingen werden gestuurd.',
       'Meer dan 4.000 geallieerde soldaten stierven op D-Day; zonder de misleiding hadden de aantallen nog hoger kunnen liggen.',
+      'De invasie werd een dag uitgesteld vanwege slecht weer; meteoroloog James Stagg voorspelde een kort venster van beter weer.',
+      'Er werden meer dan 5.000 schepen en 11.000 vliegtuigen ingezet bij de operatie.',
+      'De geallieerden gebruikten opblaasbare tanks en nepradiocommunicatie om de Duitsers te misleiden over de landingslocatie.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -14347,6 +14422,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hitler beval dat Warschau "tot op de laatste steen" zou worden afgebroken als straf.',
       'Stalin stopte de Sovjet-opmars opzettelijk om de Poolse verzetsleiders te laten elimineren.',
+      'Ongeveer 200.000 Poolse burgers kwamen om tijdens de opstand en de daaropvolgende verwoesting.',
+      'De opstandelingen gebruikten het rioolstelsel van Warschau als ondergronds transportnetwerk.',
+      'Na de opstand werd 85 procent van de gebouwen in Warschau systematisch door de Duitsers verwoest.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -14364,6 +14442,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Anne Frank was 13 jaar oud toen ze haar dagboek begon.',
       'Haar vader Otto was de enige van de acht onderduikers die de oorlog overleefde.',
+      'Het dagboek is vertaald in meer dan 70 talen en er zijn meer dan 30 miljoen exemplaren verkocht.',
+      'Anne droomde ervan journalist of schrijfster te worden en herschreef haar dagboek met publicatie in gedachten.',
+      'Het Achterhuis aan de Prinsengracht 263 in Amsterdam is nu een museum dat jaarlijks meer dan een miljoen bezoekers trekt.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -14381,6 +14462,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Oppenheimer citeerde bij de eerste testontploffing de Bhagavad Gita: "Nu ben ik de Dood geworden, de verwoester van werelden."',
       'Veel wetenschappers die aan het project werkten ondertekenden later petities tegen het gebruik van de bom op steden, maar werden genegeerd.',
+      'De stad Oak Ridge in Tennessee werd speciaal gebouwd voor het project en had op het hoogtepunt 75.000 inwoners.',
+      'De eerste kernproef, Trinity genaamd, smolt het woestijnzand tot een nieuw mineraal dat trinitiet werd genoemd.',
+      'De totale kosten van het Manhattan Project bedroegen omgerekend naar huidige waarde meer dan 30 miljard dollar.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -14398,6 +14482,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Keizer Hirohito sprak voor het eerst in de geschiedenis tot zijn volk via de radio om de capitulatie aan te kondigen.',
       'Sommige Japanse soldaten bleven tot de jaren 1970 vechten in de jungle, niet wetend dat de oorlog voorbij was.',
+      'Een groep Japanse officieren probeerde een coup te plegen om de capitulatie te voorkomen, maar faalde.',
+      'De capitulatie werd formeel ondertekend op het dek van het slagschip USS Missouri in de Baai van Tokio.',
+      'De Japanse bevolking hoorde voor het eerst de stem van hun keizer toen hij de overgave aankondigde.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -14415,6 +14502,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Sovjet-Unie weigerde het Marshallplan voor Oost-Europa.',
       'West-Duitsland, een overwonnen vijand, ontving ook hulp - een ongekende stap in de diplomatieke geschiedenis.',
+      'Het plan was vernoemd naar de Amerikaanse minister van Buitenlandse Zaken George C. Marshall.',
+      'Nederland ontving ongeveer 1,1 miljard dollar aan Marshallhulp, voornamelijk voor industrieel herstel.',
+      'Het Marshallplan wordt beschouwd als een van de meest succesvolle buitenlandse hulpprogramma\'s ooit.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -14432,6 +14522,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Voor het eerst werden "misdaden tegen de menselijkheid" als juridische categorie erkend.',
       'Hermann Göring ontdook de strop door de avond vóór zijn executie cyanide in te nemen.',
+      'De processen werden gehouden in het Paleis van Justitie in Neurenberg, dat wonder boven wonder de bombardementen had overleefd.',
+      'Twaalf van de 24 beklaagden werden ter dood veroordeeld door ophanging.',
+      'De tribunalen legden de basis voor het Internationaal Strafhof dat in 2002 in Den Haag werd opgericht.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -14449,6 +14542,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Japanse grondwet van 1947, geschreven door Amerikaanse officieren, bevat een uniek vredesartikel dat oorlog verbiedt.',
       'Hirohito behield zijn troon als symbool, in ruil voor samenwerking.',
+      'MacArthur stond bekend als de \'ongekoonde keizer\' van Japan vanwege zijn enorme invloed op het dagelijks bestuur.',
+      'Vrouwen kregen voor het eerst stemrecht in Japan dankzij de nieuwe grondwet van 1947.',
+      'De bezetting leidde tot ingrijpende landhervormingen waarbij grootgrondbezitters land moesten afstaan aan boeren.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -14466,6 +14562,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rotterdam was de eerste stad die werd herbouwd met een volledig nieuw stedenbouwkundig plan.',
       'De haven van Rotterdam groeide uit tot de grootste ter wereld dankzij de modernisering.',
+      'Het bombardement van 14 mei 1940 verwoestte het stadscentrum in slechts vijftien minuten.',
+      'Architect Cornelis van Traa ontwierp het beroemde Basisplan voor de wederopbouw van Rotterdam.',
+      'De Lijnbaan, geopend in 1953, was een van de eerste autovrije winkelstraten ter wereld.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -14483,6 +14582,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ouders stuurden hun kinderen weg wetend dat ze hen waarschijnlijk nooit meer zouden zien.',
       'Nicholas Winton redde 669 Tsjechische kinderen; zijn actie werd pas in 1988 publiekelijk bekend.',
+      'Het eerste Kindertransport vertrok op 1 december 1938 vanuit Berlijn naar Harwich in Engeland.',
+      'Veel kinderen werden geplaatst bij gastgezinnen die ze nooit eerder hadden ontmoet.',
+      'Na de oorlog ontdekten veel Kindertransport-kinderen dat hun gehele familie was omgekomen in de Holocaust.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -14500,6 +14602,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De iconische foto van het hijsen van de vlag op Mount Suribachi is een van de meest herkenbare foto\'s uit WO2.',
       'Drie van de zes soldaten op de foto stierven op Iwo Jima.',
+      'Het eiland Iwo Jima was strategisch belangrijk als tussenstop voor Amerikaanse bommenwerpers richting Japan.',
+      'De Japanse verdedigers hadden een netwerk van meer dan 18 kilometer aan tunnels en bunkers gegraven.',
+      'Van de 21.000 Japanse verdedigers werden er slechts 216 krijgsgevangen genomen; de rest sneuvelde.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -14517,6 +14622,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Truman vernam van het Manhattan Project pas na het overlijden van Roosevelt.',
       'Sommige historici stellen dat de Sovjet-inval in Mantsjoerije meer bijdroeg aan de Japanse capitulatie dan de bommen.',
+      'De stad Kyoto stond oorspronkelijk op de doelwitlijst maar werd geschrapt vanwege haar culturele en religieuze betekenis.',
+      'Truman was slechts 82 dagen president toen hij de beslissing over de bom moest nemen.',
+      'Een derde bom was in productie en zou binnen een week klaar zijn geweest als Japan niet had gecapituleerd.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -14534,6 +14642,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Roosevelt was terminaal ziek tijdens Yalta; hij stierf 66 dagen later.',
       'Churchill tekende op een servetje een deal met Stalin over de Balkan: 90% Sovjet-invloed in Roemenië etc.',
+      'De conferentie duurde acht dagen en vond plaats in het voormalige tsarenpaleis van Livadia op de Krim.',
+      'Stalin eiste dat Polen\'s grenzen naar het westen zouden verschuiven, wat miljoenen Duitsers dwong te vluchten.',
+      'De afspraken over de oprichting van de Verenigde Naties werden ook in Yalta gemaakt.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -14551,6 +14662,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze verloren nooit een bommenwerper die ze escorteerden in hun vechtmissies.',
       'President Truman desegregeerde het leger in 1948, mede door hun prestaties.',
+      'De Tuskegee Airmen vlogen meer dan 15.000 missies tijdens de Tweede Wereldoorlog.',
+      'Ze werden opgeleid op het Tuskegee Army Air Field in Alabama, een van de weinige bases voor zwarte piloten.',
+      'In 2007 ontvingen de overlevende Tuskegee Airmen gezamenlijk de Congressional Gold Medal van het Amerikaanse Congres.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -14568,6 +14682,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Generaal MacArthur\'s strategie sloeg eilanden over en isoleerde 135.000 Japanse soldaten van aanvoer.',
       'De strategie betekende dat sommige Japanse garnizoenen de oorlog overleefden maar nutteloos waren geworden.',
+      'De slag om Guadalcanal in 1942 was het eerste grote geallieerde offensief in de Stille Oceaan.',
+      'Navajo-indianen werden ingezet als codetalkers omdat hun taal door de Japanners niet kon worden gekraakt.',
+      'De verovering van de Marianen-eilanden bracht Japan binnen bereik van Amerikaanse B-29 bommenwerpers.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -14587,6 +14704,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Truman Doctrine begon specifiek met hulp aan Griekenland en Turkije.',
       'Ze was de intellectuele basis voor de Amerikaanse betrokkenheid in Vietnam, Korea en Iran.',
+      'De doctrine werd aangekondigd in een toespraak tot het Congres op 12 maart 1947.',
+      'De VS gaf 400 miljoen dollar aan militaire en economische hulp aan Griekenland en Turkije.',
+      'De Truman Doctrine markeerde het officieuze begin van de Koude Oorlog als Amerikaans buitenlands beleid.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
