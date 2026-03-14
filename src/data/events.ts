@@ -15526,6 +15526,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Demonstranten protesteerden met de drie-vingersalut, geleend uit de Hongse romans "Hunger Games".',
       'Suu Kyi werd gearresteerd en veroordeeld tot in totaal 27 jaar gevangenisstraf.',
+      'Burgers gebruikten potten en pannen om \'s nachts lawaai te maken als stil protest tegen het leger.',
+      'Het Myanmarese leger, de Tatmadaw, heeft sinds 1962 al drie staatsgrepen gepleegd.',
+      'Artsen en verpleegkundigen legden massaal het werk neer in een van de grootste stakingen uit Myanmar\'s geschiedenis.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -15543,6 +15546,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De commissie koos voor waarheid boven vervolging: amnestie in ruil voor volledige bekentenis.',
       'Het model werd gekopieerd in meer dan 40 landen wereldwijd.',
+      'Desmond Tutu huilde openlijk tijdens getuigenissen van slachtoffers, wat de emotionele impact van de hoorzittingen onderstreepte.',
+      'De commissie ontving meer dan 21.000 verklaringen van slachtoffers en hoorde 2.000 getuigen persoonlijk.',
+      'Slechts 1.500 van de 7.000 amnestieaanvragen werden daadwerkelijk toegekend door de commissie.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -15562,6 +15568,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Elvis Presley\'s gyrerendes heupen werden gecensureerd op tv; hij mocht alleen van boven de gordel worden gefilmd.',
       'Rock-\'n-roll werd door conservatieven als "satanisch" en "een communistisch complot" beschouwd.',
+      'Chuck Berry\'s "Johnny B. Goode" uit 1958 werd meegestuurd op de Voyager-ruimtesonde als voorbeeld van aardse muziek.',
+      'Little Richard nam "Tutti Frutti" op in slechts 15 minuten tijdens een lunchpauze in een studio in New Orleans.',
+      'De term "rock and roll" was oorspronkelijk Afro-Amerikaans slang en werd gepopulariseerd door radio-dj Alan Freed.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -15579,6 +15588,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Beatles landden in New York in 1964 voor 73 miljoen tv-kijkers - een kwart van alle Amerikanen.',
       'Paul McCartney schreef "Yesterday" in zijn droom; hij controleerde maandenlang of iemand anders het al had geschreven.',
+      'Het album "Sgt. Pepper\'s Lonely Hearts Club Band" duurde 700 uur om op te nemen, tegenover 10 uur voor hun eerste album.',
+      'John Lennon\'s uitspraak dat de Beatles "populairder dan Jezus" waren leidde tot platenverbrandingen in de Amerikaanse Bible Belt.',
+      'De Beatles werden in 1962 afgewezen door Decca Records met de woorden: "Gitaargroepen zijn uit de mode."',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -15596,6 +15608,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De BH-verbranding bij Miss America 1968 – het iconische beeld van het feminisme – vond nooit echt plaats; niemand verbrandde daadwerkelijk een BH, maar het verhaal bleef hangen.',
       'Betty Friedan interviewde universitair opgeleide vrouwen over hun tevredenheid; het verborgene ongeluk van "gelukkige huisvrouwen" was het "probleem zonder naam".',
+      'In 1972 werd Title IX aangenomen, waardoor vrouwen gelijke toegang kregen tot sport en onderwijs in de VS.',
+      'Gloria Steinem richtte Ms. Magazine op in 1972, het eerste landelijke feministische tijdschrift in de VS.',
+      'De pil werd in 1960 goedgekeurd en gaf vrouwen voor het eerst volledige controle over hun vruchtbaarheid.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -15613,6 +15628,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Marsha P. Johnson en Sylvia Rivera, twee transgender vrouwen van kleur, worden beschouwd als centrale figuren in de Stonewall-rellen.',
       'Homoseksualiteit werd pas in 1973 door de American Psychiatric Association verwijderd uit de lijst van mentale stoornissen – vier jaar na Stonewall.',
+      'De Stonewall Inn was eigendom van de maffia, die homo\'s uitbuitte omdat legale bars hen weigerden te bedienen.',
+      'Nederland werd in 2001 het eerste land ter wereld dat het huwelijk openstelde voor paren van hetzelfde geslacht.',
+      'De regenboogvlag werd in 1978 ontworpen door Gilbert Baker op verzoek van Harvey Milk, de eerste openlijk homoseksuele gekozen politicus in Californie.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -15630,6 +15648,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Steve Jobs en Bill Gates bezochten beiden het Xerox PARC lab en namen de GUI-idee mee.',
       'IBM maakte zijn PC-architectuur open, waardoor klonen mogelijk werden maar ook zijn dominantie ondermijnde.',
+      'De eerste Apple-computer werd gebouwd in de garage van Steve Jobs\' ouders in 1976.',
+      'Bill Gates schreef zijn eerste programma op 13-jarige leeftijd: een boter-kaas-en-eieren-spel.',
+      'De Commodore 64, uitgebracht in 1982, werd met 17 miljoen verkochte exemplaren de bestverkochte thuiscomputer ooit.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -15647,6 +15668,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het eerste muziekvideo dat op MTV werd getoond was "Video Killed the Radio Star" van The Buggles.',
       'Michael Jackson\'s "Thriller" (1983) transformeerde de muziekvideo tot een kunstvorm.',
+      'MTV weigerde aanvankelijk video\'s van zwarte artiesten te draaien totdat CBS dreigde alle video\'s in te trekken.',
+      'De zender begon op 1 augustus 1981 om 00:01 uur en bereikte aanvankelijk slechts 2,1 miljoen huishoudens.',
+      'Madonna\'s "Like a Virgin"-optreden op de eerste MTV Video Music Awards in 1984 werd een van de meest iconische tv-momenten ooit.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -15664,6 +15688,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het project kostte $3 miljard; vandaag kan een volledig genoom worden gesekwenst voor $100.',
       'Tegen verwachting bleek de mens slechts 20.000-25.000 genen te hebben, minder dan sommige planten.',
+      'Craig Venter daagde het publieke project uit met zijn eigen snellere methode, wat leidde tot een race om het genoom.',
+      'Mensen delen 98,7% van hun DNA met chimpansees en zelfs 60% met een bananenvlieg.',
+      'Het menselijk genoom bevat ongeveer 3 miljard basenparen, maar slechts 1,5% daarvan codeert daadwerkelijk voor eiwitten.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -15681,6 +15708,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Google is afgeleid van "googol", een getal met 100 nullen - een verwijzing naar de vastberadenheid informatie te ordenen.',
       'Google maakte $0 in zijn eerste twee jaar; Page en Brin wilden het meerdere keren verkopen.',
+      'De eerste Google-server was gebouwd van Lego-blokken om de harde schijven te huisvesten.',
+      'Google\'s beroemde "Don\'t be evil"-motto werd in 2015 vervangen door "Do the right thing" bij de oprichting van Alphabet.',
+      'Yahoo had de kans om Google in 2002 te kopen voor $1 miljard, maar sloeg het aanbod af.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -15698,6 +15728,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nokia, de marktleider, lachte de iPhone weg: "Waarom zou iemand een computer in zijn zak willen?"',
       'Binnen 7 jaar was de smartphone de snelst geadopteerde technologie in de menselijke geschiedenis.',
+      'Steve Jobs presenteerde de iPhone met een nep-demo; het toestel crashte voortdurend achter de schermen.',
+      'De eerste iPhone had geen App Store; die kwam pas een jaar later in 2008.',
+      'Apple verkocht in het eerste weekend 270.000 iPhones, ondanks een prijs van $499.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -15715,6 +15748,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mark Zuckerberg begon Facebook als "Hot or Not" voor Harvard-studenten.',
       'Facebook had na 5 jaar meer gebruikers dan de gehele bevolking van de VS.',
+      'Het eerste Twitter-bericht ooit was van oprichter Jack Dorsey: "just setting up my twttr" in maart 2006.',
+      'YouTube\'s eerste video, "Me at the zoo", duurde slechts 18 seconden en werd geupload op 23 april 2005.',
+      'Facebook\'s IPO in 2012 was met $104 miljard de grootste technologie-beursgang in de geschiedenis op dat moment.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -15732,6 +15768,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "Collateral Murder"-video toonde hoe Amerikaans militair Irakese burgers vermoordde.',
       'Assange verblijft ruim 10 jaar in de Ecuadoriaanse ambassade en een Britse gevangenis.',
+      'Chelsea Manning, de bron van de lekken, werd veroordeeld tot 35 jaar maar kreeg gratie van president Obama in 2017.',
+      'WikiLeaks publiceerde meer dan 250.000 geheime Amerikaanse diplomatieke telegrammen in een keer.',
+      'De site werd opgericht in 2006 en ontving aanvankelijk documenten over corruptie in Kenia.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -15749,6 +15788,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een Chinees wetenschapper gebruikte CRISPR in 2018 al op menselijke embryo\'s, tot wereldwijde verontwaardiging.',
       'Doudna en Charpentier wonnen de Nobelprijs voor Scheikunde in 2020.',
+      'CRISPR staat voor "Clustered Regularly Interspaced Short Palindromic Repeats" en werd ontdekt in bacterien.',
+      'He Jiankui, de Chinese wetenschapper, werd veroordeeld tot drie jaar gevangenisstraf voor zijn experimenten.',
+      'CRISPR-therapie werd in 2023 voor het eerst goedgekeurd als behandeling voor sikkelcelziekte.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -15766,6 +15808,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Netflix begon als DVD-postdienst; Blockbuster weigerde het in 2000 voor $50 miljoen te kopen.',
       '"House of Cards" (2013) was de eerste serie die al zijn seizoensepisodes tegelijk uitbracht.',
+      'Reed Hastings kreeg het idee voor Netflix nadat hij $40 boete moest betalen voor een te laat teruggebrachte VHS van Apollo 13.',
+      'Netflix gebruikte een algoritme dat $1 miljoen waard was om kijkersvoorkeuren te voorspellen.',
+      'Blockbuster ging in 2010 failliet; er bestaat nog slechts een enkele vestiging in Bend, Oregon.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -15783,6 +15828,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De detectie meet een variatie van 1/1000e van de diameter van een proton.',
       'De golven hadden 1,3 miljard jaar gereisd voordat ze werden gedetecteerd.',
+      'LIGO\'s twee detectoren staan 3.000 kilometer uit elkaar om valse signalen uit te sluiten.',
+      'Kip Thorne, Rainer Weiss en Barry Barish ontvingen de Nobelprijs voor Natuurkunde in 2017 voor de ontdekking.',
+      'Einstein zelf twijfelde eraan of zwaartekrachtsgolven ooit gedetecteerd zouden kunnen worden.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -15800,6 +15848,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Tesla Roadster bewees dat elektrische auto\'s sportwagens kunnen zijn.',
       'Traditionele autofabrikanten kondigden miljarden aan EV-investeringen aan nadat Tesla hun marktwaarde oversteeg.',
+      'Tesla was in 2020 kort het meest waardevolle autobedrijf ter wereld, meer waard dan Toyota, Volkswagen en GM samen.',
+      'Elon Musk was niet de oprichter van Tesla; hij investeerde vroeg en werd later CEO na een machtsstrijd.',
+      'Noorwegen werd het eerste land waar meer dan de helft van alle nieuw verkochte auto\'s elektrisch was.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -15817,6 +15868,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'SpaceX lanceerde en landde de eerste herbruikbare raket in 2015 - iets NASA nooit had gedaan.',
       'De Falcon 9-raket heeft zijn booster al meer dan 15 keer hergebruikt.',
+      'SpaceX\'s eerste drie raketlanceringen mislukten; het bedrijf had nog geld voor slechts een vierde poging, die slaagde.',
+      'In 2020 werd SpaceX het eerste private bedrijf dat astronauten naar het ISS bracht.',
+      'Elon Musk lanceerde zijn persoonlijke Tesla Roadster met een ruimtepak-pop genaamd "Starman" de ruimte in.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -15834,6 +15888,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De hashtag was al in 2006 door activiste Tarana Burke gebruikt voor zwarte vrouwen.',
       'Harvey Weinstein werd in 2020 veroordeeld tot 23 jaar gevangenis.',
+      'Binnen 24 uur na Alyssa Milano\'s tweet gebruikten 4,7 miljoen mensen de hashtag #MeToo op Facebook.',
+      'De beweging leidde tot het ontslag of aftreden van honderden machtige mannen in entertainment, politiek en media.',
+      'Time Magazine koos "The Silence Breakers" als Person of the Year 2017 als eerbetoon aan de beweging.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -15851,6 +15908,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Go heeft meer mogelijke posities dan atomen in het universum.',
       'AlphaGo leerde het spel door te kijken naar menselijke partijen en vervolgens tegen zichzelf te spelen.',
+      'Tegenstander Lee Sedol beschreef zet 37 in game 2 als "onmenselijk mooi" - geen menselijke speler zou hem ooit hebben bedacht.',
+      'AlphaGo\'s opvolger AlphaZero leerde zichzelf schaken, Go en shogi in slechts 24 uur zonder menselijke kennis.',
+      'Lee Sedol stopte in 2019 met professioneel Go omdat hij vond dat AI "niet te verslaan" was.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -15868,6 +15928,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Katalin Karikó, de wetenschapster die het mRNA-onderzoek decennia lang aandreef, werd stelselmatig afgewezen voor beurzen.',
       'De vaccins werden in minder dan een jaar ontwikkeld; normaal duurt dit 10-15 jaar.',
+      'Het Pfizer-vaccin moest bewaard worden bij -70°C, wat een enorme logistieke uitdaging vormde voor ontwikkelingslanden.',
+      'Karikó en Drew Weissman ontvingen in 2023 de Nobelprijs voor Fysiologie of Geneeskunde voor hun mRNA-doorbraak.',
+      'Binnen een jaar na de lancering werden wereldwijd meer dan 10 miljard vaccindoses toegediend.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -15885,6 +15948,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Webb is zo gevoelig dat hij een bij op de maan zou kunnen detecteren.',
       'De eerste vrijgegeven foto\'s toonden melkwegstelsels uit slechts 600 miljoen jaar na de Big Bang.',
+      'Het project kostte uiteindelijk $10 miljard en duurde 25 jaar langer dan gepland.',
+      'Webb draait in een baan rond het L2-punt, 1,5 miljoen kilometer van de aarde, en kan niet gerepareerd worden.',
+      'De spiegel van Webb bestaat uit 18 zeshoekige segmenten van verguld beryllium en heeft een diameter van 6,5 meter.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -15902,6 +15968,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ChatGPT haalde in twee maanden wat Instagram in twee jaar en TikTok in negen maanden deed.',
       'Bill Gates: "De uitvinding van ChatGPT is net zo belangrijk als de pc of het internet."',
+      'Italië blokkeerde ChatGPT tijdelijk vanwege privacyzorgen, als eerste Europees land.',
+      'OpenAI werd opgericht als non-profit in 2015, maar schakelde later over naar een winstgevend model.',
+      'Na de lancering van ChatGPT steeg de zoekterm "AI" op Google met meer dan 900%.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -15919,6 +15988,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De identiteit van Satoshi Nakamoto is tot op heden onbekend.',
       'In 2010 kocht iemand twee pizza\'s voor 10.000 Bitcoin - nu meer dan $600 miljoen waard.',
+      'Het Bitcoin-netwerk verbruikt jaarlijks meer elektriciteit dan sommige landen, waaronder Noorwegen.',
+      'Er kunnen maximaal 21 miljoen Bitcoins bestaan; naar schatting zijn 4 miljoen voorgoed verloren door vergeten wachtwoorden.',
+      'De eerste commerciele Bitcoin-transactie was die twee pizza\'s op 22 mei 2010, nu gevierd als "Bitcoin Pizza Day".',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -15938,6 +16010,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Vlucht 93 stortte neer in Pennsylvania doordat passagiers ingrepen; het beoogde doel was vermoedelijk het Capitool.',
       'Bush\'s goedkeuringsrating schoot na de aanslagen naar 90%; het hoogste ooit gemeten voor een president.',
+      'De aanslagen leidden direct tot de oprichting van het Department of Homeland Security, de grootste overheidsreorganisatie in de VS sinds 1947.',
+      'Ground Zero brandde nog 99 dagen na de aanslagen; de puinhopen werden pas in mei 2002 volledig opgeruimd.',
+      'Meer dan 400 hulpverleners, waaronder 343 brandweerlieden, kwamen om bij de reddingsoperaties.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -15955,6 +16030,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De arme, overwegend zwarte Lower Ninth Ward was het meest getroffen en minst geholpen.',
       'Meer dan 1.800 mensen stierven; 80% van New Orleans stond onder water.',
+      'De totale schade van Katrina werd geschat op $125 miljard, waarmee het destijds de duurste natuurramp in de Amerikaanse geschiedenis was.',
+      'Het Superdome, bedoeld als noodopvang voor 800 mensen, herbergde uiteindelijk meer dan 20.000 geëvacueerden.',
+      'Tien jaar na Katrina was de bevolking van New Orleans nog steeds 20% kleiner dan voor de orkaan.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -15972,6 +16050,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Obama won ook de Nobelprijs voor de Vrede in 2009, slechts 9 maanden na zijn inauguratie.',
       'Zijn ouders kwamen uit Kansas en Kenia; hij groeide deels op in Hawaï.',
+      'Obama\'s verkiezingscampagne in 2008 was de eerste die sociale media op grote schaal inzette voor fondsenwerving en mobilisatie.',
+      'Bij zijn inauguratie waren naar schatting 1,8 miljoen mensen aanwezig op de National Mall, een record.',
+      'Obama was de eerste president die openlijk het homohuwelijk steunde terwijl hij in functie was.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -15989,6 +16070,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Griekenlands schuld was 180% van zijn BNP; normaal is 60% al hoog.',
       'De EU hanteerde triple "Troika" toezicht: ECB, IMF en Europese Commissie samen.',
+      'De Griekse jeugdwerkloosheid bereikte 60% in 2013, de hoogste in de EU.',
+      'Griekenland hield in 2015 een referendum over het bezuinigingspakket; 61% stemde tegen, maar premier Tsipras accepteerde de voorwaarden toch.',
+      'De crisis onthulde dat Griekenland jarenlang economische cijfers had vervalst om tot de eurozone toe te treden.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -16006,6 +16090,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Syrische burgeroorlog genereerde de grootste vluchtelingencrisis in de wereld; Libanon, het kleinste buurland, nam per hoofd meer vluchtelingen op dan enig ander land ter wereld.',
       'IS gebruikte sociale media voor rekrutering op een geavanceerde manier die overheden verraste; zij verspreidden hun boodschap in 23 talen.',
+      'Het historische Aleppo, een UNESCO-werelderfgoedlocatie met duizenden jaren geschiedenis, werd grotendeels verwoest.',
+      'Het Assad-regime gebruikte chemische wapens tegen burgers, waaronder de aanval op Ghouta in 2013 waarbij honderden stierven.',
+      'Meer dan de helft van alle Syrische ziekenhuizen werd tijdens de oorlog beschadigd of verwoest.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -16023,6 +16110,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ISIS had op zijn hoogtepunt meer dan 30.000 strijders, waaronder 5.000 buitenlandse jihadisten.',
       'De territoriale val van ISIS begon in 2017 na een internationale coalitie; de terroristische dreiging bleef.',
+      'ISIS vernietigde bewust archeologische schatten zoals de oude stad Palmyra en het museum van Mosul.',
+      'De groep financierde zichzelf met olieverkoop, belastingen en losgeld; op het hoogtepunt verdiende ISIS naar schatting $3 miljoen per dag.',
+      'Meer dan 40 landen namen deel aan de internationale coalitie tegen ISIS, de grootste militaire coalitie sinds de Golfoorlog.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -16040,6 +16130,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Krim-annexatie verbrak het Boedapest-memorandum waarbij Oekraïne zijn kernwapens had afgestaan in ruil voor veiligheidsgaranties.',
       'De EU en VS reageerden met sancties maar geen militaire actie.',
+      'Het referendum op de Krim, gehouden onder Russische militaire bezetting, meldde 97% steun voor aansluiting bij Rusland.',
+      'De Euromaidan-protesten begonnen toen president Janoekovitsj een associatieovereenkomst met de EU afwees ten gunste van Rusland.',
+      'Meer dan 100 demonstranten werden gedood door sluipschutters op het Maidanplein in februari 2014.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -16057,6 +16150,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Oekraïne ontving meer dan $100 miljard aan westerse militaire steun in het eerste jaar.',
       'De sancties tegen Rusland waren de omvangrijkste ooit opgelegd aan een G8-land.',
+      'Rusland had verwacht Kiev binnen 72 uur in te nemen, maar de Oekraïense weerstand verijdelde dit plan.',
+      'De invasie veroorzaakte een wereldwijde voedselcrisis doordat Oekraïne een van \'s werelds grootste graanexporteurs is.',
+      'President Zelensky weigerde een Amerikaans evacuatieaanbod met de woorden: "Ik heb munitie nodig, geen rit."',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'approximate',
@@ -16074,6 +16170,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS gaf $2 biljoen uit aan 20 jaar oorlog in Afghanistan.',
       'De Taliban herstelde zijn regime in weken; de Afghaanse staatsstructuur stortte onmiddellijk ineen.',
+      'Tijdens de chaotische evacuatie van Kabul klampten wanhopige Afghanen zich vast aan opstijgende vliegtuigen.',
+      'De VS evacueerde in twee weken meer dan 120.000 mensen via de luchthaven van Kabul, de grootste luchtbrug sinds de Berlijnse luchtbrug.',
+      'Een zelfmoordaanslag bij de luchthaven op 26 augustus 2021 doodde 13 Amerikaanse militairen en meer dan 170 Afghaanse burgers.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -16091,6 +16190,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Xi Jinping laat zich "Xi Dada" (Oom Xi) noemen in staatsmedia.',
       'Zijn "Xiisme" is nu verplichte leerstof in Chinese scholen.',
+      'Xi\'s anti-corruptiecampagne strafte meer dan 1,5 miljoen functionarissen, maar critici zien het ook als een manier om politieke rivalen uit te schakelen.',
+      'In 2018 liet Xi de grondwettelijke termijnlimiet voor het presidentschap schrappen, waardoor hij in theorie levenslang kan regeren.',
+      'Winnie de Poeh werd in China gecensureerd nadat internetgebruikers de beer vergeleken met Xi Jinping.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -16108,6 +16210,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'India en China verzwakten op het laatste moment de formulering over uitfasering van steenkool.',
       'De wetenschap is duidelijk: de aarde is al 1,1°C warmer dan pre-industrieel niveau.',
+      'Meer dan 120 landen beloofden op COP26 om de ontbossing tegen 2030 te stoppen.',
+      'Het Glasgows klimaatpact was het eerste VN-klimaatakkoord dat expliciet verwees naar fossiele brandstoffen.',
+      'Kleine eilandstaten waarschuwden dat 1,5°C opwarming al een existentiële bedreiging voor hen vormt door zeespiegelstijging.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -16125,6 +16230,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De slogaan "Vrouw, Leven, Vrijheid" werd het symbool van de beweging.',
       'Duizenden demonstranten werden gearresteerd; meer dan 500 stierven bij de repressie.',
+      'Mahsa Amini was gearresteerd omdat ze haar hijab niet "correct" droeg; drie dagen later overleed ze in hechtenis.',
+      'Iraanse vrouwen knipten publiekelijk hun haar af als protestsymbool, een gebaar dat wereldwijd werd overgenomen.',
+      'Het Iraanse regime schakelde het internet wekenlang uit om de protestbeweging te onderdrukken.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -16142,6 +16250,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Onderzoeken door VS, Zweden en Duitsland wezen in verschillende richtingen; de dader is officieel nog onbekend.',
       'Investigatief journalist Seymour Hersh beweerde de VS verantwoordelijk was, wat de VS ontkende.',
+      'De explosies werden geregistreerd door seismografen in Scandinavië als aardbevingen met een magnitude van 2,1 en 2,3.',
+      'De pijpleidingen bevatten op het moment van de explosies 800 miljoen kubieke meter aardgas.',
+      'De sabotage leidde tot een van de grootste methaanlekken ooit gemeten, zichtbaar vanuit de ruimte.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -16159,6 +16270,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Hamas-aanval was de dodelijkste dag voor joden sinds de Holocaust.',
       'De oorlog ontketende wereldwijd massale protesten voor en tegen beide partijen.',
+      'Hamas nam meer dan 240 gijzelaars mee naar Gaza, waaronder kinderen en bejaarden.',
+      'Het Internationaal Gerechtshof in Den Haag opende een onderzoek naar mogelijke genocide in Gaza.',
+      'De aanval vond plaats op de Joodse feestdag Simchat Torah, toen veel Israëlische soldaten verlof hadden.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'approximate',
@@ -16176,6 +16290,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De wet classificeert AI-toepassingen in risiconiveaus: hoog-risico AI vereist strikte controles.',
       'Bedrijven die de wet overtreden riskeren boetes van 7% van hun wereldwijde omzet.',
+      'De wet verbiedt social scoring door overheden, vergelijkbaar met het Chinese sociaal kredietsysteem.',
+      'Het wetgevingsproces duurde drie jaar en werd versneld door de opkomst van ChatGPT in 2022.',
+      'De EU AI Act geldt als het "Brussel-effect": bedrijven wereldwijd passen hun AI-systemen aan om aan de Europese eisen te voldoen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -16193,6 +16310,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'China beschouwt Taiwan als een afvallige provincie; Taiwan beschouwt zichzelf als onafhankelijke democratie.',
       'TSMC in Taiwan produceert meer dan 90% van \'s werelds meest geavanceerde microchips.',
+      'Nancy Pelosi\'s bezoek aan Taiwan in augustus 2022 leidde tot de grootste Chinese militaire oefeningen rond het eiland ooit.',
+      'Taiwan wordt slechts door 13 landen officieel erkend als onafhankelijke staat, maar onderhoudt informele banden met tientallen landen.',
+      'Een Chinese blokkade van Taiwan zou de wereldwijde chipproductie lamleggen en naar schatting $2 biljoen aan economische schade veroorzaken.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
