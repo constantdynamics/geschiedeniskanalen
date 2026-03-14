@@ -18140,6 +18140,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze werd jarenlang gemarteld en gevangen door de Moi-dictatuur in Kenia.',
       'Haar beweging verbond vrouwenemancipatie, democratie en milieubescherming.',
+      'Maathai was de eerste vrouw in Oost- en Centraal-Afrika die een doctoraat behaalde.',
+      'De Green Belt Movement heeft inmiddels meer dan 51 miljoen bomen geplant in heel Kenia.',
+      'Ze werd in 2004 de eerste Afrikaanse vrouw die de Nobelprijs voor de Vrede ontving.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -18159,6 +18162,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In het gebied rond Verdun zijn tot op vandaag nog steeds explosieven en resten van gevallenen te vinden in de "Zone Rouge".',
       'Soldaten roteerden elke 6 weken in Verdun; uiteindelijk passeerde 70% van het Franse leger het front.',
+      'Het Ossuarium van Douaumont bevat de resten van 130.000 ongeïdentificeerde Franse en Duitse soldaten.',
+      'De Voie Sacrée was de enige bevoorradingsweg naar Verdun; dagelijks reden er 6.000 vrachtwagens overheen.',
+      'De Duitse aanval op Verdun begon op 21 februari 1916 met een bombardement van meer dan 1 miljoen granaten in 10 uur.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -18176,6 +18182,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De tanks werden voor het eerst in de geschiedenis ingezet tijdens de Slag bij de Somme in september 1916.',
       'De totale verliezen van beide zijden bedroegen meer dan een miljoen man gesneuveld of gewond.',
+      'Op de eerste dag van de slag, 1 juli 1916, vielen 57.470 Britse slachtoffers – het grootste verlies op één dag in de Britse militaire geschiedenis.',
+      'J.R.R. Tolkien vocht bij de Somme; zijn ervaringen beïnvloedden de duistere landschappen in "In de Ban van de Ring".',
+      'Het slagveld van de Somme is nog steeds bezaaid met kraters die zichtbaar zijn vanuit de lucht.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -18193,6 +18202,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In de uren voor de wapenstilstand vielen nog duizenden slachtoffers, terwijl beide zijden wisten dat het einde nabij was.',
       'De treinwagon waarin de wapenstilstand werd getekend werd door Hitler in 1940 naar dezelfde plek gebracht om de Franse capitulatie te ontvangen.',
+      'De laatste soldaat die sneuvelde was de Amerikaan Henry Gunther, om 10:59 uur – één minuut voor de wapenstilstand.',
+      'De Eerste Wereldoorlog kostte naar schatting 17 miljoen levens en liet 20 miljoen gewonden achter.',
+      'De klaproos werd het herdenkingssymbool dankzij het gedicht "In Flanders Fields" van John McCrae.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -18210,6 +18222,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Operatie Barbarossa omvatte 3,8 miljoen Asmacht-soldaten, 3.350 tanks en 2.770 vliegtuigen op één dag.',
       'De codename verwees naar keizer Friedrich Barbarossa die in 1190 op kruistocht stierf; Hitler zag zichzelf als diens opvolger.',
+      'Stalin negeerde meer dan 80 waarschuwingen van spionnen en diplomaten dat Duitsland zou aanvallen.',
+      'De Sovjet-Unie verloor in de eerste drie weken 600.000 krijgsgevangenen en duizenden vliegtuigen op de grond.',
+      'De invasie begon op 22 juni 1941, bijna exact 129 jaar na Napoleons invasie van Rusland in 1812.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -18227,6 +18242,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tijdens de gevechten in de fabriekshallen waren de strijdende partijen soms slechts enkele meters van elkaar verwijderd.',
       'Generaal Paulus werd de eerste veldmaarschalk in de Duitse geschiedenis die zich overgaf; Hitler had verwacht dat hij zelfmoord zou plegen.',
+      'De gemiddelde levensverwachting van een Sovjet-soldaat die in Stalingrad aankwam was minder dan 24 uur.',
+      'Sluipschutter Vasili Zaitsev doodde naar verluidt 225 vijandelijke soldaten tijdens de slag.',
+      'Na de slag werd de stad volledig herbouwd; in 1961 werd Stalingrad hernoemd tot Wolgograd.',
     ],
     popularityScore: 93,
     uncertaintyLevel: 'approximate',
@@ -18244,6 +18262,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De nep-invasie Operatie Fortitude liet de Duitsers geloven dat de echte landing bij Calais zou komen, waardoor cruciale pantserdivisies op de verkeerde plek stonden.',
       'Op Omaha Beach, het bloedigste strand, vielen in de eerste uren meer dan 2.000 Amerikaanse slachtoffers.',
+      'Eisenhower had al een verklaring klaarliggen voor het geval de invasie zou mislukken.',
+      'Meer dan 5.000 schepen en 11.000 vliegtuigen werden ingezet op D-Day, de grootste vloot ooit.',
+      'Het weer was zo slecht dat de Duitsers dachten dat een invasie onmogelijk was, waardoor Rommel op verlof ging.',
     ],
     popularityScore: 95,
     uncertaintyLevel: 'exact',
@@ -18261,6 +18282,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Amerikaanse soldaten omsingeld in Bastogne weigerden zich over te geven; generaal McAuliffe antwoordde op het ultimatum met slechts: "Nuts!"',
       'De slag was de bloedigste van de hele Tweede Wereldoorlog voor de Amerikanen, met meer dan 75.000 slachtoffers in zes weken.',
+      'Duitse commando\'s verkleed als Amerikaanse soldaten zaaide verwarring achter de linies tijdens Operatie Greif.',
+      'Pattons Derde Leger draaide 90 graden en legde 160 kilometer af in 48 uur om Bastogne te ontzetten.',
+      'De extreme kou van de winter van 1944-1945 veroorzaakte bijna evenveel slachtoffers als de gevechten zelf.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -18278,6 +18302,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het iconische beeld van Sovjet-soldaten die de vlag op de Reichstag planten werd voor de foto licht geregisseerd en opnieuw gefotografeerd.',
       'Berlijn werd in vier bezettingszones verdeeld: Amerikaans, Brits, Frans en Sovjet – de directe kiem van de latere Berlijnse Muur.',
+      'Tijdens de Slag om Berlijn werden meer dan een miljoen granaten op de stad afgevuurd, waardoor grote delen van het centrum volledig in puin lagen.',
+      'De Berlijnse dierentuin werd zwaar getroffen; slechts 91 van de 3.715 dieren overleefden de gevechten om de stad.',
+      'De Sovjet-generaal Zjoekov liet 143 zoeklichten op de Duitse linies richten bij de aanval op de Seelowse Hoogten, maar het stof en de rook maakten ze contraproductief.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -18295,6 +18322,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tsutomu Yamaguchi overleefde beide atoombomaanvallen: hij was in Hiroshima op 6 augustus en keerde terug naar zijn woonplaats Nagasaki net voor de tweede bom.',
       'De schaduwen van mensen werden letterlijk in de stenen gebrand door de hitte van de explosie, als een griezelig silhouet.',
+      'De stad Kokura was het oorspronkelijke doelwit voor de tweede bom, maar wolken dwongen de piloot uit te wijken naar Nagasaki.',
+      'De Enola Gay, het vliegtuig dat de bom op Hiroshima liet vallen, was vernoemd naar de moeder van piloot Paul Tibbets.',
+      'In Hiroshima stopten alle klokken op 8:15 uur, het exacte tijdstip van de explosie, en veel worden nog steeds als monument bewaard.',
     ],
     popularityScore: 96,
     uncertaintyLevel: 'exact',
@@ -18312,6 +18342,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Herman Göring slaagde erin zichzelf te vergiftigen met cyanide op de avond voor zijn executie, waardoor hij de beul te slim af was.',
       'De processen introduceerden het concept "misdaden tegen de mensheid" als juridische categorie, wat het fundament legde voor latere oorlogstribunalen.',
+      'Voor het eerst in de geschiedenis werden simultaanvertalingen gebruikt in een rechtszaal, in vier talen: Engels, Frans, Duits en Russisch.',
+      'Rudolf Hess, Hitlers plaatsvervanger, deed alsof hij geheugenverlies had maar gaf dit tijdens het proces plotseling toe als strategie.',
+      'De processen duurden bijna een jaar en produceerden meer dan 4.000 pagina\'s aan transcripties en duizenden bewijsstukken.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -18329,6 +18362,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Radar, nog een relatief nieuwe technologie, gaf de Britten een beslissend voordeel doordat ze de komst van Duitse vliegtuigen vroegtijdig konden detecteren.',
       'Duitsland schakelde over van aanvallen op RAF-bases naar het bombarderen van steden, wat de RAF de broodnodige hersteltijd gaf.',
+      'Ongeveer 20% van de RAF-piloten die in de Slag om Engeland vochten waren buitenlanders, waaronder Polen, Tsjechen en Fransen.',
+      'De Britse regering verspreidde het verhaal dat piloten goed konden zien in het donker door wortels te eten, om de radar geheim te houden.',
+      'Op het hoogtepunt van de slag verloor de Luftwaffe op een enkele dag, 15 september 1940, maar liefst 56 vliegtuigen.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -18346,6 +18382,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Amerikanen hadden Japanse codes gekraakt en wisten precies waar en wanneer Japan zou aanvallen, wat een beslissend voordeel opleverde.',
       'De hele slag werd beslist in vijf minuten van duikbommenwerperaanvallen die drie Japanse carriers in brand staken.',
+      'De Japanse admiraal Nagumo aarzelde fataal over het herladen van zijn vliegtuigen met bommen of torpedo\'s, wat kostbare minuten kostte.',
+      'Het Amerikaanse torpedovliegtuigsquadron VT-8 werd vrijwel volledig vernietigd, maar hun aanval leidde de Japanse jagers weg van de duikbommenwerpers.',
+      'De slag werd uitgevochten zonder dat de vloten elkaar ooit in zicht hadden; alles verliep via vliegdekschepen en hun vliegtuigen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -18363,6 +18402,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kinderen die de Hongerwinter doormaakten bleken decennia later een hoger risico te hebben op hart- en vaatziekten.',
       'Geallieerde vliegtuigen dropten in april 1945 in Operatie Manna voedsel boven bezet Nederland; de Duitsers stemden ermee in.',
+      'Mensen aten tulpenbollen, maar deze moesten op een specifieke manier bereid worden omdat ze rauw giftig zijn.',
+      'De Hongerwinter leidde tot baanbrekend epigenetisch onderzoek dat aantoonde dat honger de genen van toekomstige generaties kan beinvloeden.',
+      'Zweedse hulporganisatie het Rode Kruis slaagde erin om via neutrale kanalen brood naar het westen van Nederland te sturen.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -18380,6 +18422,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het dagboek van Anne Frank is vertaald in meer dan 70 talen en is daarmee een van de meest gelezen boeken ter wereld.',
       'Otto Frank, de enige die de oorlog overleefde van de acht onderduikers, aarzelde lang voor hij het dagboek publiceerde omdat het zo persoonlijk was.',
+      'Anne noemde haar dagboek "Kitty" en schreef het als brieven aan deze denkbeeldige vriendin.',
+      'Het Achterhuis was verborgen achter een draaibare boekenkast die door helper Johan Voskuijl was gebouwd.',
+      'Anne droomde ervan journalist of schrijfster te worden en herschreef haar dagboek in 1944 met het oog op publicatie na de oorlog.',
     ],
     popularityScore: 94,
     uncertaintyLevel: 'exact',
@@ -18397,6 +18442,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De opstandelingen hadden slechts twee machinepistolen, tien geweren en enkele honderden pistolen tegenover een SS-strijdmacht van duizenden soldaten.',
       'De opstand begon op de avond van de eerste dag van Pesach, het Joodse bevrijdingsfeest – een bewuste symbolische keuze.',
+      'SS-generaal Juergen Stroop had verwacht het getto in drie dagen te ontruimen, maar de opstand duurde bijna een maand.',
+      'Na de opstand werd de Grote Synagoge van Warschau door de nazi\'s opgeblazen als symbolisch gebaar van vernietiging.',
+      'Enkele opstandelingen wisten via het rioolstelsel te ontsnappen en sloten zich aan bij het Poolse verzet buiten het getto.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -18414,6 +18462,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Roosevelt was al ernstig ziek tijdens de conferentie en overleed twee maanden later; critici zeiden dat zijn zwakte leidde tot concessies aan Stalin.',
       'Churchill tekende op een halfvel papier een deal met Stalin over de verdeling van invloedsferen in Oost-Europa, later "het percentage akkoord" genoemd.',
+      'Stalin eiste dat de conferentie op de Krim plaatsvond omdat hij weigerde ver te reizen; Roosevelt moest als zieke man de halve wereld overvliegen.',
+      'De drie leiders spraken af dat de Sovjet-Unie binnen drie maanden na de Duitse capitulatie Japan de oorlog zou verklaren.',
+      'Het Livadia-paleis waar de conferentie werd gehouden was het voormalige zomerverblijf van de laatste tsaar, Nicolaas II.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -18431,6 +18482,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Sovjet-Unie weigerde deelname en dwong Oost-Europese landen hetzelfde te doen, wat de ijzeren gordijn-verdeling versterkte.',
       'West-Duitsland, de voormalige vijand, ontving de meeste Marshallhulp en beleefde daarna het Wirtschaftswunder, de economische wederopbouw.',
+      'George Marshall ontving in 1953 de Nobelprijs voor de Vrede voor het plan dat zijn naam droeg.',
+      'Nederland ontving via het Marshallplan bijna 1 miljard dollar aan hulp, wat cruciaal was voor de wederopbouw na de oorlog.',
+      'Het plan verplichtte Europese landen om samen te werken bij de verdeling van de hulp, wat de kiem legde voor de Europese eenwording.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -18448,6 +18502,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Churchill won in 1953 de Nobelprijs voor de Literatuur voor zijn historische werken en memoires over de Tweede Wereldoorlog.',
       'Hij verloor de verkiezingen van juli 1945 nog voor de officiële capitulatie van Japan – een schok voor velen die hem als oorlogsheld zagen.',
+      'Churchill schilderde meer dan 500 schilderijen als hobby en exposeerde zelfs anoniem in een Parijse galerie.',
+      'Hij leed aan depressies die hij zijn "zwarte hond" noemde, maar bleef desondanks functioneren als oorlogsleider.',
+      'Churchill dronk naar verluidt dagelijks champagne en whisky, maar beweerde dat hij meer van alcohol had genomen dan alcohol van hem.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -18465,6 +18522,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Veldmaarschalk Rommel werd zo gerespecteerd door zijn vijanden dat de Britten hem "The Desert Fox" noemden en zijn tactieken bestudeerden.',
       'Churchill zei na de slag: "Before Alamein we never had a victory. After Alamein we never had a defeat."',
+      'Montgomery weigerde aan te vallen totdat hij een overweldigende numerieke meerderheid had, wat hem de bijnaam "te voorzichtig" opleverde bij sommige collega\'s.',
+      'De Britten gebruikten nepvoertuigen en neppijpleidingen om Rommel te misleiden over de richting van de aanval.',
+      'Rommel was op ziekteverlof in Duitsland toen de slag begon en keerde pas twee dagen later terug naar het front.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -18482,6 +18542,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hitler had bevel gegeven Parijs te verwoesten als het niet gehouden kon worden. Commandant von Choltitz weigerde dat bevel uit te voeren en redde daarmee de stad.',
       'De bevrijding werd bewust aan de Fransen gegund zodat De Gaulle zijn positie als leider van het vrije Frankrijk kon versterken.',
+      'Ernest Hemingway claimde dat hij persoonlijk de bar van het Ritz Hotel had "bevrijd" en bestelde champagne voor iedereen.',
+      'Vrouwen die beschuldigd werden van relaties met Duitse soldaten werden publiekelijk kaalgeschoren tijdens de bevrijdingsfeesten.',
+      'De Gaulle negeerde schoten die op hem werden afgevuurd tijdens zijn triomfmars en liep onverstoord verder over de Champs-Elysees.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -18499,6 +18562,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het woord kamikaze betekent "goddelijke wind" – een verwijzing naar de tyfoons die in 1274 en 1281 de Mongoolse vloten bij Japan vernietigden.',
       'Ondanks de offers kostte de kamikaze-campagne de VS uiteindelijk minder dan conventionele luchtverdediging, omdat de aanvallen niet strategisch genoeg waren.',
+      'Veel kamikazepiloten waren studenten die gedwongen werden zich aan te melden nadat de Japanse regering de leeftijdsgrens voor dienstplicht verlaagde.',
+      'Sommige piloten schreven afscheidsbrieven aan hun families die pas decennia later werden gevonden en gepubliceerd.',
+      'Het USS Bunker Hill werd door twee kamikaze-aanvallen getroffen in 30 seconden, waarbij 393 bemanningsleden omkwamen.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -18518,6 +18584,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De term "Koude Oorlog" werd gepopulariseerd door schrijver George Orwell die het in 1945 al gebruikte om een permanente staat van nucleaire patstelling te beschrijven.',
       'Op het hoogtepunt had de wereld meer dan 70.000 kernkoppen: genoeg om de aarde tientallen keren te vernietigen.',
+      'De Doomsday Clock, opgezet in 1947, stond op zijn dichtst bij middernacht (2 minuten) tijdens de waterstofbomproeven van 1953.',
+      'Beide supermachten bouwden ondergrondse bunkers voor hun leiders; het Amerikaanse Greenbrier-complex bleef tot 1992 geheim.',
+      'De Koude Oorlog leidde indirect tot de oprichting van het internet: ARPANET werd ontwikkeld als communicatienetwerk dat een nucleaire aanval kon overleven.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -18535,6 +18604,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Piloot Gail Halvorsen begon snoepjes uit zijn vliegtuig te gooien voor Berlijnse kinderen en werd de "Candy Bomber" – andere piloten volgden zijn voorbeeld.',
       'Op het hoogtepunt landde er iedere 90 seconden een vliegtuig in West-Berlijn; de bevoorrading oversteeg zelfs voor de blokkade de grondtransportcapaciteit.',
+      'De luchtbrug vervoerde in totaal 2,3 miljoen ton vracht, waaronder voedsel, kolen en zelfs onderdelen voor een hele energiecentrale.',
+      'Er vielen 101 doden bij ongelukken tijdens de luchtbrug, voornamelijk door het slechte weer en de intensieve vliegschema\'s.',
+      'Na de blokkade werd West-Berlijn een symbool van westerse vrijheid en ontving het jarenlang extra subsidies om de stad leefbaar te houden.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -18552,6 +18624,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Gagarin ejectoreerde uit zijn capsule en daalde met een parachute neer – wat later bijna diskwalificerend was voor het officiële ruimtevaartrecord.',
       'Gagarin overleed zeven jaar later bij een mysterieus vliegtuigongeluk; de omstandigheden zijn nooit volledig opgehelderd.',
+      'Gagarin werd mede geselecteerd vanwege zijn lengte van 1,57 meter, want de Vostok-capsule was extreem klein.',
+      'Tijdens zijn vlucht at Gagarin voedsel uit tubes om te bewijzen dat eten in gewichtloosheid mogelijk was.',
+      'Na zijn ruimtevlucht mocht Gagarin van de Sovjet-autoriteiten niet meer de ruimte in, uit angst hun nationale held te verliezen.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -18569,6 +18644,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Student Jan Palach verbrandde zichzelf op het Wenceslasplein in protest; zijn daad inspireerde tientallen anderen en werd een symbool van het verzet.',
       'De Sovjet-interventie beëindigde de hoop van veel West-Europese communisten op een humaner communisme en leidde tot het eurocommunisme.',
+      'Meer dan 200.000 troepen uit vijf Warschaupactlanden vielen Tsjechoslowakije binnen, de grootste militaire operatie in Europa sinds 1945.',
+      'Tsjechische burgers verwijderden straatnaamborden en wegnummers om de binnenvallende troepen te desorioenteren.',
+      'Dubcek werd naar Moskou ontvoerd en gedwongen de hervormingen terug te draaien; hij eindigde zijn carriere als boswachter.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -18586,6 +18664,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nixon, als fervent anticommunist, was juist de aangewezen persoon voor dit bezoek: zijn geloofwaardigheid maakte het politiek mogelijk.',
       'Het bezoek was zo geheim gehouden dat zelfs topambtenaren van Buitenlandse Zaken het niet wisten totdat het werd aangekondigd.',
+      'Nixon oefende wekenlang met eetstokjes voor het staatsbanket, om geen diplomatiek incident te veroorzaken.',
+      'De beroemde tafeltennistoernooien tussen Amerikaanse en Chinese spelers in 1971 baanden de weg voor Nixons bezoek, de zogenaamde "pingpongdiplomatie".',
+      'Mao Zedong was zo ziek tijdens het bezoek dat hij nauwelijks kon spreken, maar het gesprek tussen hem en Nixon duurde toch een uur.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -18603,6 +18684,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS leverde via de CIA miljarden dollars aan wapens en training aan de moedjahedien, waaronder Osama bin Laden – met fatale gevolgen voor later.',
       'Afghanistan werd Sovjet-Unie zijn "Vietnam": een onwinbare guerrillaoorlog die bijdroeg aan de desintegratie van de USSR.',
+      'De Stinger-luchtdoelraketten die de VS aan de moedjahedien leverden veranderden het verloop van de oorlog door Sovjet-helikopters kwetsbaar te maken.',
+      'Meer dan vijf miljoen Afghanen vluchtten naar Pakistan en Iran, wat destijds de grootste vluchtelingencrisis ter wereld was.',
+      'De Sovjet-Unie verloor naar schatting 450 vliegtuigen en helikopters tijdens de tien jaar durende oorlog.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
