@@ -16330,6 +16330,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'AI werd in 2024 al gebruikt voor vroegtijdige kankeropsporing met 94% nauwkeurigheid.',
       'De energiebehoefte van AI-datacenters bedreigt de klimaatdoelstellingen van techbedrijven.',
+      'ChatGPT bereikte 100 miljoen gebruikers in slechts twee maanden, het snelst groeiende product ooit.',
+      'De trainingskosten van GPT-4 werden geschat op meer dan 100 miljoen dollar.',
+      'In 2024 gebruikten meer dan 80% van de Fortune 500-bedrijven generatieve AI in hun werkprocessen.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -16347,6 +16350,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '2023 oversteeg voor het eerst tijdelijk de drempel van 1,5°C opwarming.',
       'De oceaanoppervlaktetemperatuur bereikte in 2023 records die wetenschappers verontrustten.',
+      'Juli 2023 was de heetste maand ooit gemeten sinds het begin van de metingen in 1880.',
+      'Canada verloor in 2023 meer dan 18 miljoen hectare bos door bosbranden, een absoluut record.',
+      'Het Antarctisch zee-ijs bereikte in 2023 het laagste wintermaximum ooit geregistreerd.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -16364,6 +16370,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste patiënt, Noland Arbaugh, sprak na de implantatie acht uur achter elkaar schaken.',
       'De technologie opent mogelijkheden voor verlamden maar ook ethische vragen over privacy van gedachten.',
+      'De Neuralink-chip bevat meer dan 1.000 elektroden die individuele neuronen kunnen uitlezen.',
+      'Het implantaat is zo klein als een munt en wordt door een chirurgische robot geplaatst.',
+      'Eerdere brein-computerinterfaces bestonden al sinds de jaren 2000, maar waren veel groter en minder precies.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -16381,6 +16390,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'India\'s gemiddelde leeftijd is 28 jaar; China\'s is 39 jaar - een enorm voordeel op de arbeidsmarkt.',
       'India stuurde in 2023 als eerste land ter wereld een maanmissie naar de Zuidpool.',
+      'India heeft meer dan 22 officieel erkende talen en meer dan 19.500 dialecten.',
+      'Elke maand worden er in India meer dan 2 miljoen baby\'s geboren, meer dan in heel Europa.',
+      'India\'s IT-sector levert jaarlijks meer dan 200 miljard dollar aan export op.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -16400,6 +16412,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Botticelli verbrandde sommige van zijn eigen schilderijen uit religieuze angst voor Savonarola.',
       'Savonarola werd uiteindelijk zelf verbrand op het Piazza della Signoria in Florence.',
+      'Savonarola voorspelde de invasie van Karel VIII van Frankrijk, wat hem enorme geloofwaardigheid gaf.',
+      'Kinderen werden ingezet als moraalridders die huizen doorzochten op luxeartikelen.',
+      'Paus Alexander VI excommuniceerde Savonarola nadat hij de corruptie van het Vaticaan openlijk aanviel.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -16417,6 +16432,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Machiavelli schreef het boek als sollicitatiebrief aan de Medicis na zijn ontslag.',
       'Het woord "machiavellistisch" betekent sindsdien: sluw, zonder scrupules.',
+      'Machiavelli werd in 1513 gemarteld op de pijnbank nadat hij verdacht werd van samenzwering.',
+      'De Vorst werd pas vijf jaar na Machiavelli\'s dood gepubliceerd in 1532.',
+      'Napoleon droeg altijd een exemplaar van De Vorst bij zich tijdens zijn veldtochten.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -16434,6 +16452,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Of Luther zijn stellingen echt aangeslagen heeft is historisch omstreden; het kan ook een brief zijn geweest.',
       'De drukpers zorgde ervoor dat zijn stellingen in weken heel Europa bereikten.',
+      'Luther vertaalde de Bijbel naar het Duits en standaardiseerde daarmee grotendeels de Duitse taal.',
+      'Luther trouwde met een voormalige non, Katharina von Bora, en kreeg zes kinderen.',
+      'Paus Leo X noemde Luther aanvankelijk een "dronken Duitser" en nam hem niet serieus.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'approximate',
@@ -16451,6 +16472,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De woorden "Hier sta ik, ik kan niet anders" zijn waarschijnlijk een later toegevoegde legendetoevoeging.',
       'Luther werd vogelvrij verklaard; Keurvorst Frederik de Wijze liet hem ontvoeren naar de Wartburg voor zijn eigen bescherming.',
+      'Op de Wartburg vertaalde Luther het Nieuwe Testament in slechts elf weken naar het Duits.',
+      'Karel V was pas 21 jaar oud toen hij als keizer Luther berechtte.',
+      'Luther verscheen met een vrijgeleide, maar Jan Hus was een eeuw eerder ondanks vrijgeleide toch verbrand.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -16468,6 +16492,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'More grapte op het schavot: "Wilt u mij helpen omhoog te klimmen? Voor de afdaling zorg ik zelf."',
       'Hij werd in 1935 heilig verklaard door de katholieke kerk.',
+      'More bedacht het woord "utopia" uit het Grieks, wat letterlijk "nergens" betekent.',
+      'In Utopia beschreef More een samenleving met religieuze tolerantie en een zesuurswerkdag.',
+      'More\'s hoofd werd na de executie op een staak op London Bridge tentoongesteld.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -16485,6 +16512,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In Calvijns Genève kon men voor kleinere zonden worden uitgedreven of gedood.',
       'Michael Servet werd in Genève verbrand voor het ontkennen van de Drie-eenheid.',
+      'Calvijn werd aanvankelijk uit Geneve verbannen en keerde pas drie jaar later terug op verzoek.',
+      'Het calvinisme introduceerde het idee dat hard werken en spaarzaamheid tekenen van uitverkiezing zijn.',
+      'Calvijn schreef meer dan 2.000 preken en zijn Institutie werd het standaardwerk van het protestantisme.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -16502,6 +16532,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Leonardo was waarschijnlijk linkshandig en schreef van rechts naar links in spiegelschrift.',
       'Minder dan 20 schilderijen zijn met zekerheid aan hem toegeschreven; hij voltooide er zelden één.',
+      'Leonardo dissecteerde meer dan 30 menselijke lichamen om de anatomie nauwkeurig te kunnen tekenen.',
+      'Zijn ontwerp voor een helikopterachtige vliegmachine, de "luchtworm", dateerde uit 1489.',
+      'Leonardo was vegetarier en kocht vogels op de markt om ze vrij te laten.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'approximate',
@@ -16519,6 +16552,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Shakespeare voegde meer dan 1.700 woorden toe aan de Engelse taal, waaronder "bedroom", "generous", "lonely", "obscene" en "manager".',
       'Het originele Globe Theatre verbrandde in 1613 toen een theaterkanonnetje het rieten dak in brand stak tijdens een opvoering van Hendrik VIII.',
+      'Er bestaan geen manuscripten in Shakespeare\'s handschrift; slechts zes handtekeningen zijn bewaard gebleven.',
+      'Shakespeare liet zijn vrouw in zijn testament zijn "op-een-na-beste bed" na.',
+      'Het Globe Theatre had plaats voor 3.000 toeschouwers, waarvan de goedkoopste staanplaatsen slechts een penny kostten.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'approximate',
@@ -16536,6 +16572,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Don Quichot is na de Bijbel het meest vertaalde en gedrukte boek ter wereld.',
       'Cervantes schreef het eerste deel in de gevangenis na een bedrijfsschandaal.',
+      'Cervantes verloor zijn linkerhand in de Slag bij Lepanto in 1571 en kreeg de bijnaam "de Eenhandige van Lepanto".',
+      'Shakespeare en Cervantes stierven allebei op 23 april 1616, al gebruikten hun landen verschillende kalenders.',
+      'Een vervalser publiceerde in 1614 een nep-vervolg, wat Cervantes ertoe dreef snel het echte deel twee te schrijven.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -16553,6 +16592,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rembrandt was failliet; zijn schilderijen werden geveild om zijn schulden te betalen.',
       'De Nachtwacht is één van de meest bestudeerde schilderijen ter wereld.',
+      'Rembrandt maakte meer dan 90 zelfportretten, meer dan enige andere kunstenaar voor hem.',
+      'De Nachtwacht werd in 1715 bijgesneden om in een kleinere zaal te passen, waardoor figuren verloren gingen.',
+      'Rembrandt had een uitgebreide verzameling curiosa, waaronder schelpen, wapens en Aziatische kunst.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -16570,6 +16612,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bach was bij zijn dood relatief onbekend; Mozart en Beethoven herontdekten hem later.',
       'Hij had 20 kinderen, van wie vier grote componisten werden.',
+      'Bach liep als tiener 400 kilometer te voet om orgellessen bij Buxtehude bij te wonen.',
+      'Hij werd een maand gevangengezet door zijn werkgever de hertog van Weimar toen hij ontslag nam.',
+      'Bachs Toccata en Fuga in d-mineur is een van de meest herkenbare muziekstukken ter wereld.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -16587,6 +16632,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Karel I weigerde schuld te bekennen; zijn executie op 30 januari 1649 schokte Europa.',
       'Cromwells hoofd werd na zijn dood opgegraven en tentoongesteld.',
+      'Cromwell verbood kerstviering in Engeland omdat hij het als een heidense, decadente traditie beschouwde.',
+      'Karel I droeg twee hemden naar het schavot zodat hij niet zou rillen en laf zou lijken.',
+      'Cromwells afgesneden hoofd bleef tot 1960 in privebezit voordat het eindelijk begraven werd.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -16604,6 +16652,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Willem van Oranje landde met een vloot van 450 schepen – groter dan de Spaanse Armada.',
       'Het Bill of Rights van 1689 beperkte koninklijke macht en legde de basis voor de Britse democratie.',
+      'Jacobus II vluchtte naar Frankrijk en gooide het Grote Zegel van Engeland in de Theems.',
+      'De revolutie wordt "glorieus" genoemd omdat er vrijwel geen bloed bij vloeide in Engeland zelf.',
+      'Willem III regeerde samen met zijn vrouw Maria II als gelijkwaardige co-monarchen, uniek in de Engelse geschiedenis.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -16621,6 +16672,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Versailles had 20.000 bewoners maar nauwelijks toiletten; adel gebruikte potjes verborgen achter gordijnen.',
       '"L\'état c\'est moi" vat zijn absolute monarchie samen.',
+      'Lodewijk XIV regeerde 72 jaar, de langste regeringsperiode van enige Europese monarch ooit.',
+      'Het paleis van Versailles heeft 2.300 kamers, 67 trappen en 1.250 open haarden.',
+      'Lodewijk XIV danste zelf mee in hofballetten en kreeg zijn bijnaam "Zonnekoning" door een rol als Apollo.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -16638,6 +16692,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Peter was 2,03 meter lang en werkte als timmerman in een Nederlandse scheepswerf.',
       'Hij stichtte Sint-Petersburg op moerassen en liet er zijn hoofdstad van maken.',
+      'Peter voerde een baardbelasting in: wie zijn baard wilde houden moest jaarlijks betalen.',
+      'Bij de bouw van Sint-Petersburg kwamen naar schatting 30.000 arbeiders om door de barre omstandigheden.',
+      'Peter reisde onder de schuilnaam "Peter Michailov" door Europa om onopgemerkt te blijven.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -16655,6 +16712,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "Semper Augustus"-tulpenbol bereikte een prijs van 10x het jaarloon van een vakman.',
       'Sommige historici betwisten de omvang, maar speculatie was er zeker.',
+      'De tulp kwam oorspronkelijk uit het Ottomaanse Rijk en werd in de 16e eeuw naar Nederland gebracht.',
+      'De kleurpatronen van de duurste tulpen werden veroorzaakt door een virus, het tulpenmozaiekvirus.',
+      'Op het hoogtepunt werd er gehandeld in tulpenfutures: contracten voor bollen die nog in de grond zaten.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -16672,6 +16732,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Newton zei: "Ik kan de beweging van sterren berekenen maar niet de waanzin van mensen."',
       'De crash leidde tot de eerste effectenwetgeving in Engeland.',
+      'De South Sea Company had officieel het monopolie op handel met Zuid-Amerika, maar dreef nauwelijks echte handel.',
+      'Koning George I was zelf gouverneur van de South Sea Company en verloor ook flink geld.',
+      'De "Bubble Act" van 1720, aangenomen om concurrenten te stoppen, bleef 100 jaar van kracht en remde de Britse economie.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -16689,6 +16752,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze was van origine een Duits prinses en sprak geen woord Russisch toen ze Rusland binnenkwam.',
       'Ze annexeerde de Krim in 1783 – dezelfde Krim die Rusland in 2014 opnieuw annexeerde.',
+      'Catharina bezat meer dan 4.000 schilderijen, die de basis vormden van de collectie van de Hermitage in Sint-Petersburg.',
+      'Ze liet zich inenten tegen pokken om haar onderdanen te overtuigen dat vaccinatie veilig was.',
+      'Catharina correspondeerde jarenlang met Voltaire en Diderot en nodigde hen uit aan haar hof.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -16706,6 +16772,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Voltaire gebruikte de ramp om het optimisme van Leibniz te weerleggen in zijn Candide.',
       'Minister Pombal herbouwde Lissabon in seismisch bestendige stijl – revolutionair voor die tijd.',
+      'De aardbeving had een geschatte magnitude van 8,5 tot 9,0 en was voelbaar tot in Finland.',
+      'De ramp vond plaats op Allerheiligen, toen veel gelovigen in kerken zaten die instortten.',
+      'Immanuel Kant schreef drie wetenschappelijke essays over de aardbeving, wat hem tot een pionier van de seismologie maakte.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -16723,6 +16792,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mozarts Requiem bleef onvoltooid; hij stierf terwijl hij eraan werkte.',
       'Zijn begrafenis in een massagraf is het tragische symbool van zijn onbeloonde genie.',
+      'Op 6-jarige leeftijd speelde Mozart voor keizerin Maria Theresia en vroeg haar ten huwelijk als grap.',
+      'Mozart schreef zijn eerste symfonie op 8-jarige leeftijd en zijn eerste opera op 11-jarige leeftijd.',
+      'Salieri vergiftigde Mozart niet; dit is een mythe verspreid door het toneelstuk en de film Amadeus.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -16740,6 +16812,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Chang\'an had 1 miljoen inwoners en was de grootste stad ter wereld – een internationale metropool met Perzen, Arabieren en Japanners.',
       'Li Bai en Du Fu, de twee grootste Chinese dichters, leefden in de Tang-periode.',
+      'Keizerin Wu Zetian was de enige vrouw in de Chinese geschiedenis die officieel als keizer regeerde, tijdens de Tang-periode.',
+      'De Tang-Chinezen ontwikkelden houtblokdruk, waarmee het eerste gedrukte boek ter wereld werd gemaakt: de Diamantsoetra.',
+      'Polo, een voorloper van het moderne polospel, was een populaire sport aan het Tang-hof.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -16757,6 +16832,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Song China had een permanente professionele marine en de eerste papiermunt ter wereld.',
       'De uitvinding van het roer maakte oceaannavigatie mogelijk.',
+      'Bi Sheng vond rond 1040 het beweegbare lettertype uit, vier eeuwen voor Gutenberg in Europa.',
+      'Song-China had een bevolking van meer dan 100 miljoen mensen, de eerste natie die dat bereikte.',
+      'Het buskruit werd oorspronkelijk ontdekt door alchemisten die op zoek waren naar het elixer van onsterfelijkheid.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -16774,6 +16852,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Genghis Khan werd geboren met een bloedstolsel in zijn hand – een teken van bestemming volgens Mongoolse overlevering.',
       'Tot 0,5% van de wereldbevolking zou van hem afstammen, waaronder ~16 miljoen mannen in Centraal-Azië.',
+      'Genghis Khan stelde een geschreven wetboek op, de Yasa, dat het hele Mongoolse Rijk reguleerde.',
+      'Hij voerde religieuze tolerantie in en beschermde boeddhisten, moslims, christenen en sjamanen gelijk.',
+      'De Mongoolse postdienst (Yam) was een netwerk van stations over duizenden kilometers waarmee berichten razendsnel werden bezorgd.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'approximate',
@@ -16791,6 +16872,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kublai Khan probeerde twee keer Japan te veroveren; beide keren vernietigde een tyfoon zijn vloot – de "kamikaze" (goddelijke wind).',
       'Marco Polo beschreef zijn hof als het rijkste ooit gezien.',
+      'Kublai Khan verplaatste de Mongoolse hoofdstad naar Beijing en bouwde het beroemde Xanadu als zomerpaleis.',
+      'Hij voerde papiergeld in als enig wettig betaalmiddel, wat tot inflatie leidde toen er te veel werd gedrukt.',
+      'Kublai Khan was een beschermer van de kunsten en moedigde Chinese schilderkunst en theater aan ondanks zijn Mongoolse afkomst.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -16808,6 +16892,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Miljoenen arbeiders, soldaten en gevangenen bouwden aan de muur; velen werden erin begraven.',
       'De muur is in totaal 21.000 km lang als alle takken worden meegeteld.',
+      'Het mortel dat de Ming-muur bijeen houdt bevat kleefrijst, wat het bouwwerk extra sterk maakte.',
+      'De Ming-muur had een systeem van vuurtorens en rooksignalen waarmee berichten in uren over honderden kilometers konden worden doorgegeven.',
+      'De Grote Muur is niet zichtbaar vanuit de ruimte met het blote oog, ondanks de hardnekkige mythe.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -16825,6 +16912,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Qing-keizers droegen hun haar in een "queue" – een lange vlecht als teken van onderwerping aan de Mantsjoe.',
       'De laatste keizer, Puyi, werd keizer op 2-jarige leeftijd en leefde later als gewone burger.',
+      'Keizer Kangxi regeerde 61 jaar (1661-1722), de langste regeerperiode in de Chinese geschiedenis.',
+      'De Mantsjoe verboden gemengde huwelijken tussen Mantsjoe en Han-Chinezen om hun identiteit te bewaren.',
+      'Keizer Qianlong schreef meer dan 40.000 gedichten, meer dan enige andere persoon in de geschiedenis.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -16842,6 +16932,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Korea werd door Japan gekoloniseerd van 1910-1945; Japanners probeerden de Koreaanse taal en cultuur uit te roeien.',
       'De Joseon-periode legde de culturele basis voor het moderne Korea.',
+      'Koning Sejong de Grote ontwierp persoonlijk het Hangeul-alfabet in 1443 zodat gewone mensen konden lezen en schrijven.',
+      'De Joseon-dynastie had een van de meest geavanceerde astronomische observatoria ter wereld.',
+      'Het Joseon-examensysteem (gwageo) was zo competitief dat slechts 3% van de kandidaten slaagde.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -16859,6 +16952,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '20.000 arbeiders en 1.000 olifanten bouwden de Taj Mahal in 22 jaar.',
       'De legendarische mythe dat Shah Jahan de handen van de bouwmeesters afhakte is vrijwel zeker fictie.',
+      'Het witte marmer van de Taj Mahal werd 300 kilometer ver aangevoerd vanuit Rajasthan.',
+      'De minaretten van de Taj Mahal hellen iets naar buiten, zodat ze bij een aardbeving van het hoofdgebouw af zouden vallen.',
+      'Shah Jahan werd door zijn eigen zoon Aurangzeb gevangengezet en kon de Taj Mahal alleen vanuit zijn cel bewonderen.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'approximate',
@@ -16876,6 +16972,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Tokugawa-shogunaat stond slechts één handelspost in Japan toe – op het eilandje Dejima in Nagasaki – voor de Nederlanders, waarmee Europa zijn voet in Japan behield.',
       'Edo (moderne Tokyo) had in de 18e eeuw meer dan een miljoen inwoners; het was daarmee groter dan Parijs of Londen terwijl Japan zichzelf had afgesloten van de wereld.',
+      'Het Tokugawa-shogunaat verplichtte alle daimyo (feodale heren) om elk jaar naar Edo te reizen via het sankin-kotai-systeem, wat hun macht beperkte.',
+      'Kabuki-theater en ukiyo-e houtsneden bloeiden op als populaire kunstvormen voor de stedelijke burgerij.',
+      'Japan produceerde in de 16e en 17e eeuw meer vuurwapens dan enig ander land ter wereld, maar onder de Tokugawa werden ze vrijwel afgeschaft.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -16893,6 +16992,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Le Loi gebruikte guerrillatactieken om het Chinese leger 10 jaar lang te bestrijden.',
       'De Vietnamezen noemen hem nog altijd een van hun grootste nationale helden.',
+      'Le Loi ontving volgens de legende een magisch zwaard uit een meer, vergelijkbaar met het verhaal van Excalibur.',
+      'De Le-dynastie voerde een confucianistisch examensysteem in naar Chinees model om ambtenaren te selecteren.',
+      'Vietnam breidde zich onder de Le-dynastie geleidelijk zuidwaarts uit in de zogenaamde "Nam tien" (mars naar het zuiden).',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -16910,6 +17012,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ayutthaya had meer dan een miljoen inwoners in de 17e eeuw – meer dan Parijs of Londen op dat moment.',
       'Japanse ronin (masterloze samurai) vestigden een gemeenschap in Ayutthaya; hun leider Yamada Nagamasa werd een invloedrijke hoveling.',
+      'De Fransen stuurden in 1685 gezanten naar Ayutthaya; koning Narai stuurde op zijn beurt Siamese ambassadeurs naar Versailles.',
+      'Na de verwoesting door Birma in 1767 werden de ruines van Ayutthaya een UNESCO-werelderfgoed.',
+      'Ayutthaya had een geavanceerd watersysteem met kanalen en sluizen dat de stad beschermde tegen overstromingen.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -16927,6 +17032,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Yang Zhou werd volledig uitgemoord; de auteur van het Yang Zhou 10 Days-dagboek beschreef het bloedbad.',
       'De Mantsjoe waren slechts 2 miljoen mensen die 100 miljoen Chinezen veroverden.',
+      'De Mantsjoe profiteerden van een Chinese generaal, Wu Sangui, die de poorten van de Grote Muur voor hen opende.',
+      'Chinezen die weigerden de Mantsjoe vlecht te dragen riskeerden de doodstraf onder het "queue-decreet".',
+      'De bevolking van China daalde van circa 150 miljoen naar minder dan 100 miljoen door de oorlogen en hongersnoden.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -16944,6 +17052,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Britse schepen vernietigden de Chinese vloot met stoomkracht terwijl China nog zeilschepen had.',
       'Hongkong werd na de oorlog 155 jaar aan Groot-Brittannië gegeven.',
+      'Commissaris Lin Zexu vernietigde 1.200 ton opium door het in sloten te mengen met zout en kalk.',
+      'Het Verdrag van Nanjing (1842) was het eerste van de "ongelijke verdragen" die China vernederden.',
+      'China moest na de oorlog vijf havens openen voor buitenlandse handel, waaronder Shanghai en Kanton.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -16961,6 +17072,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hong Xiuquan stichtte het "Hemels Koninkrijk van de Grote Vrede" in Nanjing.',
       'Het Britse "Ever Victorious Army" onder Frederick Ward hielp de Qing de rebellie neerslaan.',
+      'Het Taiping-koninkrijk verbood opium, alcohol, tabak en gokken, en voerde gelijkheid tussen mannen en vrouwen in.',
+      'De rebellie verwoestte meer dan 600 steden in het zuiden van China.',
+      'Hong Xiuquan beweerde dat God hem in een visioen had verteld dat hij de jongere broer van Jezus Christus was.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -16978,6 +17092,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Boxers geloofden dat rituele gevechtskunst hen kogelvrij maakte.',
       'De nederzetting stelde China vast op enorme herstelbetalingen die decennia lang drukten.',
+      'Keizerin-weduwe Cixi steunde de Boxers aanvankelijk en verklaarde de oorlog aan alle acht buitenlandse mogendheden tegelijk.',
+      'De 55 dagen durende belegering van het gezantschapskwartier in Peking werd wereldnieuws.',
+      'Nederland nam als een van de acht mogendheden deel aan de internationale troepenmacht die Peking ontzette.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -16995,6 +17112,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Onafhankelijkheidsverklaring van 1 maart werd ondertekend door 33 Koreanen; allen werden gearresteerd.',
       '1 Maart wordt nog steeds gevierd als nationale feestdag in Zuid-Korea.',
+      'Naar schatting 2 miljoen Koreanen namen deel aan de protestmarsen door het hele land.',
+      'De Japanse reactie was bruut: meer dan 7.500 Koreanen werden gedood en 46.000 gearresteerd.',
+      'De beweging inspireerde de oprichting van de Voorlopige Regering van Korea in Shanghai.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
