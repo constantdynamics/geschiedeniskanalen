@@ -17132,6 +17132,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Internationaal Tribunaal voor Cambodja velde zijn eerste veroordelingen pas in 2010.',
       'Meer dan 1,5 miljoen schedels zijn bewaard in herdenkingsstupa\'s door heel Cambodja.',
+      'De Rode Khmer beschouwde het dragen van een bril als bewijs van intellectualisme, wat tot executie kon leiden.',
+      'Tuol Sleng-gevangenis (S-21) was oorspronkelijk een middelbare school; van de ~17.000 gevangenen overleefden slechts 12 mensen.',
+      'Cambodja\'s bevolking bestond na 1979 voor bijna 65% uit vrouwen, omdat mannen disproportioneel werden vermoord.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -17149,6 +17152,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hirohito was ook een serieuze marine-bioloog en publiceerde 6 wetenschappelijke boeken.',
       'De VS bewaarde hem als keizer om bezetting te vergemakkelijken; zijn oorlogsrol bleef onberecht.',
+      'Hirohito\'s radiotoespraak op 15 augustus 1945 was de eerste keer dat het Japanse volk de stem van hun keizer hoorde.',
+      'Tijdens zijn regeerperiode groeide Japan van een agrarische samenleving tot de op een na grootste economie ter wereld.',
+      'De naam van zijn regeerperiode, Showa, betekent \'Verlichte Vrede\' – ironisch gezien de oorlogsjaren.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -17166,6 +17172,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn reisverslag heette "The Travels of Marco Polo"; tijdgenoten geloofden zijn verhalen amper.',
       'Op zijn sterfbed zeiden ze: "Herroep uw leugens." Hij antwoordde: "Ik heb niet eens de helft verteld."',
+      'Marco Polo dicteerde zijn boek aan een medegevangene terwijl hij in een Genuese gevangenis zat na een zeeslag.',
+      'Hij introduceerde het concept van papiergeld bij Europeanen, die het idee absurd vonden.',
+      'Columbus nam een exemplaar van Polo\'s boek mee op zijn reis naar de Nieuwe Wereld, vol met aantekeningen in de marge.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -17183,6 +17192,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Van de 10.000 pagodes staan er nog ~2.000; aardbevingen en verwaarlozing verwoestten de rest.',
       'Pagan werd vernietigd door de Mongoolse invasie van Kublai Khan in 1287.',
+      'Koning Anawrahta bekeerde Pagan tot het Theravada-boeddhisme na het veroveren van de heilige teksten uit Thaton in 1057.',
+      'De vlakte van Bagan beslaat 104 vierkante kilometer en is sinds 2019 UNESCO-werelderfgoed.',
+      'De pagodes werden gefinancierd door zoveel land aan tempels te schenken dat het koninkrijk uiteindelijk economisch verzwakte.',
     ],
     popularityScore: 69,
     uncertaintyLevel: 'approximate',
@@ -17200,6 +17212,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rizal werd geëxecuteerd door de Spanjaarden; zijn romans waren gevaarlijker dan wapens.',
       'De Filipijnen werden verkocht van Spanje aan de VS voor $20 miljoen in 1898.',
+      'De Katipunan, het geheime genootschap dat de revolutie leidde, gebruikte bloedcompacten als eed van trouw.',
+      'Emilio Aguinaldo verklaarde de onafhankelijkheid op 12 juni 1898, maar de VS erkende deze pas in 1946.',
+      'De Filipijnse vlag wordt omgedraaid gehangen in tijden van oorlog: de rode baan komt dan bovenaan.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -17217,6 +17232,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De laatste Mughal-keizer Bahadur Shah II werd na de Sepoy-opstand verbannen naar Rangoon.',
       'India produceerde 25% van het wereldwijde BNP in 1700; in 1947 was dat gedaald tot 4%.',
+      'De beroemde Koh-i-Noor-diamant werd door de Britten meegenomen uit de Mughal-schatkamer en zit nu in de Britse kroonjuwelen.',
+      'Na Aurangzebs dood in 1707 volgden 8 keizers in slechts 12 jaar, vaak via broedermoord en paleiscoups.',
+      'De Marathen plunderden Delhi in 1737 en reduceerden de Mughal-keizer tot een marionet met alleen ceremoniële macht.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -17236,6 +17254,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tikal was eeuwenlang begraven in Guatemalees regenwoud; de enorme tempels steken boven de boomtoppen uit.',
       'In Star Wars Episode IV is Tikal gebruikt als de rebellenbasis Yavin 4.',
+      'Tikal voerde een verwoestende oorlog met rivaliserende stad Calakmul die meer dan een eeuw duurde.',
+      'De hoogste tempel van Tikal (Tempel IV) is 70 meter hoog en werd gebouwd rond 741 n.Chr.',
+      'Lidar-scans onthulden in 2018 dat Tikal veel groter was dan gedacht, met uitgebreide irrigatiesystemen en verdedigingswerken.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -17253,6 +17274,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tenochtitlán had 200.000-300.000 inwoners – groter dan elk toenmalig Europees stad.',
       'De stad lag op een eiland in een meer en werd verbonden via dammen en aquaducten.',
+      'De Azteken offerden naar schatting 20.000 mensen per jaar, voornamelijk krijgsgevangenen, aan de zonnegod Huitzilopochtli.',
+      'Tenochtitlán had openbare scholen voor alle kinderen, ongeacht sociale klasse – uniek in de 15e-eeuwse wereld.',
+      'De Grote Tempel (Templo Mayor) werd pas in 1978 per toeval herontdekt door elektriciteitswerkers in Mexico-Stad.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -17270,6 +17294,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Cahokia\'s Monks Mound heeft een basis van 316 × 241 meter – groter dan Gizeh.',
       'De Mississippische volkeren hadden complexe handelsnetwerken van de Golf van Mexico tot de Grote Meren.',
+      'Cahokia had op zijn hoogtepunt rond 1100 n.Chr. ongeveer 20.000 inwoners, groter dan Londen in die tijd.',
+      'De mysterieuze \'Woodhenge\' van Cahokia was een cirkel van houten palen die als zonnekalender diende.',
+      'De beschaving verdween rond 1400 zonder duidelijke oorzaak; overexploitatie van het land en sociale onrust zijn mogelijke verklaringen.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -17287,6 +17314,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Historici debatteren of de Founding Fathers de Iroquois Confederatie als model gebruikten.',
       'De confederatie bestaat nog steeds; de Haudenosaunee reizen op hun eigen paspoort.',
+      'Vrouwen hadden enorme politieke macht in de confederatie: zij kozen en ontsloegen de mannelijke leiders.',
+      'De Grote Wet van Vrede (Gayanashagowa) werd mondeling overgeleverd via wampumgordels van schelpenkralen.',
+      'Benjamin Franklin verwees expliciet naar de Iroquois Confederatie bij het ontwerpen van het Albany Plan of Union in 1754.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -17304,6 +17334,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Thames in Londen bevroor regelmatig; er werden ijsfestivals gehouden.',
       'Sommige historici verbinden de Kleine IJstijd met de ineenstorting van de Maya\'s.',
+      'De uitbarsting van de Tambora-vulkaan in 1815 veroorzaakte het \'Jaar zonder Zomer\' in 1816 met sneeuw in juni in New England.',
+      'De Kleine IJstijd dwong de Vikingen om hun nederzettingen op Groenland te verlaten rond 1400.',
+      'Stradivarius-violen danken hun unieke klank mogelijk aan het dichtere hout dat groeide tijdens de Kleine IJstijd.',
     ],
     popularityScore: 67,
     uncertaintyLevel: 'approximate',
@@ -17321,6 +17354,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In Salem werden 20 mensen terechtgesteld voor hekserij; de echte oorzaak is nog steeds debat – vergiftiging, hysterie of politieke manipulatie.',
       'De Puriteinen verbanden Roger Williams die religieuze tolerantie bepleitte; hij stichtte Rhode Island.',
+      'De Puriteinen verboden Kerstmis in Massachusetts van 1659 tot 1681 omdat het te feestelijk en heidens was.',
+      'Giles Corey weigerde tijdens de Salem-processen te pleiten en werd doodgedrukt door zware stenen – zijn laatste woorden waren \'More weight\'.',
+      'Harvard University werd in 1636 opgericht door Puriteinen, slechts 6 jaar na de stichting van de Massachusetts Bay Colony.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -17338,6 +17374,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Washington verloor meer veldslagen dan hij won, maar bleef lang genoeg in het veld om de Britten uit te putten.',
       'Hij was de enige president die met unanimous electoral college votes won.',
+      'Washington liet in zijn testament al zijn 123 slaven vrij – de enige slavenhoudende Founding Father die dit deed.',
+      'Hij weigerde een derde termijn als president en vestigde daarmee een traditie die pas in 1951 grondwettelijk werd vastgelegd.',
+      'Washington had houten tanden is een mythe; zijn gebit was gemaakt van ivoor, lood en menselijke tanden.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -17355,6 +17394,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Jefferson en Adams stierven beiden op 4 juli 1826 – exact 50 jaar na de Onafhankelijkheidsverklaring.',
       'Jefferson had een verhouding met zijn slavin Sally Hemings; DNA-bewijs bevestigde dit in 1998.',
+      'Jefferson kocht de Louisiana Territory van Napoleon voor slechts $15 miljoen, waarmee hij het grondgebied van de VS verdubbelde.',
+      'Hij was een begenadigd uitvinder: hij ontwierp een draaiende boekhouder, een verbeterde ploeg en een codeerwielen-apparaat.',
+      'Jefferson bezat meer dan 6.000 boeken; toen de Library of Congress afbrandde in 1814 verkocht hij zijn collectie als vervanging.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -17372,6 +17414,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De gids Sacagawea, een Shoshone vrouw, was cruciaal voor de expeditie.',
       'Ze reisden 12.800 km in tweeëneenhalf jaar.',
+      'Lewis nam zijn Newfoundlander-hond Seaman mee op de hele expeditie; de hond joeg beren weg van het kamp.',
+      'De expeditie ontdekte en documenteerde 178 planten en 122 dieren die onbekend waren in de westerse wetenschap.',
+      'Slechts een lid van de expeditie stierf onderweg, waarschijnlijk aan een gebarsten blindedarm – een opmerkelijk laag verlies.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -17389,6 +17434,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Lincoln was de grootste president in bijna alle historische peilingen.',
       'Hij was zo melancholisch dat tijdgenoten zich zorgen maakten; hij schreef gedichten over zelfmoord.',
+      'Lincoln werd op 14 april 1865 neergeschoten door John Wilkes Booth in Ford\'s Theatre terwijl hij naar een komedie keek.',
+      'Hij was een getalenteerd worstelaar in zijn jeugd en verloor slechts 1 van ongeveer 300 wedstrijden.',
+      'De Gettysburg Address duurde slechts 2 minuten, maar wordt beschouwd als een van de belangrijkste toespraken uit de Amerikaanse geschiedenis.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'approximate',
@@ -17406,6 +17454,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Meer Mexicanen en Chinezen stierven in het Wilde Westen dan cowboys in gunfights.',
       'Dodge City had in zijn bloeitijd maar 5 moorden per jaar; de mythe was groter dan de werkelijkheid.',
+      'Veel westerse steden hadden strenge wapenwetten: in Tombstone moest je je wapens inleveren bij aankomst.',
+      'Een op de vier cowboys was Afro-Amerikaans, maar Hollywood negeerde dit feit bijna volledig.',
+      'Buffalo Bill\'s Wild West Show, een rondreizend circus, vormde het romantische beeld van het Westen dat tot op heden voortleeft.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -17423,6 +17474,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Vier soldaten kregen de Medal of Honor voor Wounded Knee; er zijn nooit bewegingen geweest om die in te trekken.',
       'Het AIM-protest bij Wounded Knee in 1973 herbracht dit trauma in het publieke bewustzijn.',
+      'De Ghost Dance-beweging, een spirituele herleving die de terugkeer van de bizons beloofde, was de directe aanleiding voor het bloedbad.',
+      'Veel slachtoffers waren vrouwen en kinderen die probeerden te vluchten; lichamen werden tot 3 km van het kamp gevonden.',
+      'Chief Big Foot, de leider van de Lakota-groep, lag ziek aan longontsteking in zijn tent toen het geweld begon.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -17440,6 +17494,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De revolutie duurde minder dan een dag; Colombia stuurde soldaten maar die namen steekpenningen.',
       'Panama kreeg $10 miljoen voor de kanaalszone; Colombia ontving $25 miljoen als compensatie pas in 1921.',
+      'President Theodore Roosevelt stuurde 10 oorlogsschepen om te voorkomen dat Colombia troepen zou sturen om de opstand neer te slaan.',
+      'Philippe-Jean Bunau-Varilla, een Fransman, ondertekende het kanaalverdrag namens Panama – geen enkele Panamees was erbij aanwezig.',
+      'De bouw van het Panamakanaal kostte meer dan 25.000 arbeiders het leven, voornamelijk door malaria en gele koorts.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -17457,6 +17514,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Al Capone verdiende $60 miljoen per jaar aan illegale alcohol verkoop.',
       'Drooglegging werd ingetrokken toen de overheid de belastinginkomsten nodig had in de Depressie.',
+      'Wijnboeren omzeilden de wet door \'wijnstenen\' te verkopen met de waarschuwing: \'Los dit niet op in water, want dan krijgt u wijn.\'',
+      'Het alcoholgebruik daalde aanvankelijk met 30%, maar steeg daarna weer tot boven het pre-Prohibition niveau.',
+      'De kustwacht kon slechts 5% van de gesmokkelde alcohol onderscheppen; de grens met Canada was onmogelijk te bewaken.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -17474,6 +17534,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Steinbeck beschreef hun tocht in "The Grapes of Wrath".',
       'Californische boeren lieten migranten toe maar behandelden hen als minderwaardige arbeiders.',
+      'Tijdens de Dust Bowl verloor het Amerikaanse Midwesten naar schatting 300 miljoen ton vruchtbare grond per jaar.',
+      'Op "Black Sunday" (14 april 1935) raasde een stofstorm van 1.600 km breed over de prairies en maakte de dag zo donker als de nacht.',
+      'Ongeveer 2,5 miljoen mensen verlieten de Great Plains-staten tijdens de jaren dertig op zoek naar een beter leven.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -17491,6 +17554,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Sí se puede!" (Yes we can!) is Chávez\' leus – Obama gebruikte het in 2008.',
       'De druivenboycot van 1965-1970 was een van de langste succesvolle boycots in de arbeidersgeschiedenis.',
+      'Chávez vastte regelmatig als protestmiddel; zijn langste hongerstaking duurde 36 dagen.',
+      'De United Farm Workers vlag met de zwarte adelaar werd ontworpen door Chávez\' broer Richard.',
+      'Na zijn dood in 1993 werd Chávez postuum onderscheiden met de Presidential Medal of Freedom.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -17508,6 +17574,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een Sovjet-onderzeeër-officier, Vasily Arkhipov, weigerde nucleaire torpedo\'s te lanceren – waarmee hij mogelijk de wereld redde.',
       'Kennedy en Chroesjtsjov installeerden na de crisis een directe telefoonlijn: de "rode telefoon".',
+      'De VS had op dat moment 27.000 kernwapens tegenover 3.300 aan Sovjet-zijde.',
+      'Fidel Castro drong bij Chroesjtsjov aan op een nucleaire eerste aanval, maar werd genegeerd.',
+      'De crisis leidde direct tot het Kernstopverdrag van 1963, het eerste nucleaire wapenverdrag.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -17525,6 +17594,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nixon accepteerde genade voor misdaden die nooit bewezen waren; hij was schuldig.',
       'Het woord "-gate" wordt sindsdien aan elk politiek schandaal toegevoegd.',
+      'De informant "Deep Throat" bleek FBI-onderdirecteur Mark Felt te zijn, pas onthuld in 2005.',
+      'Nixon nam stiekem 3.700 uur aan gesprekken op in het Witte Huis; de tapes werden zijn ondergang.',
+      'Meer dan 40 regeringsfunctionarissen werden uiteindelijk aangeklaagd of veroordeeld door Watergate.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -17542,6 +17614,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Reagan verklaarde: "Government is not the solution to our problem; government is the problem."',
       'De inkomensongelijkheid in de VS begon onder Reagan te stijgen en deed dat 40 jaar lang.',
+      'Reagan verlaagde het toptarief inkomstenbelasting van 70% naar 28% in acht jaar tijd.',
+      'De staatsschuld van de VS verdrievoudigde onder Reagan van $900 miljard naar $2,7 biljoen.',
+      'Voor zijn politieke carrière was Reagan een Hollywood-acteur die in meer dan 50 films speelde.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -17559,6 +17634,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Amazonewoud produceert 20% van \'s werelds zuurstof en huisvest 10% van alle soorten op aarde.',
       'Brazilianische president Bolsonaro (2019-2022) versnelde de ontbossing dramatisch.',
+      'De Amazone-rivier voert meer water af dan de volgende zeven grootste rivieren samen.',
+      'Er leven naar schatting 400 inheemse stammen in het Amazonewoud, waarvan sommige nog nooit contact hadden met de buitenwereld.',
+      'Elk jaar gaat er een stuk regenwoud verloren ter grootte van België.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -17576,6 +17654,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'El Chapo onttsnapte tweemaal uit maximum-security gevangenissen voor zijn uitlevering aan de VS.',
       'Mexico is het op drie na gevaarlijkste land voor journalisten ter wereld.',
+      'Het Sinaloa-kartel had op zijn hoogtepunt een jaaromzet van naar schatting $3 miljard.',
+      'De Mexicaanse overheid zette meer dan 50.000 militairen in tegen de kartels.',
+      'Narcocorridos, populaire liedjes die drugslords verheerlijken, werden op sommige radiostations verboden.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -17593,6 +17674,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "Chicago Boys" economen transformeerden Chili tot een vrije marktlaboratorium.',
       'Pinochet werd in 1998 gearresteerd in Londen op Spaanse aanklacht, maar nooit berecht wegens dementie.',
+      'De CIA steunde actief de staatsgreep van 1973 tegen de democratisch gekozen president Allende.',
+      'Tijdens Pinochet\'s bewind verdwenen meer dan 1.200 mensen spoorloos, de zogenaamde "desaparecidos".',
+      'Het Nationaal Stadion van Santiago werd na de coup gebruikt als massaal detentiecentrum voor politieke gevangenen.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -17610,6 +17694,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Leider Abimael Guzmán was een universiteitsprofessor filosofie.',
       'Zijn arrestatie in 1992 leidde tot de snelle ineenstorting van de beweging.',
+      'Sendero Luminoso begon in de afgelegen regio Ayacucho, een van de armste gebieden van Peru.',
+      'De beweging financierde zich deels door cocaïnehandel in de Huallaga-vallei.',
+      'De Peruaanse Waarheidscommissie concludeerde in 2003 dat 75% van de slachtoffers Quechua-sprekende boeren waren.',
     ],
     popularityScore: 69,
     uncertaintyLevel: 'approximate',
@@ -17627,6 +17714,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Zapatistas stuurden hun communiqués via het internet – een van de eerste guerrillabewegingen die dit deed.',
       'Ze controleerden autonome gebieden in Chiapas die nog steeds buiten de Mexicaanse staatsmacht vallen.',
+      'Subcomandante Marcos, de woordvoerder, droeg altijd een bivakmuts en rookte pijp tijdens interviews.',
+      'De opstand duurde slechts 12 dagen voordat een staakt-het-vuren werd gesloten.',
+      'De Zapatistas richtten eigen scholen, klinieken en coöperaties op in hun autonome gebieden.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
@@ -17646,6 +17736,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Sankore universiteit had 25.000 studenten in de 15e eeuw – groter dan de Universiteit van Oxford.',
       'In Timbuktu zijn meer dan 700.000 middeleeuwse manuscripten bewaard, deels nu bedreigd.',
+      'Boeken waren in Timbuktu waardevoller dan goud; er bestond een bloeiende boekenhandel.',
+      'In 2012 smokkelden bibliothecarissen honderdduizenden manuscripten weg voor vernietiging door jihadisten.',
+      'De stad lag aan de kruising van de trans-Sahara handelsroutes voor goud, zout en slaven.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -17663,6 +17756,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij gaf zoveel goud weg in Egypte dat de goudprijs 10 jaar lang daalde.',
       'Zijn fortuin wordt op $400 miljard geschat in hedendaagse waarden.',
+      'Musa\'s karavaan naar Mekka telde 60.000 mensen en 80 kamelen beladen met elk 136 kilo goud.',
+      'Na de inflatie die hij veroorzaakte, leende Musa goud terug van Egyptische geldschieters om de economie te stabiliseren.',
+      'Musa verschijnt op de beroemde Catalaanse Atlas van 1375 als een Afrikaanse koning met een gouden scepter.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -17680,6 +17776,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Askia bedevaartde naar Mekka via Timbuktu; hij organiseerde de reis als diplomatiek offensief.',
       'Songhai was zo groot dat het meer dan 40 talen en honderden ethnische groepen omvatte.',
+      'Het Songhai-rijk werd in 1591 veroverd door een klein Marokkaans leger dat vuurwapens gebruikte tegen Songhai\'s cavalerie.',
+      'Askia voerde een professioneel ambtenarenapparaat in met belastinginners, rechters en provinciegouverneurs.',
+      'De stad Gao, de hoofdstad van Songhai, was een van de grootste steden van Afrika in de 16e eeuw.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -17697,6 +17796,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Aksum is een van de vier grootmachten die de Perzische koning noemde: naast Rome, China en Perzië.',
       'De obelisk van Aksum werd door Italië gestolen in 1935 en pas in 2008 teruggegeven.',
+      'Aksum was het eerste Afrikaanse rijk dat eigen munten sloeg, in goud, zilver en brons.',
+      'Het rijk bekeerde zich rond 330 n.Chr. tot het christendom, als een van de eerste staten ter wereld.',
+      'De Aksumitische steles zijn tot 33 meter hoog en behoren tot de grootste monolieten ooit opgericht.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -17714,6 +17816,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Britse troepen stalen in 1897 meer dan 4.000 bronzen objecten; ze zitten nog steeds in westerse musea.',
       'Nigeria eist al decennia de teruggave van de Benin-bronzen.',
+      'De bronzen werden gegoten met de verloren-wasmethode, een techniek die Europese experts verbaasde.',
+      'Het koninkrijk Benin had een geavanceerd systeem van stadsmuren dat langer was dan de Chinese Muur.',
+      'In 2022 begonnen Duitsland en andere landen met de teruggave van honderden Benin-bronzen aan Nigeria.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -17731,6 +17836,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De voormalige slavenmarkt van Zanzibar is nu een UNESCO-erfgoedsite; er staat een kerk op gebouwd.',
       'Sultan Bargash schafte de slavenhandel af in 1873 onder druk van de Britten.',
+      'Op het hoogtepunt werden jaarlijks circa 50.000 slaven via Zanzibar verhandeld.',
+      'Zanzibar was ook het centrum van de kruidnagelproductie en de grootste exporteur ter wereld.',
+      'De Arabisch-Zanzibaanse slavenhandel duurde meer dan 1.000 jaar en trof naar schatting 17 miljoen Oost-Afrikanen.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -17748,6 +17856,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Sokoto Kalifaat bestond uit 30 emiraten en had meer dan 10 miljoen inwoners.',
       'Zijn grenzen zijn nog zichtbaar in het moderne Noord-Nigeria.',
+      'Usman dan Fodio was niet alleen een militaire leider maar ook een productief schrijver van meer dan 100 boeken.',
+      'De Fulani-jihad inspireerde vergelijkbare islamitische hervormingsbewegingen in heel West-Afrika.',
+      'Het Sokoto Kalifaat bleef bestaan tot de Britse verovering in 1903, waarna de emirs als indirecte heersers bleven functioneren.',
     ],
     popularityScore: 67,
     uncertaintyLevel: 'approximate',
@@ -17765,6 +17876,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Op de Conferentie van Berlijn was slechts één Afrikaan aanwezig – een assistent van een Britse delegatie, niet als vertegenwoordiger van zijn volk.',
       'De grenzen die in Berlijn werden getrokken zijn op één na onveranderd gebleven; Afrika heeft meer rechte grenzen dan elk ander continent – een bewijs van hun kunstmatige oorsprong.',
+      'Alleen Ethiopië en Liberia bleven onafhankelijk tijdens de Scramble for Africa.',
+      'Koning Leopold II van België wist Congo als zijn persoonlijk bezit te claimen, niet als Belgische kolonie.',
+      'De conferentie duurde van november 1884 tot februari 1885, slechts drie maanden om een heel continent te verdelen.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -17782,6 +17896,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Cecil Rhodes droomde van een Brits Afrika van Kaap tot Caïro.',
       'De Kimberley-mijn is het grootste door mensen gegraven gat op aarde.',
+      'De eerste diamant in Zuid-Afrika werd in 1867 gevonden door een 15-jarige jongen aan de oever van de Oranjerivier.',
+      'De Beers controleerde op zijn hoogtepunt 90% van de wereldwijde diamantproductie.',
+      'Zwarte mijnwerkers werden gedwongen in afgesloten compounds te leven en werden bij vertrek gefouilleerd op gestolen stenen.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -17799,6 +17916,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Groot-Brittannië hield decennialang de concentratiekampdossiers geheim.',
       'In 2013 erkende Groot-Brittannië voor het eerst de martelingen en betaalde $30 miljoen aan slachtoffers.',
+      'Meer dan 1,5 miljoen Kikuyu werden in kampen opgesloten tijdens de noodtoestand.',
+      'De opstand versnelde uiteindelijk de Keniaanse onafhankelijkheid, die in 1963 werd bereikt.',
+      'Jomo Kenyatta, later de eerste president van Kenia, werd ten onrechte beschuldigd van leiderschap over de Mau Mau.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
