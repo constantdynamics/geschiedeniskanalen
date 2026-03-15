@@ -16,7 +16,18 @@ export type Category =
   | 'kolonialisme'
   | 'media';
 
-export type Region = 'europa' | 'azie' | 'afrika' | 'amerika' | 'oceanie';
+export type Region =
+  | 'europa'
+  | 'azie'
+  | 'afrika'
+  | 'amerika'
+  | 'oceanie'
+  | 'midden-oosten'
+  | 'centraal-azie'
+  | 'zuidoost-azie'
+  | 'latijns-amerika'
+  | 'caraiben'
+  | 'noord-afrika';
 
 export type UncertaintyLevel = 'exact' | 'approximate' | 'estimated';
 
@@ -28,6 +39,8 @@ export interface HistoricalEvent {
   start: number; // negative for BCE
   end: number;
   category: Category;
+  categories?: Category[]; // additional categories (multi-tag)
+  subCategory?: string; // free-form sub-category label
   region: Region;
   description: string;
   image: string; // emoji
@@ -37,6 +50,9 @@ export interface HistoricalEvent {
   uncertaintyLevel: UncertaintyLevel;
   wikipediaUrl?: string;
   relatedEvents: string[];
+  tags?: string[]; // freeform labels/tags
+  causes?: string[]; // event IDs that caused this event
+  effects?: string[]; // event IDs this event caused
 }
 
 export interface ZoomLevel {
@@ -86,6 +102,12 @@ export const REGION_CONFIG: Record<Region, { label: string; color: string }> = {
   afrika: { label: 'Afrika', color: '#10B981' },
   amerika: { label: "Amerika's", color: '#EF4444' },
   oceanie: { label: 'Oceanië', color: '#8B5CF6' },
+  'midden-oosten': { label: 'Midden-Oosten', color: '#F97316' },
+  'centraal-azie': { label: 'Centraal-Azië', color: '#84CC16' },
+  'zuidoost-azie': { label: 'Zuidoost-Azië', color: '#EAB308' },
+  'latijns-amerika': { label: 'Latijns-Amerika', color: '#EC4899' },
+  caraiben: { label: 'Caraïben', color: '#06B6D4' },
+  'noord-afrika': { label: 'Noord-Afrika', color: '#A16207' },
 };
 
 export const ZOOM_LEVELS: ZoomLevel[] = [

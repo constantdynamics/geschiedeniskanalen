@@ -1,4 +1,4 @@
-import { X, ExternalLink, Lightbulb, HelpCircle, Link2 } from 'lucide-react';
+import { X, ExternalLink, Lightbulb, HelpCircle, Link2, ArrowRight, ArrowLeft, Tag } from 'lucide-react';
 import type { HistoricalEvent } from '../types';
 import { CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
 
@@ -23,11 +23,23 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
     .map((id) => allEvents.find((e) => e.id === id))
     .filter(Boolean) as HistoricalEvent[];
 
+  const causeEvents = (event.causes ?? [])
+    .map((id) => allEvents.find((e) => e.id === id))
+    .filter(Boolean) as HistoricalEvent[];
+
+  const effectEvents = (event.effects ?? [])
+    .map((id) => allEvents.find((e) => e.id === id))
+    .filter(Boolean) as HistoricalEvent[];
+
   // Find contemporaneous events (overlapping in time, different event)
   const contemporaneous = allEvents
     .filter((e) => e.id !== event.id && e.start <= event.end && e.end >= event.start)
     .sort((a, b) => b.popularityScore - a.popularityScore)
     .slice(0, 5);
+
+  const extraCats = (event.categories ?? []).filter((c) => c !== event.category);
+  const wikipediaUrl = event.wikipediaUrl
+    ?? `https://nl.wikipedia.org/wiki/${encodeURIComponent(event.name)}`;
 
   return (
     <div className="w-96 bg-surface-light border-l border-border h-full overflow-y-auto flex flex-col">
@@ -37,6 +49,9 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
           <div className="flex-1">
             <div className="text-3xl mb-2">{event.image}</div>
             <h2 className="text-lg font-bold text-text-primary leading-tight">{event.name}</h2>
+            {event.subCategory && (
+              <div className="text-xs text-text-secondary mt-0.5">{event.subCategory}</div>
+            )}
           </div>
           <button
             onClick={onClose}
@@ -54,6 +69,18 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
           >
             {cat.icon} {cat.label}
           </span>
+          {extraCats.map((c) => {
+            const cfg = CATEGORY_CONFIG[c];
+            return (
+              <span
+                key={c}
+                className="text-xs px-2 py-1 rounded-md font-medium"
+                style={{ backgroundColor: cfg.color + '15', color: cfg.color }}
+              >
+                {cfg.icon} {cfg.label}
+              </span>
+            );
+          })}
           <span
             className="text-xs px-2 py-1 rounded-md font-medium"
             style={{ backgroundColor: reg.color + '20', color: reg.color }}
@@ -66,6 +93,18 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
             </span>
           )}
         </div>
+
+        {/* Tags */}
+        {event.tags && event.tags.length > 0 && (
+          <div className="px-4 pb-3 flex flex-wrap gap-1.5">
+            {event.tags.map((tag) => (
+              <span key={tag} className="flex items-center gap-1 text-xs px-2 py-0.5 bg-surface rounded-full border border-border text-text-secondary">
+                <Tag size={9} />
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
 
       {/* Content */}
@@ -80,6 +119,63 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
 
         {/* Description */}
         <p className="text-sm text-text-secondary leading-relaxed">{event.description}</p>
+
+        {/* Cause-effect chain */}
+        {causeEvents.length > 0 && (
+          <div>
+            <div className="flex items-center gap-1.5 mb-2">
+              <ArrowLeft size={14} className="text-orange-400" />
+              <span className="text-xs font-semibold text-text-primary uppercase tracking-wider">Oorzaken</span>
+            </div>
+            <div className="space-y-1">
+              {causeEvents.map((e) => (
+                <button
+                  key={e.id}
+                  onClick={() => onNavigateToEvent(e.id)}
+                  className="w-full text-left px-3 py-2 rounded-lg bg-orange-900/20 hover:bg-orange-900/30 border border-orange-500/20 transition-colors group"
+                >
+                  <div className="flex items-center gap-2">
+                    <span>{e.image}</span>
+                    <div className="flex-1 min-w-0">
+                      <div className="text-xs font-medium text-text-primary truncate group-hover:text-orange-400 transition-colors">
+                        {e.name}
+                      </div>
+                      <div className="text-xs text-text-secondary">{formatYear(e.start)}</div>
+                    </div>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {effectEvents.length > 0 && (
+          <div>
+            <div className="flex items-center gap-1.5 mb-2">
+              <ArrowRight size={14} className="text-emerald-400" />
+              <span className="text-xs font-semibold text-text-primary uppercase tracking-wider">Gevolgen</span>
+            </div>
+            <div className="space-y-1">
+              {effectEvents.map((e) => (
+                <button
+                  key={e.id}
+                  onClick={() => onNavigateToEvent(e.id)}
+                  className="w-full text-left px-3 py-2 rounded-lg bg-emerald-900/20 hover:bg-emerald-900/30 border border-emerald-500/20 transition-colors group"
+                >
+                  <div className="flex items-center gap-2">
+                    <span>{e.image}</span>
+                    <div className="flex-1 min-w-0">
+                      <div className="text-xs font-medium text-text-primary truncate group-hover:text-emerald-400 transition-colors">
+                        {e.name}
+                      </div>
+                      <div className="text-xs text-text-secondary">{formatYear(e.start)}</div>
+                    </div>
+                  </div>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
 
         {/* Fun Facts */}
         {event.funFacts.length > 0 && (
@@ -166,18 +262,16 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
           </div>
         )}
 
-        {/* Wikipedia link */}
-        {event.wikipediaUrl && (
-          <a
-            href={event.wikipediaUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors"
-          >
-            <ExternalLink size={14} />
-            Lees meer op Wikipedia
-          </a>
-        )}
+        {/* Wikipedia / Tell me more */}
+        <a
+          href={wikipediaUrl}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 w-full px-3 py-2.5 bg-blue-500/10 hover:bg-blue-500/20 border border-blue-500/30 rounded-lg text-sm text-blue-400 hover:text-blue-300 transition-colors font-medium"
+        >
+          <ExternalLink size={14} />
+          Vertel me meer — Wikipedia
+        </a>
       </div>
 
       {/* Popularity score */}

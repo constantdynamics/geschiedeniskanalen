@@ -7,8 +7,9 @@ export const TOTAL_YEARS = MAX_YEAR - MIN_YEAR;
 
 export function filterEvents(events: HistoricalEvent[], filters: FilterState): HistoricalEvent[] {
   return events.filter((event) => {
-    if (filters.categories.length > 0 && !filters.categories.includes(event.category)) {
-      return false;
+    if (filters.categories.length > 0) {
+      const eventCats = [event.category, ...(event.categories ?? [])];
+      if (!filters.categories.some((c) => eventCats.includes(c))) return false;
     }
     if (filters.regions.length > 0 && !filters.regions.includes(event.region)) {
       return false;
