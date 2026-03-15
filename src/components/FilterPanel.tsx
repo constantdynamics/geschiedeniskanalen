@@ -4,6 +4,7 @@ import { ChevronDown, ChevronUp, Filter, Search, BarChart3, Info, X } from 'luci
 import type { FilterState, Category, Region, HistoricalEvent } from '../types';
 import { CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
 import { APP_VERSION } from '../version';
+import YearRangeFilter from './YearRangeFilter';
 
 interface FilterPanelProps {
   filters: FilterState;
@@ -95,7 +96,7 @@ export default function FilterPanel({ filters, onChange, events, filteredCount, 
   };
 
   const clearAll = () => {
-    onChange({ categories: [], regions: [], colorMode: filters.colorMode, searchQuery: '' });
+    onChange({ categories: [], regions: [], colorMode: filters.colorMode, searchQuery: '', yearRange: undefined });
     setShowSuggestions(false);
   };
 
@@ -135,7 +136,7 @@ export default function FilterPanel({ filters, onChange, events, filteredCount, 
     ).length;
   }, [events, filters.searchQuery]);
 
-  const activeCount = filters.categories.length + filters.regions.length + (filters.searchQuery ? 1 : 0);
+  const activeCount = filters.categories.length + filters.regions.length + (filters.searchQuery ? 1 : 0) + (filters.yearRange ? 1 : 0);
 
   const handleSuggestionClick = (event: HistoricalEvent) => {
     setShowSuggestions(false);
@@ -247,6 +248,12 @@ export default function FilterPanel({ filters, onChange, events, filteredCount, 
                 </div>
               )}
             </div>
+
+            {/* Year range filter */}
+            <YearRangeFilter
+              value={filters.yearRange}
+              onChange={(range) => onChange({ ...filters, yearRange: range })}
+            />
 
             {/* Color mode toggle */}
             <div className="p-3 border-b border-border">

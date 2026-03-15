@@ -52,6 +52,7 @@ export interface FilterState {
   regions: Region[];
   colorMode: ColorMode;
   searchQuery: string;
+  yearRange?: [number, number]; // [startYear, endYear], undefined = no filter
 }
 
 export interface ViewState {

@@ -13,6 +13,11 @@ export function filterEvents(events: HistoricalEvent[], filters: FilterState): H
     if (filters.regions.length > 0 && !filters.regions.includes(event.region)) {
       return false;
     }
+    if (filters.yearRange) {
+      const [rangeStart, rangeEnd] = filters.yearRange;
+      // Event must overlap the selected year range
+      if (event.end < rangeStart || event.start > rangeEnd) return false;
+    }
     if (filters.searchQuery) {
       const q = filters.searchQuery.toLowerCase();
       return (
