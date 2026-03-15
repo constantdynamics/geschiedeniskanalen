@@ -12,7 +12,8 @@ import Legend from './components/Legend';
 import EventDetail from './components/EventDetail';
 import Tooltip from './components/Tooltip';
 import DiscoverySpinner from './components/DiscoverySpinner';
-import { Clock } from 'lucide-react';
+import ContextMenu from './components/ContextMenu';
+import { Clock, Sun, Moon } from 'lucide-react';
 import { APP_VERSION } from './version';
 
 function App() {
@@ -27,6 +28,13 @@ function App() {
   });
 
   const [searchFocusTrigger, setSearchFocusTrigger] = useState(0);
+  const [theme, setTheme] = useState<'dark' | 'light'>('dark');
+
+  const [contextMenu, setContextMenu] = useState<{
+    event: import('./types').HistoricalEvent;
+    x: number;
+    y: number;
+  } | null>(null);
 
   const [tooltip, setTooltip] = useState<{
     event: HistoricalEvent;
@@ -125,6 +133,20 @@ function App() {
     handleNavigateToEvent(event.id);
   }, [filteredEvents, handleNavigateToEvent]);
 
+  const handleContextMenu = useCallback(
+    (event: import('./types').HistoricalEvent, x: number, y: number) => {
+      setContextMenu({ event, x, y });
+    },
+    []
+  );
+
+  const handleLongPress = useCallback(
+    (event: import('./types').HistoricalEvent, x: number, y: number) => {
+      setTooltip({ event, x, y });
+    },
+    []
+  );
+
   const handleDiscoverySelect = useCallback(
     (event: HistoricalEvent) => {
       handleNavigateToEvent(event.id);
@@ -215,7 +237,7 @@ function App() {
   }, []);
 
   return (
-    <div className="h-screen w-screen flex flex-col bg-surface overflow-hidden">
+    <div className="h-screen w-screen flex flex-col bg-surface overflow-hidden" data-theme={theme}>
       {/* Header bar */}
       <header className="flex items-center gap-4 px-4 py-2.5 bg-surface-light/80 backdrop-blur-md border-b border-border shrink-0">
         <div className="flex items-center gap-2">
@@ -225,6 +247,14 @@ function App() {
           </h1>
           <span className="text-xs text-text-secondary/50 font-mono">v{APP_VERSION}</span>
         </div>
+
+        <button
+          onClick={() => setTheme((t) => (t === 'dark' ? 'light' : 'dark'))}
+          className="p-1.5 rounded-lg hover:bg-surface-lighter text-text-secondary hover:text-text-primary transition-colors border border-border"
+          title={theme === 'dark' ? 'Schakel naar licht thema' : 'Schakel naar donker thema'}
+        >
+          {theme === 'dark' ? <Sun size={14} /> : <Moon size={14} />}
+        </button>
 
         <div className="h-5 w-px bg-border" />
 
@@ -275,6 +305,9 @@ function App() {
               onEventHover={handleEventHover}
               width={dimensions.width}
               height={dimensions.height}
+              theme={theme}
+              onContextMenu={handleContextMenu}
+              onLongPress={handleLongPress}
             />
           )}
 
@@ -323,6 +356,30 @@ function App() {
 
       {/* Discovery Spinner FAB */}
       <DiscoverySpinner events={historicalEvents} onSelectEvent={handleDiscoverySelect} />
+
+      {/* Context menu */}
+      {contextMenu && (
+        <ContextMenu
+          event={contextMenu.event}
+          x={contextMenu.x}
+          y={contextMenu.y}
+          onClose={() => setContextMenu(null)}
+          onViewDetail={() => {
+            handleNavigateToEvent(contextMenu.event.id);
+            setContextMenu(null);
+          }}
+          onOpenWikipedia={() => {
+            const url = contextMenu.event.wikipediaUrl
+              ?? `https://nl.wikipedia.org/wiki/${encodeURIComponent(contextMenu.event.name)}`;
+            window.open(url, '_blank', 'noopener,noreferrer');
+            setContextMenu(null);
+          }}
+          onRandomEvent={() => {
+            handleRandomEvent();
+            setContextMenu(null);
+          }}
+        />
+      )}
     </div>
   );
 }
