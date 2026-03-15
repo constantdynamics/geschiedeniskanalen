@@ -19904,6 +19904,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Beethoven moest na de première worden omgedraaid door een soliste om het applaus te kunnen zien; hij was zo doof dat hij het geluid volledig miste.',
       'De "Ode aan de Vreugde" tekst is gebaseerd op een gedicht van Friedrich Schiller uit 1785; Beethoven werkte al decennia aan de muziekzetting ervan.',
+      'Beethoven componeerde zijn beroemdste werken terwijl hij geleidelijk doof werd; hij zaagde de poten van zijn piano af om de trillingen via de vloer te voelen.',
+      'De Negende Symfonie duurt precies 74 minuten; dit werd later de maximale speelduur van een cd, naar verluidt op verzoek van Sony-directeur Norio Ohga.',
+      'Beethoven was zo onverzorgd dat de politie hem eens oppakte als zwerver; hij eiste dat ze de burgemeester belden om zijn identiteit te bevestigen.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -19921,6 +19924,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Augustus de Sterke van Saksen ruilde 600 Pruisische dragonders voor 151 grote porseleinen vazen bij de Pruisische koning – porselein was letterlijk meer waard dan soldaten.',
       'Het Europese Meissner-porselein werd uitgevonden na 1708, toen alchemist Johann Friedrich Böttger de Europese versie van het productieproces ontdekte.',
+      'De stad Jingdezhen produceerde op haar hoogtepunt jaarlijks miljoenen stukken porselein en had meer dan 3.000 ovens in bedrijf.',
+      'Het geheim van porselein lag in kaolien (China-klei) en de extreem hoge baktemperatuur van 1.300°C, die Europeanen lang niet konden bereiken.',
+      'Delftse tegels en aardewerk waren een Nederlandse poging om Chinees porselein te imiteren, maar het was technisch inferieur blauw-wit aardewerk.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -19938,6 +19944,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Van Gogh werd in zijn leven als mislukt beschouwd; hij schreef meer dan 800 brieven aan zijn broer Theo die samen een uniek document over zijn kunst en leven vormen.',
       'De Sterrennacht werd geschilderd in het gesticht Saint-Paul-de-Mausole; de wervelende wolken zouden een nauwkeurige weergave kunnen zijn van turbulente luchtstromen.',
+      'Van Gogh sneed een deel van zijn linkeroor af na een ruzie met Paul Gauguin; het exacte motief is nog steeds onderwerp van debat.',
+      'Zijn schilderij "Portrait of Dr. Gachet" werd in 1990 verkocht voor 82,5 miljoen dollar – op dat moment het duurste schilderij ooit.',
+      'Van Gogh stierf op 37-jarige leeftijd aan een schotwond; of het zelfmoord was of een ongeluk met twee jongens is nog steeds omstreden.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -19955,6 +19964,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Louis Armstrong werd als kind in New Orleans opgepakt voor het illegaal afvuren van een pistool op oudejaarsavond; in het correctiehuis leerde hij trompet spelen.',
       'Jazz was de eerste muziekstijl die specifiek als "Amerikaans" werd beschouwd en de eerste globale invloed van de Amerikaanse cultuur op de wereld.',
+      'De Sovjet-Unie probeerde jazz te verbieden als "decadent" maar het werd juist populair als symbool van vrijheid achter het IJzeren Gordijn.',
+      'Duke Ellington componeerde meer dan 1.000 muziekstukken en trad bijna 50 jaar lang nagenoeg elke avond op met zijn orkest.',
+      'New Orleans brass bands die op begrafenissen speelden zijn de directe voorlopers van jazz; ze speelden droevige muziek naar het kerkhof en vrolijke muziek terug.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -19972,6 +19984,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mary Shelley schreef Frankenstein tijdens een beroemde schrijfwedstrijd met Lord Byron en Percy Shelley in een villa bij het meer van Genève in 1816 – ze was slechts 18 jaar oud.',
       'Lord Byron was zo populair dat vrouwen flauwvielen bij zijn optredens – hij was de eerste echte literary celebrity, het 19e-eeuwse equivalent van een popster.',
+      'Goethe\'s "Die Leiden des jungen Werthers" veroorzaakte een golf van copycat-zelfmoorden in Europa; het boek werd in meerdere landen verboden.',
+      'Byron stierf op 36-jarige leeftijd in Griekenland waar hij meevocht in de onafhankelijkheidsoorlog tegen de Ottomanen.',
+      'Frankenstein wordt beschouwd als de eerste sciencefictionroman en als een profetische waarschuwing voor de gevolgen van ongecontroleerde technologie.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -19989,6 +20004,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De vroegste bewaard gebleven foto toont een dakvenster in Bourgondië; de belichting duurde acht uur, waardoor de zon aan beide kanten tegelijkertijd zichtbaar lijkt.',
       'Na de introductie van fotografie vroegen veel mensen zich af of schilderkunst nog bestaansrecht had; dit stimuleerde juist de abstracte en impressionistische revolutie.',
+      'De eerste portretfoto vereiste minuten stilzitten; mensen moesten hun hoofd in een klem plaatsen om bewegingsonscherpte te voorkomen.',
+      'Kodak lanceerde in 1888 de eerste consumptiecamera met de slogan "You press the button, we do the rest" en democratiseerde fotografie.',
+      'De oudste bewaarde selfie stamt uit 1839, gemaakt door Robert Cornelius in Philadelphia; hij moest vijf minuten roerloos voor de camera zitten.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -20006,6 +20024,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Steen van Rosetta bevat dezelfde tekst in drie schriften: hiëroglyfen, Demotisch en Grieks; het Grieks was de sleutel tot de vertaling.',
       'Champollion was zo opgewonden bij zijn doorbraak dat hij zijn broer een brief schreef "Je tiens l\'affaire!" (Ik heb het!) en vervolgens vijf dagen bewusteloos viel.',
+      'De Steen van Rosetta werd in 1799 gevonden door een Franse soldaat tijdens Napoleons veldtocht in Egypte en is nu het beroemdste object in het British Museum.',
+      'Hiëroglyfen zijn geen pictogrammen maar een complexe mix van fonetische en ideografische tekens met meer dan 700 symbolen.',
+      'Champollion stierf op slechts 41-jarige leeftijd, slechts tien jaar na zijn grote doorbraak, vermoedelijk aan een beroerte.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20023,6 +20044,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Utzon won de Pritzker-prijs (de architectuurNobel) in 2003, maar heeft het voltooide gebouw nooit bezocht na zijn conflict met de Australische overheid.',
       'Het gebouw biedt meer dan 1.000 optredens per jaar; de akoestiek van de concertzaal geldt als een van de beste ter wereld.',
+      'De iconische schelpdaken zijn bedekt met meer dan een miljoen witte en crèmekleurige Zweedse tegels die zichzelf schoonwassen in de regen.',
+      'Utzon verliet Australië in 1966 uit frustratie over overheidsinmenging en zag het afgewerkte gebouw nooit met eigen ogen.',
+      'De bouwkosten werden grotendeels gedekt door een speciale loterij die de staat New South Wales opzette.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -20040,6 +20064,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Maya kalender was nauwkeuriger dan de Europese Juliaanse kalender; hun jaar was slechts 17,28 seconden af per jaar van de werkelijke zonneomloop.',
       'Van de tientallen Maya-codices die bestonden, verbrandden de Spaanse missionarissen er bijna alle; slechts vier hebben de vernieling overleefd.',
+      'De Maya\'s speelden een balspel (pok-ta-pok) waarbij de verliezers soms werden geofferd; het spel had diepe religieuze betekenis.',
+      'Maya-steden werden verlaten rond 900 n.Chr. om nog steeds onbegrepen redenen; droogte, oorlog en overbevolking zijn de meest genoemde hypothesen.',
+      'De Maya\'s kenden het concept van nul als wiskundig getal, onafhankelijk van en eerder dan de Europese beschaving.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -20057,6 +20084,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een Gutenberg-Bijbel kost nu meer dan 25 miljoen dollar op veilingen; er zijn slechts 49 complete exemplaren bewaard gebleven.',
       'De drukpers was zo revolutionair dat de Kerk en overheden al snel censuur probeerden in te voeren; de "Index Librorum Prohibitorum" was de katholieke lijst van verboden boeken.',
+      'Gutenberg ging failliet en verloor zijn drukkerij aan zijn investeerder Johann Fust; hij stierf in relatieve armoede.',
+      'Binnen 50 jaar na de uitvinding waren er al meer dan 20 miljoen boeken gedrukt in Europa – meer dan alle kopiisten in duizend jaar hadden geproduceerd.',
+      'De drukpers maakte de Reformatie mogelijk: Luthers 95 stellingen werden binnen weken over heel Duitsland verspreid dankzij de pers.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'approximate',
@@ -20076,6 +20106,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Darwin verzamelde zijn bewijsmateriaal tijdens een vijfjarige expeditie op de Beagle (1831-1836); de Galapagos-eilanden met hun unieke fauna waren cruciaal voor zijn inzichten.',
       'Darwin wachtte 20 jaar met publiceren uit angst voor de religieuze reactie; hij publiceerde pas toen hij hoorde dat Alfred Russel Wallace dezelfde theorie onafhankelijk had ontwikkeld.',
+      'Darwin trouwde met zijn nicht Emma Wedgwood en maakte letterlijk een lijst van voor- en nadelen van het huwelijk voordat hij een besluit nam.',
+      'De eerste oplage van "On the Origin of Species" was in één dag uitverkocht; het boek werd onmiddellijk een bestseller en het meest bediscussieerde wetenschappelijke werk.',
+      'Darwin at tijdens zijn reis op de Beagle exotische dieren op waaronder reuzenschildpadden en leguanen, en hield nauwkeurig bij hoe ze smaakten.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -20093,6 +20126,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Einstein won de Nobelprijs voor de Natuurkunde in 1921, niet voor zijn relativiteitstheorie, maar voor zijn verklaring van het foto-elektrisch effect.',
       'Na zijn dood in 1955 verwijderde de patholoog Thomas Harvey eigenmachtig Einsteins hersenen en bewaarde ze 43 jaar lang in glazen potten voordat ze werden teruggegeven.',
+      'Einstein vluchtte in 1933 uit Nazi-Duitsland naar de VS en waarschuwde president Roosevelt per brief voor de mogelijkheid van een atoombom.',
+      'E=mc² betekent dat een klein beetje massa enorm veel energie bevat; de energie in een paperclip zou theoretisch een stad kunnen vernietigen.',
+      'Einstein kreeg het presidentschap van Israël aangeboden in 1952 maar weigerde beleefd omdat hij vond dat hij de diplomatieke vaardigheden miste.',
     ],
     popularityScore: 93,
     uncertaintyLevel: 'exact',
@@ -20110,6 +20146,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het project had gepland 15 jaar te duren maar werd sneller door een rivaliteit met de particuliere onderneming van Craig Venter, die beweerde het voor minder geld en sneller te kunnen.',
       'Mensen en chimpansees delen 98,8% van hun DNA; mensen en muizen delen ca. 85%.',
+      'Het menselijk genoom bevat slechts circa 20.000 genen – verrassend weinig; een rijstplant heeft er meer dan 30.000.',
+      'De kosten van het sequencen van een menselijk genoom daalden van 2,7 miljard dollar in 2003 naar minder dan 200 dollar in 2023.',
+      'Meer dan 98% van het menselijk DNA codeert niet voor eiwitten en werd aanvankelijk "junk-DNA" genoemd, hoewel het belangrijke regulerende functies blijkt te hebben.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20127,6 +20166,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Fleming verliet zijn laboratorium voor vakantie en vergat zijn kweekschaaltjes schoon te maken; de schimmel die er opgroeide was zijn gelukkige ontdekking.',
       'Bacteriële resistentie tegen antibiotica is nu een van de grootste bedreigingen voor de volksgezondheid; de "post-antibiotica wereld" is een serieus wetenschappelijk scenario.',
+      'Fleming deelde de Nobelprijs voor Geneeskunde in 1945 met Howard Florey en Ernst Boris Chain, die penicilline bruikbaar maakten voor massaproductie.',
+      'Penicilline redde naar schatting meer dan 200 miljoen levens sinds de introductie en is nog steeds een van de meest voorgeschreven antibiotica.',
+      'In de Tweede Wereldoorlog was penicilline zo schaars dat de urine van behandelde soldaten werd verzameld om het antibioticum terug te winnen.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -20144,6 +20186,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Wright Brothers hadden geen wetenschappelijke opleiding; ze waren fietsenmakers die de luchtvaart uit pure fascinatie en systematisch experiment achterhaalden.',
       'Niemand fotografeerde de historische vlucht; de beroemde foto is van de vierde vlucht die dag, die 59 seconden duurde.',
+      'De New York Times schreef in 1903 dat vliegen over 1 tot 10 miljoen jaar mogelijk zou worden; 66 jaar later landde een mens op de maan.',
+      'De Wrights bouwden hun eigen windtunnel in hun fietsenwinkel om vleugelprofiel te testen – ze waren methodischer dan veel universitaire onderzoekers.',
+      'Orville Wright leefde lang genoeg om de geluidsbarrière te zien doorbroken (1947) en de eerste straaljagers te zien vliegen.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -20161,6 +20206,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het eerste bericht ooit over ARPANET was "LO" – de computer crashte voor het derde teken van "LOGIN" kon worden verstuurd.',
       'Tim Berners-Lee weigerde zijn uitvinding te patenteren en schonk de technologie aan de mensheid; hij gaf daarmee miljarden dollars weg.',
+      'De eerste website ooit (info.cern.ch) bevatte informatie over het World Wide Web zelf en is nog steeds online.',
+      'In 1993 waren er slechts 130 websites; in 2023 waren het er meer dan 1,8 miljard.',
+      'Het ARPANET was ontworpen om nucleaire aanvallen te overleven door communicatie via meerdere routes mogelijk te maken.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -20178,6 +20226,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Schrödingers kat is een gedachte-experiment bedoeld om de absurditeit van kwantum-superpositie te illustreren: een kat die tegelijkertijd levend en dood is.',
       'Richard Feynman zei: "Als u denkt dat u kwantummechanica begrijpt, begrijpt u kwantummechanica niet." – zelfs de grondleggers waren verbaasd door de implicaties.',
+      'Einstein weigerde kwantummechanica volledig te accepteren en zei: "God dobbelt niet" – Bohr antwoordde: "Stop met God te vertellen wat te doen."',
+      'Kwantumcomputers gebruiken superpositie om berekeningen miljarden keren sneller uit te voeren dan klassieke computers voor bepaalde problemen.',
+      'Het Heisenberg-onzekerheidsprincipe stelt dat je de positie en snelheid van een deeltje niet tegelijkertijd exact kunt meten.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20195,6 +20246,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kepler schreef ook Somnium, een science-fictionverhaal over reizen naar de maan, dat wordt beschouwd als een van de vroegste sciencefictionwerken.',
       'Keplers moeder werd beschuldigd van hekserij; hij besteedde zes jaar aan haar verdediging om executie te voorkomen.',
+      'Kepler gebruikte de gegevens van Tycho Brahe, die hij na diens dood in bezit kreeg; er zijn geruchten dat Kepler Brahe vergiftigde, maar dit is nooit bewezen.',
+      'Keplers eerste wet stelt dat planeten in ellipsbanen om de zon draaien, niet in cirkels – dit was een radicale breuk met 2.000 jaar astronomie.',
+      'Kepler verdiende zijn brood met het maken van horoscopen voor edellieden, hoewel hij zelf niet in astrologie geloofde.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20212,6 +20266,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Newton zei beroemd dat hij "op de schouders van reuzen stond" – een verwijzing naar alle wetenschappers voor hem; maar het was ook een steek naar zijn rivaal Robert Hooke, die klein van stuk was.',
       'De Wetenschappelijke Revolutie vond plaats tegelijk met de Reformatie; beide revoluties ondermijnden de autoriteit van de Kerk als enige bron van waarheid.',
+      'Francis Bacon formuleerde de wetenschappelijke methode: hypothese, experiment, observatie en conclusie – een procedure die de wetenschap tot op heden volgt.',
+      'De Royal Society (1660) en de Académie des Sciences (1666) waren de eerste wetenschappelijke genootschappen die kennis systematisch deelden.',
+      'Galileo publiceerde bewust in het Italiaans in plaats van het Latijn zodat gewone mensen zijn werk konden lezen – een revolutionaire daad.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -20229,6 +20286,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Watt bedacht het begrip "paardenkracht" (horsepower) als marketing voor zijn machines: hij definieerde het als het vermogen van een gemiddeld paard om steenkool omhoog te hijsen.',
       'Watt deed er 12 jaar over om zijn verbeterde stoommachine te perfectioneren; zijn zakenpartner Matthew Boulton was cruciaal voor de financiering en commercialisering.',
+      'De eerste stoommachines werden gebruikt om water uit mijnen te pompen; pas later werden ze ingezet voor fabrieken en transport.',
+      'Watt was ook een succesvol uitvinder van kopieerpers en een verbeterde olielamp naast zijn beroemde stoommachine.',
+      'De eenheid van vermogen "watt" (en kilowatt) is naar James Watt vernoemd als erkenning voor zijn bijdrage aan de Industriële Revolutie.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -20246,6 +20306,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Edison had meer dan 1.000 octrooien op zijn naam; hij was minder een uitvinder dan een innovatief industrieel die teams van onderzoekers aanstuurde.',
       'Tesla verkocht zijn wisseltstroompatenten aan Westinghouse voor een eenmalige betaling; hij eindigde zijn leven in armoede terwijl zijn uitvindingen de wereld van stroom voorzagen.',
+      'Edison elektrificeerde een olifant publiekelijk om te bewijzen dat wisselstroom gevaarlijk was – een gruwelijke propagandastunt.',
+      'De eerste straat ter wereld met elektrische verlichting was Pearl Street in Manhattan (1882), aangedreven door Edisons centrale.',
+      'Tesla beweerde dat hij signalen van buitenaardse wezens had ontvangen; hij werkte in zijn latere jaren aan steeds excentriekere projecten.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -20263,6 +20326,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Edmund Hillary en Tenzing Norgay bereikten de top van de Everest op 29 mei 1953, net op tijd voor de kroning van koningin Elizabeth II op 2 juni.',
       'Tenzing Norgay was de eerste die de top bereikte – maar beiden presenteerden het als een gezamenlijk moment uit respect voor elkaar.',
+      'Watson en Crick gebruikten cruciale röntgenfoto\'s van Rosalind Franklin zonder haar toestemming; ze ontving nooit de erkenning die ze verdiende.',
+      'De dubbele helixstructuur van DNA lijkt op een wenteltrap en bevat de genetische code in slechts vier letters: A, T, C en G.',
+      'Hillary werd na zijn beklimming geridderd door koningin Elizabeth II en besteedde de rest van zijn leven aan hulpprojecten voor de Sherpa-bevolking.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -20280,6 +20346,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Aids werd aanvankelijk beschouwd als een "homoziekte" en genegeerd door de Reagan-administratie; activisten als Larry Kramer dwongen met acties van ACT UP sneller onderzoek af.',
       'In sub-Sahara Afrika treft aids vrouwen onevenredig zwaar; in sommige landen is meer dan 25% van de vrouwen besmet.',
+      'De AIDS Memorial Quilt, begonnen in 1987, bevat meer dan 50.000 panelen en is het grootste gemeenschapskunstproject ter wereld.',
+      'Freddie Mercury van Queen, een van de beroemdste aidsslachtoffers, maakte zijn diagnose pas één dag voor zijn dood in 1991 bekend.',
+      'Antiretrovirale therapie (HAART) transformeerde aids van een doodvonnis naar een chronische ziekte; patiënten kunnen nu een normaal leven leiden.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20297,6 +20366,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De mRNA-vaccins van Pfizer-BioNTech en Moderna werden in minder dan een jaar ontwikkeld – een record; traditioneel duurt vaccinontwikkeling 10-15 jaar.',
       'Tijdens de lockdowns daalde de CO2-uitstoot tijdelijk, maar ook werden armoede en ongelijkheid wereldwijd vergroot.',
+      'De mRNA-technologie achter de vaccins was al decennialang in ontwikkeling door Katalin Karikó, die jarenlang werd afgewezen voor financiering.',
+      'China bouwde in Wuhan in slechts 10 dagen een ziekenhuis met 1.000 bedden – een bouwproject dat live werd gestreamd en miljoenen kijkers trok.',
+      'Het woord "corona" verwijst naar de kroonvormige uitsteeksels op het virus die zichtbaar zijn onder een elektronenmicroscoop.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'approximate',
@@ -20314,6 +20386,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste metingen in 1958 toonden 315 ppm CO2; in 2023 werd voor het eerst 422 ppm bereikt – een stijging van 34% in 65 jaar.',
       'Keeling moest zijn financiering herhaaldelijk verdedigen omdat sommigen de metingen zinloos vonden; hij bleef meten tot zijn dood in 2005.',
+      'De seizoensgebonden schommelingen in de Keeling Curve laten zien hoe de aarde "ademt": CO2 daalt in de zomer als planten groeien en stijgt in de winter.',
+      'Mauna Loa werd gekozen als meetlocatie omdat het ver verwijderd is van industriële bronnen en de lucht er zeer schoon is.',
+      'De huidige CO2-concentratie is hoger dan op enig moment in de afgelopen 800.000 jaar, gebaseerd op ijskernboringen in Antarctica.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
@@ -20331,6 +20406,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Babbage kon zijn Analytical Engine nooit bouwen bij gebrek aan middelen; het concept was zo geavanceerd dat het pas in de 20e eeuw werd gerealiseerd.',
       'Het programmeertaal Ada, ontwikkeld door het Amerikaanse ministerie van Defensie in de jaren 1970-80, is naar haar vernoemd.',
+      'Lovelace was de dochter van Lord Byron maar heeft haar vader nooit ontmoet; haar moeder stimuleerde bewust haar interesse in wiskunde om haar van poëzie af te houden.',
+      'Lovelace begreep al in 1843 dat een computer meer kon dan rekenen – ze voorzag dat machines muziek konden componeren en kunst konden maken.',
+      'Babbage noemde Lovelace "de tovenares van getallen" vanwege haar uitzonderlijke wiskundige talent.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -20348,6 +20426,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De LHC is de grootste machine ooit gebouwd: een circulaire tunnel van 27 kilometer lang, 100 meter onder de Zwitsers-Franse grens.',
       'Peter Higgs had zijn theorie in 1964 gepubliceerd – 48 jaar later werd het deeltje gevonden; hij won de Nobelprijs voor Fysica in 2013.',
+      'De bijnaam "Goddeeltje" werd bedacht door Leon Lederman omdat zijn uitgever "The Goddamn Particle" als titel afwees.',
+      'De bouw van de LHC kostte meer dan 9 miljard dollar en vereiste samenwerking van meer dan 10.000 wetenschappers uit 100 landen.',
+      'Sommige mensen vreesden dat de LHC een zwart gat zou creëren dat de aarde zou opslokken; wetenschappers berekenden dat dit onmogelijk was.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20365,6 +20446,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Geoffrey Hinton, de "godfather of AI", verliet Google in 2023 deels om vrijuit te kunnen spreken over de risico\'s van kunstmatige intelligentie.',
       'GPT-4 scoort hoger dan 90% van mensen op de bar exam (advocatenexamen) en medische licentie-examens, wat de snelheid van AI-vooruitgang illustreert.',
+      'De Transformer-architectuur uit 2017 (Google\'s "Attention Is All You Need" paper) was de doorbraak die moderne AI-chatbots mogelijk maakte.',
+      'ChatGPT bereikte in 2022 in slechts vijf dagen 1 miljoen gebruikers – het snelst groeiende consumentenproduct in de geschiedenis.',
+      'Deep Blue versloeg schaakgrootmeester Garry Kasparov al in 1997, maar het duurde nog 25 jaar voordat AI menselijke taal kon begrijpen en genereren.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -20382,6 +20466,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De detectie was zo klein dat LIGO een verandering van 1/1000e van een protondiameter moest meten over een afstand van vier kilometer.',
       'De drie leidende wetenschappers achter LIGO wonnen de Nobelprijs voor de Natuurkunde in 2017.',
+      'De twee LIGO-detectoren staan 3.000 kilometer uit elkaar (in Washington en Louisiana) om valse signalen uit te sluiten.',
+      'Gravitatiegolven vervormen de ruimte zelf; bij de detectie was de vervorming kleiner dan een atoomkern over een afstand van kilometers.',
+      'Einstein zelf twijfelde of gravitatiegolven ooit gedetecteerd konden worden vanwege hun extreem zwakke signaal.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
