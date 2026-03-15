@@ -92,7 +92,9 @@ function App() {
       if (isDragging.current) return;
       selectEvent(viewState.selectedEventId === eventId ? null : eventId);
     },
-    [selectEvent, viewState.selectedEventId, isDragging]
+    // isDragging is a stable ref; including .current would cause stale closure issues
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [selectEvent, viewState.selectedEventId]
   );
 
   const handleEventHover = useCallback(
