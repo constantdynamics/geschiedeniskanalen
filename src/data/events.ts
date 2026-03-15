@@ -26718,6 +26718,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'President Zelensky weigerde te vluchten: "Ik heb munitie nodig, geen lift."',
       'De oorlog veroorzaakte de grootste vluchtelingencrisis in Europa sinds 1945.',
+      'Het Oekraïense \'Spook van Kiev\' werd een virale legende in de eerste dagen van de invasie, hoewel het nooit bevestigd werd als één enkele piloot.',
+      'De Turkse Bayraktar TB2-drone werd zo populair in Oekraïne dat er een volkslied over geschreven werd.',
+      'Oekraïne gebruikte gezichtsherkenningssoftware om gevallen Russische soldaten te identificeren en hun families te informeren.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -26737,6 +26740,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De bushido-code schreef eer, loyaliteit en zelfopoffering voor.',
       'Samurai droegen twee zwaarden: een lang katana en een kort wakizashi.',
+      'Samurai droegen soms parfum in hun helmen, zodat hun hoofd aangenaam zou ruiken als het in de strijd werd afgehakt.',
+      'De beroemde samurai Miyamoto Musashi won meer dan 60 duels en schreef het strategische meesterwerk \'Het Boek van de Vijf Ringen\'.',
+      'Vrouwelijke samurai, bekend als onna-bugeisha, vochten zij aan zij met mannelijke krijgers en waren getraind in het gebruik van de naginata.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -26754,6 +26760,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Pestdokters droegen snavelmaskers gevuld met kruiden tegen de "slechte lucht".',
       'De arbeidstekorten na de pest leidden tot betere lonen voor boeren.',
+      'De pest doodde zoveel mensen dat de lonen voor overlevende arbeiders sterk stegen, wat bijdroeg aan het einde van het feodalisme.',
+      'Sommige steden verloren meer dan 80% van hun bevolking, en hele dorpen werden volledig verlaten.',
+      'De Joodse gemeenschap werd vals beschuldigd van het vergiftigen van waterputten, wat leidde tot pogroms in heel Europa.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -26771,6 +26780,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Vasco da Gama bereikte India in 1498 via Kaap de Goede Hoop.',
       'Portugal controleerde op zijn hoogtepunt handel van Brazilië tot Japan.',
+      'Portugal was het eerste Europese land dat een zeeroute naar India vond, waarmee het de lucratieve specerijenhandel domineerde.',
+      'De Portugezen introduceerden tempura in Japan - het gerecht is vernoemd naar het Latijnse woord \'tempora\' (vastentijd).',
+      'Portugal bezat op zijn hoogtepunt een handelsimperium dat zich uitstrekte van Brazilië tot Macau en Timor.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26788,6 +26800,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze nam de macht over door haar eigen echtgenoot af te zetten via een staatsgreep.',
       'Ze correspondeerde met Voltaire en was een groot voorstander van de Verlichting.',
+      'Katharina de Grote correspondeerde jarenlang met de Franse filosoof Voltaire en kocht na zijn dood zijn hele bibliotheek.',
+      'Ze liet zich inenten tegen pokken om haar onderdanen te overtuigen hetzelfde te doen - een zeer progressieve daad voor die tijd.',
+      'Katharina breidde het Russische Rijk enorm uit en annexeerde de Krim in 1783, meer dan 200 jaar voor de huidige conflicten.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26805,6 +26820,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Sumoworstelaar worden verplicht een topknot te dragen zolang ze actief zijn.',
       'De sport is meer dan 1.500 jaar oud en heeft shintoïstische rituele wortels.',
+      'Sumoworstelaars eten dagelijks een speciaal stoofgerecht genaamd chanko-nabe om hun enorme lichaamsgewicht te behouden.',
+      'De zoutstrooiritueel voor een sumowedstrijd dient om de ring te zuiveren van kwade geesten volgens de shinto-traditie.',
+      'Topsumoworstelaars (yokozuna) mogen nooit verliezen zonder hun titel te riskeren - er is geen degradatie, alleen pensioen.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'approximate',
@@ -26822,6 +26840,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bolivia is naar hem vernoemd.',
       'Hij droomde van een Verenigde Staten van Zuid-Amerika maar dat plan mislukte.',
+      'Bolívar bevrijdde zes landen van Spaans kolonialisme: Venezuela, Colombia, Ecuador, Peru, Panama en Bolivia.',
+      'Bolivia is letterlijk vernoemd naar Simón Bolívar - het is een van de weinige landen ter wereld vernoemd naar een persoon.',
+      'Bolívar droomde van een verenigd Zuid-Amerika naar het model van de Verenigde Staten, maar dit ideaal viel uiteen door interne conflicten.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -26839,6 +26860,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Hindenburg kon 72 passagiers in luxe vervoeren over de Atlantische Oceaan.',
       'De Hindenburg-ramp in 1937 duurde slechts 34 seconden en werd live op radio uitgezonden.',
+      'De Hindenburg-ramp van 1937 werd live op radio uitgezonden, en de beroemde uitroep \'Oh, the humanity!\' werd een iconisch mediafragment.',
+      'Zeppelins werden in de Eerste Wereldoorlog gebruikt om Londen te bombarderen, wat de eerste strategische luchtbombardementen in de geschiedenis waren.',
+      'Het interieur van luxe zeppelins bevatte een eetszaal, slaapkamers en zelfs een piano - het was vliegen in hotelstijl.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -26856,6 +26880,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste beelden waren een poppen gezicht genaamd "Stookie Bill".',
       'Tegen 1960 had 90% van de Amerikaanse huishoudens een tv.',
+      'De eerste televisie-uitzending in Nederland was in 1951 vanuit een studio in Bussum, met slechts enkele honderden kijkers.',
+      'De uitvinder van de eerste werkende elektronische televisie, Philo Farnsworth, was pas 21 jaar oud toen hij zijn uitvinding demonstreerde.',
+      'De eerste live televisie-uitzending vanuit de ruimte was tijdens de Apollo 7-missie in 1968.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -26873,6 +26900,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rosalind Franklin\'s röntgenfoto "Photo 51" was de sleutel tot de ontdekking.',
       'Franklin kreeg nooit de erkenning die ze verdiende - ze stierf voor de Nobelprijs werd uitgereikt.',
+      'Alexander Fleming waarschuwde al in zijn Nobelprijstoespraak in 1945 dat verkeerd gebruik van penicilline tot resistentie zou leiden.',
+      'In India zijn bacteriën gevonden die resistent zijn tegen vrijwel alle bekende antibiotica, deels door vrije verkoop zonder recept.',
+      'Wetenschappers zoeken alternatieven in bacteriofagen - virussen die specifiek bacteriën aanvallen - een techniek die al in de jaren 1920 werd gebruikt.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -26890,6 +26920,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Castro begon de revolutie met slechts 82 man op een boot.',
       'Che Guevara\'s gezicht is een van de meest gereproduceerde beelden ter wereld.',
+      'Che Guevara was opgeleid als arts en werkte kort in een leprozenkolonie in Peru voordat hij revolutionair werd.',
+      'Het iconische portret van Che, gemaakt door fotograaf Alberto Korda, wordt beschouwd als de meest gereproduceerde foto ter wereld.',
+      'Guevara leed aan ernstig astma, wat hem niet belette om guerrillaoorlog te voeren in de bergen van Cuba en Bolivia.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -26907,6 +26940,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In de eerste maand werden er slechts 3.000 verkocht, daarna miljoenen.',
       'Het woord "Walkman" staat in woordenboeken wereldwijd.',
+      'De Sony Walkman werd in 1979 gelanceerd en was zo populair dat het woord \'walkman\' in veel talen een soortnaam werd.',
+      'Sony-oprichter Akio Morita wilde de Walkman oorspronkelijk \'Stowaway\' noemen in het Verenigd Koninkrijk en \'Soundabout\' in de VS.',
+      'Er zijn wereldwijd meer dan 200 miljoen Walkmans verkocht voordat de productie in 2010 definitief werd gestopt.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -26924,6 +26960,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'GPS was oorspronkelijk alleen voor militair gebruik.',
       'Het systeem gebruikt 24 satellieten op 20.200 km hoogte.',
+      'De beroemde Hubble Deep Field-foto werd gemaakt door 342 opnames samen te voegen, genomen over 10 opeenvolgende dagen in december 1995.',
+      'Het gefotografeerde stukje hemel was zo klein als een tennisbal op 100 meter afstand, maar bevatte meer dan 3.000 sterrenstelsels.',
+      'Sommige sterrenstelsels op de foto zijn meer dan 12 miljard lichtjaar ver weg - we zien ze zoals ze waren kort na de oerknal.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -26941,6 +26980,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Facebook begon als een website alleen voor Harvard-studenten.',
       'De Arabische Lente in 2011 werd "de Twitter-revolutie" genoemd.',
+      'Facebook bereikte 1 miljard gebruikers in slechts 8 jaar - sneller dan welk medium ook in de menselijke geschiedenis.',
+      'De gemiddelde persoon besteedt ongeveer 2,5 uur per dag aan sociale media, wat neerkomt op meer dan 6 jaar over een heel leven.',
+      'Het eerste bericht ooit op Twitter was van oprichter Jack Dorsey: \'just setting up my twttr\' op 21 maart 2006.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -26958,6 +27000,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Huizen hadden geen deuren - bewoners kwamen binnen via een gat in het dak.',
       'Doden werden begraven onder de vloer van het eigen huis.',
+      'Çatalhöyük had geen straten - bewoners betraden hun huizen via gaten in het dak en liepen over de daken als trottoirs.',
+      'De nederzetting huisvestte tussen de 3.000 en 8.000 mensen rond 7000 v.Chr., waarmee het een van de eerste proto-steden ter wereld was.',
+      'Er zijn geen tekenen van sociale hiërarchie gevonden - alle huizen waren ongeveer even groot, wat wijst op een egalitaire samenleving.',
     ],
     popularityScore: 62,
     uncertaintyLevel: 'estimated',
@@ -26975,6 +27020,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Vruchtbare Halve Maan (Irak/Syrië) was de bakermat van de landbouw.',
       'Tarwe, gerst, schapen en geiten waren de eerste gedomesticeerde soorten.',
+      'De overgang van jagen naar landbouw leidde paradoxaal genoeg tot slechtere gezondheid: vroege boeren waren kleiner en hadden meer gebitsproblemen.',
+      'Tarwe, gerst en linzen waren de eerste gewassen die werden verbouwd in de Vruchtbare Halve Maan rond 10.000 v.Chr.',
+      'De landbouwrevolutie maakte permanente nederzettingen mogelijk, wat uiteindelijk leidde tot schrijfkunst, wiskunde en georganiseerde religie.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'estimated',
@@ -26992,6 +27040,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'IJzer was sterker en goedkoper dan brons, waardoor het democratischer was.',
       'De Hittieten hielden de ijzerbewerking lang geheim als militair voordeel.',
+      'De Hettieten waren een van de eerste volkeren die ijzer op grote schaal bewerkten, rond 1200 v.Chr. in het huidige Turkije.',
+      'IJzeren wapens waren aanvankelijk inferieur aan bronzen wapens, maar ijzer was veel goedkoper en breder beschikbaar.',
+      'De IJzertijd eindigde op verschillende momenten in verschillende delen van de wereld - in Sub-Saharisch Afrika ging men direct van steen naar ijzer.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'estimated',
@@ -27009,6 +27060,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Er waren meer dan 700 verschillende hiërogliefen.',
       'De Steen van Rosetta in 1799 maakte het mogelijk ze eindelijk te ontcijferen.',
+      'Het hiërogliefenschrift bevatte meer dan 700 verschillende tekens en werd pas in 1822 ontcijferd door Jean-François Champollion.',
+      'De Steen van Rosetta, gevonden door Napoleons troepen in 1799, was de sleutel tot het ontcijferen omdat dezelfde tekst in drie schriften stond.',
+      'Hiërogliefen konden van links naar rechts, rechts naar links, of van boven naar beneden worden gelezen - de richting van de dierenfiguren wees de leesrichting aan.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -27026,6 +27080,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Niemand heeft ooit archeologisch bewijs gevonden dat ze echt bestonden.',
       'Ze zouden irrigatiesystemen hebben gehad die water naar de bovenste terrassen pompten.',
+      'De Hangende Tuinen van Babylon, een van de Zeven Wereldwonderen, zouden door Nebukadnezar II zijn gebouwd voor zijn nostalgische vrouw.',
+      'Nebukadnezar veroverde Jeruzalem in 586 v.Chr. en deporteerde duizenden Joden naar Babylon, bekend als de Babylonische Ballingschap.',
+      'Onder zijn bewind werd Babylon de grootste stad ter wereld, met de beroemde Isjtar-poort versierd met blauwe geglazuurde tegels.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'estimated',
@@ -27043,6 +27100,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij geloofde dat getallen de sleutel waren tot het begrijpen van het universum.',
       'Zijn volgelingen mochten geen bonen eten - niemand weet precies waarom.',
+      'Pythagoras verbood zijn volgelingen om bonen te eten - mogelijk vanwege hun gelijkenis met menselijke embryo\'s volgens zijn filosofie.',
+      'De stelling van Pythagoras was al eeuwen voor hem bekend bij de Babyloniërs, maar hij leverde waarschijnlijk het eerste formele bewijs.',
+      'Pythagoras ontdekte de wiskundige basis van muzikale harmonie door te experimenteren met snaren van verschillende lengtes.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -27060,6 +27120,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het boek bevat 13 hoofdstukken over strategie en tactiek.',
       'Het wordt nu meer gelezen in boardrooms dan op slagvelden.',
+      'Het is onzeker of Sun Tzu één persoon was of dat \'De Kunst van het Oorlogvoeren\' door meerdere auteurs is geschreven.',
+      'Sun Tzu\'s boek wordt tegenwoordig verplichte literatuur op veel militaire academies en businessscholen wereldwijd.',
+      'Volgens de legende bewees Sun Tzu zijn militaire kunde door de concubines van de koning te trainen als soldaten.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -27077,6 +27140,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Artsen leggen nog steeds een versie van zijn eed af bij hun afstuderen.',
       'Hij geloofde dat ziekten natuurlijke oorzaken hadden, niet de toorn van goden.',
+      'De eed van Hippocrates wordt nog steeds afgelegd door artsen, hoewel de moderne versie sterk verschilt van het origineel.',
+      'Hippocrates geloofde dat ziekten natuurlijke oorzaken hadden en niet het gevolg waren van goddelijke straf - revolutionair voor zijn tijd.',
+      'Hij catalogiseerde meer dan 60 verschillende ziektebeelden en was een van de eersten die het verschil beschreef tussen acute en chronische ziekten.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -27094,6 +27160,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn leger groeide tot 120.000 ontsnapte slaven.',
       '6.000 gevangen rebellen werden gekruisigd langs de Via Appia.',
+      'Het slavenleger van Spartacus groeide tot meer dan 70.000 man en versloeg meerdere Romeinse legioenen voordat het uiteindelijk werd vernietigd.',
+      'Na de nederlaag van Spartacus werden 6.000 gevangen slaven gekruisigd langs de Via Appia van Capua naar Rome.',
+      'Spartacus wilde oorspronkelijk de Alpen oversteken om te ontsnappen, maar zijn volgelingen overtuigden hem om in Italië te blijven plunderen.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -27113,6 +27182,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Voor papier schreven Chinezen op bamboe en zijde.',
       'Het duurde 1.000 jaar voordat papier Europa bereikte via de Arabische wereld.',
+      'Het oudste bekende stuk papier dateert uit de 2e eeuw v.Chr. in China en was gemaakt van hennepvezels.',
+      'De Arabieren leerden papier maken van Chinese krijgsgevangenen na de Slag bij Talas in 751 n.Chr.',
+      'Vóór papier schreven Europeanen op perkament, gemaakt van dierenhuid - één bijbel kon de huid van 300 schapen vereisen.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27130,6 +27202,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij zag naar verluidt een kruis aan de hemel voor de Slag bij de Milvische Brug.',
       'Het Edict van Milaan gaf christenen volledige godsdienstvrijheid.',
+      'Volgens de legende zag Constantijn voor de Slag bij de Milvische Brug een kruis aan de hemel met de woorden \'In dit teken zult gij overwinnen\'.',
+      'Constantijn liet zich pas op zijn sterfbed dopen, wat in die tijd niet ongebruikelijk was om zo min mogelijk zonden na de doop te begaan.',
+      'Het Edict van Milaan (313) dat Constantijn uitvaardigde, maakte niet alleen het christendom legaal, maar alle religies in het Romeinse Rijk.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -27147,6 +27222,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De laatste keizer heette ironisch genoeg Romulus, net als de legendarische stichter van Rome.',
       'Het Oost-Romeinse (Byzantijnse) Rijk bestond nog bijna 1.000 jaar door.',
+      'De laatste West-Romeinse keizer, Romulus Augustulus, was ironisch genoeg vernoemd naar zowel de stichter van Rome als de stichter van het keizerrijk.',
+      'De \'val\' van Rome in 476 werd door tijdgenoten nauwelijks opgemerkt - het was meer een geleidelijke overgang dan een plotselinge ineenstorting.',
+      'Het Oost-Romeinse Rijk (Byzantium) overleefde de val met bijna 1.000 jaar en viel pas in 1453.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27164,6 +27242,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De cijfers werden eigenlijk in India uitgevonden en via Arabieren verspreid.',
       'De nul was revolutionair - Romeinse cijfers hadden geen concept van nul.',
+      'De cijfers die wij \'Arabisch\' noemen werden eigenlijk in India uitgevonden - de Arabieren gaven ze door aan Europa.',
+      'Het concept van nul als getal was de meest revolutionaire bijdrage van dit systeem en was onbekend in de Romeinse cijfers.',
+      'De wiskundige Al-Khwarizmi introduceerde het systeem in de Arabische wereld - zijn naam leeft voort in het woord \'algoritme\'.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27181,6 +27262,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het gedicht beschrijft een reis door de Hel, het Vagevuur en het Paradijs.',
       'Dante plaatste zijn politieke vijanden in de ergste kringen van de Hel.',
+      'Dante schreef de Goddelijke Komedie in het Italiaans in plaats van het Latijn, wat hielp om Italiaans te vestigen als literaire taal.',
+      'Het werk bevat meer dan 14.000 regels verdeeld over 100 canto\'s en beschrijft een reis door Hel, Vagevuur en Paradijs.',
+      'Dante plaatste paus Bonifatius VIII in de hel in zijn gedicht, terwijl de paus nog leefde - een uiterst gedurfde politieke daad.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27198,6 +27282,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze sponsorden Leonardo da Vinci, Michelangelo en Botticelli.',
       'Lorenzo de Medici werd "Il Magnifico" genoemd ondanks zijn lelijke gezicht.',
+      'De Medici-bank was de grootste bank van Europa in de 15e eeuw en financierde onder andere de bouw van de Duomo in Florence.',
+      'Vier pausen kwamen uit de Medici-familie, waardoor zij zowel de seculiere als religieuze macht in Europa beïnvloedden.',
+      'Lorenzo de Medici werd \'il Magnifico\' genoemd en was beschermheer van kunstenaars als Botticelli, Leonardo da Vinci en de jonge Michelangelo.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -27217,6 +27304,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De stad werd nooit gevonden door de Spanjaarden.',
       'Hiram Bingham "herontdekte" het in 1911 - lokale boeren wisten er al van.',
+      'Machu Picchu werd nooit ontdekt door de Spaanse veroveraars en bleef eeuwenlang verborgen tot de herontdekking in 1911.',
+      'De stenen van Machu Picchu zijn zo precies gesneden dat er geen mortel nodig was - een mes past niet tussen de voegen.',
+      'De stad ligt op 2.430 meter hoogte en had een ingenieus irrigatiesysteem dat regenwater via 16 fonteinen verdeelde.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -27234,6 +27324,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kranten werden mogelijk gemaakt door Gutenbergs drukpers van 150 jaar eerder.',
       'Binnen 50 jaar had elke grote Europese stad minstens één krant.',
+      'De eerste gedrukte krant ter wereld, de \'Relation\', verscheen in 1605 in Straatsburg en werd wekelijks gepubliceerd.',
+      'De Amsterdamse \'Courante uyt Italien, Duytslandt, &c.\' uit 1618 wordt beschouwd als een van de eerste regelmatige kranten.',
+      'Vroege kranten bevatten vooral buitenlands nieuws en handelsinformatie - lokaal nieuws verspreidde zich via roddel sneller dan via drukwerk.',
     ],
     popularityScore: 62,
     uncertaintyLevel: 'exact',
@@ -27251,6 +27344,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nederland was een van de laatste Europese landen die slavernij afschafte.',
       'Tot slaaf gemaakten moesten na de afschaffing nog 10 jaar doorwerken onder "staatstoezicht".',
+      'Nederland schafte de slavernij pas af op 1 juli 1863, bijna 30 jaar na het Verenigd Koninkrijk.',
+      'Na de officiële afschaffing moesten tot slaaf gemaakten nog 10 jaar onder \'staatstoezicht\' werken voordat ze werkelijk vrij waren in 1873.',
+      'De Nederlandse slavenhandel vervoerde naar schatting meer dan 600.000 Afrikanen naar de Amerika\'s, voornamelijk naar Suriname en de Caribische eilanden.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27268,6 +27364,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Edison probeerde wisselstroom te diskrediteren door er dieren mee te elektrocuteren.',
       'Tesla stierf arm en alleen in een hotelkamer, omringd door duiven.',
+      'De \'War of Currents\' tussen Edison (gelijkstroom) en Tesla/Westinghouse (wisselstroom) eindigde toen wisselstroom de Wereldtentoonstelling van 1893 verlichtte.',
+      'Edison elektrocuteerde publiekelijk dieren, waaronder een olifant, om te bewijzen dat wisselstroom gevaarlijk was.',
+      'Nikola Tesla\'s wisselstroommotor was gebaseerd op het principe van een roterend magnetisch veld, dat hij visualiseerde tijdens een wandeling in een park in Boedapest.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -27285,6 +27384,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Émile Zola schreef "J\'accuse!" op de voorpagina van een krant.',
       'De affaire inspireerde Theodor Herzl om het zionisme op te richten.',
+      'De Dreyfus-affaire verdeelde Frankrijk zo diep dat families uit elkaar werden gescheurd en het woord \'intellectueel\' als politieke term ontstond.',
+      'Émile Zola\'s beroemde open brief \'J\'accuse...!\' werd op de voorpagina van een krant gepubliceerd en leidde tot zijn eigen veroordeling en ballingschap.',
+      'Dreyfus werd uiteindelijk volledig gerehabiliteerd in 1906 en diende nog als officier in de Eerste Wereldoorlog.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -27304,6 +27406,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De griep heette "Spaans" omdat Spanje als neutraal land wel eerlijk rapporteerde.',
       'Meer soldaten stierven aan de griep dan aan gevechten in WO I.',
+      'De Spaanse griep werd \'Spaans\' genoemd omdat Spanje, als neutraal land in WO1, de enige was die vrij over de ziekte berichtte.',
+      'De pandemie doodde meer mensen dan de Eerste Wereldoorlog zelf - naar schatting 50 tot 100 miljoen slachtoffers wereldwijd.',
+      'Jonge, gezonde volwassenen waren het kwetsbaarst door een \'cytokinestorm\' waarbij het eigen immuunsysteem de longen aanviel.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27321,6 +27426,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nazi\'s sloten de school in 1933 omdat ze het "ontaarde kunst" vonden.',
       'IKEA-meubels, Apple-producten en moderne architectuur zijn allemaal beïnvloed door Bauhaus.',
+      'De Bauhaus-school bestond slechts 14 jaar (1919-1933) maar beïnvloedde de architectuur, design en kunst voor de rest van de 20e eeuw.',
+      'Het Bauhaus werd gesloten onder druk van de nazi\'s, die de school als \'ontaard\' beschouwden - veel docenten vluchtten naar de VS.',
+      'De bekende Wassily-stoel van Marcel Breuer was geïnspireerd door het stalen frame van zijn fiets.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -27338,6 +27446,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De vlucht in de "Spirit of St. Louis" duurde 33,5 uur.',
       'Hij nam 5 broodjes mee maar geen parachute - die was te zwaar.',
+      'Charles Lindbergh vloog 33,5 uur non-stop van New York naar Parijs in 1927 in zijn vliegtuig \'Spirit of St. Louis\'.',
+      'Om gewicht te besparen nam Lindbergh geen parachute, radio of nachtzichtapparatuur mee - alleen vijf broodjes.',
+      'De Orteig Prize van $25.000 voor de eerste non-stop Atlantische vlucht was uitgeloofd door een hotelelier uit New York.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -27355,6 +27466,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De ramp leidde tot de bouw van de Deltawerken, een van de moderne wereldwonderen.',
       'Koningin Juliana werd "de fietsende koningin" genoemd omdat ze zelf naar het rampgebied fietste.',
+      'De Watersnoodramp van 1953 kostte 1.836 mensen het leven in Nederland en overstroomde 200.000 hectare land.',
+      'De ramp leidde direct tot het Deltaplan, een van de grootste waterbouwkundige projecten ter wereld, voltooid in 1997.',
+      'Veel slachtoffers verdronken \'s nachts in hun slaap omdat de dijken braken tijdens een zware storm op 1 februari.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27372,6 +27486,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn vlucht in Vostok 1 duurde slechts 108 minuten.',
       'Hij zei: "De aarde is blauw. Wat een wonder. Het is verbazingwekkend."',
+      'Gagarin\'s beroemde uitspraak \'Ik zie de aarde, ze is zo mooi!\' werd het symbool van het ruimtetijdperk.',
+      'Na zijn historische vlucht mocht Gagarin van de Sovjet-autoriteiten nooit meer de ruimte in, uit angst hun nationale held te verliezen.',
+      'Gagarin landde niet in zijn capsule maar schoot zich op 7 km hoogte uit en daalde per parachute af - dit werd jarenlang verzwegen.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -27389,6 +27506,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Israël vernietigde de Egyptische luchtmacht op de grond in de eerste uren.',
       'De verovering van Jeruzalem was voor veel Joden een historisch moment.',
+      'Israël vernietigde bijna de gehele Egyptische luchtmacht op de grond in de eerste drie uur van de oorlog.',
+      'In slechts zes dagen veroverde Israël de Sinaï, de Gazastrook, de Westelijke Jordaanoever, Oost-Jeruzalem en de Golanhoogten.',
+      'De oorlog veranderde het Midden-Oosten fundamenteel en de bezette gebieden zijn tot op de dag van vandaag een bron van conflict.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -27406,6 +27526,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het dragen van een bril was genoeg reden om als "intellectueel" te worden geëxecuteerd.',
       'Het regime maakte alle steden leeg en dwong de bevolking op het platteland te werken.',
+      'Het Khmer Rouge-regime evacueerde de gehele stad Phnom Penh binnen 24 uur - meer dan 2 miljoen mensen werden het platteland op gedreven.',
+      'Brillen dragen was onder Pol Pot voldoende om als \'intellectueel\' bestempeld te worden en geëxecuteerd te worden.',
+      'Naar schatting 1,5 tot 2 miljoen Cambodjanen (een kwart van de bevolking) stierven tijdens het bewind van de Rode Khmer.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -27423,6 +27546,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het gefotografeerde stukje hemel was zo klein als een tennisbal op 100 meter afstand.',
       'De foto bewees dat er minstens 200 miljard sterrenstelsels in het heelal zijn.',
+      'De eerste foto\'s van Hubble waren wazig door een fabricagefout in de spiegel van slechts 2 micrometer - dunner dan een mensenhaar.',
+      'NASA stuurde astronauten om een \'bril\' voor Hubble te installeren tijdens een spectaculaire ruimtewandeling in 1993.',
+      'Na de reparatie leverde Hubble de scherpste beelden van het heelal ooit gemaakt en veranderde ons begrip van de kosmos fundamenteel.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -27440,6 +27566,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Meer dan 3.500 mensen waren omgekomen tijdens The Troubles.',
       'Het akkoord werd bereikt op Goede Vrijdag na 22 maanden onderhandelen.',
+      'Het Goede Vrijdag-akkoord van 1998 beëindigde 30 jaar geweld in Noord-Ierland, bekend als \'The Troubles\', met meer dan 3.500 doden.',
+      'Het akkoord werd bereikt na marathononderhandelingen onder leiding van de Amerikaanse senator George Mitchell.',
+      'Een cruciale bepaling was dat Noord-Ierland zowel Brits als Iers kon zijn - burgers mochten zelf hun nationaliteit kiezen.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27459,6 +27588,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Golven van 30 meter hoog troffen 14 landen.',
       'De energie van de aardbeving was gelijk aan 23.000 atoombommen.',
+      'De tsunami van 26 december 2004 werd veroorzaakt door een aardbeving met een kracht van 9,1 - de op twee na sterkste ooit gemeten.',
+      'De golven reisden met de snelheid van een straalvliegtuig over de Indische Oceaan en bereikten zelfs de kust van Afrika.',
+      'Meer dan 230.000 mensen in 14 landen kwamen om het leven, waarmee het een van de dodelijkste natuurrampen in de menselijke geschiedenis was.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27476,6 +27608,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De beweging begon in Zuccotti Park in het financiële district van New York.',
       'De slogan "de 1% vs de 99%" veranderde het politieke debat over ongelijkheid.',
+      'De slogan \'We are the 99%\' van Occupy Wall Street werd een van de meest herkenbare politieke slogans van de 21e eeuw.',
+      'De beweging begon op 17 september 2011 in Zuccotti Park, New York, en verspreidde zich naar meer dan 950 steden wereldwijd.',
+      'Occupy had bewust geen leiders of concrete eisen, wat zowel de kracht als de zwakte van de beweging was.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -27493,6 +27628,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze begon alleen voor het Zweedse parlement met een bordje "Skolstrejk för Klimatet".',
       'Haar toespraak bij de VN - "How dare you!" - ging viraal.',
+      'Greta Thunberg begon haar klimaatstaking in augustus 2018, op 15-jarige leeftijd, door elke vrijdag voor het Zweedse parlement te zitten.',
+      'Thunberg zeilde in 2019 over de Atlantische Oceaan naar New York in een emissievrije zeilboot om haar punt over vliegreizen te maken.',
+      'Haar toespraak \'How dare you!\' bij de VN in 2019 werd een van de meest bekeken toespraken van het decennium.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -27510,6 +27648,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ambtenaren moesten examens afleggen over confuciaanse teksten.',
       'Dit systeem bleef 2.000 jaar de basis van het Chinese bestuur.',
+      'Het confucianisme heeft geen goden of gebed - het is meer een ethisch systeem dan een religie in westerse zin.',
+      'Het Chinese keizerlijke examensysteem, gebaseerd op confuciaanse teksten, was het eerste meritocratische systeem ter wereld en duurde meer dan 1.300 jaar.',
+      'Confucius zelf beschouwde zichzelf niet als vernieuwer maar als bewaarder van oude Chinese tradities en wijsheid.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27527,6 +27668,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn vermogen wordt geschat op $400 miljard in huidige dollars.',
       'Hij deelde zoveel goud uit in Cairo dat de goudprijs 12 jaar lang daalde.',
+      'Mansa Musa\'s bedevaart naar Mekka in 1324 omvatte een karavaan van 60.000 mensen en 12.000 slaven die elk goudstaven droegen.',
+      'Hij gaf zo kwistig goud weg in Caïro dat de goudprijs in Egypte voor meer dan tien jaar instortte.',
+      'Het Mali-Rijk onder Musa was zo welvarend dat Europese cartografen hem op kaarten afbeeldden zittend op een gouden troon.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27544,6 +27688,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een miljoen arbeiders werkten 14 jaar aan het paleis.',
       'Gewone burgers mochten er 500 jaar lang niet binnenkomen - vandaar de naam.',
+      'De Verboden Stad in Beijing heeft 9.999 kamers - één minder dan de mythische 10.000 die alleen de hemelgod mocht bezitten.',
+      'Meer dan een miljoen arbeiders werkten aan de bouw, en de grootste zalen zijn gebouwd zonder een enkele spijker.',
+      'De Verboden Stad was bijna 500 jaar lang het centrum van de Chinese macht, bewoond door 24 opeenvolgende keizers.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27561,6 +27708,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hoewel hij analfabeet was, had hij een bibliotheek van 24.000 boeken.',
       'Hij creëerde een eigen religie die elementen van alle godsdiensten combineerde.',
+      'Mughal-miniaturen werden geschilderd met penselen gemaakt van slechts enkele haren van een eekhoornstaart voor ultrafijn detail.',
+      'Keizer Akbar had een atelier van meer dan 100 schilders die elk gespecialiseerd waren in gezichten, landschappen of randen.',
+      'De verf werd gemaakt van gemalen edelstenen zoals lapis lazuli (blauw) en vermiljoen (rood), wat de kleuren eeuwenlang levendig hield.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -27578,6 +27728,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bob Marley\'s muziek was sterk geïnspireerd door Selassie.',
       'Hij hield een beroemde toespraak bij de Volkenbond tegen de Italiaanse invasie.',
+      'Haile Selassie wordt door de Rastafari-beweging als goddelijk beschouwd - \'Ras Tafari\' is letterlijk zijn naam voor zijn kroning.',
+      'Hij sprak de Volkenbond toe in 1936 na de Italiaanse invasie van Ethiopië, in een van de meest emotionele toespraken in de diplomatieke geschiedenis.',
+      'Selassie moderniseerde Ethiopië door de eerste grondwet, universiteiten en een modern wegennet te introduceren.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27595,6 +27748,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'China\'s economie groeide 40 jaar lang gemiddeld 10% per jaar.',
       'Deng zei: "Het maakt niet uit of een kat zwart of wit is, als hij maar muizen vangt."',
+      'Deng Xiaopings beroemde uitspraak \'Het maakt niet uit of een kat zwart of wit is, zolang ze maar muizen vangt\' symboliseerde zijn pragmatische aanpak.',
+      'China\'s BBP groeide van $150 miljard in 1978 naar meer dan $17 biljoen in 2022, de snelste economische groei in de menselijke geschiedenis.',
+      'De Speciale Economische Zones, te beginnen met Shenzhen, transformeerden vissersdorpjes in megasteden met miljoenen inwoners.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -27614,6 +27770,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het experiment was levensgevaarlijk - de volgende persoon die het probeerde werd gedood.',
       'Franklin vond ook de bliksemafleider, bifocale bril en de kachel uit.',
+      'Franklin\'s vliegexperiment met bliksem in 1752 was levensgevaarlijk - de volgende persoon die het nadeed, Georg Wilhelm Richmann, werd gedood.',
+      'Franklin weigerde patent aan te vragen op zijn bliksemafleider omdat hij vond dat wetenschappelijke ontdekkingen vrij gedeeld moesten worden.',
+      'Naast elektriciteit vond Franklin ook de bifocale bril, de Franklinoven en de glasharmonica uit.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -27631,6 +27790,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij zag de tabel naar verluidt in een droom.',
       'Drie van zijn voorspelde elementen werden later inderdaad ontdekt.',
+      'Mendelejev liet bewust lege plekken in zijn periodiek systeem voor elementen die nog ontdekt moesten worden - en voorspelde hun eigenschappen correct.',
+      'De legende wil dat Mendelejev het periodiek systeem zag in een droom, maar hij werkte er in werkelijkheid jarenlang aan.',
+      'Mendelejev werd gepasseerd voor de Nobelprijs Scheikunde met slechts één stem verschil, ondanks zijn baanbrekende bijdrage.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27648,6 +27810,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Schrödinger\'s beroemde gedachte-experiment met een kat is nog steeds een populair meme.',
       'Einstein was het niet eens: "God dobbelt niet."',
+      'Einstein noemde kwantumverstrengeling spottend \'spookachtige werking op afstand\', maar experimenten hebben sindsdien bewezen dat het echt bestaat.',
+      'Schrödinger bedacht zijn beroemde gedachte-experiment met de kat niet om quantummechanica te ondersteunen, maar om te laten zien hoe absurd de theorie leek.',
+      'De Heisenberg-onzekerheidrelatie stelt dat je nooit tegelijkertijd de exacte positie én snelheid van een deeltje kunt kennen.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -27665,6 +27830,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn werk bleef 50 jaar geheim na de oorlog.',
       'Turing wordt beschouwd als de vader van de informatica en kunstmatige intelligentie.',
+      'Alan Turing en zijn team in Bletchley Park kraakten dagelijks de Enigma-codes, waarmee ze naar schatting de oorlog met twee jaar verkortten.',
+      'De Enigma-machine had 158 miljoen miljoen miljoen mogelijke instellingen, waardoor de Duitsers geloofden dat de code onkraakbaar was.',
+      'Het werk in Bletchley Park bleef tot de jaren 1970 geheim - zelfs de families van de codebrekers wisten niet wat ze hadden gedaan.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27682,6 +27850,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ENIAC gebruikte 18.000 vacuümbuizen en verbruikte 150 kilowatt stroom.',
       'De zes vrouwelijke programmeurs werden pas decennia later erkend.',
+      'De ENIAC, gebouwd in 1945, woog 27 ton, besloeg 167 vierkante meter en gebruikte 18.000 vacuümbuizen.',
+      'Zes vrouwelijke wiskundigen programmeerden de ENIAC, maar hun bijdrage werd decennialang niet erkend.',
+      'De rekenkracht van de ENIAC was minder dan die van een moderne rekenmachine van twee euro.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -27699,6 +27870,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een moderne chip bevat miljarden transistors kleiner dan een virus.',
       'De uitvinders wonnen de Nobelprijs, maar het werd aanvankelijk nauwelijks opgemerkt.',
+      'De transistor werd uitgevonden in 1947 bij Bell Labs en verving de veel grotere en onbetrouwbare vacuümbuis.',
+      'William Shockley, een van de uitvinders, richtte later Shockley Semiconductor op in Silicon Valley, waarmee hij de chipindustrie startte.',
+      'Een moderne smartphone bevat meer transistors dan er zandkorrels zijn op een gemiddeld strand.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27716,6 +27890,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In sommige staten was voorbehoedsmiddelen verkopen illegaal tot 1965.',
       'De pil wordt beschouwd als een van de belangrijkste uitvindingen van de 20e eeuw.',
+      'De anticonceptiepil werd in 1960 goedgekeurd in de VS en wordt beschouwd als een van de meest maatschappij-veranderende uitvindingen van de 20e eeuw.',
+      'Margaret Sanger en Katharine McCormick financierden het onderzoek - McCormick doneerde bijna haar hele fortuin van $2 miljoen.',
+      'In veel landen mochten aanvankelijk alleen getrouwde vrouwen de pil krijgen - in België was het tot 1973 illegaal om er reclame voor te maken.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -27737,6 +27914,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De tempel werd opzettelijk begraven door de bouwers - niemand weet waarom.',
       'De ontdekking in 1994 herschreef de geschiedenis van de beschaving.',
+      'Göbekli Tepe is minstens 6.000 jaar ouder dan Stonehenge en werd gebouwd door jager-verzamelaars vóór de uitvinding van landbouw.',
+      'De site werd na gebruik opzettelijk begraven, wat het perfect conserveerde maar ook de vraag opriep waarom men dat deed.',
+      'De ontdekking in 1994 dwong archeologen om hun theorie te herzien dat religie pas ontstond ná de landbouwrevolutie.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'estimated',
@@ -27754,6 +27934,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Epos van Gilgamesj, het oudste literaire werk ter wereld, speelt zich hier af.',
       'Uruk had al een bureaucratie met kleitabletten als administratie.',
+      'Uruk had rond 3000 v.Chr. tot 80.000 inwoners en was daarmee de grootste stad ter wereld.',
+      'Het schrift werd in Uruk uitgevonden, aanvankelijk als boekhoudsysteem om handelsvoorraden bij te houden.',
+      'Het Gilgamesj-epos, het oudste literaire werk ter wereld, speelt zich af in Uruk en beschrijft de avonturen van de legendarische koning.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'estimated',
@@ -27771,6 +27954,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij had naar schatting meer dan 100 kinderen.',
       'De tempel van Abu Simbel werd in 1968 helemaal verplaatst om een stuwdam te ontwijken.',
+      'Ramses II regeerde 66 jaar over Egypte en leefde tot de uitzonderlijke leeftijd van ongeveer 90 jaar.',
+      'Hij liet meer monumenten bouwen dan enige andere farao, waaronder de beroemde tempels van Abu Simbel.',
+      'Ramses II had naar schatting meer dan 100 kinderen bij zijn vele vrouwen en concubines.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -27788,6 +27974,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Volgens de legende stichtte koningin Dido de stad op grond die ze omcirkelde met een ossenvel.',
       'Rome vernietigde Carthago zo grondig dat ze zout op de akkers strooiden.',
+      'De Feniciërs vonden het alfabet uit dat de basis vormt voor vrijwel alle westerse schriftsystemen, inclusief het Latijnse alfabet.',
+      'Tyrus, de belangrijkste Fenicische stad, was beroemd om zijn purperen verf gemaakt van zeeslakken - zo kostbaar dat alleen koningen het droegen.',
+      'Carthago, oorspronkelijk een Fenicische kolonie, groeide uit tot een imperium dat Rome bijna versloeg onder Hannibal.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -27805,6 +27994,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Chandragupta had een leger van 600.000 man en 9.000 oorlogsolifanten.',
       'Zijn kleinzoon Ashoka veranderde het rijk van militaristisch naar boeddhistisch.',
+      'Het Maurya-Rijk onder Ashoka besloeg bijna het gehele Indiase subcontinent en was een van de grootste rijken in de oude wereld.',
+      'Na de bloedige verovering van Kalinga bekeerde Ashoka zich tot het boeddhisme en verspreidde geweldloosheid via inscripties op rotsen en pilaren.',
+      'Het Arthashastra, geschreven door Maurya-adviseur Kautilya, is een van de oudste bekende handboeken over staatsbestuur en strategie.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27822,6 +28014,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze werden per toeval gevonden door een herdersjongen in 1947.',
       'Sommige rollen zijn meer dan 2.200 jaar oud maar nog steeds leesbaar.',
+      'De Dode Zeerollen werden per toeval ontdekt in 1947 door een Bedoeïenherder die een steen in een grot gooide en een kruik hoorde breken.',
+      'De rollen bevatten de oudst bekende kopieën van bijbelboeken, sommige meer dan 2.000 jaar oud.',
+      'Het duurde meer dan 50 jaar voordat alle rollen waren gepubliceerd, wat leidde tot controverses over academische toegang.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -27841,6 +28036,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij was eigenlijk een Britse slaaf die naar Ierland werd gebracht.',
       'St. Patrick\'s Day wordt in meer landen gevierd dan welke andere nationale feestdag ook.',
+      'Sint Patrick was geen Ier - hij werd geboren in Romeins Brittannië en als tiener door Ierse piraten ontvoerd.',
+      'Het verhaal dat hij alle slangen uit Ierland verdreef is een legende - Ierland heeft sinds de laatste ijstijd geen slangen gehad.',
+      'Sint Patrick gebruikte de klaverblad (shamrock) om de Heilige Drie-eenheid uit te leggen aan de Ierse bevolking.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -27858,6 +28056,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De paus en de patriarch excommuniceerden elkaar wederzijds.',
       'De excommunicaties werden pas in 1964 opgeheven.',
+      'Het Grote Schisma van 1054 splitste het christendom in de Rooms-Katholieke en Oosters-Orthodoxe Kerk, een scheiding die tot op heden bestaat.',
+      'De directe aanleiding was een theologisch meningsverschil over het Filioque - of de Heilige Geest ook van de Zoon uitging.',
+      'De pauselijke gezant legde de excommunicatiebulle op het altaar van de Hagia Sophia in Constantinopel - de excommunicaties werden pas in 1965 opgeheven.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -27875,6 +28076,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De naam "kamikaze" (goddelijke wind) werd later gebruikt voor WOII-zelfmoordpiloten.',
       'Kublai Khan verloor naar schatting 100.000 man bij de tweede invasie.',
+      'De \'kamikaze\' (goddelijke wind) tyfoons van 1274 en 1281 vernietigden twee Mongoolse invasievloten en redden Japan van verovering.',
+      'De tweede Mongoolse vloot van 1281 bestond uit meer dan 4.000 schepen en 140.000 soldaten - een van de grootste zeemachten in de geschiedenis.',
+      'De term \'kamikaze\' werd in de Tweede Wereldoorlog hergebruikt voor Japanse zelfmoordpiloten, geïnspireerd door de goddelijke redding uit de 13e eeuw.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27892,6 +28096,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij reisde drie keer zover als Marco Polo.',
       'Zijn reisverslag geeft unieke inzichten in de middeleeuwse islamitische wereld.',
+      'Ibn Battuta reisde meer dan 120.000 kilometer in 30 jaar, drie keer zoveel als Marco Polo.',
+      'Hij bezocht vrijwel elke islamitische staat van zijn tijd, van West-Afrika tot China, en diende als rechter in verschillende landen.',
+      'Zijn reisverhaal \'de Rihla\' werd pas eeuwen later volledig gewaardeerd en is nu een van de belangrijkste bronnen over de middeleeuwse islamitische wereld.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27909,6 +28116,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Op zijn hoogtepunt omvatte het verbond meer dan 200 steden.',
       'Lübeck, Hamburg en Brugge waren de belangrijkste Hanzesteden.',
+      'De Hanze was een verbond van meer dan 200 steden in Noord-Europa dat de handel domineerde van de 13e tot de 17e eeuw.',
+      'Hanzeleden hadden hun eigen rechtssysteem, diplomaten en zelfs een gezamenlijk leger - het was bijna een staat zonder grondgebied.',
+      'Lübeck was de hoofdstad van de Hanze en zijn wetten golden als model voor tientallen andere Hanzesteden.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'exact',
@@ -27928,6 +28138,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Azteken dachten aanvankelijk dat Cortés de god Quetzalcoatl was.',
       'Pokken doodden meer Azteken dan Spaanse wapens.',
+      'Hernán Cortés versloeg het Azteekse Rijk met slechts 500 Spanjaarden, grotendeels dankzij allianties met vijandige inheemse volkeren.',
+      'De Azteken dachten aanvankelijk dat Cortés de teruggekeerde god Quetzalcoatl was, wat hen aanvankelijk terughoudend maakte.',
+      'De pokken die de Spanjaarden meebrachten doodden naar schatting 40% van de Azteekse bevolking, meer dan de oorlog zelf.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -27945,6 +28158,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Alleen Nederlandse en Chinese handelaren mochten beperkt handel drijven in Nagasaki.',
       'Japanners die het land verlieten riskeerden de doodstraf.',
+      'Tijdens de Edo-periode (1603-1868) was Japan meer dan 200 jaar vrijwel volledig afgesloten van de buitenwereld onder het sakoku-beleid.',
+      'Edo (het huidige Tokyo) groeide uit tot een van de grootste steden ter wereld met meer dan een miljoen inwoners rond 1700.',
+      'De Edo-periode kende een bloeiende populaire cultuur met kabuki-theater, ukiyo-e houtsneden en de ontwikkeling van sushi.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -27962,6 +28178,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het kostte minder dan 3 cent per hectare.',
       'Napoleon verkocht het omdat hij geld nodig had voor zijn oorlogen in Europa.',
+      'De Louisiana-aankoop van 1803 verdubbelde het grondgebied van de VS in één klap, voor slechts $15 miljoen (ongeveer 4 cent per hectare).',
+      'Napoleon verkocht het gebied om zijn oorlogen in Europa te financieren en om te voorkomen dat het in Britse handen zou vallen.',
+      'Het aangekochte gebied omvat geheel of gedeeltelijk 15 huidige Amerikaanse staten, van Louisiana tot Montana.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27979,6 +28198,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Japanners noemden de stoomschepen "zwarte schepen" vanwege de rookwolken.',
       'De schok leidde direct tot de Meiji-restauratie en de modernisering van Japan.',
+      'Commodore Perry\'s \'Zwarte Schepen\' in 1853 dwongen Japan om na 200 jaar isolatie zijn havens te openen voor westerse handel.',
+      'De Japanners waren zo geschokt door de westerse technologie dat ze binnen 50 jaar zelf een industriële grootmacht werden.',
+      'Perry bracht als geschenk een miniatuurstoomtrein mee, waar Japanse officials als kinderen omheen reden van verbazing.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -27996,6 +28218,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Geen enkele Afrikaan was uitgenodigd voor de conferentie.',
       'De willekeurige grenzen zijn nog steeds de oorzaak van veel conflicten in Afrika.',
+      'Op de Berlijnse Conferentie van 1884-1885 verdeelden Europese mogendheden Afrika onder elkaar - zonder dat er een enkele Afrikaan bij aanwezig was.',
+      'De grenzen die werden getrokken negeerden volledig de bestaande etnische, taalkundige en culturele grenzen van Afrikaanse volkeren.',
+      'België\'s koning Leopold II verwierf persoonlijk de Congo-Vrijstaat, waar miljoenen Congolezen stierven door dwangarbeid.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -28015,6 +28240,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De moordenaar Gavrilo Princip had eigenlijk al opgegeven toen de auto toevallig voor hem stopte.',
       'Een reeks allianties trok binnen weken heel Europa de oorlog in.',
+      'De moord op aartshertog Franz Ferdinand was eigenlijk een mislukte aanslag - de eerste poging met een bom mislukte eerder die dag.',
+      'Gavrilo Princip schoot Franz Ferdinand per toeval tegen toen de auto een verkeerde afslag nam en vlak voor hem stopte.',
+      'De aartshertog droeg een kogelvrij vest van zijde, maar werd in de hals geraakt - een onbeschermd gebied.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -28032,6 +28260,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tijdens de Kerstbestanden van 1914 speelden Britse en Duitse soldaten voetbal in niemandsland.',
       'Sommige delen van het front bewogen in 4 jaar minder dan 1 km.',
+      'Het loopgravenstelsel aan het Westfront strekte zich uit over meer dan 600 kilometer, van de Noordzee tot Zwitserland.',
+      'Soldaten leden aan \'loopgravenvoet\', een aandoening veroorzaakt door dagenlang in modderig water te staan, die tot amputatie kon leiden.',
+      'Tijdens de Kerstbestanden van 1914 speelden Duitse en Britse soldaten spontaan voetbalwedstrijden in niemandsland.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -28049,6 +28280,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Duitsland moest $33 miljard aan herstelbetalingen betalen.',
       'De laatste betaling werd pas gedaan op 3 oktober 2010.',
+      'Het Verdrag van Versailles legde Duitsland oorlogsschulden op van 132 miljard goudmark - een bedrag dat pas in 2010 volledig was afbetaald.',
+      'De Amerikaanse president Wilson wilde een milde vrede, maar Frankrijk eiste zware straffen - het compromis bevredigde niemand.',
+      'Het verdrag zaaide de kiemen voor de Tweede Wereldoorlog doordat het een gevoel van vernedering en revanche in Duitsland aanwakkerde.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -28066,6 +28300,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Frankrijk had een groter leger maar werd overrompeld door de snelheid van de aanval.',
       'De Maginotlinie, waar Frankrijk miljarden aan had besteed, werd simpelweg omzeild.',
+      'De term \'Blitzkrieg\' werd niet door het Duitse leger bedacht maar door westerse journalisten om de snelle Duitse aanvallen te beschrijven.',
+      'De verovering van Frankrijk in 1940 duurde slechts zes weken, terwijl het in de Eerste Wereldoorlog vier jaar loopgravenoorlog had gekost.',
+      'Het succes van de Blitzkrieg was deels gebaseerd op het massale gebruik van amfetamines door Duitse soldaten om dagenlang te kunnen doorvechten.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -28083,6 +28320,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Sluipschutters vochten van gebouw tot gebouw; de gemiddelde overlevingstijd van een soldaat was 24 uur.',
       'De Duitse overgave was het psychologische keerpunt van de oorlog.',
+      'De Slag om Stalingrad duurde meer dan vijf maanden en kostte naar schatting 2 miljoen levens aan beide zijden.',
+      'De gemiddelde levensverwachting van een Sovjet-soldaat in Stalingrad was 24 uur, voor officieren nog korter.',
+      'Na de overgave vroren en stierven de meeste van de 91.000 Duitse krijgsgevangenen - slechts 6.000 keerden ooit terug naar Duitsland.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -28100,6 +28340,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Ik volgde slechts bevelen op" werd niet geaccepteerd als verdediging.',
       '12 beklaagden werden ter dood veroordeeld; Göring pleegde zelfmoord voor de executie.',
+      'De Processen van Neurenberg waren de eerste internationale oorlogstribunalen en vestigden het principe dat \'bevelen opvolgen\' geen excuus is voor oorlogsmisdaden.',
+      'Van de 24 hoofdverdachten werden er 12 ter dood veroordeeld, 3 vrijgesproken en de rest kreeg gevangenisstraffen.',
+      'Hermann Göring pleegde zelfmoord met een cyaankapsel slechts uren voor zijn geplande executie - hoe hij het kreeg is nooit opgehelderd.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -28117,6 +28360,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '750.000 Palestijnen vluchtten of werden verdreven - de "Nakba".',
       'Israël overleefde ondanks een enorme numerieke minderheid.',
+      'Israël riep zijn onafhankelijkheid uit op 14 mei 1948 en werd binnen 24 uur aangevallen door vijf Arabische legers.',
+      'Meer dan 700.000 Palestijnen vluchtten of werden verdreven tijdens de oorlog, een gebeurtenis die zij \'de Nakba\' (catastrofe) noemen.',
+      'Het pasgeboren Israëlische leger was zo slecht bewapend dat ze wapens smokkelten in melkbussen en nep-tanks van hout bouwden.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -28136,6 +28382,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De dam creëerde het Nassermeer - een van de grootste kunstmatige meren ter wereld.',
       'Een UNESCO-operatie verplaatste de tempels van Ramses II steen voor steen.',
+      'De Suezcrisis van 1956 markeerde het definitieve einde van het Brits-Franse koloniale tijdperk en de opkomst van de VS en USSR als supermachten.',
+      'President Nasser nationaliseerde het Suezkanaal om de Aswandam te financieren, nadat de VS hun beloofde financiering introkken.',
+      'De VS en de Sovjet-Unie stonden voor het eerst zij aan zij tegen hun eigen bondgenoten Groot-Brittannië en Frankrijk.',
     ],
     popularityScore: 65,
     uncertaintyLevel: 'exact',
@@ -28153,6 +28402,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Student Jan Palach stak zichzelf in brand als protest tegen de invasie.',
       '500.000 Warschaupact-soldaten vielen het land binnen op één nacht.',
+      'Alexander Dubček\'s hervormingen voor \'socialisme met een menselijk gezicht\' duurden slechts acht maanden voordat Sovjet-tanks Praag binnenreden.',
+      'Meer dan 500.000 Warschaupacttroepen vielen Tsjechoslowakije binnen, de grootste militaire operatie in Europa sinds de Tweede Wereldoorlog.',
+      'Student Jan Palach stak zichzelf in brand op het Wenceslasplein in januari 1969 als protest tegen de bezetting.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -28170,6 +28422,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De bemanning gebruikte de maanlander als reddingsboot.',
       'NASA-ingenieurs losten het CO₂-probleem op met tape, karton en een sok.',
+      'De beroemde zin \'Houston, we have a problem\' werd eigenlijk uitgesproken als \'Houston, we\'ve had a problem\' door astronaut Jack Swigert.',
+      'De bemanning overleefde door de maanlander als reddingsboot te gebruiken, een noodprocedure die nooit eerder was getest in de ruimte.',
+      'De astronauten moesten hun waterverbruik beperken tot 200 ml per persoon per dag - een zesde van de normale hoeveelheid.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -28187,6 +28442,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De gijzeling van de Amerikaanse ambassade duurde 444 dagen.',
       'De revolutie stuurde een schokgolf door de hele islamitische wereld.',
+      'De Camp David-akkoorden van 1978 waren het eerste vredesverdrag tussen Israël en een Arabisch land (Egypte).',
+      'President Carter bracht Begin en Sadat 13 dagen bij elkaar in Camp David, waarbij de onderhandelingen meerdere malen bijna mislukten.',
+      'Anwar Sadat werd in 1981 vermoord door Egyptische militairen die het vredesverdrag met Israël als verraad beschouwden.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -28204,6 +28462,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Wikipedia heeft meer dan 60 miljoen artikelen in 300 talen.',
       'Het wordt gerund door een non-profit met minder dan 700 werknemers.',
+      'Wikipedia begon in januari 2001 en bevat nu meer dan 60 miljoen artikelen in meer dan 300 talen.',
+      'De Nederlandstalige Wikipedia was een van de eerste niet-Engelstalige versies en bevat meer dan 2 miljoen artikelen.',
+      'Ondanks de open bewerkbaarheid zijn studies herhaaldelijk tot de conclusie gekomen dat Wikipedia ongeveer even betrouwbaar is als traditionele encyclopedieën.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -28221,6 +28482,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Griekenland ontving €289 miljard aan noodleningen.',
       'Mario Draghi redde de euro met drie woorden: "whatever it takes".',
+      'Griekenland had bij toetreding tot de eurozone zijn begrotingscijfers vervalst met behulp van complexe financiële constructies van Goldman Sachs.',
+      'De Griekse economie kromp met 25% tijdens de crisis, vergelijkbaar met de Grote Depressie in de VS.',
+      'Het woord \'Grexit\' (Greek exit) werd in 2012 bedacht en inspireerde later het woord \'Brexit\'.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -28238,6 +28502,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Doudna en Charpentier wonnen de Nobelprijs voor Scheikunde in 2020.',
       'Een Chinese wetenschapper gebruikte CRISPR illegaal op menselijke embryo\'s in 2018.',
+      'CRISPR staat voor \'Clustered Regularly Interspaced Short Palindromic Repeats\' en is eigenlijk een natuurlijk afweersysteem van bacteriën.',
+      'Jennifer Doudna en Emmanuelle Charpentier wonnen de Nobelprijs voor Scheikunde in 2020 voor hun werk aan CRISPR-Cas9.',
+      'In 2018 beweerde de Chinese wetenschapper He Jiankui de eerste genetisch gemodificeerde baby\'s te hebben gecreëerd met CRISPR, wat wereldwijd tot verontwaardiging leidde.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -28255,6 +28522,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'AI kan nu tekst, code, beelden, muziek en video genereren.',
       'Experts debatteren hevig over de risico\'s van superintelligente AI.',
+      'ChatGPT bereikte 100 miljoen gebruikers in slechts twee maanden na lancering in november 2022 - het snelst groeiende product ooit.',
+      'De term \'kunstmatige intelligentie\' werd in 1956 bedacht tijdens een zomerconferentie in Dartmouth, New Hampshire.',
+      'Moderne AI-modellen worden getraind op datasets die een groot deel van al het geschreven materiaal op internet bevatten.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
