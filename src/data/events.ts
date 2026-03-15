@@ -25310,6 +25310,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Beatles verkochten meer albums dan welke andere artiest dan ook; hun opnames worden nog steeds elke dag gestreamd.',
       'Elvis\' tv-optreden in 1956 werd zo controversieel geacht dat cameramensen van Ed Sullivan hem alleen van de middel omhoog filmden.',
+      'Elvis Presley werd de \'King of Rock and Roll\' genoemd; zijn heupbewegingen waren zo schokkend dat tv-camera\'s hem alleen van de taille omhoog filmden.',
+      'Rock-\'n-roll combineerde Afro-Amerikaanse rhythm-and-blues met country-muziek; de term werd oorspronkelijk als eufemisme voor seks gebruikt.',
+      'Chuck Berry, Little Richard en Fats Domino waren de zwarte pioniers van rock-\'n-roll, maar witte artiesten kregen vaak meer erkenning en succes.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -25327,6 +25330,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Betty Friedan beschreef de onvrede van huisvrouwen als "het probleem zonder naam" – de bron van sluimerende onvrede.',
       'Roe v. Wade (1973) legaliseerde abortus in de VS; het besluit werd in 2022 teruggedraaid.',
+      'Simone de Beauvoir\'s \'De Tweede Sekse\' (1949) legde de intellectuele basis voor het moderne feminisme.',
+      'Betty Friedan\'s \'The Feminine Mystique\' (1963) beschreef de onvrede van Amerikaanse huisvrouwen en lanceerde de tweede feministische golf.',
+      'De tweede golf streed voor gelijk loon, reproductieve rechten en toegang tot beroepen die voorheen voor vrouwen gesloten waren.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -25344,6 +25350,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Martin Luther King\'s "I Have a Dream" speech in 1963 is een van de meest geciteerde toespraken in de Amerikaanse geschiedenis.',
       'Rosa Parks weigerde in 1955 haar busplaats aan een blanke man op te geven; haar daad gaf aanzet tot de Montgomery Busboycot.',
+      'De Montgomery-busboycot duurde 381 dagen en eindigde met de uitspraak van het Hooggerechtshof dat bussegregatie ongrondwettelijk was.',
+      'De sit-ins bij lunchcounters in Greensboro (1960) verspreidden zich binnen twee maanden naar 54 steden in negen staten.',
+      'De Freedom Riders riskeerden hun leven door gesegregeerde bussen in het Zuiden te berijden; hun bussen werden in brand gestoken.',
     ],
     popularityScore: 93,
     uncertaintyLevel: 'exact',
@@ -25361,6 +25370,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Stonewall-rellen van 1969 in New York worden beschouwd als het begin van de moderne LGBTQ+-rechtenbeweging.',
       'De anticonceptiepil werd voor het eerst goedgekeurd in 1960; in vijf jaar tijd gebruikten 6 miljoen Amerikaanse vrouwen het middel.',
+      'De anticonceptiepil, goedgekeurd in 1960, gaf vrouwen voor het eerst betrouwbare controle over hun vruchtbaarheid.',
+      'De Stonewall-rellen in New York (1969) markeerden het begin van de moderne LGBTQ-rechtenbeweging.',
+      'De seksuele revolutie daagde eeuwenoude taboes uit over seks buiten het huwelijk, homoseksualiteit en vrouwelijke seksualiteit.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -25378,6 +25390,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Casablanca" (1942) werd oorspronkelijk beschouwd als een B-film; het groeide uit tot een van de meest geliefde films aller tijden.',
       'Hollywood exporteerde Amerikaanse waarden wereldwijd; dit werd gezien als zowel culturele diplomatie als cultureel imperialisme.',
+      'Alfred Hitchcock wordt beschouwd als de meester van de spanning; zijn film Psycho (1960) veranderde het horrorgenre voorgoed.',
+      'Technicolor transformeerde de filmwereld; The Wizard of Oz (1939) gebruikte de overgang van zwart-wit naar kleur als dramatisch effect.',
+      'Het studiosysteem werd in 1948 gebroken door een antitrustuitspraak die studio\'s verbood om ook bioscopen te bezitten.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -25395,6 +25410,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Woodstock (augustus 1969) trok 400.000 mensen; organisatoren hadden slechts op 200.000 gerekend.',
       'Jimi Hendrix, Janis Joplin en Jim Morrison stierven allemaal op 27-jarige leeftijd in 1970-71, de "Club van 27".',
+      'De jaren 60 zagen de opkomst van de tegencultuur: hippies, psychedelica, antioorlogsprotesten en het streven naar een betere wereld.',
+      'De miniskirt, ontworpen door Mary Quant, werd het symbool van vrouwenemancipatie en jeugdcultuur.',
+      'De moord op JFK (1963), MLK (1968) en RFK (1968) traumatiseerden een generatie en voedden het wantrouwen jegens de overheid.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -25412,6 +25430,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nixon-Kennedy debatten van 1960 toonden dat televisie-imago doorslaggevend was; mensen die de debatten op de radio hoorden dachten Nixon won.',
       'In de VS bezat in 1955 slechts 65% van de huishoudens een televisie; in 1960 was dit 90%.',
+      'In 1950 had slechts 9% van de Amerikaanse huishoudens een televisie; in 1960 was dat 90%.',
+      'De Kennedy-Nixon-debatten van 1960 waren de eerste presidentiële tv-debatten; radioluisteraars dachten dat Nixon won, tv-kijkers dachten Kennedy.',
+      'Televisie bracht de Vietnam-oorlog de huiskamers in en wordt beschouwd als een factor in de groeiende publieke oppositie tegen de oorlog.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -25429,6 +25450,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'James Joyce\'s "Ulysses" speelt zich af op één dag (16 juni 1904), die jaarlijks als "Bloomsday" wordt gevierd in Dublin.',
       'Kafka\'s werk werd pas na zijn dood beroemd; hij had zijn vriend Max Brod gevraagd zijn manuscripten te vernietigen.',
+      'James Joyce\'s Ulysses was zo controversieel dat het in de VS tot 1933 verboden was wegens obsceniteit.',
+      'Franz Kafka publiceerde bijna niets tijdens zijn leven en vroeg zijn vriend Max Brod om al zijn manuscripten te verbranden – Brod deed het niet.',
+      'Virginia Woolf experimenteerde met stream-of-consciousness en verlegde de grenzen van wat een roman kon zijn.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -25446,6 +25470,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De CIA financierde heimelijk tentoonstellingen van abstract expressionistische kunst in Europa om de vrijheid van de VS te propageren.',
       'Jackson Pollock\'s drip-paintings werden oorspronkelijk belachelijk gemaakt; nu zijn ze honderden miljoenen waard.',
+      'Jackson Pollock druppelde en goot verf op enorme doeken op de vloer; critici noemden het \'drip painting\' en het veranderde de kunst voorgoed.',
+      'De CIA financierde heimelijk abstracte expressionistische tentoonstellingen als wapen in de Koude Oorlog om de culturele superioriteit van het Westen te tonen.',
+      'Mark Rothko schilderde enorme kleurvlakken die bedoeld waren om diepe emoties op te roepen; hij pleegde zelfmoord in 1970.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -25463,6 +25490,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS produceerde in 1955 meer auto\'s dan alle andere landen samen; de auto werd het ultieme statussymbool.',
       'De creditcard werd in 1950 geïntroduceerd door Diners Club; in tien jaar tijd had elk Amerikaans gezin er gemiddeld drie.',
+      'De naoorlogse babyboom en suburbanisatie creëerden een enorme markt voor auto\'s, huishoudelijke apparaten en fast food.',
+      'McDonald\'s opende zijn eerste franchiserestaurant in 1955; het werd het symbool van de Amerikaanse consumentencultuur.',
+      'De creditcard werd in 1950 geïntroduceerd door Diners Club; het veranderde fundamenteel hoe mensen geld uitgeven.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -25480,6 +25510,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het VN-wapenembargo tegen Zuid-Afrika (1977) was de eerste verplichte VN-sanctie ooit opgelegd.',
       'Nelson Mandela stond op de VN-terreurlijst van de VS tot 2008 – 14 jaar na het einde van de apartheid.',
+      'De internationale boycot van Zuid-Afrika omvatte sancties, sportboycots en culturele boycots die het apartheidsregime isoleerden.',
+      'Het concert voor Mandela in Wembley Stadium (1988) werd bekeken door 600 miljoen mensen en versterkte de mondiale druk.',
+      'Desmond Tutu, aartsbisschop van Kaapstad, won de Nobelprijs voor de Vrede in 1984 voor zijn vreedzame strijd tegen apartheid.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -25497,6 +25530,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Jesse Owens won vier gouden medailles bij de Berlijnse Spelen van 1936, wat Hitlers rassentheorieën beschaamde.',
       'De aanslagen in München 1972 (11 Israëlische atleten vermoord) transformeerden de veiligheidsprotocollen bij sportevenementen.',
+      'De Olympische Spelen van Berlijn 1936 werden door Hitler gebruikt als propaganda; Jesse Owens versloeg de \'superieure\' Ariërs met vier gouden medailles.',
+      'Het bloedbad van München 1972 zag Palestijnse terroristen 11 Israëlische atleten gijzelen en doden.',
+      'De boycots van Moskou 1980 (door het Westen) en Los Angeles 1984 (door het Oostblok) maakten sport tot een Koude Oorlog-wapen.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -25514,6 +25550,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'The Clash\'s "London Calling" (1979) werd verkozen tot het beste album van de jaren 1980 door Rolling Stone, hoewel het in 1979 werd uitgebracht.',
       'De Sex Pistols bestonden slechts twee jaar maar hadden een buitenproportionele culturele impact.',
+      'De Sex Pistols\' \'God Save the Queen\' werd verboden door de BBC maar bereikte toch de tweede plek in de hitlijsten.',
+      'Punk was een reactie op de economische malaise en culturele stagnatie van de jaren 70; het motto was \'Do It Yourself\'.',
+      'The Ramones, The Clash en de Sex Pistols definieerden het genre; punkesthetiek beïnvloedt mode en muziek tot op de dag van vandaag.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -25531,6 +25570,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'IKEA\'s filosofie van functioneel design voor de massa is direct beïnvloed door Bauhaus-principes.',
       'Veel Bauhaus-meesters vluchtten naar de VS nadat de nazi\'s de school sloten; zij transformeerden het Amerikaanse design.',
+      'Het Bauhaus (1919-1933) was een Duitse kunstschool die kunst, architectuur en design wilde verenigen met industriële productie.',
+      'De nazi\'s sloten het Bauhaus in 1933; veel docenten vluchtten naar de VS waar ze de Amerikaanse architectuur en design transformeerden.',
+      'Bauhaus-principes van functionalisme en minimalisme zijn nog steeds zichtbaar in modern meubeldesign, architectuur en grafisch ontwerp.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -25548,6 +25590,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De ENIAC woog 30 ton en gebruikte genoeg stroom om een klein dorp te verlichten.',
       'Grace Hopper, een vrouwelijke marinier, was een pionier in computerprogrammering en bedacht de term "debugging".',
+      'De ENIAC (1945), de eerste elektronische computer, woog 30 ton en vulde een hele kamer; een moderne smartphone is miljoenen keren krachtiger.',
+      'Gordon Moore voorspelde in 1965 dat het aantal transistors op een chip elke twee jaar zou verdubbelen; Moore\'s Law geldt nog steeds.',
+      'De personal computer revolutie begon in de jaren 1970-80 met de Apple II, IBM PC en Commodore 64.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -25565,6 +25610,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het eerste website-adres was info.cern.ch, opgezet door Tim Berners-Lee op 6 augustus 1991.',
       'Amazon begon als een online boekhandel; Jeff Bezos lanceerde het vanuit zijn garage in 1994.',
+      'Het World Wide Web werd in 1991 uitgevonden door Tim Berners-Lee bij CERN; de eerste website beschreef het web zelf.',
+      'De dot-com-bubbel (1995-2000) zag tech-aandelen stijgen tot absurde niveaus voordat de markt in 2000 instortte.',
+      'Meer dan 5 miljard mensen hebben vandaag internettoegang – meer dan 60% van de wereldbevolking.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -25582,6 +25630,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Neil Armstrong\'s beroemde woorden "one small step for man" – hij had "for a man" willen zeggen maar het geluidssignaal viel weg.',
       'De software van Apollo 11 had minder rekenkracht dan een moderne smartphone; programmering was een handgemaakte kunst.',
+      'Neil Armstrong\'s woorden \'That\'s one small step for man, one giant leap for mankind\' werden live gehoord door 600 miljoen mensen.',
+      'De Apollo 11-missie kostte 25,4 miljard dollar (destijds); de hele ruimtewedloop was gedreven door rivaliteit met de Sovjet-Unie.',
+      'De VS is nog steeds het enige land dat mensen op de maan heeft gezet; het Artemis-programma beoogt een terugkeer.',
     ],
     popularityScore: 95,
     uncertaintyLevel: 'exact',
@@ -25599,6 +25650,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De containerrevolutie in de scheepvaart verlaagde de kosten van internationaal transport met 90%, wat globalisering mogelijk maakte.',
       'McDonald\'s is aanwezig in meer dan 100 landen; de "Big Mac Index" is een economische indicator voor wisselkoersen.',
+      'De containerrevolutie in de scheepvaart verlaagde transportkosten met 90% en maakte wereldhandel op grote schaal mogelijk.',
+      'De val van de Berlijnse Muur (1989) en China\'s toetreding tot de WTO (2001) waren de twee grootste acceleratoren van de globalisering.',
+      'Globalisering tilde honderden miljoenen uit de armoede maar vergrootte ook de ongelijkheid binnen landen.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -25616,6 +25670,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Alan Turing stelde zijn beroemde "Turing Test" voor in 1950 als maatstaf voor mensachtige intelligentie.',
       'Het schaakprogramma Deep Blue versloeg wereldkampioen Garry Kasparov voor het eerst in 1997.',
+      'Alan Turing stelde in 1950 de vraag \'Kunnen machines denken?\' en ontwierp de Turing-test om dit te meten.',
+      'De AI-winter (1980s-90s) was een periode van teleurstelling en verminderde financiering na te optimistische beloften.',
+      'Deep Blue versloeg schaakwereldkampioen Kasparov in 1997; het was de eerste keer dat een computer de menselijke kampioen versloeg.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -25633,6 +25690,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Andy Warhol voorspelde: "In the future, everyone will be world-famous for 15 minutes" – een profetische uitspraak in het tijdperk van sociale media.',
       'Warhol\'s Campbell\'s Soup blikken schilderijen werden gepresenteerd als kunstgalerij-displays, geheel revolutionair voor de kunstmarkt.',
+      'Andy Warhol maakte kunst van consumentenproducten als Campbell\'s soepblikken en Coca-Cola-flessen.',
+      'Roy Lichtenstein vergrootte stripbeelden tot schilderijen en vervagde de grens tussen hoge en lage cultuur.',
+      'Popart was een reactie op het elitaire abstract expressionisme en omarmde de populaire cultuur als kunstvorm.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -25650,6 +25710,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Silent Spring" van Rachel Carson wordt beschouwd als een van de boeken die de meeste politieke verandering teweegbracht.',
       'De eerste Earth Day (22 april 1970) leidde direct tot de oprichting van de EPA en de Clean Air Act in de VS.',
+      'Rachel Carsons \'Silent Spring\' (1962) waarschuwde voor de gevolgen van pesticiden en lanceerde de moderne milieubeweging.',
+      'De eerste Dag van de Aarde (22 april 1970) trok 20 miljoen Amerikanen de straat op en leidde tot de oprichting van de EPA.',
+      'Het gat in de ozonlaag leidde tot het Montreal Protocol (1987) – het succesvolste internationale milieuverdrag ooit.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -25667,6 +25730,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Jazz werd in de VS als "duivelse muziek" beschouwd vanwege zijn Afro-Amerikaanse wortels en improvisatiekarakter.',
       'De Jazz Age van de jaren 1920 viel samen met de Harlem Renaissance, een bloeitijd van Afro-Amerikaanse kunst en cultuur.',
+      'De blues ontstond in het diepe Zuiden van de VS uit de werkliederen en spirituals van Afro-Amerikanen.',
+      'Miles Davis\' \'Kind of Blue\' (1959) is het bestverkochte jazzalbum aller tijden en wordt beschouwd als het perfecte jazzalbum.',
+      'John Coltrane\'s \'A Love Supreme\' (1965) wordt beschouwd als een van de grootste muzikale prestaties van de 20e eeuw.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -25684,6 +25750,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Parijse Mei 1968-protesten brachten de productie in Frankrijk bijna tot stilstand; president De Gaulle vluchtte tijdelijk naar Duitsland.',
       'Studenten in de VS bezetten campussen als protest tegen de Vietnam-oorlog; de Kent State schietpartij (4 mei 1970) doodde 4 studenten.',
+      'In 1968 braken protesten uit van Parijs tot Praag, van Mexico-Stad tot Tokio; het was een wereldwijde generatie-opstand.',
+      'De Parijse meistaking begon als studentenprotest maar groeide uit tot de grootste staking in de Franse geschiedenis met 10 miljoen stakers.',
+      'Het Tet-offensief in Vietnam schokte Amerika en versterkte de antioorlogsbeweging.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -25701,6 +25770,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS weigerde AIDS lange tijd te erkennen als nationale crisis; president Reagan sprak het woord "AIDS" pas in 1987 voor het eerst uit.',
       'Sub-Sahara Afrika is tot op de dag van vandaag het zwaarst getroffen door HIV/AIDS; in sommige landen is de prevalentie meer dan 20%.',
+      'Meer dan 40 miljoen mensen zijn wereldwijd aan aids gestorven sinds het begin van de epidemie.',
+      'De rode lintjes-campagne werd in 1991 gelanceerd als symbool van solidariteit met aidsslachtoffers.',
+      'In 2023 leven meer dan 39 miljoen mensen met HIV, waarvan de meerderheid in sub-Sahara Afrika.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -25720,6 +25792,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Afghanistan heeft alle grootmachten verslagen die het probeerden te beheersen: Alexander de Grote, het Britse Rijk, de Sovjet-Unie en de VS.',
       'De kosten van de Afghaanse oorlog voor de VS worden geschat op meer dan $2,3 biljoen.',
+      'De oorlog in Afghanistan (2001-2021) was de langste oorlog in de Amerikaanse geschiedenis.',
+      'De Taliban werden in 2001 verdreven maar keerden in 2021 terug aan de macht na het vertrek van de VS.',
+      'Meer dan 170.000 mensen stierven in het conflict, waaronder meer dan 47.000 Afghaanse burgers.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -25737,6 +25812,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nooit gevonden massavernietigingswapens bleven de grootste geloofwaardigheidsverstoring voor de VS en het VK.',
       'Colin Powell presenteerde valse bewijzen van Iraakse massavernietigingswapens voor de VN-Veiligheidsraad.',
+      'De bewering dat Irak massavernietigingswapens bezat bleek onjuist; het was de controversieelste beslissing van de 21e eeuw.',
+      'De oorlog kostte meer dan 2 biljoen dollar en het leven van meer dan 200.000 Iraakse burgers.',
+      'De val van Saddam Hoessein leidde tot sektarisch geweld en de opkomst van ISIS.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -25754,6 +25832,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De foto van het verdronken Syrische kind Alan Kurdi (3 jaar) veranderde de publieke perceptie van de vluchtelingencrisis wereldwijd.',
       'Meer dan 20.000 mensen verdronken in de Middellandse Zee op weg naar Europa tussen 2014 en 2020.',
+      'In 2015 staken meer dan een miljoen vluchtelingen de Middellandse Zee over; duizenden verdronken.',
+      'Het EU-Turkije-akkoord van 2016 verminderde de stroom drastisch door Turkije als buffer te gebruiken.',
+      'De crisis versterkte populistische en anti-immigratiepartijen in heel Europa.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -25771,6 +25852,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Greta Thunberg begon haar "Fridays for Future" stakingen als 15-jarige met een protest van één persoon voor het Zweeds parlement.',
       'De IPCC (opgericht 1988) heeft jaarlijks meer dan 1.000 wetenschappers uit meer dan 100 landen die klimaatonderzoek coördineren.',
+      'Het Akkoord van Parijs (2015) was de eerste keer dat bijna alle landen ter wereld zich verbonden aan klimaatdoelen.',
+      'De VS trok zich onder Trump terug uit het Akkoord maar keerde onder Biden terug.',
+      'Ondanks beloften stijgen de mondiale CO2-emissies nog steeds; wetenschappers waarschuwen dat 1,5°C opwarming onvermijdelijk is.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -25788,6 +25872,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het exacte dodental is nog steeds onbekend; China censureert alle informatie over het incident tot op de dag van vandaag.',
       'De foto van de "Tankman" die een colonne tanks tegenhield is een van de meest iconische foto\'s van de 20e eeuw.',
+      'De protesten op het Tiananmenplein duurden zeven weken; studenten bouwden een replica van het Vrijheidsbeeld.',
+      'Het exacte dodental is onbekend; schattingen variëren van honderden tot duizenden.',
+      'China censureert elke verwijzing naar Tiananmen; het internet blokkeert zelfs de datum \'4 juni\'.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'approximate',
@@ -25805,6 +25892,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Noord-Korea is het enige land dat de afgelopen decennia kernwapens heeft ontwikkeld buiten de oorspronkelijke nucleaire mogendheden.',
       'Israel heeft officieel nooit bevestigd noch ontkend kernwapens te bezitten, een strategie die "ambiguïteit" wordt genoemd.',
+      'Het Non-Proliferatieverdrag (1968) was bedoeld om kernwapens te beperken tot vijf landen, maar ook India, Pakistan, Israël en Noord-Korea hebben ze.',
+      'Tijdens de Koude Oorlog hadden de VS en Sovjet-Unie samen meer dan 70.000 kernkoppen – genoeg om de aarde meerdere keren te vernietigen.',
+      'Het Doomsday Clock van het Bulletin of the Atomic Scientists staat op 90 seconden voor middernacht – de kortste afstand ooit.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -25822,6 +25912,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De verkiezing van Donald Trump in 2016 verraste vrijwel alle peilingbureaus; het werd een wekroep voor het vertrouwen in traditionele media.',
       'Viktor Orbán definieerde zijn beleid als "illiberale democratie" – een bewuste uitdaging aan liberale westerse waarden.',
+      'Populistische partijen wonnen terrein in Hongarije (Orbán), Polen (PiS), Italië (Meloni) en Frankrijk (Le Pen).',
+      'Brexit was het grootste populistische succes in Europa; het Verenigd Koninkrijk verliet de EU in 2020.',
+      'Populisten beloven eenvoudige oplossingen voor complexe problemen en richten zich tegen de \'elite\' en immigratie.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -25839,6 +25932,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De mRNA-vaccins van Pfizer/BioNTech werden in recordtijd ontwikkeld dankzij decennialang fundamenteel onderzoek naar mRNA-technologie.',
       'Tijdens de lockdowns daalde de CO2-uitstoot tijdelijk met 17%, de sterkste daling ooit gemeten.',
+      'COVID-19 veroorzaakte de ergste economische krimp sinds de Grote Depressie; miljarden mensen gingen in lockdown.',
+      'Vaccins werden in recordtempo ontwikkeld maar de distributie was ongelijk; rijke landen kregen veel meer doses dan arme landen.',
+      'De pandemie versnelde thuiswerken, e-commerce en digitale transformatie met jaren.',
     ],
     popularityScore: 94,
     uncertaintyLevel: 'approximate',
@@ -25856,6 +25952,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Oekraïne werd door het Westen bewapend met wapentypen die eerder als te provocatief werden beschouwd, in een geleidelijke escalatieladder.',
       'De Russische invasie leidde tot de snelste sanctie-implementatie in de geschiedenis; meer dan 10.000 individuele sancties werden opgelegd.',
+      'De Russische invasie van 2022 was de grootste landoorlog in Europa sinds 1945.',
+      'Westerse sancties isoleerden Rusland economisch maar stopten de oorlog niet.',
+      'Oekraïne ontving miljarden aan militaire hulp van het Westen, waaronder geavanceerde wapensystemen.',
     ],
     popularityScore: 95,
     uncertaintyLevel: 'approximate',
@@ -25873,6 +25972,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Facebook heeft meer dan 3 miljard actieve gebruikers, meer dan 40% van de wereldbevolking.',
       'TikTok groeide in vijf jaar van nul tot een miljard gebruikers, sneller dan elke andere platform in de geschiedenis.',
+      'Sociale media speelden een cruciale rol in de Arabische Lente, Black Lives Matter en andere protestbewegingen.',
+      'Het Cambridge Analytica-schandaal onthulde hoe persoonlijke data werden misbruikt voor politieke manipulatie.',
+      'TikTok bereikte 1 miljard gebruikers sneller dan enig ander platform in de geschiedenis.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -25890,6 +25992,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Noord-Korea is een van de weinige landen met een hoog niveau van militaire capaciteit maar extreme economische isolatie.',
       'De drie Kim-generaties (Il-sung, Jong-il en Jong-un) regeerden Noord-Korea van 1948 tot heden – de langste dynastieke dictatuur van de 20e-21e eeuw.',
+      'Noord-Korea testte zijn eerste kernwapen in 2006 en heeft sindsdien meerdere tests uitgevoerd ondanks internationale sancties.',
+      'Kim Jong-un ontmoette in 2018 als eerste Noord-Koreaanse leider een zittende Amerikaanse president; de onderhandelingen leverden niets op.',
+      'Noord-Korea is het meest geïsoleerde land ter wereld; de meeste burgers hebben geen internettoegang.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -25907,6 +26012,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Polen is nu een van de meest EU-positieve landen in de unie; meer dan 90% van de Polen steunt EU-lidmaatschap.',
       'De uitbreiding creëerde massale migratiebewegingen; meer dan een miljoen Polen vestigden zich in het VK in de eerste jaren.',
+      'De EU breidde in 2004 uit met tien nieuwe lidstaten, voornamelijk uit Oost-Europa; het was de grootste uitbreiding ooit.',
+      'Polen, Hongarije en Tsjechië transformeerden van communistische planeconomieën naar markteconomieën in slechts 15 jaar.',
+      'De uitbreiding bracht 75 miljoen nieuwe EU-burgers en creëerde de grootste interne markt ter wereld.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -25924,6 +26032,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'India heeft de grootste filmproductie ter wereld; Bollywood produceert meer films per jaar dan Hollywood.',
       'India\'s IT-sector levert wereldwijd bijna 20% van alle softwareontwikkelaars.',
+      'India\'s IT-sector in Bangalore werd de \'back office van de wereld\' en levert diensten aan bedrijven wereldwijd.',
+      'India lanceerde in 2014 een Mars-missie voor slechts 74 miljoen dollar – minder dan het budget van de film Gravity.',
+      'Het kastensysteem, hoewel officieel afgeschaft, beïnvloedt nog steeds de sociale mobiliteit in India.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -25941,6 +26052,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ChatGPT bereikte in vijf dagen een miljoen gebruikers; Instagram had daarvoor 2,5 maanden nodig.',
       'De GPU-chips van NVIDIA werden door de AI-boom zo gewild dat ze schaars werden; de beurswaarde van NVIDIA vertienvoudigde in twee jaar.',
+      'AlphaGo versloeg in 2016 de wereldkampioen Go, een spel dat veel complexer is dan schaken.',
+      'Generatieve AI zoals DALL-E en Midjourney kunnen fotorealistische beelden creëren uit tekstbeschrijvingen.',
+      'De race om AGI (kunstmatige algemene intelligentie) wordt beschouwd als een van de belangrijkste technologische wedlopen van de 21e eeuw.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'approximate',
@@ -25958,6 +26072,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Aung San Suu Kyi was al eerder jarenlang onder huisarrest geplaatst voor haar strijd voor democratie.',
       'Het Myanmarese leger heeft zijn financiering via jade-, robijn- en teakhouthandel die internationale sancties omzeilt.',
+      'Het leger van Myanmar greep de macht in februari 2021 en zette de democratisch gekozen leider Aung San Suu Kyi gevangen.',
+      'Massale burgerlijke ongehoorzaamheid en gewapend verzet volgden; het leger reageerde met dodelijk geweld tegen demonstranten.',
+      'Meer dan 1,5 miljoen mensen werden ontheemd door het geweld; Myanmar is verworden tot een failed state.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -25975,6 +26092,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De 8 rijkste mensen ter wereld beziten samen evenveel als de armste helft van de mensheid (4 miljard mensen).',
       'Piketty\'s "Capital in the 21st Century" was een academisch economisch boek dat een internationale bestseller werd.',
+      'De rijkste 1% bezit meer dan de helft van alle wereldwijde rijkdom.',
+      'Thomas Piketty\'s \'Capital in the Twenty-First Century\' (2013) toonde aan dat ongelijkheid structureel toeneemt in het kapitalisme.',
+      'De COVID-19-pandemie vergrootte de ongelijkheid: miljardairs werden rijker terwijl miljoenen mensen in armoede vervielen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -25992,6 +26112,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Venezuela had de grootste oliereserves ter wereld maar zag zijn economie instorten onder Maduro\'s regime.',
       'De roze golf inspireerde het concept van "21e-eeuws socialisme", een tegenhanger voor het traditionele communisme.',
+      'De \'roze golf\' zag linkse leiders aan de macht komen in Brazilië, Venezuela, Bolivia, Ecuador en Argentinië in de vroege 21e eeuw.',
+      'Hugo Chávez in Venezuela en Evo Morales in Bolivia beloofden de rijkdom te herverdelen ten gunste van de armen.',
+      'De tweede roze golf (2018-2023) bracht opnieuw linkse leiders aan de macht na een periode van rechtse regeringen.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -26009,6 +26132,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De JCPOA-onderhandelingen duurden twaalf jaar; de finale onderhandelingsronde duurde 18 dagen zonder onderbreking.',
       'Na het terugtrekken van de VS verrijkte Iran uranium opnieuw, waardoor het dichter bij wapencapaciteit kwam.',
+      'Het JCPOA (2015) beperkte Irans nucleaire programma in ruil voor opheffing van economische sancties.',
+      'Trump trok de VS in 2018 uit het akkoord; Iran hervatte daarna geleidelijk zijn verrijkingsactiviteiten.',
+      'Iran verrijkt nu uranium tot 60% – dicht bij de 90% die nodig is voor een kernwapen.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -26026,6 +26152,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bangladesh, een van de armste landen ter wereld, gaf onderdak aan meer dan een miljoen Rohingya vluchtelingen.',
       'Aung San Suu Kyi, vroegere VN-mensenrechtenprijs winnaar, verdedigde het leger voor het Internationaal Gerechtshof.',
+      'Meer dan 700.000 Rohingya vluchtten in 2017 naar Bangladesh na een militair offensief dat door de VN als genocide werd bestempeld.',
+      'De Rohingya worden al decennialang gediscrimineerd in Myanmar; ze hebben geen staatsburgerschap en weinig rechten.',
+      'Aung San Suu Kyi, Nobelprijswinnaar voor de Vrede, verdedigde het leger voor het Internationaal Gerechtshof en verloor daarmee veel internationale steun.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -26043,6 +26172,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Sommige stenen werden 250 km vervoerd vanuit Wales.',
       'Het monument is perfect uitgelijnd met de zonsopgang op midzomerdag.',
+      'Stonehenge werd gebouwd in verschillende fasen over een periode van 1.500 jaar, vanaf circa 3000 v.Chr.',
+      'De blauwe stenen werden 240 kilometer vervoerd vanuit Wales; hoe prehistorische mensen dit deden is nog steeds een raadsel.',
+      'Stonehenge was waarschijnlijk een astronomisch observatorium dat zonnewenden en maanstanden markeerde.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'estimated',
@@ -26060,6 +26192,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Proto-Sinaïtisch alfabet had slechts 22 letters.',
       'Via de Feniciërs verspreidde het alfabet zich naar Griekenland en Rome.',
+      'Het eerste alfabet werd rond 1800 v.Chr. ontwikkeld door Semitische arbeiders in Egypte, geïnspireerd door Egyptische hiëroglyfen.',
+      'Alle moderne alfabetten (Latijn, Grieks, Cyrillisch, Arabisch, Hebreeuws) stammen af van dit ene proto-Sinaïtische alfabet.',
+      'Het alfabet democratiseerde het schrift: in tegenstelling tot hiëroglyfen of spijkerschrift kon het in dagen worden geleerd.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'estimated',
@@ -26077,6 +26212,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het beroemde Paard van Troje was volgens de legende een houten paard vol Griekse soldaten.',
       'Heinrich Schliemann ontdekte de ruïnes van Troje in 1870.',
+      'Heinrich Schliemann ontdekte de ruïnes van Troje in 1870 in het huidige Turkije en bewees dat Homerus\' verhalen een historische kern hadden.',
+      'Er zijn minstens negen archeologische lagen gevonden op de locatie van Troje, die een bewoningsgeschiedenis van 4.000 jaar vertegenwoordigen.',
+      'Het beroemde Trojaanse paard is waarschijnlijk een literaire metafoor; er is geen archeologisch bewijs voor een daadwerkelijk houten paard.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'estimated',
@@ -26094,6 +26232,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Spartanen wisten dat ze zouden sterven maar vochten toch door.',
       'Het Perzische leger telde naar schatting meer dan 100.000 man.',
+      'Spartaanse jongens werden op 7-jarige leeftijd uit hun gezin gehaald voor de agoge, een meedogenloze militaire training.',
+      'Spartaanse vrouwen hadden meer rechten dan vrouwen in andere Griekse stadstaten; ze konden eigendom bezitten en kregen fysieke training.',
+      'De beroemde uitspraak \'Kom terug met je schild of erop\' weerspiegelde de Spartaanse cultuur van overwinning of dood.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'approximate',
@@ -26111,6 +26252,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij ontdekte de wet van Archimedes in zijn badkuip.',
       'Zijn uitvindingen werden gebruikt om Romeinse schepen in brand te steken met spiegels.',
+      'Archimedes ontdekte het principe van de opwaartse druk in bad en rende naakt door de straten van Syracuse roepend \'Eureka!\'',
+      'Hij ontwierp oorlogsmachines die de Romeinen jarenlang tegenhielden tijdens het beleg van Syracuse.',
+      'Een Romeinse soldaat doodde Archimedes ondanks orders om hem te sparen; zijn laatste woorden waren naar verluidt: \'Stoor mijn cirkels niet.\'',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -26128,6 +26272,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij stierf op zijn huwelijksnacht aan een neusbloeding.',
       'Zijn rijk strekte zich uit van Duitsland tot de Kaspische Zee.',
+      'Attila werd de \'Gesel Gods\' genoemd; hij eiste enorme tributen van het Oost-Romeinse Rijk en dreigde Rome zelf te veroveren.',
+      'Paus Leo I overtuigde Attila om Rome niet aan te vallen; de redenen zijn omstreden maar malaria en voedseltekorten speelden waarschijnlijk een rol.',
+      'Attila stierf op zijn huwelijksnacht, vermoedelijk aan een neusbloeding verergerd door overmatig drinkgelag.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -26145,6 +26292,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Alhambra in Granada is een van de best bewaarde Moorse paleizen.',
       'Cordoba had in de 10e eeuw meer boeken dan de rest van Europa samen.',
+      'Al-Andalus (Moors Spanje) was een centrum van wetenschap, filosofie en kunst waar christenen, moslims en joden samenleefden.',
+      'De Grote Moskee van Córdoba is een architectonisch meesterwerk met meer dan 850 zuilen van marmer en jaspis.',
+      'Islamitische geleerden in Spanje bewaarden en vertaalden Griekse klassieke teksten die anders verloren waren gegaan.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26162,6 +26312,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Tapijt van Bayeux van 70 meter lang vertelt het verhaal van de slag.',
       'Willem veranderde de Engelse taal voorgoed door het Frans te introduceren aan het hof.',
+      'De Slag bij Hastings (1066) duurde slechts één dag maar veranderde de Engelse geschiedenis voorgoed.',
+      'Willem de Veroveraar verdeelde Engeland onder zijn Normandische volgelingen en verving de Angelsaksische elite volledig.',
+      'Het Domesday Book (1086) was de meest complete volkstelling in de middeleeuwen en wordt nog steeds als historische bron gebruikt.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -26179,6 +26332,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze werden op vrijdag de 13e in 1307 massaal gearresteerd - de oorsprong van het bijgeloof.',
       'Ze zijn het onderwerp van talloze complottheorieën tot op de dag van vandaag.',
+      'De Tempeliers werden zo rijk dat ze een internationaal banknetwerk beheerden; pelgrims konden geld storten in Europa en opnemen in Jeruzalem.',
+      'Op vrijdag 13 oktober 1307 liet de Franse koning alle Tempeliers in Frankrijk arresteren – vandaar het bijgeloof rond vrijdag de dertiende.',
+      'De laatste grootmeester Jacques de Molay werd in 1314 op de brandstapel verbrand; hij vervloekte naar verluidt de koning en de paus.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26196,6 +26352,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zijn schepen waren 5 keer groter dan die van Columbus 70 jaar later.',
       'De vloot bestond soms uit meer dan 300 schepen met 27.000 man.',
+      'Zheng He\'s vloot bestond uit meer dan 300 schepen, waarvan de grootste 120 meter lang waren – vijf keer groter dan Columbus\' schepen.',
+      'China stopte de expedities na Zheng He\'s dood en verbrandde de scheepsbouwplannen; een beslissing die de wereldgeschiedenis veranderde.',
+      'Zheng He was een moslim-eunuch die door de keizer werd vertrouwd met de grootste vloot die de wereld ooit had gezien.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26213,6 +26372,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze beweerde stemmen van heiligen te horen die haar naar de strijd leidden.',
       'Ze werd 500 jaar na haar dood heilig verklaard door de Katholieke Kerk.',
+      'Jeanne d\'Arc was slechts 17 jaar oud toen ze het Franse leger naar de overwinning leidde bij Orléans.',
+      'Ze werd door de Bourgondiërs gevangen en door de Engelsen als heks verbrand; 25 jaar later werd ze gerehabiliteerd.',
+      'Jeanne d\'Arc werd in 1920 heilig verklaard door de Katholieke Kerk en is de beschermheilige van Frankrijk.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -26232,6 +26394,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij ontdekte dat de Melkweg bestaat uit individuele sterren.',
       'De Kerk dwong hem zijn bevindingen te herroepen onder dreiging van marteling.',
+      'Galileo richtte zijn telescoop op Jupiter en ontdekte vier manen die om de planeet draaiden – bewijs dat niet alles om de aarde draaide.',
+      'De Kerk dwong Galileo om zijn heliocentrische opvattingen te herroepen; hij mompelde naar verluidt: \'En toch beweegt zij.\'',
+      'Het duurde tot 1992 voordat de Katholieke Kerk officieel erkende dat Galileo gelijk had.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -26249,6 +26414,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het paleis heeft 2.300 kamers en 67 trappen.',
       'De Spiegelzaal bevat 357 spiegels die 357 ramen weerspiegelen.',
+      'Het Paleis van Versailles had op zijn hoogtepunt 10.000 bewoners, inclusief de koninklijke familie, edellieden en bedienden.',
+      'De tuinen van Versailles beslaan 800 hectare en bevatten meer dan 400 beelden en 1.400 fonteinen.',
+      'De Spiegelzaal bevat 357 spiegels en meer dan 20.000 kaarsen die bij feestelijkheden werden aangestoken.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -26266,6 +26434,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tienduizenden dwangarbeiders stierven tijdens de bouw.',
       'De stad heet ook wel "Venetië van het Noorden" vanwege de vele kanalen.',
+      'Peter de Grote stichtte Sint-Petersburg in 1703 op moerassen; duizenden arbeiders stierven bij de bouw van de stad.',
+      'Peter liet zijn eigen zoon Aleksei executeren wegens vermeend verraad; het was een van de meest tragische episodes in de Russische geschiedenis.',
+      'Sint-Petersburg werd het \'Venster naar Europa\' genoemd; het symboliseerde Ruslands modernisering en westerse oriëntatie.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -26285,6 +26456,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij zaagde de poten van zijn piano af om trillingen via de vloer te voelen.',
       'Bij de première van zijn Negende Symfonie moest iemand hem omdraaien om het applaus te zien.',
+      'Beethoven componeerde zijn beroemdste werken terwijl hij volledig doof was; hij communiceerde via conversatieboekjes.',
+      'Zijn Vijfde Symfonie opent met het beroemdste muzikale motief ooit: da-da-da-daaaa, dat het lot aan de deur symboliseert.',
+      'Bij zijn begrafenis in Wenen in 1827 liepen naar schatting 20.000 mensen mee in de rouwstoet.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -26302,6 +26476,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De man die het goud vond, James Marshall, stierf berooid.',
       'San Francisco groeide in twee jaar van 200 naar 36.000 inwoners.',
+      'De Californische Goudkoorts trok goudzoekers uit meer dan 20 landen; het was de eerste echte mondiale migratiegolf.',
+      'Levi Strauss maakte zijn fortuin niet met goud maar met het verkopen van stevige broeken aan mijnwerkers.',
+      'De goudkoorts versnelde de toelating van Californië als staat in 1850 en de aanleg van de transcontinentale spoorlijn.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26319,6 +26496,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ze bewees met statistieken dat hygiëne meer levens redde dan medicijnen.',
       'Ze was ook een pionier in datavisualisatie met haar "roosdiagrammen".',
+      'Florence Nightingale transformeerde de verpleegkunde van een laaggewaardeerd beroep tot een gerespecteerde professie.',
+      'Ze gebruikte statistische grafieken om aan te tonen dat meer soldaten stierven aan ziekten dan aan verwondingen – revolutionair voor haar tijd.',
+      'Nightingale was de eerste vrouw die werd opgenomen in de Order of Merit en de eerste vrouw op een Brits bankbiljet (de £10).',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -26336,6 +26516,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het beeld werd in 350 stukken verscheept in 214 kisten.',
       'De groene kleur is oxidatie van het koperen oppervlak - oorspronkelijk was het roodbruin.',
+      'Het Vrijheidsbeeld was een geschenk van Frankrijk aan de VS en werd in 1886 onthuld; het symboliseert vrijheid en democratie.',
+      'De fakkel werd origineel als vuurtoren gebruikt; de vlam werd later bedekt met bladgoud.',
+      'Het beeld is 93 meter hoog inclusief het voetstuk en was bij de onthulling het hoogste bouwwerk in New York.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -26353,6 +26536,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Parijzenaars noemden het "de lelijkste constructie van Parijs".',
       'De toren zou na 20 jaar gesloopt worden maar werd gered door radioantennes.',
+      'De Eiffeltoren werd gebouwd voor de Wereldtentoonstelling van 1889 en zou na 20 jaar worden afgebroken.',
+      'Veel Parijzenaars haatten de toren; Guy de Maupassant at er dagelijks omdat het de enige plek was waar hij hem niet hoefde te zien.',
+      'De toren is 330 meter hoog en was 41 jaar lang het hoogste bouwwerk ter wereld.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -26370,6 +26556,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Er waren maar genoeg reddingsboten voor de helft van de passagiers.',
       'Het wrak werd pas in 1985 gevonden op 3.800 meter diepte.',
+      'De Titanic zonk op 15 april 1912 na een botsing met een ijsberg; meer dan 1.500 van de 2.224 passagiers stierven.',
+      'Er waren niet genoeg reddingsboten voor alle passagiers; de wet eiste destijds slechts boten voor een derde van de capaciteit.',
+      'Het wrak werd pas in 1985 ontdekt op 3.800 meter diepte; het rust nu op de bodem van de Atlantische Oceaan.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -26387,6 +26576,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Little Boy" en "Fat Man" doodden samen meer dan 200.000 mensen.',
       'Tsutomu Yamaguchi overleefde beide bommen - hij was toevallig in beide steden.',
+      'De atoombommen op Hiroshima (6 aug 1945) en Nagasaki (9 aug 1945) doodden samen meer dan 200.000 mensen.',
+      'Robert Oppenheimer citeerde de Bhagavad Gita na de eerste kernproef: \'Nu ben ik de Dood geworden, de vernietiger van werelden.\'',
+      'De bommen beëindigden de Tweede Wereldoorlog maar openden het nucleaire tijdperk en de Koude Oorlog.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -26404,6 +26596,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het "I Have a Dream"-deel was geïmproviseerd - het stond niet in zijn voorbereide tekst.',
       'Meer dan 250.000 mensen waren aanwezig bij het Lincoln Memorial.',
+      'Kings toespraak wordt beschouwd als een van de meest inspirerende redevoeringen in de moderne geschiedenis.',
+      'Het deel \'I have a dream\' was niet in zijn voorbereide tekst; hij improviseerde het na aanmoediging van gospelzangeres Mahalia Jackson.',
+      'De Mars op Washington trok 250.000 mensen en droeg bij aan de aanname van de Civil Rights Act van 1964.',
     ],
     popularityScore: 92,
     uncertaintyLevel: 'exact',
@@ -26421,6 +26616,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hij zat opgesloten op Robbeneiland waar hij in een kalksteengroeve moest werken.',
       'In 1994 werd hij de eerste zwarte president van Zuid-Afrika.',
+      'Mandela zat 27 jaar gevangen, waarvan 18 op Robben Island; hij werd vrijgelaten op 11 februari 1990.',
+      'Na zijn vrijlating leidde Mandela de onderhandelingen met het apartheidsregime en werd in 1994 de eerste zwarte president.',
+      'De Waarheids- en Verzoeningscommissie onder leiding van Desmond Tutu was uniek in haar aanpak van transitional justice.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -26438,6 +26636,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Dolly werd vernoemd naar Dolly Parton.',
       'Ze werd gekloond uit een borstkliercel en leefde 6 jaar.',
+      'Dolly het schaap was het eerste zoogdier gekloond uit een volwassen lichaamscel; de aankondiging in 1997 schokte de wereld.',
+      'Het experiment vereiste 277 pogingen voordat Dolly succesvol werd geboren.',
+      'Na Dolly werden ook katten, honden en paarden gekloond; het klonen van mensen blijft ethisch en wettelijk verboden.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -26457,6 +26658,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Opportunity reed 45 km in 15 jaar terwijl de missie 90 dagen zou duren.',
       'Perseverance maakte de eerste geluidsopname op een andere planeet.',
+      'De Mars-rover Curiosity landde in 2012 en ontdekte bewijs dat Mars ooit water had – essentieel voor de zoektocht naar leven.',
+      'Perseverance landde in 2021 en draagt een kleine helikopter (Ingenuity) mee die de eerste gemotoriseerde vlucht op een andere planeet maakte.',
+      'De rovers hebben samen honderden kilometers afgelegd op het Marsoppervlak en duizenden foto\'s teruggestuurd.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -26474,6 +26678,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het was het eerste keer dat bijna alle landen ter wereld een klimaatdeal sloten.',
       'De VS trokken zich terug onder Trump maar traden opnieuw toe onder Biden.',
+      'Het Akkoord van Parijs (2015) werd door 196 landen ondertekend en beoogt de opwarming te beperken tot 1,5°C boven pre-industrieel niveau.',
+      'Het is het eerste universele klimaatverdrag; het vervangt het Kyoto-protocol dat alleen rijke landen bond.',
+      'Ondanks het akkoord zijn de mondiale emissies blijven stijgen; wetenschappers waarschuwen dat de doelen onhaalbaar worden.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -26491,6 +26698,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De telescoop kostte $10 miljard en was 25 jaar in ontwikkeling.',
       'De eerste beelden toonden sterrenstelsels van 13 miljard jaar oud.',
+      'De James Webb Space Telescope, gelanceerd in 2021, is de krachtigste ruimtetelescoop ooit gebouwd.',
+      'Het kostte 10 miljard dollar en 25 jaar om te ontwikkelen; het kan licht zien dat 13,5 miljard jaar oud is.',
+      'De eerste beelden van Webb onthulden duizenden tot dan toe onzichtbare sterrenstelsels en gaven een ongekend diep beeld van het vroege heelal.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
