@@ -24144,6 +24144,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Suffragette Emily Davison stierf in 1913 nadat ze voor het paard van koning George V sprong op de Epsom Derby.',
       'Zwitserland gaf vrouwen pas in 1971 het nationale stemrecht, als een van de laatste westerse landen.',
+      'Nieuw-Zeeland gaf vrouwen in 1893 als eerste land ter wereld stemrecht, mede dankzij de petitie van Kate Sheppard met 32.000 handtekeningen.',
+      'Zwitserland gaf vrouwen pas in 1971 stemrecht op federaal niveau – het laatste westerse land dat dit deed.',
+      'In sommige landen kregen vrouwen eerder stemrecht dan mannen zonder grondbezit; klasse en ras speelden vaak een grotere rol dan geslacht.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -24161,6 +24164,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De naam "Spaanse Griep" is misleidend; Spanje was neutraal in WO1 en rapporteerde openlijk, terwijl andere landen de pandemie censureerden.',
       'De griep doodde meer mensen in één jaar dan de Eerste Wereldoorlog in vier jaar.',
+      'De Spaanse griep infecteerde een derde van de wereldbevolking en doodde naar schatting 50 tot 100 miljoen mensen – meer dan de Eerste Wereldoorlog.',
+      'De griep heette \'Spaans\' omdat Spanje, als neutraal land, de enige was die eerlijk over de epidemie berichtte; andere landen censureerden het nieuws.',
+      'De tweede golf in het najaar van 1918 was veel dodelijker dan de eerste en trof vooral jonge volwassenen tussen 20 en 40 jaar.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -24178,6 +24184,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'T.E. Lawrence, bekend als "Lawrence of Arabia", schreef zijn memoires in het boek "Seven Pillars of Wisdom".',
       'Het Sykes-Picot Akkoord verdeelde het Midden-Oosten in Britse en Franse invloedszones, waarvan de grenzen nog steeds zichtbaar zijn.',
+      'T.E. Lawrence (\'Lawrence of Arabia\') hielp de Arabische opstand tegen het Ottomaanse Rijk te organiseren en werd een legendarische figuur.',
+      'De Britten beloofden de Arabieren onafhankelijkheid maar verdeelden het Midden-Oosten in het geheim met Frankrijk via het Sykes-Picot-akkoord.',
+      'De Arabische opstand verstoorde de Ottomaanse spoorlijnen en bond tienduizenden Turkse soldaten die elders nodig waren.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
@@ -24195,6 +24204,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rusland verloor een derde van zijn Europees grondgebied, de helft van zijn industrie en een derde van zijn bevolking.',
       'Trotski gebruikte als onderhandelingsstrategie "geen oorlog, geen vrede" – hij weigerde te tekenen noch door te vechten.',
+      'Het Verdrag van Brest-Litovsk (1918) was de prijs die Lenin betaalde voor vrede: Rusland verloor een derde van zijn bevolking en landbouwgrond.',
+      'Het verdrag werd nietig verklaard na de Duitse nederlaag in november 1918, maar de onafhankelijkheid van Finland, de Baltische staten en Polen bleef bestaan.',
+      'Lenin accepteerde de harde voorwaarden omdat hij de burgeroorlog in Rusland prioriteit gaf boven het behoud van grondgebied.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'exact',
@@ -24212,6 +24224,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Recent onderzoek toonde aan dat de Lusitania inderdaad munitie vervoerde, wat de Duitsers beweerden als rechtvaardiging.',
       'Het zinken duurde slechts 18 minuten; de reddingsboten konden daardoor nauwelijks te water worden gelaten.',
+      'De torpedering van de Lusitania in 1915 doodde 1.198 passagiers, waaronder 128 Amerikanen, en verschoof de publieke opinie in de VS richting oorlog.',
+      'Duitsland had van tevoren in Amerikaanse kranten gewaarschuwd dat schepen in de oorlogszone getorpedeerd konden worden.',
+      'Het wrak werd pas in 2008 onderzocht en bevatte inderdaad munitie, wat de Duitse claim gedeeltelijk rechtvaardigde.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -24229,6 +24244,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hemingway\'s roman "Vaarwel van de Wapenen" is gebaseerd op zijn ervaringen aan het Italiaanse Front.',
       'Soldaten vochten op gletsjers en bergtoppen op hoogtes van meer dan 3.000 meter; velen stierven door lawines.',
+      'De elf Isonzo-slagen (1915-1917) langs de Italiaanse grens kostten honderdduizenden levens voor minimale terreinwinst.',
+      'De Slag bij Caporetto (1917) was een catastrofale Italiaanse nederlaag waarbij 300.000 soldaten gevangen werden genomen.',
+      'Ernest Hemingway diende als ambulancechauffeur aan het Italiaanse front en verwierp zijn ervaringen in \'A Farewell to Arms\'.',
     ],
     popularityScore: 64,
     uncertaintyLevel: 'exact',
@@ -24246,6 +24264,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Britse inlichtingendienst Room 40 ontsleutelde het telegram en gaf het slim door aan de VS zonder hun coderingscapaciteiten te onthullen.',
       'Mexico wees het Duitse aanbod af, maar de publicatie van het telegram was een keerpunt in de Amerikaanse publieke opinie.',
+      'Het Zimmermann-telegram (1917) was een Duits voorstel aan Mexico om de VS aan te vallen in ruil voor Texas, Arizona en New Mexico.',
+      'De Britse inlichtingendienst onderschepte het telegram en gaf het door aan de VS, wat bijdroeg aan het Amerikaanse besluit om de oorlog in te gaan.',
+      'De Duitse staatssecretaris Arthur Zimmermann gaf publiekelijk toe dat hij het telegram had gestuurd, tot verbazing van de hele wereld.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -24263,6 +24284,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Balfour Declaratie beloofde een Joods thuisland maar ook de bescherming van de rechten van bestaande niet-Joodse gemeenschappen.',
       'De verklaring wordt gezien als een van de oorzaken van het huidige Israëlisch-Palestijnse conflict.',
+      'De Balfour-verklaring (1917) was slechts 67 woorden lang maar veranderde het lot van het Midden-Oosten fundamenteel.',
+      'Groot-Brittannië beloofde een \'nationaal tehuis voor het Joodse volk\' in Palestina terwijl het ook de Arabieren onafhankelijkheid had beloofd.',
+      'De verklaring wordt door Palestijnen beschouwd als de oorsprong van hun ontheemding en door Israëliërs als de internationale erkenning van hun recht op een staat.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -24280,6 +24304,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS erkenden Israël slechts 11 minuten na de onafhankelijkheidsverklaring als eerste land ter wereld.',
       'De Palestijnen noemen de stichting van Israël de "Nakba" (catastrophe) vanwege de verdrijving van 700.000 Palestijnen.',
+      'De VN-stemming over de verdeling van Palestina in 1947 werd met slechts twee stemmen verschil aangenomen.',
+      'De Arabisch-Israëlische oorlog van 1948 begon de dag na de onafhankelijkheidsverklaring toen vijf Arabische legers binnenvielen.',
+      'Meer dan 700.000 Palestijnen werden tijdens de oorlog verdreven of vluchtten; zij en hun nakomelingen zijn nu meer dan 5 miljoen vluchtelingen.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -24297,6 +24324,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tussen de ondertekening van de wapenstilstand om 5:45 uur en het ingaan ervan om 11:00 uur stierven nog bijna 11.000 soldaten.',
       'De treinwagon van Compiègne werd door Hitler naar Berlijn gehaald en later door de nazi\'s vernietigd om een symbool te vermijden.',
+      'De wapenstilstand werd getekend om 5:10 uur maar ging pas om 11:11 uur in; in de tussentijd vielen nog duizenden slachtoffers.',
+      'De laatste soldaat die stierf was de Canadees George Lawrence Price, twee minuten voor de wapenstilstand inging.',
+      '11 november wordt in veel landen herdacht als Remembrance Day of Veterans Day.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -24314,6 +24344,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '"Uncle Sam Wants You" van James Montgomery Flagg werd het beroemdste propagandaposter ooit en werd ook in WO2 hergebruikt.',
       'De Britse propagandabureaus creëerden gruwelverhalen over Duitsland, waarvan sommige in WO2 als geloofwaardigheidsprobleem zorgden.',
+      'De \'Brute Hun\'-propaganda schilderde Duitsers af als barbaarse monsters; veel verhalen over gruweldaden waren overdreven of verzonnen.',
+      'Propaganda-affiches werden massaal geproduceerd; het beroemde \'Uncle Sam Wants YOU\' affiche werd het symbool van Amerikaanse mobilisatie.',
+      'De effectiviteit van WO1-propaganda leerde dictatoren als Hitler en Stalin hoe massamedia als wapen konden worden ingezet.',
     ],
     popularityScore: 65,
     uncertaintyLevel: 'exact',
@@ -24331,6 +24364,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De moordenaar Gavrilo Princip had de mislukte aanslag al opgegeven en at een sandwich toen Franz Ferdinand\'s auto per toeval vlak voor hem stopte.',
       'Kaiser Wilhelm II en Tsar Nicolaas II waren neven van elkaar en communiceerden via persoonlijke telegrammen ("Willy" en "Nicky") terwijl hun landen ten oorlog gingen.',
+      'De moord op aartshertog Franz Ferdinand in Sarajevo op 28 juni 1914 was de directe aanleiding voor de Eerste Wereldoorlog.',
+      'De moordenaar Gavrilo Princip was een 19-jarige Servische nationalist; hij kreeg zijn kans toen de auto van de aartshertog verkeerd afsloeg.',
+      'De keten van bondgenootschappen trok binnen vijf weken heel Europa de oorlog in – een domino-effect dat niemand had voorzien.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -24348,6 +24384,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Habsburgse Rijk had meer dan 600 jaar bestaan en omvatte meer dan 50 miljoen mensen en 13 talen.',
       'Keizer Karel I was de laatste Habsburgse monarch; hij weigerde formeel afstand te doen en stierf in ballingschap op Madeira.',
+      'Het Habsburgse Rijk regeerde meer dan 600 jaar over een lappendeken van volkeren en talen in Centraal-Europa.',
+      'De ineenstorting in 1918 creëerde Oostenrijk, Hongarije, Tsjechoslowakije, Joegoslavië en delen van Polen en Roemenië.',
+      'Keizer Karel I deed troonsafstand maar weigerde formeel af te treden; hij stierf in ballingschap op Madeira in 1922.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -24365,6 +24404,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Macedonisch Front werd door sceptici "de interneringskamp van de geallieerden" genoemd vanwege het gebrek aan grote overwinningen.',
       'De uiteindelijke doorbraak in september 1918 dwong Bulgarije tot capitulatie en luidde het einde van de oorlog in.',
+      'Het Macedonische front wordt het \'vergeten front\' van WO1 genoemd; geallieerde troepen vochten er tegen Bulgarije en het Ottomaanse Rijk.',
+      'De geallieerde doorbraak in 1918 dwong Bulgarije als eerste van de Centralen tot een wapenstilstand.',
+      'Tienduizenden soldaten leden aan malaria in de moerassen van Noord-Griekenland.',
     ],
     popularityScore: 52,
     uncertaintyLevel: 'exact',
@@ -24384,6 +24426,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mussolini was oorspronkelijk socialist; hij richtte zijn eigen fascistische partij op nadat hij uit de socialistische partij was gezet.',
       'De term "fascisme" komt van het Italiaanse "fascio" (bundel), verwijzend naar de kracht van eenheid.',
+      'Mussolini definieerde fascisme als de fusie van staat en bedrijfsleven; de naam komt van \'fasces\', het Romeinse symbool van gebundelde stokken.',
+      'Fascisme beloofde orde, nationale grootheid en een terugkeer naar de glorie van het Romeinse Rijk.',
+      'De fascistische ideologie verspreidde zich in de jaren 1920-30 naar Spanje, Portugal, Hongarije, Roemenië en Japan.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -24401,6 +24446,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Holodomor wordt door Oekraïne en vele landen erkend als genocide; Rusland betwist deze classificatie tot op heden.',
       'Boeren die weigerden deel te nemen aan collectivisatie werden als "kulakken" bestempeld en gedeporteerd of geëxecuteerd.',
+      'Stalins gedwongen collectivisatie van de landbouw veroorzaakte de Holodomor in Oekraïne, een door de mens veroorzaakte hongersnood die 3,5 tot 7,5 miljoen levens kostte.',
+      'Koelakken (welvarende boeren) werden als \'klassenvijanden\' gedeporteerd naar strafkampen in Siberië; miljoenen stierven.',
+      'Stalin beweerde dat de hongersnood niet bestond terwijl hij graan exporteerde om buitenlandse valuta te verdienen.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -24418,6 +24466,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Social Security Act van 1935, onderdeel van de New Deal, voorziet nog steeds in pensioen voor miljoenen Amerikanen.',
       'FDR gebruikte radiopraatjes (Fireside Chats) om direct met het Amerikaanse volk te communiceren, een revolutionaire communicatiestrategie.',
+      'Roosevelts New Deal (1933-1939) creëerde sociale zekerheid, werkgelegenheidsprogramma\'s en bankregulering die de VS uit de Grote Depressie hielpen.',
+      'De Tennessee Valley Authority bracht elektriciteit naar een van de armste regio\'s van Amerika en transformeerde het leven van miljoenen mensen.',
+      'Critici van rechts noemden het socialisme; critici van links vonden het niet ver genoeg gaan. De New Deal polariseerde de Amerikaanse politiek.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -24435,6 +24486,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Rijksdagbrand van 27 februari 1933 gaf Hitler de mogelijkheid om via nooddecreten de democratie op te schorten.',
       'Hitler verloor aanvankelijk de presidentsverkiezing van 1932 tegen Hindenburg, maar werd alsnog kanselier benoemd.',
+      'Hitler werd in 1933 democratisch benoemd tot rijkskanselier; binnen maanden ontmantelde hij de democratie via de Machtigingswet.',
+      'De Rijksdagbrand (februari 1933) gaf Hitler het excuus om burgerrechten op te schorten en politieke tegenstanders te arresteren.',
+      'Binnen een jaar was Duitsland een eenpartijstaat; alle andere partijen, vakbonden en vrije pers waren verboden of gelijkgeschakeld.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -24452,6 +24506,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hitler, zelf een geboren Oostenrijker, omschreef de Anschluss als de terugkeer van zijn geboorteland naar het "Groter-Duits rijk".',
       'Het Verdrag van Versailles had de verbod op een Duits-Oostenrijkse unie, maar niemand handhaafde dit.',
+      'De Anschluss (1938) was de annexatie van Oostenrijk door Nazi-Duitsland; Hitler reed triomfantelijk door Wenen onder het gejuich van honderdduizenden.',
+      'Oostenrijk presenteerde zich na de oorlog als eerste slachtoffer van het nazisme, hoewel veel Oostenrijkers de Anschluss hadden verwelkomd.',
+      'De Anschluss was verboden door het Verdrag van Versailles, maar geen enkel land greep in.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -24469,6 +24526,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Premier Chamberlain keerde terug uit München met de belofte van "vrede voor onze tijd"; zes maanden later bezette Duitsland heel Tsjecho-Slowakije.',
       'Churchill was een vroege criticus van appeasement en waarschuwde herhaaldelijk voor de gevaren van Hitler.',
+      'Neville Chamberlain keerde terug uit München (1938) met de belofte van \'vrede voor onze tijd\'; een jaar later brak de Tweede Wereldoorlog uit.',
+      'Het München-akkoord gaf Hitlers Sudetenland aan Duitsland zonder Tsjechoslowakije te raadplegen; het land werd later volledig bezet.',
+      'Winston Churchill noemde München \'een totale en onmiskende nederlaag\' en waarschuwde tevergeefs voor de gevolgen.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -24486,6 +24546,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het geheime protocol van het pact, dat Oost-Europa verdeelde, werd pas in 1989 officieel erkend door de Sovjet-Unie.',
       'Het pact duurde slechts twee jaar; Duitsland brak het met de invasie van de Sovjet-Unie in juni 1941.',
+      'Het niet-aanvalsverdrag tussen Nazi-Duitsland en de Sovjet-Unie (1939) schokte de wereld; de twee ideologische vijanden verdeelden Oost-Europa in geheime protocollen.',
+      'Het pact maakte de Duitse invasie van Polen mogelijk doordat Hitler niet hoefde te vrezen voor een tweefrontenoorlog.',
+      'Stalin was verrast toen Hitler het pact brak en de Sovjet-Unie binnenviel in juni 1941.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -24503,6 +24566,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Franco stuurde de "División Azul" (Blauwe Divisie) van vrijwilligers om aan de zijde van Duitsland aan het Oostfront te vechten.',
       'Franco stierf in 1975 in bed – uitzonderlijk voor dictators – en liet de transitie naar democratie planmatig georganiseerd achter.',
+      'Franco regeerde Spanje als dictator van 1939 tot zijn dood in 1975 – een van de langste dictaturen in de Europese geschiedenis.',
+      'De Spaanse Burgeroorlog (1936-1939) was een voorspel van WO2; Duitsland en Italië steunden Franco, de Sovjet-Unie steunde de Republiek.',
+      'Na Franco\'s dood transformeerde koning Juan Carlos Spanje vreedzaam naar een democratie – de succesvolste democratische transitie van de 20e eeuw.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -24520,6 +24586,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Nanjing Massaker (1937) kostte naar schatting 300.000 Chinese burgers het leven in zes weken.',
       'Japan verliet de Volkenbond in 1933 na internationale veroordeling van de invasie van Mantsjoerije.',
+      'Japan veroverde Mantsjoerije in 1931 en installeerde een marionettenregering; de Volkenbond veroordeelde dit maar ondernam geen actie.',
+      'Het Bloedbad van Nanking (1937) was een van de gruwelijkste oorlogsmisdaden van de 20e eeuw; Japanse soldaten vermoordden meer dan 200.000 Chinese burgers.',
+      'Japan\'s militaristische expansie was gedreven door de behoefte aan grondstoffen en de overtuiging van raciale superioriteit.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -24537,6 +24606,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mussolini zelf reisde per trein naar Rome terwijl zijn volgelingen marcheerden; hij deelname aan de "mars" was grotendeels symbolisch.',
       'De mars inspireerde Hitler bij het plannen van de Bierhallen Putsch van 1923 in München, die mislukte.',
+      'Mussolini\'s Mars op Rome (1922) was meer theater dan revolutie; hij reisde per trein terwijl zijn Zwarthemden naar Rome marcheerden.',
+      'Koning Victor Emanuel III benoemde Mussolini tot premier uit angst voor een burgeroorlog.',
+      'Mussolini\'s fascisme diende als model voor Hitler; de Nazi-partij leende veel van de Italiaanse fascistische symbolen en methoden.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -24554,6 +24626,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Chiang Kai-shek bekeerde zich tot het christendom om te trouwen met de invloedrijke Soong Mei-ling, wat zijn internationaal imago verbeterde.',
       'De periode werd gekenmerkt door de Witte Terror van 1927, waarbij de Kuomintang duizenden communisten liet executeren.',
+      'De Chinese Burgeroorlog duurde met onderbrekingen van 1927 tot 1949 en eindigde met de communistische overwinning.',
+      'Chiang Kai-shek vluchtte naar Taiwan en stichtte daar de Republiek China; de kwestie Taiwan is nog steeds een bron van spanning.',
+      'Mao\'s guerrillatactiek van het mobiliseren van boeren bewees dat een communistische revolutie ook buiten de industrie kon slagen.',
     ],
     popularityScore: 59,
     uncertaintyLevel: 'approximate',
@@ -24571,6 +24646,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mensen droegen geld in kruiwagens naar de bakker; het was goedkoper om met bankbiljetten te stoken dan hout te kopen.',
       'De hyperinflatie werd beëindigd door de invoering van de Rentenmark, gedekt door grond, in november 1923.',
+      'In november 1923 kostte een brood in Duitsland 200 miljard mark; mensen gebruikten bankbiljetten als behang en brandstof.',
+      'Arbeiders werden twee keer per dag betaald zodat hun vrouwen direct boodschappen konden doen voordat het geld nog meer waarde verloor.',
+      'De hyperinflatie vernietigde de spaargelden van de middenklasse en creëerde de wanhoop die later Hitlers opkomst mogelijk maakte.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -24588,6 +24666,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Haile Selassie\'s toespraak voor de Volkenbond in 1936 profeteerde: "Het is vandaag ons, morgen kan het uw beurt zijn".',
       'De Volkenbond legde sancties op, maar sloot olie uit – het enige middel dat Italië echt pijn had gedaan.',
+      'Italië gebruikte gifgas tegen Ethiopische soldaten en burgers – een oorlogsmisdaad die de Volkenbond veroordeelde maar niet kon stoppen.',
+      'Keizer Haile Selassie hield een emotionele toespraak voor de Volkenbond die niets uithaalde; het was het symbool van het falen van collectieve veiligheid.',
+      'De Italiaanse bezetting duurde slechts vijf jaar (1936-1941); Ethiopië herkreeg zijn onafhankelijkheid met Britse hulp.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'exact',
@@ -24605,6 +24686,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Volkenbond had geen eigen militaire macht en kon leden alleen aansporen tot sancties.',
       'Japan en Duitsland verlieten beiden de Volkenbond in 1933 na internationale veroordeling van hun acties.',
+      'De Volkenbond, opgericht na WO1 om oorlog te voorkomen, faalde omdat de VS nooit lid werd en het geen middelen had om besluiten af te dwingen.',
+      'De Volkenbond kon Japan\'s invasie van Mantsjoerije (1931) en Italië\'s invasie van Ethiopië (1935) niet stoppen.',
+      'Het falen van de Volkenbond leerde de stichters van de VN dat een internationale organisatie tanden nodig heeft.',
     ],
     popularityScore: 61,
     uncertaintyLevel: 'exact',
@@ -24622,6 +24706,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hitler dicteerde Mein Kampf aan zijn adjudant Rudolf Hess tijdens zijn gevangenisstraf in Landsberg.',
       'De gevangenisstraf van vijf jaar werd door de rechter gereduceerd tot negen maanden, wat de ernst niet weerspiegelde.',
+      'Hitlers mislukte staatsgreep in München (1923) eindigde met zijn arrestatie; hij gebruikte zijn proces als platform voor propaganda.',
+      'Tijdens zijn gevangenschap schreef Hitler \'Mein Kampf\', het ideologische handboek dat zijn latere beleid voorspelde.',
+      'Hitler zat slechts 9 maanden van zijn 5-jarige straf uit; de milde behandeling was symptomatisch voor de zwakte van de Weimar-republiek.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -24639,6 +24726,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Op Zwarte Dinsdag wisselden 16 miljoen aandelen van eigenaar, een record dat 40 jaar standhield.',
       'De krach volgde na jaren van speculatieve handelspraktijken waarbij investeerders aandelen op krediet kochten.',
+      'Op Zwarte Dinsdag (29 oktober 1929) verloor de aandelenmarkt 14% van haar waarde; het was het begin van de Grote Depressie.',
+      'De Grote Depressie trof de hele wereld; de werkloosheid in de VS steeg tot 25% en in Duitsland tot 30%.',
+      'De crisis leidde tot protectionisme, sociale onrust en de opkomst van extremisme in Europa – een directe oorzaak van WO2.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -24656,6 +24746,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Koning Alexander I werd in 1934 in Marseille vermoord, een van de eerste politieke moorden vastgelegd op film.',
       'De naam "Joegoslavië" betekent letterlijk "Land van de Zuid-Slaven".',
+      'Het Koninkrijk Joegoslavië (1918-1941) was een kunstmatige staat van Serviërs, Kroaten, Slovenen, Bosniërs en andere volkeren.',
+      'Etnische spanningen en centralisme maakten het land instabiel; Kroatische fascisten vermoordden in 1934 koning Alexander I in Marseille.',
+      'Tito hield na WO2 Joegoslavië bijeen door een evenwicht tussen de volkeren; na zijn dood in 1980 begon het land uiteen te vallen.',
     ],
     popularityScore: 58,
     uncertaintyLevel: 'exact',
@@ -24673,6 +24766,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Spanje gaf vrouwen voor het eerst stemrecht in 1931, een van de eerste landen in Zuid-Europa.',
       'Tijdens de Tweede Republiek werden historisch bezit van de kerk geseculariseerd, wat de kerk en conservatieven provoceerde.',
+      'De Suezcrisis van 1956 markeerde het einde van Groot-Brittannië en Frankrijk als wereldmachten; de VS en Sovjet-Unie dwongen een terugtrekking af.',
+      'Israël veroverde de Sinaï in slechts acht dagen maar moest zich terugtrekken onder internationale druk.',
+      'De crisis bewees dat de VS en Sovjet-Unie nu de dominante wereldmachten waren, niet de oude Europese koloniale mogendheden.',
     ],
     popularityScore: 62,
     uncertaintyLevel: 'exact',
@@ -24690,6 +24786,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Orson Welles\' radio-uitzending "The War of the Worlds" (1938) veroorzaakte paniek omdat mensen dachten dat er echt martianen landden.',
       'Hitler\'s Volksempfänger (volksradioapparaat) was goedkoop maar kon alleen binnenlandse zenders ontvangen – buitenlandse beluistering was strafbaar.',
+      'Radio was het eerste massamedium dat huiskamers wereldwijd bereikte; Roosevelts \'fireside chats\' maakten er politiek gebruik van.',
+      'Orson Welles\' War of the Worlds-uitzending (1938) veroorzaakte paniek omdat luisteraars dachten dat er echt een buitenaardse invasie plaatsvond.',
+      'De radio speelde een cruciale rol in WO2-propaganda; de BBC zond in het geheim berichten uit naar het verzet in bezet Europa.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -24707,6 +24806,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Turkije gaf vrouwen stemrecht in 1934, eerder dan Zwitserland (1971) en Frankrijk (1944).',
       'Atatürk stelde een familienamenwet in; hij zelf koos de naam "Atatürk" (Vader der Turken).',
+      'Atatürk verving het Arabische alfabet door het Latijnse in 1928 en gaf Turken slechts drie maanden om het nieuwe schrift te leren.',
+      'Hij schaffde de fez en de sluier af, voerde de Gregoriaanse kalender in en gaf vrouwen stemrecht – allemaal in minder dan 10 jaar.',
+      'Atatürk stierf in 1938 aan levercirrose; zijn lichaam ligt in het Anıtkabir-mausoleum in Ankara, dat jaarlijks miljoenen bezoekers trekt.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -24726,6 +24828,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nkrumah kondigde de onafhankelijkheid aan met de woorden: "Ghana, uw vrijheid dag is gekomen!"',
       'Ghana was al in 1960 de rijkste natie per hoofd in sub-Sahara Afrika, maar Nkrumah\'s socialistische beleid herdistribueerde dit.',
+      'Ghana werd in 1957 het eerste land in sub-Sahara Afrika dat onafhankelijk werd van een Europese kolonisator.',
+      'Kwame Nkrumah was een panafrikanistisch visionair die droomde van een verenigd Afrika, maar werd in 1966 door een coup afgezet.',
+      'Ghana\'s onafhankelijkheid inspireerde een golf van dekolonisatie in heel Afrika; binnen 10 jaar werden meer dan 30 landen onafhankelijk.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -24743,6 +24848,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'België gaf Congo onafhankelijkheid zonder één Congolees universitair afgestudeerde ambtenaar te hebben opgeleid.',
       'Belgische documenten vrijgegeven in 2002 bevestigden Belgische medeplichtigheid aan Lumumba\'s moord.',
+      'Patrice Lumumba, de eerste premier van Congo, werd in 1961 vermoord met medeplichtigheid van België en de CIA.',
+      'De Congo-crisis (1960-1965) zag secessieoorlogen, VN-interventie en uiteindelijk de militaire coup van Mobutu.',
+      'Mobutu regeerde Congo (hernoemd tot Zaïre) als kleptocratisch dictator gedurende 32 jaar en stal naar schatting 5 miljard dollar.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -24760,6 +24868,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Indonesische Revolutie kostte naar schatting 100.000 Indonesische en 6.000 Nederlandse levens.',
       'Nederland erkende de onafhankelijkheid pas in 2005 officieel terug te dateren naar 17 augustus 1945.',
+      'Soekarno riep de Indonesische onafhankelijkheid uit op 17 augustus 1945, twee dagen na de Japanse capitulatie.',
+      'Nederland voerde twee militaire \'politionele acties\' om Indonesië terug te veroveren, maar internationale druk dwong uiteindelijk erkenning af in 1949.',
+      'Indonesië is het grootste moslimland ter wereld met meer dan 270 miljoen inwoners verspreid over 17.000 eilanden.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -24777,6 +24888,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ho Chi Minh citeerde de Amerikaanse Onafhankelijkheidsverklaring in zijn onafhankelijkheidsrede.',
       'De Slag bij Dien Bien Phu was de eerste militaire overwinning van een Aziatische natie op een Europees koloniaal leger in een groot veldgevecht.',
+      'Ho Chi Minh citeerde de Amerikaanse Onafhankelijkheidsverklaring bij de proclamatie van de Vietnamese onafhankelijkheid in 1945.',
+      'Frankrijk probeerde Vietnam te herveroveren maar werd in 1954 verslagen bij Dien Bien Phu – een keerpunt in de dekolonisatiegeschiedenis.',
+      'De Vietnamese Onafhankelijkheidsoorlog leidde tot de deling van Vietnam en uiteindelijk tot de Amerikaanse betrokkenheid in de Vietnamoorlog.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -24794,6 +24908,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Meer dan 150.000 Kenianen werden opgesloten in detentiekampen; recente rechtszaken erkenden Britse martelpraktijken.',
       'Britse documenten over de Mau Mau werden decennialang geheim gehouden voordat ze werden vrijgegeven.',
+      'De Mau Mau-opstand in Kenia (1952-1960) was een gewapend verzet tegen de Britse koloniale overheersing en landonteigening.',
+      'De Britten zetten meer dan 1,5 miljoen Kikuyu-mensen in concentratiekampen; marteling en executies waren wijdverspreid.',
+      'Jomo Kenyatta, beschuldigd van betrokkenheid bij de Mau Mau, werd later de eerste president van het onafhankelijke Kenia.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'approximate',
@@ -24811,6 +24928,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De grens werd getekend door Cyril Radcliffe, een Britse advocaat die nog nooit in India was geweest.',
       'De deling van Punjab alleen al veroorzaakte de verplaatsing van 12 miljoen mensen in twee maanden.',
+      'De deling van India in 1947 creëerde de grootste massamigratie in de geschiedenis: 15 miljoen mensen verhuisden in beide richtingen.',
+      'Cyril Radcliffe, die de grens trok, had nooit eerder India bezocht en kreeg slechts vijf weken voor de taak.',
+      'De onopgeloste kwestie Kasjmir leidde tot vier oorlogen tussen India en Pakistan en is tot op heden een brandhaard.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -24828,6 +24948,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Eisenhower dreigde Brits-Franse leningen te blokkeren als ze zich niet terugtrokken – financiële pressiemiddelen hadden militaire kracht vervangen.',
       'Nasser werd door zijn overwinning de held van de Arabische wereld, hoewel hij militair verloor.',
+      'De Suezcrisis begon toen Nasser het Suezkanaal nationaliseerde; Groot-Brittannië, Frankrijk en Israël vielen Egypte aan.',
+      'De VS en Sovjet-Unie eisten gezamenlijk een terugtrekking – een zeldzaam moment van supermacht-eenheid tijdens de Koude Oorlog.',
+      'De crisis markeerde het definitieve einde van het Britse en Franse koloniale tijdperk.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -24845,6 +24968,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zimbabwe had een van de hoogste geletterdheidsgraden van Afrika en een bloeiende economie toen Mugabe aan de macht kwam.',
       'De hyperinflatie onder Mugabe was zo erg dat Zimbabwe een 100 biljoen dollar bankbiljet uitgaf.',
+      'Ian Smith verklaarde de eenzijdige onafhankelijkheid van Rhodesië in 1965 om zwart meerderheidsbestuur te voorkomen.',
+      'Robert Mugabe kwam aan de macht in 1980 na een bloedige guerrillaoorlog en regeerde tot 2017.',
+      'De landhervormingen van Mugabe na 2000 vernietigden de landbouwsector en veranderden Zimbabwe van voedselexporteur in hongerlijder.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -24862,6 +24988,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Marcus Garvey\'s "Back to Africa" beweging had in de jaren 1920 meer dan twee miljoen leden wereldwijd.',
       'De OAE groeide uit tot de Afrikaanse Unie in 2002, met vergelijkbare ambities als de Europese Unie.',
+      'W.E.B. Du Bois en Marcus Garvey legden in de vroege 20e eeuw de basis voor het pan-Afrikanisme als politieke beweging.',
+      'De Afrikaanse Unie, opgericht in 2002, is het institutionele kader van het pan-Afrikanisme met 55 lidstaten.',
+      'Pan-Afrikanisme inspireerde zowel de burgerrechtenbeweging in de VS als de onafhankelijkheidsbewegingen in Afrika.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -24879,6 +25008,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Cuba zond meer dan 50.000 soldaten naar Angola om de marxistische MPLA-regering te steunen.',
       'Angola is een van de landen ter wereld met de meeste landmijnen per hoofd van de bevolking, een erfenis van de burgeroorlog.',
+      'Angola werd onafhankelijk in 1975 na 14 jaar guerrillaoorlog tegen Portugal, maar viel direct in een burgeroorlog die tot 2002 duurde.',
+      'De VS en Sovjet-Unie vochten een proxy-oorlog in Angola; Cuba stuurde 50.000 soldaten om de MPLA-regering te steunen.',
+      'Landmijnen uit de burgeroorlog maken Angola een van de meest vermijnde landen ter wereld; duizenden burgers worden nog steeds gewond.',
     ],
     popularityScore: 63,
     uncertaintyLevel: 'approximate',
@@ -24896,6 +25028,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS bestuurden de Filippijnen 48 jaar, langer dan Spanje de formele controle had na de Spaans-Amerikaanse Oorlog.',
       'De Filippijnen kozen 4 juli voor hun onafhankelijkheidsdag om de band met de VS te symboliseren.',
+      'De Filipijnen waren de eerste Aziatische kolonie die onafhankelijk werd (1946), maar de VS behield tot 1992 grote militaire bases.',
+      'De Filipijns-Amerikaanse Oorlog (1899-1902) kostte meer dan 200.000 Filipijnse levens en wordt vaak vergeten in de Amerikaanse geschiedschrijving.',
+      'Ferdinand Marcos regeerde als dictator van 1972 tot 1986; de People Power-revolutie verdreef hem vreedzaam.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'exact',
@@ -24913,6 +25048,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       '1960 werd "het jaar van Afrika" genoemd: 17 Afrikaanse landen werden onafhankelijk, de meeste van Frankrijk.',
       'Charles de Gaulle bood de Franse koloniën een soort commonwealthstructuur aan; alle kozen voor volledige onafhankelijkheid behalve Guinee.',
+      'In 1960 werden 17 Afrikaanse landen onafhankelijk, het zogenaamde \'Jaar van Afrika\'.',
+      'Veel nieuwe staten namen de grenzen over die door kolonisatoren waren getrokken, wat leidde tot etnische spanningen.',
+      'Léopold Sédar Senghor van Senegal was een van de weinige Afrikaanse leiders die de macht vreedzaam overdroeg.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -24930,6 +25068,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Maleisische Noodtoestand (1948-60) werd door de Britten als een "noodtoestand" beschreven om verzekeringsuitkeringen voor de rubbersector te behouden.',
       'Singapore werd in 1965 uit de Federatie Maleisië gezet, een unieke politieke scheiding.',
+      'Malaya werd in 1957 onafhankelijk van Groot-Brittannië na een succesvolle strijd tegen een communistische opstand.',
+      'Tunku Abdul Rahman riep \'Merdeka!\' (Vrijheid!) bij de onafhankelijkheidsverklaring – een moment dat elk jaar wordt herdacht.',
+      'Maleisië werd in 1963 gevormd door het samenvoegen van Malaya, Sabah, Sarawak en (tijdelijk) Singapore.',
     ],
     popularityScore: 59,
     uncertaintyLevel: 'exact',
@@ -24947,6 +25088,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS en het VK spraken hun bezorgdheid uit over de militaire operatie, maar konden niet veel ondernemen.',
       'Goa bewaard zijn unieke Portugees-Indiase cultuur als bijzondere Indiase staat.',
+      'India annexeerde Goa in 1961 door een militaire invasie; Portugal had het gebied 451 jaar gekoloniseerd.',
+      'De operatie duurde slechts 36 uur en werd door India gepresenteerd als bevrijding, maar door Portugal als agressie.',
+      'Goa behield zijn unieke Portugese culturele erfenis en is nu een populaire toeristische bestemming in India.',
     ],
     popularityScore: 55,
     uncertaintyLevel: 'exact',
@@ -24964,6 +25108,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Papua Nieuw-Guinea heeft meer dan 800 inheemse talen, bijna 15% van alle talen ter wereld.',
       'Het land werd pas in 1933 volledig in kaart gebracht door westerse cartografen; veel gebieden waren daarvoor onbekend.',
+      'Papua-Nieuw-Guinea werd in 1975 onafhankelijk van Australië en is een van de meest taalkundig diverse landen ter wereld met meer dan 800 talen.',
+      'Het land herbergt stammen die tot in de jaren 1930 geen contact hadden met de buitenwereld.',
+      'Papua-Nieuw-Guinea bezit enorme natuurlijke rijkdommen (goud, koper, gas) maar blijft een van de armste landen in de Stille Oceaan.',
     ],
     popularityScore: 52,
     uncertaintyLevel: 'exact',
@@ -24981,6 +25128,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VAE (7 emiraten) was bij de oprichting in 1971 nog geen geconsolideerde natie; de federatie was een innovatief concept.',
       'Qatar verwierf onafhankelijkheid in september 1971 nadat een eerder plan voor een grotere Arabische Federatie mislukte.',
+      'Sultan Qaboos moderniseerde Oman in 50 jaar van een middeleeuwse samenleving tot een moderne verzorgingsstaat dankzij olie-inkomsten.',
+      'Bij zijn machtsovername in 1970 had Oman slechts drie scholen en één ziekenhuis; bij zijn dood in 2020 was het land volledig getransformeerd.',
+      'Oman is een van de weinige Golfstaten die goede relaties onderhoudt met zowel Iran als Saudi-Arabië en de VS.',
     ],
     popularityScore: 58,
     uncertaintyLevel: 'exact',
@@ -24998,6 +25148,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nyerere vergrootte de geletterdheidsgraad van Tanzania van 10% bij onafhankelijkheid tot meer dan 90% in de jaren 1980.',
       'Swahili werd als nationale taal gepromoveerd om de etnische diversiteit te overbruggen – een unieke Afrikaanse succesformule.',
+      'Julius Nyerere\'s Ujamaa-beleid probeerde een Afrikaans socialisme te creëren gebaseerd op traditionele dorpsgemeenschappen.',
+      'De gedwongen dorpsbewegingen mislukten economisch maar Nyerere slaagde erin een nationaal bewustzijn te creëren dat etnische conflicten voorkwam.',
+      'Tanzania is een van de weinige Afrikaanse landen dat nooit een coup of burgeroorlog heeft meegemaakt.',
     ],
     popularityScore: 64,
     uncertaintyLevel: 'approximate',
@@ -25015,6 +25168,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Pakistani leger pleegde wat veel historici als genocide beschouwen; de schattingen van doden variëren van 300.000 tot 3 miljoen.',
       'Bangladesh betekent "Land van de Bengaalse volkeren" in het Bengaals.',
+      'De oorlog leidde tot de onafhankelijkheid van Bangladesh; het Pakistaanse leger had een genocide gepleegd in Oost-Pakistan met meer dan 300.000 doden.',
+      'India\'s militaire interventie duurde slechts 13 dagen en eindigde met de overgave van 93.000 Pakistaanse soldaten.',
+      'De oorlog verschoof het machtsevenwicht in Zuid-Azië definitief in het voordeel van India.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -25032,6 +25188,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Biafra-hongersnood leidde tot de oprichting van Médecins Sans Frontières (Artsen Zonder Grenzen) in 1971.',
       'Beelden van uitgehongerde Biafra-kinderen waren de eerste humanitaire crisisbeelden die wereldwijde mediaverslaggeving domineerden.',
+      'De Biafra-oorlog (1967-1970) was een van de eerste conflicten die via televisie de huiskamers van de wereld bereikte.',
+      'De hongersnood in Biafra, veroorzaakt door een Nigeriaanse blokkade, doodde meer dan een miljoen burgers, voornamelijk kinderen.',
+      'De beelden van uitgehongerde kinderen leidden tot de oprichting van Artsen zonder Grenzen door Bernard Kouchner.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -25049,6 +25208,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Anjerrevolutie was een coup door linksgeoriënteerde militaire officieren ("Capitães de Abril") die genoeg hadden van de koloniale oorlogen.',
       'Portugal gaf als een van de laatste Europese mogendheden zijn kolonies op; Angola, Mozambique en anderen werden in 1975 onafhankelijk.',
+      'De Anjerrevolutie (25 april 1974) was een militaire coup die de langstregerende dictatuur van West-Europa omverwierp.',
+      'Soldaten staken anjers in de lopen van hun geweren als symbool van de vreedzame revolutie.',
+      'De revolutie beëindigde ook de koloniale oorlogen in Afrika en leidde direct tot de onafhankelijkheid van Mozambique, Angola en Guinee-Bissau.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -25066,6 +25228,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Namibia huisvest de Namib-woestijn, de oudste woestijn ter wereld, en de beroemde Dode Vlei.',
       'De bevolking van Namibia, 2,5 miljoen mensen, maakt het een van de dunstbevolkte landen ter wereld.',
+      'Namibië werd pas in 1990 onafhankelijk van Zuid-Afrika, na een 23 jaar durende guerrillaoorlog.',
+      'Het was de laatste Afrikaanse kolonie die onafhankelijk werd; de VN speelde een actieve rol in het overgangsproces.',
+      'Namibië erkende in 2021 de Duitse genocide op de Herero en Nama (1904-1908) als de eerste genocide van de 20e eeuw.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'exact',
@@ -25083,6 +25248,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Eritrese Onafhankelijkheidsoorlog (1961-1991) was de langste antikoloniale guerrillaoorlog in de Afrikaanse geschiedenis.',
       'Eritrea wordt vaak "Noord-Korea van Afrika" genoemd vanwege zijn isolement en repressief regime.',
+      'Eritrea werd in 1993 onafhankelijk van Ethiopië na 30 jaar guerrillaoorlog – een van de langste bevrijdingsoorlogen in Afrika.',
+      'Het referendum over onafhankelijkheid won met 99,8% van de stemmen.',
+      'Eritrea wordt nu beschouwd als een van de meest repressieve staten ter wereld; verplichte militaire dienst kan tientallen jaren duren.',
     ],
     popularityScore: 56,
     uncertaintyLevel: 'exact',
@@ -25100,6 +25268,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bijna 80% van de gebouwen in Dili werd verwoest na het referendum, ondanks de aanwezigheid van VN-waarnemers.',
       'Oost-Timor is een van de armste landen ter wereld maar heeft significante oliereserves.',
+      'Oost-Timor werd in 2002 onafhankelijk na 24 jaar Indonesische bezetting die naar schatting 100.000 tot 180.000 levens kostte.',
+      'Het referendum van 1999 leidde tot geweld door pro-Indonesische milities; een Australisch geleide VN-macht moest interveniëren.',
+      'Oost-Timor is een van de jongste naties ter wereld en een van de armste in Zuidoost-Azië.',
     ],
     popularityScore: 64,
     uncertaintyLevel: 'exact',
@@ -25117,6 +25288,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nederland betaalde Suriname een miljard gulden aan ontwikkelingshulp bij de onafhankelijkheid als afkoopsom.',
       'De Surinaamse militaire coup van 1980 en de Decembermoorden van 1982 beschadigden de relaties met Nederland blijvend.',
+      'Suriname werd op 25 november 1975 onafhankelijk van Nederland; ongeveer een derde van de bevolking emigreerde naar Nederland.',
+      'De militaire coup van Desi Bouterse in 1980 leidde tot de Decembermoorden van 1982, waarbij 15 tegenstanders werden geëxecuteerd.',
+      'Suriname is het kleinste land van Zuid-Amerika maar een van de meest etnisch diverse ter wereld met Hindoestanen, Creolen, Javanen en Marrons.',
     ],
     popularityScore: 58,
     uncertaintyLevel: 'exact',
