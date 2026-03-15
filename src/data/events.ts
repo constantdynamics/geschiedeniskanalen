@@ -22096,6 +22096,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Tang-dichter Li Bai schreef meer dan 1.000 gedichten en wordt beschouwd als een van de grootste Chinese dichters aller tijden; hij was ook berucht om zijn drankzucht.',
       'Keizerin Wu Zetian (r. 690–705) was de enige vrouw in de Chinese geschiedenis die officieel als keizer regeerde; ze was een bekwame en soms meedogenloze heerser.',
+      'De Tang-hoofdstad Chang\'an was met meer dan een miljoen inwoners de grootste stad ter wereld en een kosmopolitisch centrum van cultuur en handel.',
+      'Tang-keizerin Wu Zetian was de enige vrouw in de Chinese geschiedenis die officieel de titel van keizer droeg.',
+      'De Tang-dynastie wordt beschouwd als de hoogtepunt van Chinese poëzie; dichters als Li Bai en Du Fu worden nog steeds als de grootste Chinese dichters beschouwd.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -22113,6 +22116,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'China onder de Song had mogelijk het eerste papiergeldsysteem ter wereld; inflatie volgde al snel toen de staat te veel papier drukte – een vroege les in monetair beleid.',
       'De Song-dynastie verloor Noord-China aan de Jurchens en later de rest aan de Mongolen; ze bleven echter cultureel productief tot het bittere einde.',
+      'De Song-dynastie vond het buskruit, het kompas en de boekdrukkunst uit – drie uitvindingen die de wereld fundamenteel veranderden.',
+      'China had tijdens de Song-dynastie al papiergeld, meer dan 600 jaar voordat het in Europa werd geïntroduceerd.',
+      'De Song-vloot was de machtigste ter wereld met schepen die meer dan 1.000 man konden vervoeren.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -22130,6 +22136,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zheng He\'s vloot was in 1405 de grootste ter wereld: 317 schepen met 28.000 man. Columbus zeilde in 1492 met 3 schepen en 90 man.',
       'De Verboden Stad heeft 9.999 kamers; één minder dan de mythische 10.000 kamers van de hemelse paleis van de Jade-Keizer.',
+      'De Verboden Stad in Beijing heeft 9.999 kamers en was 500 jaar lang het centrum van de Chinese keizerlijke macht.',
+      'Ming-keramiek, vooral het beroemde blauw-witte porselein, was het meest gewilde luxeproduct ter wereld.',
+      'De Ming-dynastie bouwde de meeste delen van de Grote Muur die wij vandaag kennen; eerdere versies waren van aarde, niet van steen.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'approximate',
@@ -22147,6 +22156,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Taiping-opstand (1850–1864) kostte naar schatting 20–30 miljoen levens – meer dan de Eerste Wereldoorlog – maar is buiten China nauwelijks bekend.',
       'Keizerin-weduwe Cixi regeerde China feitelijk van 1861 tot haar dood in 1908; ze weerstond hervormingen die China modernisering hadden kunnen brengen.',
+      'De Qing-dynastie was niet Chinees maar Mantsjoe; ze dwongen Chinese mannen de Mantsjoe-vlecht (queue) te dragen als teken van onderwerping.',
+      'De Qing-dynastie regeerde China gedurende 268 jaar en breidde het grondgebied uit tot het grootste in de Chinese geschiedenis.',
+      'De Taiping-opstand (1850-1864) onder de Qing was de dodelijkste burgeroorlog in de geschiedenis met 20-30 miljoen doden.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -22164,6 +22176,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De laatste keizer, de zesjarige Puyi, troonde af op 12 februari 1912; hij bleef in de Verboden Stad wonen tot 1924 en werd later marionetten-keizer van Japan in Mantsjoerije.',
       'Sun Yat-sen wordt beschouwd als de "Vader van de Natie" door zowel het communistische China als het nationalistische Taiwan – de enige figuur die beide aanspreken.',
+      'Sun Yat-sen, de vader van het moderne China, was in Denver, Colorado toen hij hoorde dat de revolutie was uitgebroken.',
+      'De laatste Chinese keizer, Puyi, was slechts 6 jaar oud toen hij troonsafstand deed; hij eindigde als tuinman in Beijing.',
+      'De revolutie beëindigde meer dan 2.000 jaar keizerlijke heerschappij in China en stichtte de Republiek China.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -22181,6 +22196,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Oda Nobunaga introduceerde vuurwapens op grote schaal in Japan na contact met Portugese handelaars in 1543; zijn tactisch gebruik ervan veranderde de Japanse oorlogsvoering.',
       'Het Tokugawa-shogunaat sloot Japan in 1635 vrijwel volledig af voor het buitenland in het "Sakoku"-beleid; alleen Chinezen en Nederlanders mochten in Nagasaki handelen.',
+      'De drie groten van Japan – Oda Nobunaga, Toyotomi Hideyoshi en Tokugawa Ieyasu – beëindigden samen de chaos van de Sengoku-periode.',
+      'Nobunaga was de eerste Japanse heerser die massaal vuurwapens inzette en versloeg daarmee cavalerieaanvallen van samoerai.',
+      'De Sengoku-periode inspireerde talloze manga\'s, anime\'s en videogames en is een van de populairste historische periodes in de Japanse populaire cultuur.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -22198,6 +22216,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hangul is een van de weinige schriftsystemen ter wereld waarvan we precies weten wanneer en door wie het werd ontworpen; het werd in 1443 geïntroduceerd met een wetenschappelijke motivering.',
       'Hangul heeft slechts 24 letters en is zo eenvoudig dat het geletterdheidspercentage in Korea tot de hoogste ter wereld behoort.',
+      'De Joseon-dynastie duurde 519 jaar (1392-1897) en was een van de langstregerende dynastieën in de wereldgeschiedenis.',
+      'Koning Sejong de Grote liet het hangul-alfabet ontwikkelen zodat gewone mensen konden lezen en schrijven.',
+      'De Joseon-dynastie adopteerde het neoconfucianisme als staatsfilosofie, wat de Koreaanse samenleving diepgaand vormde.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -22215,6 +22236,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Timur was lamgeslagen (vandaar Timur Lenk – "Timur de lamme") maar bouwde een van de grootste rijken ooit; zijn militaire tactiek was ongekend briljant.',
       'De astronoom Ulugh Beg, Timurs kleinzoon, bouwde een sterrenkundig observatorium in Samarkand en bepaalde de lengte van een jaar met een fout van slechts 58 seconden.',
+      'Tamerlane (Timur) beweerde een afstammeling van Genghis Khan te zijn en bouwde piramides van schedels van zijn vijanden.',
+      'De Timuridische hoofdstad Samarkand werd een centrum van kunst en wetenschap; de Registan-plein is een van de mooiste architectonische ensembles ter wereld.',
+      'Tamerlane\'s rijk strekte zich uit van Turkije tot India, maar viel na zijn dood in 1405 snel uiteen.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -22232,6 +22256,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'India financierde een groot deel van de Britse industrialisering; schattingen suggereren dat de Britten in totaal 45 biljoen dollar aan waarde uit India haalden.',
       'De Bengaalse Hongersnood van 1943 kostte 2–3 miljoen Indiërs het leven terwijl rijst naar het buitenland werd uitgevoerd; Churchill negeerde smekende brieven om voedsel te sturen.',
+      'Op zijn hoogtepunt bestuurde het Britse Raj meer dan 400 miljoen mensen – een vijfde van de wereldbevolking.',
+      'De Britse aanleg van het Indiase spoorwegnet was het grootste infrastructuurproject van de 19e eeuw met meer dan 65.000 kilometer spoor.',
+      'De Bengal-hongersnood van 1943 doodde meer dan 3 miljoen Indiërs terwijl Churchill weigerde voedselhulp te sturen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -22249,6 +22276,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De bouw van de Grote Boeddha van Nara kostte zoveel brons dat er een tekort was in heel Japan; gewone mensen droegen zelfs hun sieraden bij.',
       'Japan adopteerde in deze periode een constitutie gebaseerd op het Chinese Confucianistische model maar paste het aan zijn eigen cultuur aan.',
+      'De stad Nara was gemodelleerd naar de Chinese hoofdstad Chang\'an en was het eerste permanente hoofdstedelijke centrum van Japan.',
+      'De Todai-ji tempel in Nara bevat het grootste bronzen Boeddhabeeld ter wereld, 15 meter hoog en 500 ton zwaar.',
+      'Tijdens de Nara-periode werd het boeddhisme de officiële staatsreligie en werden duizenden tempels en kloosters gebouwd.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -22266,6 +22296,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hangul werd door de Confucianistische aristocratie aanvankelijk bespot als "vrouwenschrift" omdat het te eenvoudig was; hun verzet kon echter de verspreiding niet tegenhouden.',
       'Linguïsten beschouwen Hangul als het meest wetenschappelijk ontworpen alfabet ter wereld; de lettervormen zijn deels gebaseerd op de mondposities bij het uitspreken van de klanken.',
+      'Koning Sejong ontwikkelde hangul in 1443 als een wetenschappelijk ontworpen alfabet dat in één dag geleerd kon worden.',
+      'De adel verzette zich tegen hangul omdat ze vreesden dat geletterdheid onder het volk hun machtspositie zou ondermijnen.',
+      'Hangul wordt door linguïsten beschouwd als een van de meest efficiënte en logisch ontworpen schriftsystemen ter wereld.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -22283,6 +22316,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De ruïnes van Hampi zijn zo uitgestrekt (meer dan 25 km²) dat ze de grootste ruïnestad in India zijn en op de UNESCO Werelderfgoedlijst staan.',
       'Portugese reizigers beschreven Hampi als rijker dan Rome; goud en diamanten werden er op de markt verkocht als groenten.',
+      'De ruïnes van Hampi, de hoofdstad van het Vijayanagara-rijk, beslaan meer dan 26 vierkante kilometer en zijn een UNESCO Werelderfgoedlocatie.',
+      'Het Vijayanagara-rijk was de laatste grote hindoe-machtsbasis in Zuid-India en vocht gedurende twee eeuwen tegen islamitische sultanaten.',
+      'Op zijn hoogtepunt had de stad Vijayanagara meer dan 500.000 inwoners en was het een van de rijkste steden ter wereld.',
     ],
     popularityScore: 69,
     uncertaintyLevel: 'approximate',
@@ -22300,6 +22336,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kublai Khan probeerde Japan twee keer te veroveren (1274, 1281); beide keren verwoestte een tyfoon de Mongoolse vloot – de Japanners noemden dit de "kamikaze" (goddelijke wind).',
       'Marco Polo beschreef papiergeld, kolen als brandstof en de immense rijkdom van China; Europeanen geloofden zijn verhalen aanvankelijk niet.',
+      'Kublai Khan, de stichter van de Yuan-dynastie, was een kleinzoon van Genghis Khan en de eerste niet-Chinese heerser over heel China.',
+      'Marco Polo diende naar eigen zeggen aan het hof van Kublai Khan; zijn reisverhalen inspireerden Europeanen om Azië te ontdekken.',
+      'De Yuan-dynastie voerde papiergeld in als hoofdvaluta; inflatie door overmatig drukken droeg bij aan de val van de dynastie.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -22317,6 +22356,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nalanda had een bibliotheek van drie gebouwen die "Dharmaganja" heette; het brand meerdere maanden toen de Mongolen het in brand staken, zo groot was de hoeveelheid manuscripten.',
       'China, Japan en Korea stuurden geleerden naar Nalanda; Xuanzang, de beroemde Chinese pelgrim, studeerde er jaren en bracht honderden boeddhistische teksten mee terug naar China.',
+      'De Nalanda Universiteit, gesteund door de Pala-heersers, was een van de eerste universiteiten ter wereld met meer dan 10.000 studenten.',
+      'De Pala-dynastie was de laatste grote boeddhistische dynastie in India; na hun val verdween het boeddhisme grotendeels uit het subcontinent.',
+      'Pala-bronzen beelden van boeddha\'s en bodhisattva\'s behoren tot de finest Indiase kunstwerken en zijn nu in musea wereldwijd te vinden.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -22334,6 +22376,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De My Son-tempels in Vietnam zijn vergelijkbaar met Angkor Wat maar veel minder bekend; de VS-bombardementen tijdens de Vietnamoorlog beschadigden enkele ervan ernstig.',
       'Champa-vrouwen hadden meer rechten dan in buurlanden: ze erfden eigendom en konden scheiden.',
+      'Het Champa-koninkrijk bestreed eeuwenlang zowel het Khmer-rijk als Vietnam en was beroemd om zijn zeemacht.',
+      'De bakstenen tempeltorens van My Son, gebouwd door de Champa, zijn vergelijkbaar met Angkor Wat maar veel minder bekend.',
+      'De Cham-bevolking leeft nog steeds in Vietnam en Cambodja als etnische minderheid met een unieke islamitische en hindoeïstische culturele erfenis.',
     ],
     popularityScore: 64,
     uncertaintyLevel: 'approximate',
@@ -22351,6 +22396,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De terracotta soldaten werden per ongeluk ontdekt in 1974 door boeren die een put boorden; het is een van de grootste archeologische ontdekkingen van de 20e eeuw.',
       'Qin Shi Huang was zo bang voor de dood dat hij kwikpillen nam die hem zouden onsterfelijk maken; het kwik vergiftigde hem waarschijnlijk en versnelde zijn dood.',
+      'Het Terracottaleger van meer dan 8.000 levensgrote soldaten werd pas in 1974 per ongeluk ontdekt door boeren die een waterput groeven.',
+      'Qin Shi Huang verbrandde boeken en begroef geleerden levend om afwijkende meningen te onderdrukken.',
+      'De Grote Muur die Qin Shi Huang begon te bouwen was oorspronkelijk van aangestampte aarde; de stenen versie die we nu kennen is grotendeels uit de Ming-periode.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -22368,6 +22416,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Brihadeeswara-tempel (1010 n.Chr.) heeft een koepel van 80 ton die op de toren rust; hoe de bouwers dit met 11e-eeuwse technologie klaaraverspeelden is nog steeds een raadsel.',
       'De Chola-marine was zo machtig dat ze een strafexpeditie naar Maleisië en Sumatra stuurden in 1025 om handelsprivileges te forceren.',
+      'Het Chola-rijk had de machtigste vloot in de Indische Oceaan en veroverde Sri Lanka, de Maldiven en delen van Zuidoost-Azië.',
+      'De Brihadeeswarar-tempel in Thanjavur, gebouwd door de Chola\'s, heeft een granieten koepel van 80 ton die zonder kraan op 66 meter hoogte werd geplaatst.',
+      'De Chola-bronzen, met name de dansende Shiva (Nataraja), behoren tot de meesterwerken van de wereldkunst.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -22387,6 +22438,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bolívar legde meer dan 20.000 km te paard af tijdens zijn militaire campagnes – meer dan welke veldheer in de geschiedenis ook.',
       'Bolivia is het enige land ter wereld dat naar een persoon is vernoemd die niet in dat land werd geboren; Bolívar was een Venezolaan.',
+      'Bolívar bevrijdde zes landen van Spaans kolonialisme: Venezuela, Colombia, Ecuador, Peru, Bolivia en Panama.',
+      'Zijn droom van een verenigd Zuid-Amerika (Gran Colombia) viel uiteen door regionale rivaliteiten; hij stierf teleurgesteld en in armoede.',
+      'Bolivia is het enige land ter wereld dat naar een buitenlander is vernoemd: Simón Bolívar.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -22404,6 +22458,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De CIA organiseerde meer dan 600 mislukte aanslagen op Castro; methoden varieerden van vergiftigde sigaren tot een ontploffende schelp tijdens het duiken.',
       'Che Guevara\'s gezicht op een T-shirt is het meest gereproduceerde portret in de wereldgeschiedenis; hij werd gefotografeerd door Alberto Korda in 1960.',
+      'Fidel Castro en Che Guevara begonnen hun revolutie met slechts 82 man op een boot genaamd Granma; na de landing overleefden er slechts 12.',
+      'Cuba heeft een van de beste gezondheidszorgsystemen in Latijns-Amerika ondanks decennia van economisch embargo door de VS.',
+      'Che Guevara\'s portret op t-shirts is een van de meest gereproduceerde beelden ter wereld, ironisch genoeg als commercieel product.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -22421,6 +22478,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Allende stierf tijdens de coup in het presidentieel paleis La Moneda; zijn dood bleef decennia omstreden totdat een autopsie in 2011 zelfmoord bevestigde.',
       'De Chicago Boys – Chileense economen opgeleid aan de Universiteit van Chicago onder Milton Friedman – voerden radicale vrijemarktervormingen door onder Pinochet.',
+      'De CIA steunde actief de coup van Pinochet op 11 september 1973; president Allende pleegde zelfmoord in het bestormde presidentiële paleis.',
+      'Onder Pinochet verdwenen meer dan 3.000 mensen; hun lichamen werden gedropt in de Stille Oceaan of begraven in geheime massagraven.',
+      'Pinochet voerde neoliberale economische hervormingen door op advies van de \'Chicago Boys\' – Chileense economen opgeleid aan de Universiteit van Chicago.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -22438,6 +22498,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De militairen gooiden levende gevangenen vanuit vliegtuigen boven de Río de la Plata; ze noemden dit "dodenvluchten".',
       'De Moeders van de Plaza de Mayo zijn nooit gestopt met hun wekelijkse marsen; ze voerden ze decennialang door zelfs nadat de democratie was hersteld.',
+      'De Moeders van de Plaza de Mayo marcheerden elke donderdag met witte hoofddoeken om aandacht te vragen voor hun verdwenen kinderen.',
+      'Naar schatting 30.000 mensen verdwenen tijdens de Vuile Oorlog; velen werden verdoofd en uit vliegtuigen boven de zee gegooid.',
+      'De junta viel in 1983 na de vernederende nederlaag in de Falklandoorlog tegen Groot-Brittannië.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -22455,6 +22518,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Engeland stuurde een vliegdekschipgroep van 28.000 soldaten naar de andere kant van de wereld voor eilanden met nauwelijks 3.000 inwoners en 700.000 schapen.',
       'Argentinië gebruikte Exocet-raketten die twee Britse schepen zonken; het was de eerste oorlog waarbij raketwapens centraal stonden en het militaire denken wereldwijd transformeerden.',
+      'Margaret Thatcher stuurde een vloot van 127 schepen over 12.000 kilometer om de eilanden te heroveren – een logistieke tour de force.',
+      'De Argentijnse kruiser General Belgrano werd getorpedeerd door een Britse onderzeeër terwijl hij zich terugtrok; 323 zeelieden kwamen om.',
+      'De oorlog duurde slechts 74 dagen maar kostte 907 levens; de Britse overwinning redde Thatchers politieke carrière.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -22472,6 +22538,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Venezuela had de grootste oliereserves ter wereld maar zag zijn bbp met 80% krimpen tussen 2013 en 2020 – een economische ineenstorting ongezien buiten een oorlogssituatie.',
       'Meer dan 7 miljoen Venezolanen verlieten het land – de grootste migratiecrisis in de geschiedenis van Latijns-Amerika.',
+      'Venezuela heeft de grootste bewezen oliereserves ter wereld maar zijn economie is ingestort door wanbeleid en corruptie.',
+      'Meer dan 7 miljoen Venezolanen zijn het land ontvlucht sinds 2015, de grootste migratiecrisis in de geschiedenis van Latijns-Amerika.',
+      'Hyperinflatie bereikte in 2018 meer dan 1.000.000% per jaar; Venezolanen hadden kruiwagens vol bankbiljetten nodig voor dagelijkse boodschappen.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -22489,6 +22558,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Monte Albán staat op een bergrug die met de hand werd afgeplat om de stad te bouwen; het was gigantisch bouwwerk zonder machines.',
       'De Zapoteken beschreven op stenen de gevangen chiefs van overwonnen volkeren met "dansende figuren" – eigenlijk afbeeldingen van gefolterde gevangenen.',
+      'Monte Albán, de hoofdstad van de Zapoteken, lag op een kunstmatig afgeplatte bergtop en domineerde de vallei van Oaxaca gedurende 1.500 jaar.',
+      'De Zapoteken ontwikkelden een van de vroegste schriftsystemen in Meso-Amerika en een 260-daagse rituele kalender.',
+      'De beroemde grafkamers van Monte Albán bevatten schitterende jade-maskers en gouden sieraden die nu in het museum van Oaxaca te zien zijn.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'approximate',
@@ -22506,6 +22578,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Caral werd pas in 1994 erkend als een beschaving; eerder dachten archeologen dat het slechts een vreemde bergheuvel was.',
       'Caral had geen bewijs van oorlogsvoering of wapens – een van de weinige vroege beschavingen die zich lijken te hebben ontwikkeld zonder conflict.',
+      'Caral is meer dan 5.000 jaar oud en daarmee ouder dan de Egyptische piramides; het is de oudste bekende beschaving in Amerika.',
+      'Er zijn geen wapens of verdedigingswerken gevonden in Caral, wat suggereert dat het een vreedzame samenleving was.',
+      'De piramides van Caral werden pas in 2001 gedateerd; de ontdekking veranderde alles wat we dachten te weten over vroege beschavingen in Amerika.',
     ],
     popularityScore: 67,
     uncertaintyLevel: 'approximate',
@@ -22523,6 +22598,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Zonnepoort van Tiwanaku is uit één enkel stuk steen gehouwen en weegt meer dan 10 ton; hoe het werd vervoerd zonder wiel is onbekend.',
       'Het Titicacameer is het hoogste grote meer ter wereld; de drijvende rieteneilanden van de Uros-mensen zijn een directe erfenis van de Tiwanaku-beschaving.',
+      'Tiwanaku lag op 3.850 meter hoogte bij het Titicacameer en was een van de hoogst gelegen beschavingen ter wereld.',
+      'De Poort van de Zon in Tiwanaku weegt meer dan 10 ton en is uit één stuk steen gehouwen; hoe ze dit transporteerden is onbekend.',
+      'Tiwanaku\'s landbouwtechniek van verhoogde velden (sukakollu) produceerde hogere opbrengsten dan moderne methoden in dezelfde regio.',
     ],
     popularityScore: 65,
     uncertaintyLevel: 'approximate',
@@ -22540,6 +22618,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Brazilië is het enige land in Latijns-Amerika dat Portugees spreekt; alle andere landen spreken Spaans, behalve Haïti (Frans) en Suriname (Nederlands).',
       'Brazilië behield slavernij tot 1888 – het laatste land in de westerse hemisfeer dat slavernij afschafte.',
+      'Brazilië werd onafhankelijk in 1822 toen de Portugese kroonprins Pedro I de onafhankelijkheid uitriep met de woorden: \'Onafhankelijkheid of dood!\'',
+      'Brazilië is het enige land in Amerika dat vreedzaam onafhankelijk werd; er was geen revolutie of burgeroorlog.',
+      'Het was ook het enige land in Amerika dat na de onafhankelijkheid een monarchie bleef; het keizerrijk duurde tot 1889.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -22557,6 +22638,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS intervenieerde militair meer dan 50 keer in Latijns-Amerika tussen 1898 en 1934 – een praktijk die het "Grote Stok" beleid werd genoemd.',
       'Het Panama-kanaal (geopend 1914) was een directe uitvoering van de Monroe-doctrine: de VS controleerde de strategische verbinding tussen Atlantische en Stille Oceaan.',
+      'De Monroe-doctrine (1823) verklaarde dat de VS geen Europese interventie in Amerika zou tolereren, maar werd ook gebruikt om eigen Amerikaanse imperialisme te rechtvaardigen.',
+      'De VS intervenieerde meer dan 50 keer in Latijns-Amerika in de 20e eeuw, vaak in strijd met de geest van het pan-Amerikanisme.',
+      'De Organisation van Amerikaanse Staten (OAS), opgericht in 1948, is het institutionele kader van het pan-Amerikanisme.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -22574,6 +22658,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In Guatemala installeerde de CIA dictator Castillo Armas na een coup; het land leed daarna decennia van burgeroorlog met 200.000 doden.',
       'Het Iran-Contra schandaal onthulde dat de VS wapenverkopen aan Iran gebruikte om de Nicaraguaanse contra\'s illegaal te financieren.',
+      'De VS financierde de Contra-rebellen in Nicaragua illegaal met winst uit geheime wapenverkopen aan Iran – het Iran-Contra-schandaal.',
+      'De Sandinistische revolutie van 1979 verdreef dictator Somoza maar leidde tot een verwoestende burgeroorlog gedurende de jaren 80.',
+      'Het Internationaal Gerechtshof veroordeelde de VS in 1986 voor zijn steun aan de Contras; de VS negeerde het vonnis.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -22591,6 +22678,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Zapatistas kozen bewust de datum van NAFTA als symbool: het vrijhandelsverdrag bedreigde de levenswijze van Mexicaanse boeren.',
       'Subcomandante Marcos communiceerde via poëtische manifesten op internet – hij was een van de eerste guerrillaleiders die sociale media effectief gebruikte.',
+      'De Zapatisten kwamen in opstand op 1 januari 1994, precies de dag dat NAFTA in werking trad, als protest tegen neoliberale globalisering.',
+      'Subcomandante Marcos, de gemaskerde leider, gebruikte het internet als eerste guerrillabeweging om wereldwijde sympathie te mobiliseren.',
+      'De Zapatisten besturen autonome gemeenschappen in Chiapas met eigen onderwijs, gezondheidszorg en rechtssystemen.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -22608,6 +22698,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Lula was de populairste president in de Braziliaanse geschiedenis met een goedkeuringsrating van 87% aan het eind van zijn tweede termijn.',
       'Lula\'s moeder was analfabeet; hij zelf verliet school op zevende leeftijd om te werken. Hij werd de leider van de grootste democratie in Latijns-Amerika.',
+      'Lula groeide op in extreme armoede en verloor een vinger als fabrieksarbeider; hij werd de eerste arbeider-president van Brazilië.',
+      'Onder Lula\'s presidentschap (2003-2010) werden meer dan 30 miljoen Brazilianen uit de armoede getild dankzij sociale programma\'s als Bolsa Família.',
+      'Lula werd in 2018 veroordeeld voor corruptie en gevangengezet, maar zijn veroordeling werd later vernietigd; hij won de verkiezingen opnieuw in 2022.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -22625,6 +22718,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Fransen probeerden het kanaal eerder te bouwen onder Ferdinand de Lesseps maar mislukten; meer dan 20.000 arbeiders stierven aan malaria en gele koorts.',
       'Het kanaal is zo smal dat er slechts één schip tegelijk doorheen kan; de "Panamax" scheepsmaat is de maximale grootte die door het kanaal past.',
+      'Het Panamakanaal werd geopend in 1914 na 10 jaar bouw; meer dan 25.000 arbeiders stierven aan malaria, gele koorts en ongelukken.',
+      'De VS steunde de afscheiding van Panama van Colombia in 1903 om de rechten op het kanaal te verwerven.',
+      'Het kanaal bespaart schepen een reis van 15.000 kilometer rond Kaap Hoorn; meer dan 14.000 schepen per jaar gebruiken het.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -22642,6 +22738,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Inca-textiel werd hoger gewaardeerd dan goud of zilver; het mooiste textiel (cumbi) was voorbehouden aan de keizer en de goden.',
       'Onderzoekers denken dat quipus niet alleen getallen maar ook verhalen en namen konden bevatten; het "lezen" ervan is een lopend onderzoeksveld.',
+      'Andes-textiel was zo verfijnd dat het meer kleuren en patronen bevatte dan elk ander textiel in de pre-industriële wereld.',
+      'Quipu\'s waren knoopscriften van gekleurde koorden die door de Inca\'s werden gebruikt voor administratie; hun volledige betekenis is nog niet ontcijferd.',
+      'De vigogna-wol uit de Andes is het duurste textiel ter wereld; een jas kan meer dan 20.000 dollar kosten.',
     ],
     popularityScore: 65,
     uncertaintyLevel: 'approximate',
@@ -22659,6 +22758,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De film "The Mission" (1986) portrayt de ondergang van de Jezuïetenmissies; toen de Jezuïeten in 1767 werden uitgedreven, vielen de Guaraní-gemeenschappen bloot aan slavenhandelaars.',
       'Paraguay is het enige land ter wereld waar een inheemse taal (Guaraní) officiële taalstatus heeft naast de koloniale taal; meer dan 90% spreekt Guaraní.',
+      'Paraguay is het enige land in Amerika waar een inheemse taal (Guaraní) de nationale taal is en door meer dan 90% van de bevolking wordt gesproken.',
+      'De jezuïetenmissies onder de Guaraní (1609-1768) creëerden een unieke utopische samenleving die werd verwoest door de Spaanse en Portugese kroon.',
+      'De film The Mission (1986) vertelt het verhaal van de jezuïetenmissies en won de Gouden Palm in Cannes.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'approximate',
@@ -22676,6 +22778,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Suiker was zo winstgevend dat Groot-Brittannië in 1763 overwoog Canada terug te geven aan Frankrijk in ruil voor het suikereiland Guadeloupe.',
       'De gemiddelde levensverwachting van een slaaf op een Caribische suikerplantage was zeven jaar; de eigenaren vonden het goedkoper om nieuwe slaven te kopen dan de bestaanden goed te behandelen.',
+      'Suikerplantages waren de dodelijkste vorm van slavernij; de gemiddelde levensverwachting van een slaafgemaakte op een Caribische suikerplantage was slechts zeven jaar.',
+      'Haiti was de rijkste kolonie ter wereld in de 18e eeuw dankzij suiker; de rijkdom was volledig gebouwd op slavenarbeid.',
+      'De Haïtiaanse Revolutie (1791-1804) was de enige succesvolle slavenopstand die leidde tot de stichting van een onafhankelijke staat.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -22693,6 +22798,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Paus Franciscus heiligverklaarde Junípero Serra in 2015 ondanks ernstig protest van inheemse groepen die hem verantwoordelijk houden voor culturele genocide.',
       'De missies introduceerden wijnbouw in Californië; de Californische wijntraditie is direct te herleiden tot de Spaanse missietijd.',
+      'De 21 Californische missies werden tussen 1769 en 1833 gesticht door franciscaner monniken langs El Camino Real.',
+      'Inheemse volkeren werden gedwongen in de missies te leven en te werken; duizenden stierven aan Europese ziekten en ontberingen.',
+      'Na de secularisatie in 1833 vervielen de meeste missies; ze werden later gerestaureerd en zijn nu populaire toeristische bestemmingen.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -22710,6 +22818,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Evita Perón stierf in 1952 op 33-jarige leeftijd aan baarmoederhalskanker; haar lijk werd gebalsemd en gestolen tijdens een militaire coup, en verborg zich 16 jaar in Europa.',
       'Andrew Lloyd Webbers musical "Evita" (1978) maakte haar wereldberoemd; het nummer "Don\'t Cry for Me Argentina" is een van de bekendste musicalmelodieën.',
+      'Eva Perón (Evita) was de onofficiële minister van arbeid en gezondheidszorg; na haar dood op 33-jarige leeftijd werd ze als heilige vereerd door de armen.',
+      'Het peronisme combineerde elementen van socialisme, nationalisme en populisme en domineert de Argentijnse politiek tot op de dag van vandaag.',
+      'Evita\'s lichaam werd na haar dood gestolen door de militaire junta en pas 17 jaar later teruggevonden in Italië.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -22729,6 +22840,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Copernicus wachtte met publiceren tot op zijn sterfbed; hij had zijn boek al jaren klaar maar was bang voor de kerkelijke reactie.',
       'Zijn boek "De revolutionibus orbium coelestium" (Over de omwentelingen van de hemelsferen) stond 73 jaar op de Index Librorum Prohibitorum, de lijst van verboden boeken.',
+      'Copernicus publiceerde zijn heliocentrische theorie pas op zijn sterfbed in 1543, uit angst voor de reactie van de Kerk.',
+      'Het Copernicaanse model was aanvankelijk niet nauwkeuriger dan het geocentrische model van Ptolemaeus omdat Copernicus nog cirkelbanen gebruikte.',
+      'Copernicus was van beroep kanunnik (kerkelijk bestuurder) en astronoom; hij praktiseerde ook geneeskunde en economie.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'exact',
@@ -22746,6 +22860,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Voltaire was 27 keer gearresteerd en verbannen; hij schreef zijn meeste werken in ballingschap maar zijn ideeën veroverden heel Europa.',
       'Rousseau\'s "Sociale Contract" beginnen met: "De mens wordt vrij geboren en overal ligt hij in ketenen." – een van de meest geciteerde openingsregels in de filosofie.',
+      'Voltaire, Rousseau en Diderot waren de belangrijkste Verlichtingsdenkers; hun ideeën inspireerden zowel de Amerikaanse als de Franse Revolutie.',
+      'De Encyclopédie van Diderot en d\'Alembert was het eerste grote project om alle menselijke kennis systematisch vast te leggen.',
+      'Kant definieerde de Verlichting als de moed om je eigen verstand te gebruiken zonder de leiding van een ander.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -22763,6 +22880,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Thomas Jefferson kopieerde Lockes "leven, vrijheid en eigendom" bijna letterlijk in de Onafhankelijkheidsverklaring maar veranderde "eigendom" in "het nastreven van geluk".',
       'Locke was ook een succesvolle belegger; hij investeerde in de eerste Engelse joint-stock company en de slave trade – een tegenstelling met zijn vrijheidsfilosofie.',
+      'Locke\'s ideeën over natuurlijke rechten (leven, vrijheid, eigendom) werden bijna letterlijk overgenomen in de Amerikaanse Onafhankelijkheidsverklaring.',
+      'Locke geloofde dat de mens wordt geboren als een tabula rasa (schone lei) en dat alle kennis voortkomt uit ervaring.',
+      'Locke\'s Two Treatises of Government rechtvaardigde het recht op revolutie tegen een tiran en beïnvloedde democratische bewegingen wereldwijd.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -22780,6 +22900,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'George Washington verloor meer veldslagen dan hij won; zijn strategie was eenvoudig: het Britse leger moe te maken en de bezettingskosten op te drijven.',
       'De Onafhankelijkheidsverklaring werd mede ondertekend door slavenhouders die over "alle mensen gelijk geschapen" schreven – een paradox die de VS eeuwenlang zou achtervolgen.',
+      'De Boston Tea Party (1773) was het beroemdste protest tegen Britse belastingen; kolonisten verkleed als Mohawk-indianen gooiden thee in de haven.',
+      'George Washington verloor meer veldslagen dan hij won maar hield zijn leger bij elkaar door pure vastberadenheid en inspirerend leiderschap.',
+      'De Amerikaanse grondwet van 1787 is de oudste nog functionerende geschreven grondwet ter wereld.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -22797,6 +22920,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Napoleon was niet bijzonder klein; zijn lengte was circa 1,70 m, gemiddeld voor zijn tijd. De mythe komt van Britse spotprenten en een verwisseling van Franse en Engelse maatvoeringen.',
       'Napoleon exporteerde het Napoleontische wetboek naar veroverde gebieden; het burgerlijk recht van Louisiana (VS), Quebec (Canada) en veel landen in Afrika is hierop gebaseerd.',
+      'Napoleon was niet klein: hij was 1,70 meter, gemiddeld voor zijn tijd; het gerucht over zijn lengte was Britse propaganda.',
+      'Napoleon voerde de metrische stelsel, het burgerlijk wetboek (Code Napoleon) en religieuze tolerantie in in de door hem veroverde gebieden.',
+      'Op het hoogtepunt van zijn macht controleerde Napoleon meer van Europa dan wie ook sinds het Romeinse Rijk.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -22814,6 +22940,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Talleyrand wist namens verslagen Frankrijk gelijke onderhandelingsrechten te bedingen door een meester van diplomatie te zijn; hij keerde als een van de winnaars naar huis.',
       'Het Congres van Wenen wordt beschouwd als het eerste moderne internationale congres; zijn methoden van multilaterale diplomatie beïnvloedden het ontwerp van de VN.',
+      'Het Congres van Wenen (1814-1815) hertekende de kaart van Europa na Napoleons nederlaag en creëerde een machtsevenwicht dat 100 jaar standhield.',
+      'De deelnemers dansten en feestten zo uitbundig dat de Oostenrijkse gastheer klaagde: \'Le Congrès danse, mais il ne marche pas\' (Het congres danst maar maakt geen vooruitgang).',
+      'Het congres introduceerde het concept van een \'Concert van Europa\' – een systeem van regelmatige diplomatieke conferenties om conflicten te voorkomen.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -22831,6 +22960,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Newton en Leibniz voerden een bittere prioriteitsstrijd over de uitvinding van calculus; historici zijn het erover eens dat ze het onafhankelijk van elkaar ontwikkelden.',
       'Blaise Pascal ontwikkelde op 19-jarige leeftijd de eerste mechanische rekenmachine als geschenk voor zijn vader, die belasting berekende.',
+      'Blaise Pascal ontwikkelde op 19-jarige leeftijd een van de eerste mechanische rekenmachines, de Pascaline, om zijn vader te helpen met belastingberekeningen.',
+      'De familie Bernoulli produceerde in drie generaties acht briljante wiskundigen; de rivaliteit tussen broers Jacob en Johann was legendarisch.',
+      'Pascals gok (Pascal\'s Wager) is het argument dat het rationeel is om in God te geloven omdat je weinig te verliezen hebt als je het fout hebt.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -22848,6 +22980,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Lavoisier was een belastingpachter – een onpopulaire functie waarmee hij zijn wetenschappelijk onderzoek financierde. Zijn rol als belastingpachter was de reden dat hij werd geguillotineerd.',
       'Zijn vrouw Marie-Anne Paulze was zijn wetenschappelijke partner; ze leerde Engels en Latijn om buitenlandse wetenschappelijke publicaties voor hem te vertalen.',
+      'Lavoisier wordt de vader van de moderne scheikunde genoemd; hij ontdekte dat verbranding een reactie met zuurstof is en niet met een mysterieus element (flogiston).',
+      'Lavoisier werd tijdens de Franse Revolutie onthoofd; de rechter zei: \'De Republiek heeft geen behoefte aan geleerden.\'',
+      'Zijn vrouw Marie-Anne hielp hem met experimenten, vertaalde wetenschappelijke teksten en illustreerde zijn publicaties.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -22865,6 +23000,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Pasteurisatie werd vernoemd naar Pasteur; het procédé om melk te verhitten om bacteriën te doden heeft meer levens gered dan misschien enige andere uitvinding.',
       'Pasteur en zijn rivaal Koch voerden een bittere persoonlijke strijd over microbentheorieën; hun competitie versnelde echter de wetenschappelijke vooruitgang.',
+      'Pasteur bewees dat ziekte wordt veroorzaakt door micro-organismen, niet door \'slechte lucht\' (miasma); dit revolutioneerde de geneeskunde.',
+      'Het pasteurisatieproces, vernoemd naar Pasteur, verhit vloeistoffen om bacteriën te doden en wordt nog steeds gebruikt voor melk en sap.',
+      'Pasteur ontwikkelde vaccins tegen rabiës en miltvuur; zijn rabiësvaccin redde een 9-jarige jongen die door een dolle hond was gebeten.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -22882,6 +23020,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Einstein had een foto van Maxwell op zijn muur naast Newton en Faraday – hij beschouwde Maxwell als de meest invloedrijke fysicus.',
       'Maxwell voorspelde mathematisch het bestaan van radiogolven in 1865; Marconi gebruikte ze voor draadloze telegrafie in 1895 – 30 jaar later.',
+      'Maxwells vergelijkingen verenigden elektriciteit, magnetisme en licht in één theorie en worden beschouwd als de op één na grootste doorbraak in de natuurkunde na Newton.',
+      'Maxwell voorspelde het bestaan van radiogolven; Heinrich Hertz bewees dit experimenteel in 1887, wat de basis legde voor radio en televisie.',
+      'Einstein noemde Maxwells werk het meest diepgaande en vruchtbare in de natuurkunde sinds Newton.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -22899,6 +23040,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Humboldt beklom de Chimborazo-vulkaan in Ecuador tot op 5.917 m – een hoogterecord dat tientallen jaren standhield.',
       'Meer dan 300 planten, 100 dieren en tientallen steden en geografische kenmerken dragen Humboldts naam; hij is de meest naar vernoemde persoon in de wetenschappelijke naamgeving.',
+      'Alexander von Humboldt beklom de Chimborazo-vulkaan in Ecuador tot 5.917 meter hoogte – het hoogterecord voor Europeanen op dat moment.',
+      'Humboldt was een van de eersten die klimaatzones beschreef en de samenhang tussen planten, dieren en geografie begreep – hij was een proto-ecoloog.',
+      'Charles Darwin noemde Humboldt de grootste wetenschappelijke reiziger ooit en werd diep beïnvloed door zijn werk.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -22916,6 +23060,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Faraday verliet school op 13 jaar en was autodidact; hij begon als assistent van Humphry Davy maar overtrof zijn mentor ver.',
       'Toen een minister aan Faraday vroeg wat het nut was van elektriciteit, antwoordde hij: "Wat is het nut van een pasgeboren kind?"',
+      'Michael Faraday was de zoon van een smid en had geen formele opleiding; hij leerde wetenschap als assistent van Humphry Davy aan het Royal Institution.',
+      'Faraday ontdekte elektromagnetische inductie, het principe achter generatoren en transformatoren dat de moderne elektrische wereld mogelijk maakt.',
+      'Faraday was zo geliefd dat koningin Victoria hem een huis aanbood; hij weigerde een ridderschap omdat hij zijn eenvoudige levensstijl wilde behouden.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'exact',
@@ -22933,6 +23080,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Pierre Curie stierf in 1906 doordat hij voor een paard-en-wagen stapte op een regenachtige dag in Parijs; Marie was verpletterd van verdriet maar zette haar werk voort.',
       'Radioactiviteit werd aanvankelijk als wondermiddel gezien; radioactieve pasta in tandpasta, radioactief drinkwater en zelfs radioactief chocolade werden verkocht als gezondheidsproducten.',
+      'Marie Curie was de eerste persoon die twee Nobelprijzen won, in twee verschillende wetenschapsgebieden (fysica en scheikunde).',
+      'Het echtpaar Curie werkte in een lekkende schuur die als laboratorium diende; Marie droeg radioactief materiaal in haar jaszakken.',
+      'Marie Curie stierf aan aplastische anemie, veroorzaakt door jarenlange blootstelling aan straling; haar notitieboeken zijn nog steeds te radioactief om aan te raken.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -22950,6 +23100,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Boyle was de eerste wetenschapper die systematisch publiceerde hoe hij zijn experimenten uitvoerde, zodat anderen ze konden herhalen – een kernprincipe van moderne wetenschap.',
       'De Wet van Boyle (druk × volume = constant bij constante temperatuur) wordt dagelijks gebruikt in duikflessen, autobanden en longgeneeskunde.',
+      'Robert Boyle wordt de vader van de moderne scheikunde genoemd; hij definieerde het concept van een chemisch element als een stof die niet verder ontleed kan worden.',
+      'De Wet van Boyle beschrijft de relatie tussen druk en volume van een gas en is een fundamentele wet in de natuurkunde en scheikunde.',
+      'Boyle was een van de oprichters van de Royal Society, het oudste nog bestaande wetenschappelijke genootschap ter wereld.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -22967,6 +23120,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Vóór Lister stierven meer dan de helft van de amputatiepatiënten aan infectie; na zijn methoden daalde dit naar minder dan 15%.',
       'Listerine mondwater is naar Lister vernoemd; de antiseptische werking is een directe toepassing van zijn principes.',
+      'Joseph Lister introduceerde het gebruik van carbolzuur (fenol) als antisepticum bij operaties en halveerde daarmee de sterfte na chirurgische ingrepen.',
+      'Voor Lister wastten chirurgen hun handen niet en opereerden in hun gewone kleding; infecties na operaties waren de norm.',
+      'Listerine mondwater is vernoemd naar Joseph Lister, hoewel hij er niets mee te maken had.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -22984,6 +23140,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Freud rookte 20 sigaren per dag ondanks kaakkanker; zijn arts vroeg hem te stoppen maar Freud weigerde, daarmee zijn eigen theorie over orale fixatie illustrerende.',
       'Freud vluchtte in 1938 voor de nazi\'s naar Londen; zijn laatste woorden zouden zijn geweest: "Is dit het niet waard?" waarna hij om morfine vroeg van zijn arts.',
+      'Freud\'s theorie dat dromen verborgen wensen onthullen revolutioneerde het denken over de menselijke geest.',
+      'Freud rookte tot 20 sigaren per dag en kreeg uiteindelijk mondkanker; hij weigerde pijnstillers en werkte door tot het einde.',
+      'Veel van Freuds specifieke theorieën zijn verworpen door de moderne psychologie, maar zijn invloed op de cultuur en het begrip van het onbewuste is blijvend.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -23001,6 +23160,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Linnaeus noemde een slecht smakend onkruid "Siegesbeckia" naar een wetenschapper die zijn werk had bekritiseerd – een vroeg geval van wetenschappelijke wraak.',
       'Homo sapiens (Wijze Mens) is de naam die Linnaeus in 1758 aan de menselijke soort gaf; hij plaatste mensen bewust in hetzelfde genus als grote apen.',
+      'Carl Linnaeus ontwikkelde de binomiale nomenclatuur: elk organisme krijgt twee Latijnse namen (genus en soort), een systeem dat nog steeds wordt gebruikt.',
+      'Linnaeus classificeerde ook de mens als Homo sapiens en plaatste ons in dezelfde orde als apen – een controversieel besluit in zijn tijd.',
+      'Linnaeus benoemde meer dan 12.000 soorten planten en dieren en wordt beschouwd als de vader van de moderne taxonomie.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -23018,6 +23180,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Einstein had zijn theorie aanvankelijk aangepast met een "kosmologische constante" om een statisch heelal te verklaren; toen Hubble uitdijing aantoonde, noemde Einstein dit zijn "grootste vergissing".',
       'De Hubble Ruimtetelescoop, gelanceerd in 1990, is naar Hubble vernoemd en heeft miljoenen sterrenstelsels gefotografeerd die hij nooit zou hebben kunnen zien.',
+      'Edwin Hubble bewees in 1929 dat het heelal uitdijt, wat de basis legde voor de oerknal-theorie.',
+      'De Hubble-ruimtetelescoop, vernoemd naar Edwin Hubble, heeft sinds 1990 meer dan 1,5 miljoen waarnemingen gedaan en ons beeld van het heelal fundamenteel veranderd.',
+      'Hubble ontdekte ook dat er sterrenstelsels buiten de Melkweg bestaan; voorheen dachten astronomen dat de Melkweg het hele heelal was.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -23037,6 +23202,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hendrik de Zeevaarder organiseerde de Portugese expedities maar zeilde zelf nooit ver; hij was meer een strategisch investeerder dan een zeevaarder.',
       'Da Gama\'s reis naar India kostte het leven van twee derde van zijn bemanningsleden; toch was de winstmarge zo groot dat de Portugese kroon de investering vijftig keer terugverdiende.',
+      'Hendrik de Zeevaarder financierde systematische ontdekkingsreizen langs de Afrikaanse kust, hoewel hij zelf nooit verder reisde dan Marokko.',
+      'Portugese zeelieden ontwikkelden de karveel, een wendbaar schip dat zowel tegen de wind als met de wind kon zeilen.',
+      'Portugal was het eerste Europese land dat directe handelscontacten legde met West-Afrika, India, China en Japan.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -23054,6 +23222,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Dias noemde het Kaap de Stormkaap vanwege de hevige stormen; de Portugese koning João II hernoemde het in Kaap de Goede Hoop als marketingtactiek voor investeerders.',
       'Dias zelf stierf in een storm nabij de Kaap in 1500 tijdens zijn tweede expeditie; een ironisch einde voor de man die haar ontdekte.',
+      'Vasco da Gama bereikte India in 1498 en keerde terug met specerijen die 60 keer hun gewicht in goud waard waren.',
+      'De ontdekking van de zeeroute om Afrika verbrak het Arabische en Venetiaanse monopolie op de specerijenhandel.',
+      'De reis was gevaarlijk: van de 170 bemanningsleden die vertrokken, keerden er slechts 54 terug.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -23071,6 +23242,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Columbus stierf arm en verbitterd in 1506; de Spaanse kroon had zijn priviléges ingetrokken. Zijn naam is pas na zijn dood synoniem geworden met de "ontdekking" van Amerika.',
       'Hispaniola (Haïti/Dominicaanse Republiek) had voor Columbus\' aankomst circa 400.000 Taino-bewoners; 50 jaar later waren ze vrijwel uitgestorven.',
+      'Columbus\' tweede reis (1493) bracht 1.200 kolonisten en de eerste paarden, koeien en varkens naar de Nieuwe Wereld.',
+      'Columbus bleef tot zijn dood geloven dat hij Azië had bereikt; hij begreep nooit dat hij een nieuw continent had ontdekt.',
+      'De ziekten die de Europeanen meebrachten – pokken, mazelen, griep – doodden naar schatting 90% van de inheemse bevolking van Amerika.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -23088,6 +23262,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Cortés verbrandde zijn eigen schepen zodat zijn mannen niet terug konden vluchten; het was een radicale motivatietactiek die hen dwong te winnen of te sterven.',
       'De Azteken geloofden aanvankelijk dat Cortés de teruggekeerde god Quetzalcoatl was; dit misverstand gaf hem kostbare maanden om allianties te smeden.',
+      'Hernán Cortés veroverde het Azteekse Rijk met slechts 600 Spanjaarden dankzij bondgenootschappen met onderdrukte inheemse volkeren.',
+      'De pokken die de Spanjaarden meebrachten doodden miljoenen Azteken en verzwakten het rijk fataal voordat de eindbelegering begon.',
+      'Cortés liet zijn schepen verbranden bij aankomst zodat zijn mannen niet konden terugtrekken – een daad van extreme vastberadenheid.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -23105,6 +23282,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De opstand leidde tot de overdracht van India van de EIC aan de Britse Kroon; de periode van "British Raj" begon.',
       'Delhi, Lucknow en Kanpur waren de centra van de opstand; de Britten sloegen hem neer met enorme wreedheid, waaronder het blazen van opstandelingen uit kanonnen.',
+      'De Sepoy-opstand van 1857 begon toen Indiase soldaten weigerden kogelhulzen te bijten die met varkens- of rundervet waren ingesmeerd.',
+      'Na de opstand werd de Britse Oost-Indische Compagnie ontbonden en nam de Britse Kroon direct het bestuur over India over.',
+      'De opstand leidde tot brute vergeldingsacties door de Britten, waaronder het vastbinden van opstandelingen aan kanonnen en het afschieten ervan.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -23122,6 +23302,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De campagne om Leopold te stoppen, geleid door journalist E.D. Morel en consul Roger Casement, was een van de eerste internationale mensenrechtencampagnes.',
       'Leopolds privatisering van Congo maakte hem enorm rijk; hij gebruikte zijn Congolese rijkdom om Brussel te verbouwen – het Grand Place en de Koninklijke Musea zijn deels Congolees geld.',
+      'Koning Leopold II van België bestuurde Congo als persoonlijk bezit en dwong de bevolking tot rubberoogst onder bedreiging van verminking.',
+      'Arbeiders die hun rubberquota niet haalden werden gestraft door het afhakken van handen; foto\'s hiervan veroorzaakten internationale verontwaardiging.',
+      'Naar schatting stierven 10 miljoen Congolezen onder Leopold\'s bewind – de helft van de bevolking.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -23139,6 +23322,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In 1960 werden 17 Afrikaanse landen onafhankelijk; het werd "het jaar van Afrika" genoemd.',
       'De Algerijnse onafhankelijkheidsoorlog (1954–1962) kostte meer dan een miljoen levens; het was een van de bloedigste dekolonisatieoorlogen.',
+      'In de jaren 1960 werden meer dan 30 Afrikaanse landen onafhankelijk; 1960 wordt het \'Jaar van Afrika\' genoemd.',
+      'Veel nieuwe Afrikaanse staten erfden kunstmatige grenzen die door Europese kolonisatoren waren getrokken zonder rekening te houden met etnische en culturele verschillen.',
+      'Kwame Nkrumah van Ghana was de eerste Afrikaanse leider die onafhankelijkheid bereikte (1957) en werd een symbool van het Pan-Afrikanisme.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -23156,6 +23342,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Groot-Brittannië had het voordeel dat zijn eilandligging het beschermde; geen enkel land kon het direct aanvallen, waardoor het zijn leger en marine kon richten op de koloniën.',
       'Het Britse Rijk creëerde de moderne wereld: het verspreide het Engels, de rechtsstaat, spoorwegen, cricket en thee als globale fenomenen.',
+      'Op zijn hoogtepunt in 1920 besloeg het Britse Rijk een kwart van het aardoppervlak en regeerde over een kwart van de wereldbevolking.',
+      'Het gezegde \'het rijk waar de zon nooit ondergaat\' was letterlijk waar: op elk moment van de dag scheen de zon ergens op Brits grondgebied.',
+      'De Britse invloed is nog steeds zichtbaar in het rechtssysteem, onderwijsstelsel en de Engelse taal van meer dan 50 landen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
