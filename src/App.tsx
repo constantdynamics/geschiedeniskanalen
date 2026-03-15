@@ -228,7 +228,7 @@ function App() {
 
         <div className="h-5 w-px bg-border" />
 
-        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} focusTrigger={searchFocusTrigger} />
+        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} focusTrigger={searchFocusTrigger} onNavigateToEvent={handleNavigateToEvent} />
 
         <div className="flex-1">
           <Toolbar
