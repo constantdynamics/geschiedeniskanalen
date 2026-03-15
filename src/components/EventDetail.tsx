@@ -1,15 +1,17 @@
-import { X, ExternalLink, Lightbulb, HelpCircle, Link2, ArrowRight, ArrowLeft, Tag } from 'lucide-react';
+import { X, ExternalLink, Lightbulb, HelpCircle, Link2, ArrowRight, ArrowLeft, Tag, BookOpen } from 'lucide-react';
 import type { HistoricalEvent } from '../types';
 import { CATEGORY_CONFIG, REGION_CONFIG, formatYear } from '../types';
+import WorldMap from './WorldMap';
 
 interface EventDetailProps {
   event: HistoricalEvent;
   allEvents: HistoricalEvent[];
   onClose: () => void;
   onNavigateToEvent: (eventId: string) => void;
+  onOpenStoryMode?: (eventId: string) => void;
 }
 
-export default function EventDetail({ event, allEvents, onClose, onNavigateToEvent }: EventDetailProps) {
+export default function EventDetail({ event, allEvents, onClose, onNavigateToEvent, onOpenStoryMode }: EventDetailProps) {
   const cat = CATEGORY_CONFIG[event.category];
   const reg = REGION_CONFIG[event.region];
 
@@ -119,6 +121,20 @@ export default function EventDetail({ event, allEvents, onClose, onNavigateToEve
 
         {/* Description */}
         <p className="text-sm text-text-secondary leading-relaxed">{event.description}</p>
+
+        {/* World map */}
+        <WorldMap region={event.region} size="sm" />
+
+        {/* Story mode button */}
+        {onOpenStoryMode && (
+          <button
+            onClick={() => onOpenStoryMode(event.id)}
+            className="flex items-center gap-2 w-full px-3 py-2.5 bg-purple-500/10 hover:bg-purple-500/20 border border-purple-500/30 rounded-lg text-sm text-purple-400 hover:text-purple-300 transition-colors font-medium"
+          >
+            <BookOpen size={14} />
+            Open in verhaallijn-modus
+          </button>
+        )}
 
         {/* Cause-effect chain */}
         {causeEvents.length > 0 && (

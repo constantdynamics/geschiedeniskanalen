@@ -13,6 +13,7 @@ import EventDetail from './components/EventDetail';
 import Tooltip from './components/Tooltip';
 import DiscoverySpinner from './components/DiscoverySpinner';
 import ContextMenu from './components/ContextMenu';
+import StoryMode from './components/StoryMode';
 import { Clock, Sun, Moon } from 'lucide-react';
 import { APP_VERSION } from './version';
 
@@ -29,6 +30,8 @@ function App() {
 
   const [searchFocusTrigger, setSearchFocusTrigger] = useState(0);
   const [theme, setTheme] = useState<'dark' | 'light'>('dark');
+
+  const [storyModeEventId, setStoryModeEventId] = useState<string | null>(null);
 
   const [contextMenu, setContextMenu] = useState<{
     event: import('./types').HistoricalEvent;
@@ -342,6 +345,7 @@ function App() {
             allEvents={historicalEvents}
             onClose={() => selectEvent(null)}
             onNavigateToEvent={handleNavigateToEvent}
+            onOpenStoryMode={(id) => setStoryModeEventId(id)}
           />
         )}
       </div>
@@ -356,6 +360,16 @@ function App() {
 
       {/* Discovery Spinner FAB */}
       <DiscoverySpinner events={historicalEvents} onSelectEvent={handleDiscoverySelect} />
+
+      {/* Story mode */}
+      {storyModeEventId && (
+        <StoryMode
+          events={filteredEvents.length > 0 ? filteredEvents : historicalEvents}
+          startEventId={storyModeEventId}
+          onClose={() => setStoryModeEventId(null)}
+          onNavigateToEvent={handleNavigateToEvent}
+        />
+      )}
 
       {/* Context menu */}
       {contextMenu && (
