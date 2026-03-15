@@ -17936,6 +17936,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Albert Camus, de Nobelprijswinnaar, was een Pied-Noir; zijn romans speelden in Algerije.',
       'De massale vlucht van de Pieds-Noirs in 1962 was een van de grootste migratiebewegingen in Europa.',
+      'Veel Pieds-Noirs hadden nooit eerder voet op Franse bodem gezet en voelden zich vreemdelingen in hun eigen 'moederland'.',
+      'De Fransen in Algerije produceerden meer dan 60% van de wijn die in Frankrijk werd geconsumeerd.',
+      'Na de exodus werden hele steden in Algerije spooksteden; Oran verloor bijna de helft van zijn bevolking.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -17953,6 +17956,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nigeria heeft meer dan 500 etnische groepen die de Britten in één staat hadden samengevoegd.',
       'Biafra secedeerde in 1967 na massamoorden op Igbo in het noorden; het werd na 3 jaar vernietigd.',
+      'De Biafra-hongersnood leidde tot de oprichting van Artsen zonder Grenzen door Franse dokters die getuige waren van het leed.',
+      'Nigeria is vandaag het dichtstbevolkte land van Afrika met meer dan 220 miljoen inwoners.',
+      'De Britse regering steunde Nigeria tijdens de oorlog en leverde wapens ondanks berichten over massale burgerslachtoffers.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -17970,6 +17976,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Amin gaf zichzelf de titel: "President, Veldmaarschalk, Vader van Afrika, Winnaar van de VC, CBE, DSO, MC."',
       'Hij verdreef alle Aziaten uit Uganda in 90 dagen, wat de economie verwoestte.',
+      'Amin was voormalig bokskampioen van Uganda en stond bekend om zijn fysieke intimidatie van tegenstanders.',
+      'Na zijn val in 1979 vluchtte Amin naar Saoedi-Arabie waar hij tot zijn dood in 2003 in luxe leefde.',
+      'Hij beweerde ooit dat hij de onkroonde koning van Schotland was en stuurde koningin Elizabeth liefdesbrieven.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -17987,6 +17996,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zimbabwe had een inflatie van 79.600.000.000% in november 2008 – de hoogste ooit gemeten.',
       'Zimbabwe drukte een 100 triljoen dollar biljet.',
+      'Mugabe had zeven universitaire graden, waaronder meerdere die hij in de gevangenis behaalde.',
+      'Voor de landhervormingen was Zimbabwe de 'broodmand van Afrika' en exporteerde het voedsel naar de hele regio.',
+      'Mugabe werd in 2017 op 93-jarige leeftijd afgezet door zijn eigen leger na een machtsstrijd over zijn opvolging.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -18004,6 +18016,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Somalische piraten waren op hun hoogtepunt (2008-2011) verantwoordelijk voor 90% van de piraterij wereldwijd.',
       'Somaliland in het noorden is een zelfgeproclameerde onafhankelijke democratie die stabiel functioneert.',
+      'Somalische piraten begonnen oorspronkelijk als vissers die hun wateren beschermden tegen illegale buitenlandse trawlers.',
+      'Ondanks het ontbreken van een centrale overheid heeft Somalie een van de goedkoopste telecomsectoren in Afrika.',
+      'De stad Mogadishu werd vroeger de 'Witte Parel van de Indische Oceaan' genoemd vanwege haar prachtige architectuur.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -18021,6 +18036,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nkrumah riep uit: "Ghana is vrij voor altijd!" – een moment dat heel Afrika bewoog.',
       'Hij werd in 1966 door een militaire coup omvergeworpen terwijl hij op staatsbezoek in Hanoi was.',
+      'Nkrumah liet de Akosombo-dam bouwen, die het grootste kunstmatige meer ter wereld creeerde: het Voltameer.',
+      'Ghana was voorheen de Goudkust genoemd vanwege de enorme goudvoorraden die Europeanen er vonden.',
+      'Nkrumah stierf in ballingschap in Guinee in 1972 en werd pas na zijn dood als nationale held erkend.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -18038,6 +18056,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rastafari-gelovigen beschouwen Haile Selassie als de wederkomst van Christus.',
       'Hij werd in 1974 afgezet door marxistische soldaten en stierf in 1975 – vermoedelijk vermoord.',
+      'Selassie hield leeuwen als huisdieren in zijn paleis en liet ze vrij rondlopen.',
+      'Zijn toespraak tot de Volkenbond in 1936 over de Italiaanse invasie wordt beschouwd als een van de krachtigste redevoeringen van de 20e eeuw.',
+      'Ethiopie is het enige Afrikaanse land dat nooit formeel gekoloniseerd werd, mede dankzij Selassie's diplomatie.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -18055,6 +18076,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Live Aid in 1985 bracht $125 miljoen op voor Ethiopische hongerslachtoffers.',
       'Klimatologen verbinden de droogte deels met luchtverontreiniging in Europa die de regencyclus verstoorde.',
+      'Het Tsjaadmeer kromp door de droogte van 25.000 km2 naar slechts 1.350 km2, een afname van meer dan 90%.',
+      'De hongersnood in de Sahel inspireerde het liedje 'We Are the World' dat 3 miljoen opbracht.',
+      'Miljoenen nomaden werden gedwongen hun traditionele levenswijze op te geven en naar steden te trekken.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -18072,6 +18096,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ebola verspreidt zich via contact met lichaamsvloeistoffen van zieke personen.',
       'De uitbraak eindigde mede dankzij een experimenteel vaccin dat 97% effectief bleek.',
+      'Het ebolavirus is vernoemd naar de Ebola-rivier in Congo, waar het in 1976 voor het eerst werd ontdekt.',
+      'Traditionele begrafenisrituelen waarbij overledenen werden gewassen, droegen sterk bij aan de verspreiding van het virus.',
+      'Meer dan 500 gezondheidswerkers stierven tijdens de uitbraak, wat de gezondheidszorg in de regio jarenlang verzwakte.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -18089,6 +18116,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Presidnet Omar al-Bashir werd de eerste zittende staatshoofd te worden aangeklaagd door het ICC voor genocide.',
       'China blokkeerde jarenlang VN-actie om zijn oliebelangen in Soedan te beschermen.',
+      'George Clooney zette zich persoonlijk in voor Darfur en werd zelfs gearresteerd bij een protest voor de Soedanese ambassade.',
+      'De Janjaweed-milities reden op kamelen en paarden en vielen dorpen aan in een tactiek die deed denken aan middeleeuwse raids.',
+      'Meer dan 2,5 miljoen mensen werden ontheemd en leven nog steeds in vluchtelingenkampen in Tsjaad en Soedan.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -18106,6 +18136,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bijna 99% van de bevolking stemde voor onafhankelijkheid – een van de meest eensgezinde referenda ooit.',
       'Zuid-Soedan heeft de laagste geletterheidscijfers ter wereld.',
+      'Het land heeft meer dan 60 verschillende etnische groepen die elk hun eigen taal spreken.',
+      'Zuid-Soedan bezit enorme oliereserves maar moet de olie via pijpleidingen door Soedan exporteren, wat tot constante spanningen leidt.',
+      'De burgeroorlog die in 2013 uitbrak, heeft meer dan 400.000 doden veroorzaakt en miljoenen mensen op de vlucht gedreven.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -18123,6 +18156,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Banda liet zichzelf op elke bankbiljet en in elke winkel afbeelden.',
       'Hij verloor de eerste democratische verkiezingen van 1994 en aanvaardde het resultaat.',
+      'Banda verbood films, buitenlandse kranten en Simon & Garfunkel-muziek omdat hij die immoreel vond.',
+      'Hij was al ouder dan 60 jaar toen hij terugkeerde naar Malawi om de onafhankelijkheidsbeweging te leiden.',
+      'Banda sprak vloeiend Latijn en Grieks en had gestudeerd aan universiteiten in de VS en Schotland.',
     ],
     popularityScore: 64,
     uncertaintyLevel: 'approximate',
@@ -18704,6 +18740,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Boris Jeltsin klom in augustus 1991 op een tank om de mislukte staatsgreep tegen Gorbatsjov te weerstaan – het iconische moment dat het lot van de USSR bezegelde.',
       'Gorbatsjov schreef zijn afscheidsrede zelf; zijn pen werkte niet bij het ondertekenen en hij moest een pen van het CNN-cameraploeg lenen.',
+      'Na het uiteenvallen van de USSR bleven duizenden kernwapens verspreid over Oekraine, Kazachstan en Wit-Rusland.',
+      'De Sovjet-economie was op het moment van opheffing kleiner dan die van Italie ondanks het enorme grondgebied.',
+      'Pizza Hut huurde Gorbatsjov in 1997 in voor een tv-reclame, wat symbool stond voor de overgang naar kapitalisme.',
     ],
     popularityScore: 90,
     uncertaintyLevel: 'exact',
@@ -18721,6 +18760,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Cosmonaut Valeri Polyakov verblijft met 437 dagen nog steeds het record voor de langste onafgebroken ruimtereis ooit.',
       'Mir werd in 2001 gecontroleerd tot zinken gebracht in de Grote Oceaan; de val was te zien boven Fiji als een spoor van vuurwerk.',
+      'Het station had regelmatig technische problemen, waaronder een botsing met een vrachtschip in 1997 die bijna fataal was.',
+      'Mir draaide meer dan 86.000 keer rond de aarde tijdens zijn 15 jaar durende missie.',
+      'Na het uiteenvallen van de USSR moest Rusland commerciele deals sluiten om Mir draaiende te houden, waaronder het meesturen van betalende toeristen.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -18738,6 +18780,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bij de top in Reykjavik in 1986 kwamen de twee leiders bijna tot een akkoord om alle kernwapens ter wereld te elimineren – maar het gesprek liep stuk op het Star Wars-programma.',
       'Reagan en Gorbatsjov waren aanvankelijk elkaars vijanden; Reagan noemde de USSR "het kwaadaardige rijk" maar vond later groot respect voor Gorbatsjov.',
+      'Bij hun eerste ontmoeting in Geneve in 1985 maakten de twee leiders een wandeling en spraken ze zonder tolken.',
+      'Het INF-verdrag van 1987 elimineerde bijna 2.700 nucleaire raketten aan beide zijden.',
+      'Reagan was een voormalig Hollywood-acteur; Gorbatsjov was de eerste Sovjetleider die na de Tweede Wereldoorlog was geboren.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -18755,6 +18800,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Op het hoogtepunt had Solidarnosc meer leden dan de Poolse Communistische Partij; bijna een kwart van de Poolse bevolking was lid.',
       'Lech Wałęsa won in 1983 de Nobelprijs voor de Vrede; de Poolse regering verbood hem naar Oslo te reizen, dus zijn vrouw nam de prijs in ontvangst.',
+      'Solidarnosc werd in 1981 verboden door de staat van beleg maar bleef ondergronds actief met steun van de Katholieke Kerk.',
+      'Paus Johannes Paulus II, zelf een Pool, speelde een cruciale rol door morele steun te bieden aan de beweging.',
+      'Walesa was een eenvoudige elektricien in de scheepswerven van Gdansk voordat hij de leider van de beweging werd.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -18772,6 +18820,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De stad Pripyat, vlakbij Tsjernobyl, werd in 36 uur geëvacueerd. Bewoners mochten slechts een paar spullen meenemen en konden nooit terugkeren.',
       'Tsjernobyl wordt door historici gezien als een van de factoren die het uiteenvallen van de Sovjet-Unie hebben versneld, door het blootleggen van institutioneel falen.',
+      'De brandweermannen die als eersten arriveerden wisten niet dat ze aan dodelijke doses straling werden blootgesteld.',
+      'De exclusiezone rond Tsjernobyl is nu een onbedoeld natuurreservaat waar wolven, wilde paarden en zelfs lynxen leven.',
+      'Zweden was het eerste land buiten de Sovjet-Unie dat de radioactieve wolk detecteerde en alarm sloeg.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -18789,6 +18840,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De iconische foto van de "Tank Man" die alleen voor een colonne tanks staat, is een van de meest herkenbare foto\'s van de 20e eeuw. Zijn identiteit is nooit bevestigd.',
       'China blokkeert zoektermen als "4 juni", "tankman" en "89" in sociale media; de meeste jonge Chinezen kennen het incident niet.',
+      'Studenten hadden een 10 meter hoge replica van het Vrijheidsbeeld gebouwd, de 'Godin van de Democratie', die door tanks werd verpletterd.',
+      'De protesten begonnen als een rouwbijeenkomst voor de hervormingsgezinde leider Hu Yaobang en groeiden uit tot een massabeweging.',
+      'Westerse diplomaten schatten het dodental op 2.600 tot 3.000, maar China spreekt officieel van 200 tot 300 doden.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -18806,6 +18860,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Iran-Contra schandaal onthulde dat de VS wapens aan Iran verkocht (terwijl er een wapenembargo was) en de opbrengst gebruikte om de Nicaraguaanse contra\'s te steunen.',
       'De Sandinisten zijn na hun verkiezingsnederlaag later teruggekeerd aan de macht; Daniel Ortega is nog steeds president en wordt inmiddels zelf een autoritair leider genoemd.',
+      'De Sandinisten voerden een succesvolle alfabetiseringscampagne uit die het analfabetisme van 50% naar 12% terugbracht.',
+      'Oliver North, de hoofdfiguur in het Iran-Contra schandaal, werd later een populaire tv-presentator en politicus in de VS.',
+      'Nicaragua werd vernoemd naar de inheemse chief Nicarao die de Spanjaarden als eerste ontmoetten bij het Meer van Nicaragua.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -18823,6 +18880,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Irak stak bij de terugtocht meer dan 700 Koeweitse olieputten in brand; de brandende putten waren maandenlang te zien vanuit de ruimte.',
       'CNN bracht de eerste uren van de bombardementen live uit Baghdad uit; verslaggevers Bernard Shaw en Peter Arnett werden wereldberoemd door hun live rapportage.',
+      'De coalitie verloor slechts 292 soldaten tegenover naar schatting 25.000 Iraakse militaire doden.',
+      'Saddam Hoessein liet Westerse gijzelaars op televisie verschijnen en noemde ze 'gasten' in een bizarre propagandastunt.',
+      'De oorlog kostte de VS ongeveer 61 miljard dollar, waarvan het grootste deel werd betaald door Koeweit, Saoedi-Arabie en Japan.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -18840,6 +18900,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De valpartij van de Twin Towers produceerde zoveel stof dat het gelijkstond aan de uitbarsting van een kleine vulkaan en gedurende maanden een gezondheidsgevaar vormde.',
       'Meer dan 40 landen verloren burgers bij de aanslagen, wat de internationale dimensie van Al Qaida aantoonde.',
+      'Het luchtruim boven de VS werd voor het eerst in de geschiedenis volledig gesloten; circa 4.500 vliegtuigen moesten onmiddellijk landen.',
+      'De heropbouw van Ground Zero duurde meer dan 13 jaar; het nieuwe One World Trade Center is met 541 meter het hoogste gebouw van het westelijk halfrond.',
+      'Reddingshond Trakr vond de laatste overlevende onder het puin en werd later gekloond als eerbetoon aan zijn heldenrol.',
     ],
     popularityScore: 97,
     uncertaintyLevel: 'exact',
@@ -18857,6 +18920,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "rode telefoon" was geen telefoon maar een telexapparaat; pas in 1986 werd het een echte fax en in 2008 een e-mailsysteem.',
       'De lijn is in meer dan een dozijn crises gebruikt, waaronder de Zesdaagse Oorlog in 1967 en de Jom Kippoer-oorlog in 1973.',
+      'Het eerste testbericht over de hotline was: "The quick brown fox jumped over the lazy dog\'s back 1234567890" om alle tekens te testen.',
+      'De kabel liep oorspronkelijk via Londen, Kopenhagen, Stockholm en Helsinki naar Moskou, een route van duizenden kilometers.',
+      'Tijdens de Zesdaagse Oorlog in 1967 was het de eerste keer dat de hotline daadwerkelijk in een crisissituatie werd ingezet door president Johnson.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -18876,6 +18942,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Bodhi-boom in Bodh Gaya is een nakomeling van de originele boom; hij is een van de meest bezochte heilige plaatsen ter wereld.',
       'Boeddha gaf zijn eerste toespraak in het Hert-park bij Varanasi; dit evenement staat bekend als "het in beweging zetten van het wiel van de Dharma".',
+      'Siddhartha Gautama leefde als luxueuze prins tot zijn 29e, toen hij voor het eerst ouderdom, ziekte en dood zag en het paleis verliet.',
+      'Het boeddhisme kent geen scheppergod; de Boeddha wordt niet als god vereerd maar als leraar die de weg naar bevrijding uit lijden toonde.',
+      'De Boeddha vastte volgens de overlevering zes jaar lang voordat hij concludeerde dat extreme ascese niet tot verlichting leidt en koos voor de "middenweg".',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -18893,6 +18962,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Historisch bewijs voor de Exodus is zeer schaars; de meeste historici beschouwen het verhaal als religieuze literatuur met mogelijk een kern van historische herinneringen.',
       'De Tien Geboden zijn de basis van de westerse juridische ethiek; uitdrukkingen als "moord", "diefstal" en "vals getuigen" zijn direct hieruit afgeleid.',
+      'Het Pesach-feest herdenkt de uittocht al meer dan 3.000 jaar en is daarmee een van de langst ononderbroken gevierde feesten ter wereld.',
+      'Volgens het Bijbelverhaal duurde de doortocht door de woestijn veertig jaar, hoewel de afstand hemelsbreed slechts enkele honderden kilometers bedraagt.',
+      'De Dode Zee-rollen, gevonden in 1947, bevatten de oudste bekende kopie van het Exodus-verhaal en dateren uit de tweede eeuw voor Christus.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -18910,6 +18982,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De vroege christenen gebruikten het visteken (Ichthys) als geheim herkenningssymbool omdat het gevaarlijk was om openlijk christen te zijn.',
       'Paulus\' bekering op weg naar Damascus (hij wilde christenen vervolgen) is een van de meest dramatische bekeeringsgeschiedenissen in de religie.',
+      'Het vroege christendom trok vooral vrouwen en slaven aan doordat het gelijkheid voor God predikte, wat revolutionair was in de Romeinse samenleving.',
+      'De catacomben van Rome bevatten meer dan 150 kilometer aan ondergrondse gangen waar vroege christenen hun doden begroeven en in het geheim bijeenkwamen.',
+      'Het oudste bekende kerkgebouw ter wereld bevindt zich in Dura-Europos in Syrië en dateert uit circa 235 na Christus.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -18927,6 +19002,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Constantijn zou voor de Slag bij de Milvische Brug in 312 een kruis aan de hemel hebben gezien met de tekst: "In dit teken zult gij overwinnen."',
       'De kerkelijke macht die het christendom verwierf na de legalisering leidde uiteindelijk tot de Heilige Roomse Kerk en een millennium van kerkelijke dominantie in Europa.',
+      'Constantijn liet zich pas op zijn sterfbed dopen, wat in die tijd gebruikelijk was om zo veel mogelijk zonden voor de doop te kunnen begaan.',
+      'Het Edict gaf ook teruggave van eerder geconfisqueerde christelijke eigendommen, wat de kerk in een klap tot een van de grootste landeigenaren maakte.',
+      'Constantijn verplaatste de hoofdstad naar Byzantium (later Constantinopel), waarmee hij de basis legde voor het Oost-Romeinse Rijk.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -18944,6 +19022,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mohammed kon niet lezen of schrijven; de openbaringen werden door zijn volgelingen uit het hoofd geleerd en pas na zijn dood opgetekend.',
       'In de 23 jaar van zijn profeetschap groeide de islamitische gemeenschap van een klein groepje tot meer dan 100.000 volgelingen.',
+      'Mohammed werkte als koopman voordat hij op 40-jarige leeftijd zijn eerste openbaring ontving in een grot op de berg Hira nabij Mekka.',
+      'De Koran werd pas circa 20 jaar na Mohammeds dood in een definitieve schriftelijke vorm gebracht onder kalief Oethman ibn Affan.',
+      'Mohammed sloot het Verdrag van Hoedaibiya met de Mekkanen, een diplomatieke meesterzet die uiteindelijk tot de vreedzame verovering van Mekka leidde.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'approximate',
@@ -18961,6 +19042,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het jaar 622 is het jaar 1 in de islamitische kalender; de moslimkalender is een maankalender en loopt circa 11 dagen per jaar achter op de gregoriaanse.',
       'De Constitutie van Medina, opgesteld door Mohammed, is een van de vroegste bekende documenten over religieuze tolerantie en burgerrechten.',
+      'Mohammed en Abu Bakr verborgen zich drie dagen in de grot van Thawr tijdens hun vlucht; volgens de overlevering weefde een spin een web voor de ingang.',
+      'De naam Medina betekent letterlijk "de stad" (al-Madinah); voor de komst van Mohammed heette de stad Yathrib.',
+      'De Hegira was niet alleen een religieuze vlucht maar ook een politieke uitnodiging: de stammen van Medina hadden Mohammed gevraagd als bemiddelaar te komen.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -18978,6 +19062,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De reden voor het schisma was deels theologisch (het Filioque-geschil over de Heilige Geest) en deels politiek-machtsgerelateerd.',
       'De excommunicaties werden pas in 1965 ingetrokken door paus Paulus VI en patriarch Athenagoras – bijna negen eeuwen later.',
+      'Het Filioque-geschil draaide om een enkel woord: of de Heilige Geest uitgaat van de Vader "en de Zoon" (Filioque) of alleen van de Vader.',
+      'De pauselijke legaat Humbert legde de excommunicatiebulle op het altaar van de Hagia Sophia in Constantinopel, een daad van ongekende brutaliteit.',
+      'Ondanks het officiële schisma bleven gewone gelovigen in Oost en West nog eeuwenlang grotendeels onwetend van de kerkelijke breuk.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -18995,6 +19082,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Max Weber betoogde in zijn klassieke werk dat de calvinistische nadruk op hard werken als teken van Gods genade bijdroeg aan de opkomst van het kapitalisme.',
       'Calvijn liet in Genève theater, dans en luxe verbieden; de stad werd een streng religieus centrum dat vluchtelingen uit heel Europa aantrok.',
+      'Calvijn was oorspronkelijk een Franse jurist die pas na zijn bekering tot het protestantisme naar Genève vluchtte om vervolging te ontlopen.',
+      'Het calvinisme had een enorme invloed op de Nederlandse Opstand; de geuzen gebruikten het als ideologische basis voor hun verzet tegen Spanje.',
+      'De predestinaleer van Calvijn stelde dat God voor de schepping al had bepaald wie gered zou worden, wat tot felle theologische debatten leidde.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -19012,6 +19102,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Jezuïeten ontwikkelden de dialectische methode en het debatonderwijs, wat de basis legde voor de moderne westerse universitaire traditie.',
       'Paus Franciscus is de eerste Jezuïetische paus in de geschiedenis van de Katholieke Kerk.',
+      'Ignatius van Loyola was een Baskische soldaat die zich bekeerde tijdens zijn herstel van een been gebroken door een kanonskogel.',
+      'De Jezuïeten werden in 1773 door paus Clemens XIV opgeheven onder druk van Europese vorsten, maar in 1814 weer hersteld.',
+      'Matteo Ricci, een Jezuïet, bereikte het Chinese keizerlijk hof en maakte de eerste Chinese wereldkaart, wat enorme indruk maakte.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -19029,6 +19122,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Concilie vergaderde in drie periodes over 18 jaar; de besluiten bepaalden de katholieke kerk tot aan het Tweede Vaticaans Concilie in de jaren 1960.',
       'De barokkunst was deels een instrument van de Contrareformatie: met dramatische beelden en emotionele impact moest de kerkelijke macht en glorie worden benadrukt.',
+      'Het Concilie stelde de Index Librorum Prohibitorum in, een lijst van verboden boeken die pas in 1966 officieel werd afgeschaft.',
+      'Trente werd als locatie gekozen omdat het technisch op Italiaans grondgebied lag maar dicht genoeg bij het Heilige Roomse Rijk om Duitse bisschoppen te lokken.',
+      'Het Concilie bevestigde het bestaan van het vagevuur als officiële leer, een concept dat de protestanten hadden verworpen.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -19046,6 +19142,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Gouden Tempel in Amritsar heeft vier deuren, één aan elke zijde, als symbool dat iedereen welkom is – ongeacht kaste, religie of achtergrond.',
       'Sikhs dragen de vijf K\'s als religieuze symbolen, waaronder het zwaard (kirpan), wat in veel landen speciale wettelijke uitzonderingen vereist.',
+      'De Gouden Tempel serveert dagelijks gratis maaltijden aan meer dan 100.000 bezoekers, ongeacht hun religie of achtergrond.',
+      'Guru Nanak reisde volgens de overlevering duizenden kilometers te voet door India, Tibet, Mekka en Bagdad om zijn boodschap van eenheid te verspreiden.',
+      'Het sikhisme is de vijfde grootste religie ter wereld, maar de meeste aanhangers wonen nog steeds in de Indiase deelstaat Punjab.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -19063,6 +19162,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het concilie werd abrupt beëindigd toen de troepen van Victor Emmanuel II Rome innamen en de pauselijke staat ophieven.',
       'Sommige bisschoppen verlieten het concilie om niet te hoeven stemmen voor de onfeilbaarheid; uiteindelijk stemde 533 voor en 2 tegen.',
+      'De paus trok zich na het verlies van Rome terug in het Vaticaan en beschouwde zichzelf als "gevangene van het Vaticaan" tot het Lateraans Verdrag van 1929.',
+      'De onfeilbaarheid is sindsdien slechts eenmaal officieel ingeroepen: in 1950 bij de verklaring van de Tenhemelopneming van Maria.',
+      'Het concilie was het eerste in meer dan 300 jaar; het vorige concilie was dat van Trente, afgesloten in 1563.',
     ],
     popularityScore: 66,
     uncertaintyLevel: 'exact',
