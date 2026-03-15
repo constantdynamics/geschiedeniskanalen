@@ -19544,6 +19544,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Een Nederlander die in 1980 als bouwvakker in Duitsland wilde werken had tientallen vergunningen nodig; na 1993 was er vrijwel niets meer voor nodig.',
       'De EU heeft een gecombineerd bbp dat groter is dan dat van de VS of China, waarmee ze de grootste economische zone ter wereld is.',
+      'Door de interne markt daalden de prijzen van telefoontjes tussen EU-landen met meer dan 90% in twee decennia.',
+      'De Schengen-zone, die nauw verbonden is met de interne markt, maakt het mogelijk zonder paspoortcontrole door 27 landen te reizen.',
+      'Het vrij verkeer van personen leidde ertoe dat meer dan 17 miljoen EU-burgers in een ander EU-land wonen en werken.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -19561,6 +19564,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Maastricht was gekozen als ondertekeningsplaats na politieke onderhandelingen; de stad heeft een bijzondere band met de Europese integratie.',
       'Denemarken stemde in een referendum eerst tégen het verdrag; na aanpassingen stemde het er later toch voor. Groot-Brittannië bedong een opt-out voor de euro.',
+      'Het verdrag werd ondertekend in het Gouvernementsgebouw aan de Maas in Maastricht, dat sindsdien een symbool is van Europese eenwording.',
+      'De convergentiecriteria van Maastricht eisen dat landen niet meer dan 3% begrotingstekort en 60% staatsschuld mogen hebben – regels die later door bijna elk land werden overtreden.',
+      'Het concept van Europees burgerschap was revolutionair: voor het eerst konden mensen rechten ontlenen aan een supranationale organisatie.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -19578,6 +19584,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Griekenland stond dicht bij een "Grexit" (vertrek uit de eurozone) in 2015 toen premier Tsipras een referendum uitschreef tegen de bezuinigingsmaatregelen.',
       'De werkeloosheid in Griekenland steeg tot meer dan 27% en onder jongeren tot meer dan 60%, vergelijkbaar met de VS tijdens de Grote Depressie.',
+      'De ECB-president Mario Draghi redde de euro in 2012 met drie woorden: "Whatever it takes" – een belofte om onbeperkt staatsobligaties op te kopen.',
+      'Griekenland moest zijn overheidsapparaat halveren en pensioenen met 40% korten als voorwaarde voor de Europese noodleningen.',
+      'Ierland herstelde het snelst van alle crisislanden en werd de "Keltische Feniks" genoemd na zijn spectaculaire economische comeback.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -19595,6 +19604,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'China trad pas in 2001 toe tot de WTO, waarna de Chinese export naar het Westen dramatisch groeide en miljoenen banen naar China verschoven.',
       'De WTO kan handelsgeschillen beslechten via een rechtssysteem; de VS heeft het hoger beroepslichaam meermaals geblokkeerd door geen rechters te benoemen.',
+      'De anti-globaliseringsbeweging brak in 1999 door tijdens de WTO-top in Seattle, waar 40.000 demonstranten de straten blokkeerden.',
+      'De wereldhandel groeide van 4 biljoen dollar in 1995 naar meer dan 25 biljoen dollar in 2022, deels dankzij de WTO-regels.',
+      'India en Brazilië hebben samen met andere ontwikkelingslanden herhaaldelijk geprotesteerd dat de WTO-regels de rijke landen bevoordelen.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -19612,6 +19624,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De meeste goudkoortsmijners werden niet rijk; de mensen die het meest verdienden waren de handelaren die hen van proviand en gereedschap voorzagen – zoals Levi Strauss die zijn fortuin maakte met spijkerbroeken.',
       'De inheemse bevolking van Californië, oorspronkelijk circa 150.000 mensen, kromp door de goudkoorts tot 30.000 door geweld, ziekte en onteigening.',
+      'San Francisco groeide van een klein dorpje tot een stad van 25.000 inwoners in slechts twee jaar door de goudkoorts.',
+      'Het sportteam San Francisco 49ers is vernoemd naar de goudkoortsgolven van 1849.',
+      'De ontdekker van het goud, James Marshall, stierf in armoede; zijn ontdekking maakte anderen rijk maar hemzelf niet.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -19629,6 +19644,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Op haar hoogtepunt had de EIC een eigen leger van 200.000 soldaten – groter dan het Britse leger zelf.',
       'De EIC introduceerde thee in China als handelsmiddel, waarmee ze de drugspolitiek met opium combineerde in de latere Opiumoorlogen.',
+      'De EIC controleerde op haar hoogtepunt meer dan de helft van de wereldhandel en bestuurde een gebied met 60 miljoen inwoners.',
+      'De Boston Tea Party in 1773 was een protest tegen het theemonopolie van de EIC en leidde uiteindelijk tot de Amerikaanse Revolutie.',
+      'De EIC was zo machtig dat het Britse parlement speciale wetten moest aannemen om het bedrijf onder controle te krijgen.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -19646,6 +19664,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Japan stuurde de Iwakura-missie (1871-1873) – een delegatie van 50 topambtenaren – op een wereldreis om de beste westerse praktijken te bestuderen en te kopiëren.',
       'De Japanse staatsschuld die de Meiji-industrialisering financierde werd grotendeels gefinancierd door Britse en Nederlandse obligatiehouders.',
+      'Japan versloeg het Russische Rijk in 1905 – de eerste keer dat een Aziatische natie een Europese grootmacht versloeg, wat schokgolven door de wereld zond.',
+      'De samoerai-klasse werd afgeschaft tijdens de Meiji-periode; sommige samoerai kwamen in opstand, maar werden neergeslagen met modern wapentuig.',
+      'Japan kopieerdde het Pruisische onderwijssysteem en bereikte binnen een generatie een alfabetiseringsgraad van 95%.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -19663,6 +19684,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De naam "Silicon Valley" verwijst naar silicium, het hoofdbestanddeel van chips; de term werd in 1971 voor het eerst gebruikt door journalist Don Hoefler.',
       'Stanford University speelde een sleutelrol door studenten aan te moedigen bedrijven te starten; HP, Google en Yahoo zijn allemaal geboren uit Stanford-projecten.',
+      'De eerste garage-startup was Hewlett-Packard in 1939; de garage in Palo Alto is nu een historisch monument.',
+      'Risicokapitaalfirma\'s investeerden in de jaren 1990 miljarden in dot-com bedrijven waarvan 90% failliet ging toen de bubbel barstte in 2000.',
+      'Apple begon in 1976 in de garage van Steve Jobs met een startkapitaal van 1.300 dollar; het groeide uit tot het eerste bedrijf met een waarde van 3 biljoen dollar.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -19680,6 +19704,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bach was zo productief dat hij elke week een nieuwe cantate componeerde voor de kerk; na zijn dood werden zijn werken vergeten en pas in 1829 herontdekt door Mendelssohn.',
       'Handel\'s Messiah werd in 1741 in 24 dagen gecomponeerd; de "Hallelujah"-chorus deed koning George II spontaan opstaan, waarna het publiek volgde.',
+      'Vivaldi was een rooms-katholieke priester die werd bijgenaamd "il prete rosso" (de rode priester) vanwege zijn rode haar.',
+      'Bach had 20 kinderen, van wie er vier zelf beroemde componisten werden: Carl Philipp Emanuel, Johann Christian, Wilhelm Friedemann en Johann Christoph Friedrich.',
+      'De barokmuziek maakte gebruik van het basso continuo – een doorlopende baslijn die het harmonische fundament vormde voor alle andere instrumenten.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -19697,6 +19724,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Monet schilderde zijn beroemde waterlelieserie op het einde van zijn leven bijna blind; zijn cataract zorgde voor een warmere, roodachtige tint in zijn late werken.',
       'De impressionisten werden aanvankelijk door de gevestigde kunstwereld afgewezen; het Salon des Refusés (van afgekeurden) was een reactie op de weigering van hun werk.',
+      'Renoir schilderde met reumatoïde artritis in zijn laatste jaren; zijn penselen werden aan zijn handen gebonden zodat hij kon blijven werken.',
+      'De uitvinding van de verftube in 1841 maakte het impressionisme mogelijk: kunstenaars konden nu buiten schilderen zonder hun verf zelf te mengen.',
+      'Monets tuin in Giverny, met de beroemde waterlelievijver, was zijn eigen creatie en werd zijn belangrijkste onderwerp gedurende 30 jaar.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -19714,6 +19744,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Picasso was zo productief dat hij naar schatting 20.000 werken maakte; hij is de kunstenaar met het meest verkochte en geveilde werk ter wereld.',
       'Guernica hing tijdens de Tweede Wereldoorlog in het MoMA in New York; Picasso weigerde het terug te geven zolang Spanje geen democratie was.',
+      'Picasso schilderde Guernica in slechts vijf weken als reactie op het bombardement van het Baskische stadje door Nazi-Duitsland.',
+      'Het kubisme brak met 500 jaar perspectief-traditie door objecten tegelijkertijd vanuit meerdere hoeken te tonen op een plat vlak.',
+      'Picasso\'s "Les Demoiselles d\'Avignon" (1907) wordt beschouwd als het schilderij dat de moderne kunst inluidde.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -19731,6 +19764,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eerste geluidsfilm The Jazz Singer (1927) had slechts enkele gesproken scènes; de rest was stil met muziek. De boodschap was echter duidelijk.',
       'Tijdens de Grote Depressie bleven bioscoopbezoeken op peil omdat film een betaalbare ontsnapping bood aan de harde werkelijkheid.',
+      'Het studiosysteem controleerde alles: acteurs waren contractueel gebonden aan één studio en konden niet freelancen.',
+      'Gone with the Wind (1939) was de duurste film ooit op dat moment en won acht Oscars; gecorrigeerd voor inflatie is het nog steeds de best verdienende film aller tijden.',
+      'Hattie McDaniel was de eerste Afro-Amerikaan die een Oscar won (1940), maar mocht vanwege segregatie niet bij de première van haar eigen film aanwezig zijn.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -19748,6 +19784,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Beatles werden initieel afgewezen door Decca Records, die oordeelde dat gitaarmuziek op zijn retour was; later noemde de Decca-directeur dit de grootste vergissing in de muziekgeschiedenis.',
       'Sgt. Pepper\'s Lonely Hearts Club Band (1967) wordt beschouwd als het eerste concept-album en het moment dat popmuziek als serieuze kunstvorm werd erkend.',
+      'John Lennon zei ooit dat de Beatles populairder waren dan Jezus; dit veroorzaakte een enorme controverse en het verbranden van Beatles-platen in het zuiden van de VS.',
+      'De Beatles verkochten meer dan 600 miljoen platen wereldwijd en zijn daarmee de bestverkopende muziekact aller tijden.',
+      'George Harrison introduceerde de sitar in westerse popmuziek na zijn studie bij Ravi Shankar, waarmee hij Indiase muziek wereldwijd populair maakte.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -19765,6 +19804,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het festival was officieel uitverkocht maar hekken werden neergegooid; uiteindelijk kwamen er vijf keer meer mensen dan verwacht.',
       'Jimi Hendrix sloot het festival af op maandagmorgen voor een uitgedund publiek van 30.000 mensen; zijn versie van the Star-Spangled Banner is een van de beroemdste gitaaroptredens ooit.',
+      'Het festival vond plaats op het land van boer Max Yasgur, die 10.000 dollar ontving voor het gebruik; zijn buren waren woedend.',
+      'Er vielen slechts twee doden op Woodstock (een overdosis en een slapende bezoeker die door een tractor werd overreden), terwijl er twee baby\'s werden geboren.',
+      'De organisatoren gingen bijna failliet; pas decennia later werd Woodstock winstgevend dankzij filmrechten en merchandising.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -19782,6 +19824,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het marmer van de Taj Mahal verandert van kleur afhankelijk van het licht: wit bij dageraad, goud bij schemering en zilver in het maanlicht.',
       'Shah Jahan werd later door zijn eigen zoon Aurangzeb gevangengezet in het naburige Agra Fort, vanwaar hij de Taj Mahal kon zien tot zijn dood.',
+      'Er werden 1.000 olifanten ingezet om het marmer uit meer dan 300 kilometer afstand naar de bouwplaats te vervoeren.',
+      'De vier minaretten rond de Taj Mahal staan licht naar buiten gekanteld zodat ze bij een aardbeving van het hoofdgebouw af zouden vallen.',
+      'Het is een veelvoorkomend gerucht dat Shah Jahan de handen van de architecten liet afhakken, maar hier is geen historisch bewijs voor.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -19799,6 +19844,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Versailles had oorspronkelijk geen toiletten; edellieden gebruikten potten of gangen als toilet, waardoor het paleis berucht stonk.',
       'Lodewijk XIV gebruikte de tuin van Versailles als politiek instrument: hij nodigde adellijke families uit om er te verblijven, waardoor hij hen kon controleren.',
+      'De Spiegelzaal van Versailles bevat 357 spiegels en was bedoeld om het kaarslicht te vermenigvuldigen; het was het duurste vertrek ooit gebouwd.',
+      'Het Verdrag van Versailles dat de Eerste Wereldoorlog beëindigde werd bewust in de Spiegelzaal getekend als vernedering voor Duitsland.',
+      'Versailles had een eigen dierentuin, een opera en een waternetwerk met fonteinen dat zo veel water verbruikte dat het rivieren uit de omgeving drooglegde.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'approximate',
@@ -19816,6 +19864,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Parthenon heeft geen enkele rechte lijn; alle lijnen zijn licht gebogen zodat het gebouw er optisch perfect uitziet – een geniaal staaltje van optische illusiebeheersing.',
       'De Elgin Marbles – marmeren friezen van de Parthenon – bevinden zich nu in het British Museum; Griekenland vraagt ze al decennia terug.',
+      'De Griekse beelden waren oorspronkelijk felgekleurd beschilderd; het witte marmer dat wij associëren met klassieke kunst is het resultaat van verwering.',
+      'Het theater van Epidaurus heeft zo\'n perfecte akoestiek dat een gefluisterd woord op het podium hoorbaar is op de bovenste rij, 55 meter verderop.',
+      'De Griekse architect Ictinus ontwierp de Parthenon met subtiele kromming in alle horizontale lijnen om optische illusies te corrigeren.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -19833,6 +19884,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nachtwacht was eeuwenlang donker door een laag vuil en vernis; na restauratie bleek het een daglichtscène te zijn, niet een nachtscène.',
       'Rembrandt schilderde zichzelf in meer dan 80 zelfportretten, waarmee hij zijn hele leven vastlegde – een unieke autobiografische kroniek in verf.',
+      'Vermeer schilderde slechts 34 tot 36 schilderijen in zijn hele carrière, maar elk ervan is een meesterwerk; het Meisje met de Parel is zijn beroemdste.',
+      'Rembrandt ging in 1656 failliet ondanks zijn enorme succes; zijn verzameling rariteiten en kunstwerken werd publiek geveild.',
+      'De Hollandse meesters schilderden vaak alledaagse scènes (genrestukken) in plaats van religieuze of mythologische onderwerpen – uniek in Europa.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
