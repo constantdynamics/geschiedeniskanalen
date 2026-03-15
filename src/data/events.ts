@@ -23362,6 +23362,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De term "concentratiekamp" werd voor het eerst gebruikt door de Britten in de Boerenoorlog; het systeem werd later overgenomen door andere regimes met gruwelijkere doeleinden.',
       'De Boerenoorlogen legden de kiem voor het Afrikaner nationalisme dat in 1948 uitmondde in het apartheidsstelsel.',
+      'De Britten gebruikten concentratiekampen waarin meer dan 26.000 Boeren-vrouwen en -kinderen stierven aan ziekte en ondervoeding.',
+      'De Boeren waren uitstekende scherpschutters die guerrillatactieken gebruikten tegen het veel grotere Britse leger.',
+      'De ontdekking van goud en diamanten in Zuid-Afrika was de werkelijke drijfveer achter de Britse agressie tegen de Boerenrepublieken.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -23379,6 +23382,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Britten importeerden opium uit India naar China om hun handelsbalans recht te trekken; de Chinese overheid reageerde met verbod op de opiumhandel, waarop de Britten oorlog voerden.',
       'Hongkong werd in 1997 teruggegeven aan China; de 150 jaar Britse heerschappij over Hongkong is direct gevolg van de Eerste Opiumoorlog.',
+      'Groot-Brittannië verkocht opium aan China om het handelsdeficit te compenseren; miljoenen Chinezen raakten verslaafd.',
+      'Het Verdrag van Nanking (1842) dwong China om Hongkong af te staan en vijf havens te openen voor Britse handel.',
+      'De Opiumoorlogen worden in China beschouwd als het begin van de \'eeuw van vernedering\' door westerse mogendheden.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -23396,6 +23402,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De oorlog duurde slechts 10 weken maar kostte Spanje zijn laatste koloniën; voor de VS was het de eerste stap naar mondiale hegemonie.',
       'Journalist William Randolph Hearst stuurde naar Cuba om de oorlog te rapporteren; toen er niets te melden was, zou hij gezegd hebben: "Lever jij de foto\'s, ik lever de oorlog."',
+      'De oorlog van 1898 duurde slechts 10 weken maar maakte de VS tot een wereldmacht met kolonies in de Filipijnen, Puerto Rico en Guam.',
+      'De explosie van het oorlogsschip USS Maine in de haven van Havana was de aanleiding; \'Remember the Maine!\' werd de oorlogskreet.',
+      'Theodore Roosevelt werd beroemd door zijn charge met de Rough Riders op San Juan Hill in Cuba.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -23413,6 +23422,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Shaka Zulu trainde zijn soldaten barvoets te marcheren over rotsen om uithoudingsvermogen en pijngrens te overschrijden; zijn iButho-regimentensysteem is vergeleken met moderne militaire training.',
       'Bij Isandlwana verloor Groot-Brittannië 1.300 man op één dag; het was de schok die leidde tot de grootste Britse koloniale straf-expeditie in de Afrikaanse geschiedenis.',
+      'Shaka Zulu transformeerde de Zulu-stam tot een militaire grootmacht door revolutionaire tactische innovaties zoals de koehoornformatie.',
+      'De Slag bij Isandlwana (1879) was de verpletterende nederlaag van het Britse leger tegen de Zulu\'s – een van de grootste militaire vernederingen in Britse koloniale geschiedenis.',
+      'Shaka werd vermoord door zijn eigen halfbroers, maar zijn militaire erfenis vormde de basis van de Zulu-natie.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -23430,6 +23442,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De "cultuurstelsel" (1830–1870) verplichte Indonesiërs 20% van hun land of arbeid af te staan voor exportgewassen; het systeem vulde de Nederlandse staatskas maar veroorzaakte hongersnoden.',
       'Nederland erkende de Indonesische onafhankelijkheid pas in 2005 officieel voor 17 augustus 1945 (de uitroepingsdatum); pas in 2022 boden de Nederlanders excuses aan voor het koloniale geweld.',
+      'De Nederlanders bestuurden Indonesië meer dan 300 jaar; het cultuurstelsel dwong boeren de helft van hun oogst af te staan.',
+      'Multatuli\'s roman Max Havelaar (1860) onthulde de wreedheden van het Nederlandse koloniale bestuur en veroorzaakte een publiek schandaal.',
+      'De Japanse bezetting (1942-1945) beëindigde het Nederlandse gezag definitief en inspireerde het Indonesische onafhankelijkheidsstreven.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -23447,6 +23462,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De tulpenmanie van 1636–1637 was de eerste speculatieve zeepbel in de moderne economische geschiedenis; een tulpenbol kon meer kosten dan een huis.',
       'De Amsterdam-beurs (1602) was de eerste ter wereld met verhandelbare aandelen; de moderne financiële wereld begon hier.',
+      'De Nederlandse Republiek was in de 17e eeuw het rijkste land ter wereld per hoofd van de bevolking dankzij handel, wetenschap en kunst.',
+      'Amsterdam was het financiële centrum van de wereld met de eerste effectenbeurs, de eerste centrale bank en de eerste moderne hypotheekmarkt.',
+      'De tulpenmanie van 1637, toen een tulpenbol meer kostte dan een grachtenpand, wordt beschouwd als de eerste speculatieve zeepbel in de geschiedenis.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -23464,6 +23482,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Aboriginal Australiërs werden in Australische wetgeving als "flora en fauna" geclassificeerd tot 1967, toen een referendum besloot hen als burgers te erkennen.',
       'Australië is een van de weinige landen ter wereld dat een premier via een motie van wantrouwen midden in de nacht kan ontslaan; dit is inderdaad gebeurd in 1975.',
+      'Australië werd in 1788 gesticht als Britse strafkolonie; de eerste vloot bracht 759 gevangenen naar Botany Bay.',
+      'De Aboriginals leefden meer dan 65.000 jaar in Australië – de langste ononderbroken cultuur ter wereld.',
+      'Het \'White Australia\'-beleid beperkte niet-Europese immigratie tot 1973 en wordt beschouwd als een van de meest racistische immigratiepolitieken in de moderne geschiedenis.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
@@ -23481,6 +23502,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De proclamatie van het Duitse Keizerrijk vond bewust plaats in de Spiegelzaal van Versailles als symbolische vernedering van Frankrijk; Duitsland tekende ook de wapenstilstand van 1918 in een treinwagon, een Française wraak.',
       'Keizer Napoleon III werd bij Sedan gevangen genomen door de Pruisen – de eerste keer in de moderne geschiedenis dat een regerend staatshoofd in gevangenschap viel.',
+      'De Pruisische overwinning in 1871 leidde direct tot de eenwording van Duitsland en de proclamatie van het Duitse Keizerrijk in de Spiegelzaal van Versailles.',
+      'Frankrijk verloor Elzas-Lotharingen aan Duitsland, een verlies dat een diep ressentiment creëerde dat bijdroeg aan de Eerste Wereldoorlog.',
+      'De belegering van Parijs duurde vier maanden; Parijzenaars aten ratten, katten en zelfs dieren uit de dierentuin om te overleven.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -23498,6 +23522,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ierland exporteerde voedsel tijdens de hongersnood naar Engeland, ondanks het sterven van miljoenen; het was een politiek en economisch dilemma dat de Britse regering niet wilde doorhakken.',
       'De Ierse emigranten naar Amerika vestigden grote Ierse gemeenschappen; John F. Kennedy was een kleinzoon van een Ierse hongersnootvluchteling.',
+      'De Grote Hongersnood (1845-1852) doodde meer dan een miljoen Ieren en dwong nog eens een miljoen te emigreren.',
+      'De oorzaak was de aardappelziekte, maar de catastrofe werd verergerd door het Britse beleid dat voedselexport uit Ierland bleef toestaan.',
+      'De Ierse bevolking herstelde zich nooit volledig: in 1845 waren er 8 miljoen Ieren; vandaag zijn het er slechts 5 miljoen.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -23515,6 +23542,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De meeste goudkoortsmijners werden niet rijk; de meest verdiende handelaars zoals Levi Strauss, die zijn fortuin maakte met spijkerbroeken voor de mijnwerkers.',
       'De inheemse bevolking van Californië kromp door de goudkoorts van 150.000 naar 30.000 door geweld, ziekte en onteigening.',
+      'Meer dan 300.000 goudzoekers stroomden naar Californië; ze kwamen uit China, Latijns-Amerika, Europa en de oostkust van de VS.',
+      'De goudkoorts leidde tot de snelste bevolkingsgroei in de Amerikaanse geschiedenis; San Francisco groeide van 200 naar 36.000 inwoners in twee jaar.',
+      'De milieuschade was enorm: rivieren werden omgeleid, bossen gekapt en chemicaliën zoals kwik vergiftigden het water.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -23532,6 +23562,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De slag bij de Bloedrivier (16 december 1838), waarbij 470 Boeren 10.000–15.000 Zoeloe-krijgers versloegen, is de meest mitologische datum in de Afrikaner geschiedenis.',
       '16 december is nog steeds een nationale feestdag in Zuid-Afrika, nu "Dag van de Verzoening" geheten.',
+      'De Grote Trek (1835-1846) was de migratie van duizenden Boeren (Afrikaners) uit de Kaapkolonie naar het binnenland van Zuid-Afrika.',
+      'De Boeren zagen zichzelf als een uitverkoren volk vergelijkbaar met de Israëlieten; de Trek werd hun stichtingsmythe.',
+      'De Slag bij Bloedrivier (1838) tegen de Zulu\'s werd een cruciale overwinning die de Boeren als goddelijke bevestiging van hun missie beschouwden.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -23549,6 +23582,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nanking Slachting (1937) doodde naar schatting 200.000–300.000 Chinese burgers en krijgsgevangenen in zes weken; het is een van de grootste oorlogsmisdaden van de Tweede Wereldoorlog.',
       'Japanse schoolboeken vermelden de Nanking Slachting soms als "incident" of laten ze weg; het is nog steeds een politiek gevoelig onderwerp in Japans-Chinese betrekkingen.',
+      'Japan veroverde Taiwan (1895), Korea (1910) en Mantsjoerije (1931) en werd de eerste niet-westerse koloniale macht.',
+      'De overwinning op Rusland in 1905 was een keerpunt: het bewees dat een Aziatisch land een Europese grootmacht kon verslaan.',
+      'Het Japanse imperialisme werd gerechtvaardigd als het bevrijden van Azië van westers kolonialisme, maar was in praktijk even uitbuitend.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -23568,6 +23604,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De revolutie heette "glorieus" omdat ze vrijwel zonder bloedvergieten plaatsvond.',
       'De Bill of Rights van 1689 inspireerde later de Amerikaanse Bill of Rights.',
+      'Willem III van Oranje landde in 1688 in Engeland en verjoeg zijn schoonvader Jacobus II zonder slag te leveren.',
+      'De Bill of Rights van 1689 legde de macht van het parlement vast en beperkte de koninklijke macht – een fundament van de moderne democratie.',
+      'De Glorieuze Revolutie was een directe inspiratie voor de Amerikaanse en Franse Revoluties een eeuw later.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'exact',
@@ -23585,6 +23624,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Haïti werd in 1804 de eerste zwarte republiek ter wereld en de eerste vrije natie in de Caraïben.',
       'Napoleon verloor meer troepen in Haïti dan in veel andere campagnes, wat hem motiveerde om Louisiana te verkopen.',
+      'Haiti was het eerste land dat door een succesvolle slavenopstand onafhankelijk werd (1804) en de tweede onafhankelijke natie in Amerika na de VS.',
+      'Toussaint Louverture leidde de opstand maar werd door Napoleon gevangen genomen en stierf in een Franse gevangenis.',
+      'Frankrijk dwong Haiti in 1825 om 150 miljoen franc schadevergoeding te betalen voor het \'verlies van eigendom\' (de vrijgemaakte slaven); Haiti betaalde dit af tot 1947.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -23602,6 +23644,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De opstand inspireerde de Poolse nationale hymne, het Mazurka van Dąbrowski.',
       'Veel Poolse ballingen vluchtten naar Parijs en vormden daar een levendige exilgemeenschap.',
+      'De Novemberopstand van 1830 tegen het Russische Rijk werd neergeslagen; duizenden Polen vluchtten naar West-Europa.',
+      'Frederic Chopin, die tijdens de opstand in Parijs was, componeerde zijn Revolutionaire Etude als reactie op de Russische onderdrukking.',
+      'Na de mislukte opstand werd Polen nog harder onderdrukt; de Russische tsaar verbood het spreken van Pools in scholen.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'exact',
@@ -23619,6 +23664,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Lord Byron, de beroemde Engelse dichter, reisde naar Griekenland om mee te vechten en stierf er in 1824.',
       'De Slag bij Navarino (1827) was de laatste grote zeeslag in de geschiedenis waarbij uitsluitend zeilschepen werden ingezet.',
+      'De Griekse onafhankelijkheidsoorlog (1821-1829) werd gesteund door Europese romantici die het klassieke Griekenland wilden herstellen.',
+      'Lord Byron stierf in 1824 in Griekenland terwijl hij meevocht; zijn dood versterkte de Europese sympathie voor de Griekse zaak.',
+      'De grote mogendheden (Groot-Brittannië, Frankrijk, Rusland) intervenieerden uiteindelijk en vernietigden de Ottomaanse vloot bij Navarino (1827).',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'exact',
@@ -23636,6 +23684,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Giuseppe Garibaldi leidde zijn beroemde "Expeditie van de Duizend" met slechts 1.089 vrijwilligers die het Koninkrijk der Twee Siciliën veroverden.',
       'Na de eenwording sprak slechts 2,5% van de Italianen standaard Italiaans; de rest sprak dialecten.',
+      'Giuseppe Garibaldi veroverde het Koninkrijk der Beide Siciliën met slechts 1.000 roodhemden – een van de meest spectaculaire militaire prestaties van de 19e eeuw.',
+      'Italië werd pas in 1871 volledig verenigd toen Rome werd veroverd en de hoofdstad werd van het nieuwe koninkrijk.',
+      'Cavour, de Piemontese premier, was de politieke architect van de eenwording; hij stierf slechts drie maanden na de proclamatie van het Koninkrijk Italië.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -23653,6 +23704,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Bismarck beschreef zijn methode als "bloed en ijzer" – militaire kracht en industriële macht.',
       'De proclamatie in Versailles was een bewuste vernedering van Frankrijk na de Frans-Pruisische Oorlog.',
+      'Bismarck provoceerde bewust drie oorlogen (tegen Denemarken, Oostenrijk en Frankrijk) om de Duitse staten tot eenheid te dwingen.',
+      'Het Duitse Keizerrijk werd in 1871 uitgeroepen in de Spiegelzaal van Versailles – een bewuste vernedering van het verslagen Frankrijk.',
+      'De eenwording creëerde de machtigste industriële natie van Europa en verschoof het machtsevenwicht dat 100 jaar later tot twee wereldoorlogen leidde.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -23670,6 +23724,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tijdens de Semaine Sanglante (Bloedige Week) werden naar schatting 10.000–30.000 communards gedood.',
       'Karl Marx beschreef de Commune als het eerste voorbeeld van de "dictatuur van het proletariaat".',
+      'De Commune van Parijs (1871) was het eerste experiment met een arbeiderszelfbestuur en duurde slechts 72 dagen.',
+      'De bloedige onderdrukking door het Franse leger kostte naar schatting 20.000 doden – meer dan de gehele Franse Revolutie.',
+      'Karl Marx beschouwde de Commune als het eerste voorbeeld van een proletarische revolutie en analyseerde haar in \'De Burgeroorlog in Frankrijk\'.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -23687,6 +23744,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Potemkin-slagschip, symbool van de muiterij van 1905, is vereeuwigd in de film van Eisenstein.',
       'De revolutie leidde paradoxaal genoeg tot tijdelijke stabilisering, maar zette kiemen voor 1917.',
+      'Bloedige Zondag (22 januari 1905) begon toen soldaten vreedzame demonstranten voor het Winterpaleis in Sint-Petersburg neerschoten.',
+      'De revolutie dwong tsaar Nicolaas II tot het instellen van een parlement (Doema), maar hij behield de meeste macht.',
+      'De muiterij op het slagschip Potemkin werd wereldberoemd door Eisensteins film en symboliseerde het militaire verzet tegen het tsarisme.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -23704,6 +23764,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Slag bij Tsushima duurde slechts twee dagen maar vernietigde de Russische Baltische Vloot volledig.',
       'President Theodore Roosevelt bemiddelde de vrede en won daarvoor de Nobelprijs voor de Vrede in 1906.',
+      'Japan vernietigde de Russische vloot bij Tsushima (1905) in de meest eenzijdige zeeslag sinds Trafalgar.',
+      'De nederlaag schokte het Westen: voor het eerst in de moderne geschiedenis versloeg een Aziatische natie een Europese grootmacht.',
+      'De oorlog werd bemiddeld door president Theodore Roosevelt in Portsmouth, New Hampshire; hij won er de Nobelprijs voor de Vrede mee.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -23721,6 +23784,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Veel jonge Turken waren officieren die waren opgeleid aan westerse militaire academies.',
       'De revolutie inspireerde nationalistische bewegingen in andere delen van het Ottomaanse Rijk.',
+      'De Jonge Turken dwongen sultan Abdul Hamid II in 1908 om de grondwet te herstellen en een parlement in te stellen.',
+      'De revolutie beloofde vrijheid en gelijkheid voor alle volkeren van het Ottomaanse Rijk, maar leidde uiteindelijk tot Turks nationalisme.',
+      'De Jonge Turken-regering was verantwoordelijk voor de Armeense genocide tijdens de Eerste Wereldoorlog.',
     ],
     popularityScore: 60,
     uncertaintyLevel: 'exact',
@@ -23738,6 +23804,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Michael Collins ontwikkelde guerrillatactieken die later wereldwijd werden bestudeerd en gekopieerd.',
       'De Anglo-Ierse Verdrag veroorzaakte een Ierse Burgeroorlog tussen voor- en tegenstanders van het verdrag.',
+      'De Paasopstand van 1916 in Dublin was aanvankelijk impopulair, maar de executie van de leiders door de Britten keerde de publieke opinie.',
+      'Michael Collins leidde een guerrillaoorlog tegen de Britse kroon die zo effectief was dat het Britse leger moest onderhandelen.',
+      'Het Anglo-Iers Verdrag van 1921 creëerde de Ierse Vrijstaat maar leidde tot een burgeroorlog over de status van Noord-Ierland.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'exact',
@@ -23755,6 +23824,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Atatürk betekent "Vader van de Turken", een titel die hem in 1934 door het parlement werd toegekend.',
       'De bevolkingsuitwisseling tussen Griekenland en Turkije (1923) betrof 1,5 miljoen mensen.',
+      'Mustafa Kemal Atatürk leidde het Turkse verzet tegen de Griekse invasie en de geallieerde bezetting na de Eerste Wereldoorlog.',
+      'Atatürk moderniseerde Turkije radicaal: hij verving het Arabische schrift door het Latijnse alfabet en verbood de fez.',
+      'Het Verdrag van Lausanne (1923) erkende de Turkse onafhankelijkheid en verving het vernederende Verdrag van Sèvres.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -23772,6 +23844,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Mahatma Gandhi, de voornaamste leider van de onafhankelijkheidsbeweging, werd in 1948 vermoord – slechts maanden na de onafhankelijkheid.',
       'De deling veroorzaakte een van de grootste vluchtelingenstromen in de menselijke geschiedenis.',
+      'De deling van Brits-India in India en Pakistan (1947) veroorzaakte de grootste massamigratie in de geschiedenis: 15 miljoen mensen verhuisden.',
+      'Tijdens de deling werden naar schatting 1 tot 2 miljoen mensen gedood in sektarisch geweld tussen hindoes, moslims en sikhs.',
+      'Jawaharlal Nehru\'s \'Tryst with Destiny\'-toespraak op de onafhankelijkheidsdag wordt beschouwd als een van de grootste toespraken van de 20e eeuw.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -23789,6 +23864,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De oorlog bracht de Vierde Franse Republiek ten val en leidde tot de terugkeer van De Gaulle als president.',
       'Meer dan een miljoen "pied-noirs" (Europese kolonisten) moesten Algerije verlaten na de onafhankelijkheid.',
+      'De Algerijnse onafhankelijkheidsoorlog (1954-1962) kostte naar schatting 1,5 miljoen Algerijnse levens.',
+      'Het Franse leger gebruikte systematisch marteling tegen Algerijnse verzetsstrijders, wat een morele crisis veroorzaakte in Frankrijk.',
+      'De oorlog bracht de val van de Vierde Franse Republiek en de terugkeer van Charles de Gaulle aan de macht.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -23806,6 +23884,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Che Guevara, een Argentijnse arts, werd het internationale gezicht van de revolutie en een iconisch symbool.',
       'Fidel Castro bleef meer dan 49 jaar aan de macht, langer dan bijna elke andere leider in de moderne tijd.',
+      'Fidel Castro\'s revolutie verdreef de door de VS gesteunde dictator Batista in 1959; Cuba werd het eerste communistische land in Amerika.',
+      'De Varkensbaaiinvasie (1961) was een mislukte CIA-operatie om Castro omver te werpen; het werd een grote vernedering voor de VS.',
+      'Castro overleefde naar verluidt meer dan 600 moordaanslagen van de CIA, waaronder explosieven in sigaren en vergiftigde duikpakken.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'exact',
@@ -23823,6 +23904,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Nelson Mandela werd in 1993 de Nobelprijs voor de Vrede toegekend, samen met de laatste apartheidspresident F.W. de Klerk.',
       'De Truth and Reconciliation Commission was een uniek model voor het omgaan met historisch onrecht.',
+      'Apartheid classificeerde alle Zuid-Afrikanen in vier raciale categorieën en bepaalde waar ze mochten wonen, werken en trouwen.',
+      'Het bloedbad van Sharpeville (1960) waarbij politie 69 vreedzame demonstranten doodschoot, bracht de anti-apartheidbeweging onder internationale aandacht.',
+      'Na 27 jaar gevangenschap werd Nelson Mandela in 1990 vrijgelaten en werd hij in 1994 de eerste zwarte president van Zuid-Afrika.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'exact',
@@ -23840,6 +23924,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Grote Sprong Voorwaarts (1958–62) veroorzaakte de ergste hongersnood in de menselijke geschiedenis met 15–55 miljoen doden.',
       'Het Rode Boekje van Mao was het op één na meest gedrukte boek ter wereld, na de Bijbel.',
+      'De Lange Mars (1934-1935) was een 12.500 kilometer lange terugtocht waarbij 90% van de deelnemers stierf; het werd Mao\'s stichtingsmythe.',
+      'De Grote Sprong Voorwaarts (1958-1962) veroorzaakte de ergste hongersnood in de menselijke geschiedenis met 15 tot 55 miljoen doden.',
+      'Mao\'s Rode Boekje werd in meer dan 5 miljard exemplaren gedrukt en was na de Bijbel het meest verspreide boek ter wereld.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -23857,6 +23944,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De gijzeling van 52 Amerikaanse diplomaten gedurende 444 dagen schaadde de betrekkingen VS-Iran blijvend.',
       'De revolutie was een van de weinige grote revoluties die geleid werden door religieuze in plaats van politieke figuren.',
+      'Ayatollah Khomeini keerde in 1979 uit ballingschap terug en transformeerde Iran van een pro-westerse monarchie naar een islamitische republiek.',
+      'De gijzeling van de Amerikaanse ambassade duurde 444 dagen en vernietigde de relatie tussen de VS en Iran.',
+      'De revolutie inspireerde islamitische bewegingen wereldwijd maar leidde ook tot de bloedige Iran-Irak-oorlog (1980-1988) met meer dan een miljoen doden.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -23874,6 +23964,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In Nederland werden autovrije zondagen ingevoerd; kinderen speelden op lege snelwegen.',
       'De crisis versnelde de ontwikkeling van alternatieve energiebronnen en verbeterde auto-efficiëntie.',
+      'Het Arabische olie-embargo als reactie op westerse steun aan Israël in de Jom Kipoer-oorlog veroorzaakte een verviervoudiging van de olieprijs.',
+      'Autoloze zondagen in Nederland en lange rijen bij benzinestations werden het symbool van de crisis.',
+      'De oliecrisis versnelde de ontwikkeling van alternatieve energiebronnen en energiebesparende technologieën.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
@@ -23891,6 +23984,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tijdens de slag werden Parijse taxi\'s ingezet om versterkingen naar het front te vervoeren – de "Taxis de la Marne" zijn legendarisch.',
       'Na de overwinning bij de Marne groef men meer dan 700 km loopgraven van de Noordzee tot Zwitserland.',
+      'De Eerste Slag bij de Marne (1914) stopte de Duitse opmars naar Parijs en voorkwam een snelle Duitse overwinning.',
+      'De Parijse taxi\'s werden gevorderd om 6.000 soldaten naar het front te vervoeren – een van de eerste militaire transporten per auto.',
+      'De slag leidde tot de loopgravenoorlog die vier jaar zou duren en miljoenen levens zou kosten.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'exact',
@@ -23908,6 +24004,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tanks werden voor het eerst in de strijd ingezet bij de Slag aan de Somme in september 1916.',
       'De eerste dag van de Slag aan de Somme blijft de dodelijkste dag in de geschiedenis van het Britse leger.',
+      'Op de eerste dag van de Slag aan de Somme (1 juli 1916) vielen 57.470 Britse slachtoffers – de bloedigste dag in de Britse militaire geschiedenis.',
+      'De slag duurde vijf maanden en kostte meer dan een miljoen slachtoffers aan beide zijden voor een terreinwinst van slechts 10 kilometer.',
+      'De tank werd voor het eerst ingezet tijdens de Slag aan de Somme, hoewel de vroege modellen vaak kapotgingen of vastliepen in de modder.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -23925,6 +24024,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Britse blokkade veroorzaakte een hongerwinter in Duitsland; naar schatting stierven 750.000 burgers door ondervoeding.',
       'De Slag bij Jutland was de grootste zeebladslag van de Eerste Wereldoorlog; beide partijen claimden de overwinning.',
+      'De Slag bij Jutland (1916) was de grootste zeeslag in de geschiedenis, maar geen van beide zijden kon een beslissende overwinning behalen.',
+      'De Duitse U-boten torpedeerden duizenden geallieerde schepen; de onbeperkte duikbotenoorlog trok uiteindelijk de VS de oorlog in.',
+      'De Britse marine hield een zeeblokkade die Duitsland uithongerde; naar schatting stierven 750.000 Duitse burgers aan ondervoeding.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'approximate',
@@ -23942,6 +24044,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De term "genocide" werd mede geïnspireerd door de Armeense Genocide; Raphael Lemkin verwees ernaar bij het bedenken van het woord.',
       'Turkije erkent de genocide officieel niet, wat tot op heden internationale spanningen veroorzaakt.',
+      'Tussen 1915 en 1923 werden naar schatting 1,5 miljoen Armeniërs systematisch vermoord door het Ottomaanse Rijk.',
+      'Turkije ontkent tot op de dag van vandaag dat de gebeurtenissen genocide waren en noemt het oorlogsslachtoffers.',
+      'Raphael Lemkin, die het woord \'genocide\' bedacht, werd direct geïnspireerd door de Armeense genocide.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -23959,6 +24064,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Adolf Hitler werd tijdelijk verblind door een mosterdgasaanval in 1918 en beschreef zijn herstel in Mein Kampf.',
       'De Geneefse Conventie van 1925 verbood chemische wapens in oorlog, mede als reactie op de gruwelen van WO1.',
+      'Gifgas werd voor het eerst op grote schaal ingezet door de Duitsers bij Ieper in 1915; de groene chloorwolk doodde duizenden onbeschermde soldaten.',
+      'De verschrikkingen van chemische wapens leidden tot het Protocol van Genève (1925) dat het gebruik ervan verbood.',
+      'Fritz Haber, de uitvinder van chloorgas als wapen, won ook de Nobelprijs voor Scheikunde voor de productie van kunstmest – dezelfde chemie die levens nam en redde.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -23976,6 +24084,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De herstelbetalingen werden pas in 2010 volledig afbetaald door het herenigde Duitsland.',
       'Woodrow Wilson bracht zijn Veertien Punten mee maar zag de meeste verworpen; zijn Volkenbond werd door het Amerikaanse Congres afgewezen.',
+      'Het Verdrag van Versailles (1919) legde Duitsland enorme herstelbetalingen op en maakte het land verantwoordelijk voor de oorlog via de \'schuldclausule\'.',
+      'John Maynard Keynes voorspelde dat de harde vredesvoorwaarden tot een nieuwe oorlog zouden leiden – hij kreeg gelijk.',
+      'Duitsland voltooide de laatste herstelbetaling voor de Eerste Wereldoorlog pas in 2010 – 92 jaar na het einde van de oorlog.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -23993,6 +24104,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ANZAC Day (25 april) herdenkt de landing bij Gallipoli en is een nationale feestdag in Australië en Nieuw-Zeeland.',
       'Winston Churchill, architect van de campagne, stapte na het fiasco als minister af maar keerde later terug als premier.',
+      'De Gallipoli-campagne (1915) was Winston Churchills plan om het Ottomaanse Rijk via de Dardanellen te verslaan; het werd een catastrofale mislukking.',
+      'Australië en Nieuw-Zeeland verloren duizenden soldaten; ANZAC Day (25 april) is nog steeds de belangrijkste herdenkingsdag in beide landen.',
+      'Mustafa Kemal (later Atatürk) werd beroemd als verdediger van Gallipoli en gebruikte dit prestige om later Turkije te stichten.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'exact',
@@ -24010,6 +24124,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Brusilov-offensieve van 1916 was een van de succesvolste geallieerde operaties van de oorlog met 1,5 miljoen Oostenrijkse gevangenen.',
       'De totale Russische verliezen op het Oostfront bedroegen naar schatting 5–9 miljoen man.',
+      'Het oostfront was veel dynamischer dan het westfront; legers bewogen honderden kilometers heen en weer over het enorme landschap.',
+      'Het Russische leger leed enorme verliezen door slechte bewapening en logistiek; sommige soldaten vochten zonder geweer.',
+      'De ontevredenheid over de oorlog aan het oostfront was een directe oorzaak van de Russische Revolutie van 1917.',
     ],
     popularityScore: 65,
     uncertaintyLevel: 'approximate',
