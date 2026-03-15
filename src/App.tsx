@@ -2,7 +2,7 @@ import { useState, useCallback, useRef, useEffect, useMemo } from 'react';
 import type { HistoricalEvent, FilterState } from './types';
 import { ZOOM_LEVELS } from './types';
 import { historicalEvents } from './data/events';
-import { filterEvents, getRandomPopularEvent } from './utils/timeline';
+import { filterEvents, getRandomPopularEvent, MIN_YEAR, MAX_YEAR } from './utils/timeline';
 import { useTimelineInteraction } from './hooks/useTimelineInteraction';
 import TimelineCanvas from './components/TimelineCanvas';
 import Toolbar from './components/Toolbar';
@@ -25,6 +25,8 @@ function App() {
     colorMode: 'thema',
     searchQuery: '',
   });
+
+  const [searchFocusTrigger, setSearchFocusTrigger] = useState(0);
 
   const [tooltip, setTooltip] = useState<{
     event: HistoricalEvent;
@@ -144,6 +146,54 @@ function App() {
     }));
   }, [setViewState]);
 
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      // / always opens search (even while typing)
+      if (e.key === '/') {
+        const target = e.target as HTMLElement;
+        if (target.tagName !== 'INPUT' && target.tagName !== 'TEXTAREA') {
+          e.preventDefault();
+          setSearchFocusTrigger((n) => n + 1);
+          return;
+        }
+      }
+
+      const target = e.target as HTMLElement;
+      const isTyping =
+        target.tagName === 'INPUT' ||
+        target.tagName === 'TEXTAREA' ||
+        target.isContentEditable;
+      if (isTyping) return;
+
+      if (e.key === 'ArrowLeft') {
+        e.preventDefault();
+        setViewState((prev) => {
+          const step = ZOOM_LEVELS[prev.zoom].yearsPerPixel * 200;
+          return { ...prev, centerYear: Math.max(MIN_YEAR, Math.min(MAX_YEAR, prev.centerYear - step)) };
+        });
+      } else if (e.key === 'ArrowRight') {
+        e.preventDefault();
+        setViewState((prev) => {
+          const step = ZOOM_LEVELS[prev.zoom].yearsPerPixel * 200;
+          return { ...prev, centerYear: Math.max(MIN_YEAR, Math.min(MAX_YEAR, prev.centerYear + step)) };
+        });
+      } else if (e.key === '+' || e.key === '=') {
+        e.preventDefault();
+        handleZoomIn();
+      } else if (e.key === '-') {
+        e.preventDefault();
+        handleZoomOut();
+      } else if (e.key === 'r' || e.key === 'R') {
+        e.preventDefault();
+        handleRandomEvent();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [setViewState, handleZoomIn, handleZoomOut, handleRandomEvent]);
+
   const handleFilterCategory = useCallback((cat: import('./types').Category) => {
     setFilters((prev) => {
       const has = prev.categories.includes(cat);
@@ -178,7 +228,7 @@ function App() {
 
         <div className="h-5 w-px bg-border" />
 
-        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} />
+        <FilterPanel filters={filters} onChange={setFilters} events={historicalEvents} filteredCount={filteredEvents.length} focusTrigger={searchFocusTrigger} />
 
         <div className="flex-1">
           <Toolbar

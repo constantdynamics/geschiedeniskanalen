@@ -10,15 +10,17 @@ interface FilterPanelProps {
   onChange: (filters: FilterState) => void;
   events: HistoricalEvent[];
   filteredCount: number;
+  focusTrigger?: number;
 }
 
 const ALL_CATEGORIES = Object.keys(CATEGORY_CONFIG) as Category[];
 const ALL_REGIONS = Object.keys(REGION_CONFIG) as Region[];
 
-export default function FilterPanel({ filters, onChange, events, filteredCount }: FilterPanelProps) {
+export default function FilterPanel({ filters, onChange, events, filteredCount, focusTrigger }: FilterPanelProps) {
   const [isOpen, setIsOpen] = useState(false);
   const buttonRef = useRef<HTMLButtonElement>(null);
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const searchInputRef = useRef<HTMLInputElement>(null);
   const [dropdownPos, setDropdownPos] = useState({ top: 0, left: 0 });
 
   // Position the dropdown below the button
@@ -28,6 +30,13 @@ export default function FilterPanel({ filters, onChange, events, filteredCount }
       setDropdownPos({ top: rect.bottom + 8, left: rect.left });
     }
   }, [isOpen]);
+
+  // Focus search when triggered externally (keyboard shortcut /)
+  useEffect(() => {
+    if (!focusTrigger) return;
+    setIsOpen(true);
+    setTimeout(() => searchInputRef.current?.focus(), 50);
+  }, [focusTrigger]);
 
   // Close on click outside
   useEffect(() => {
@@ -112,6 +121,7 @@ export default function FilterPanel({ filters, onChange, events, filteredCount }
               <div className="relative">
                 <Search size={14} className="absolute left-3 top-1/2 -translate-y-1/2 text-text-secondary" />
                 <input
+                  ref={searchInputRef}
                   type="text"
                   placeholder="Zoek event..."
                   value={filters.searchQuery}
