@@ -21292,6 +21292,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het oudste bekende literaire werk is het Gilgamesj-epos, een Sumerisch gedicht over een koning die onsterfelijkheid zoekt – met een vloed-verhaal vergelijkbaar met het bijbelse Noah.',
       'De Sumeriërs gebruikten een zestigtallig stelsel (basis 60) dat we nog steeds gebruiken voor tijd (60 seconden, 60 minuten) en hoeken (360 graden).',
+      'De Sumeriërs vonden het wiel uit rond 3500 v.Chr., aanvankelijk niet voor transport maar voor het draaien van potten op de pottenbakkerswiel.',
+      'Het Sumerische spijkerschrift is het oudste bekende schriftsysteem ter wereld en werd geschreven op natte kleitabletten met een rietstengel.',
+      'De Sumeriërs hadden al een zestallig getalsysteem; daarom heeft een uur 60 minuten en een cirkel 360 graden.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -21309,6 +21312,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Sargon begon als tuinier en kelner van een stadskoning; zijn opkomst is een vroeg voorbeeld van sociale mobiliteit in de oudheid.',
       'De mythe van Sargon – als baby in een mand op de rivier gelegd – is opmerkelijk vergelijkbaar met het verhaal van Mozes.',
+      'Sargon van Akkad was volgens de legende als baby in een mandje in de rivier gezet – een verhaal dat later in de Mozes-mythe terugkeert.',
+      'Het Akkadische Rijk was het eerste multinationale imperium in de geschiedenis en strekte zich uit van de Perzische Golf tot de Middellandse Zee.',
+      'Sargons kleindochter Enheduanna is de eerste naambekende auteur in de geschiedenis; ze schreef hymnen aan de godin Inanna.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -21326,6 +21332,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Wet van Hammurabi introduceerde "oog om oog, tand om tand" – maar de straffen waren ongelijk: een rijke man die een arme blindsloeg betaalde slechts een boete.',
       'In de 6e eeuw v.Chr. was Babylon mogelijk de grootste stad ter wereld met een kwart tot een half miljoen inwoners.',
+      'De Codex van Hammurabi bevatte 282 wetten en is een van de oudste geschreven wetboeken; het stelde het principe \'oog om oog, tand om tand\' vast.',
+      'De Hangende Tuinen van Babylon, een van de Zeven Wereldwonderen, zijn mogelijk nooit gebouwd; archeologen hebben er geen bewijs voor gevonden.',
+      'Babylonische astronomen konden zonsverduisteringen voorspellen en legden de basis voor de westerse astrologie en astronomie.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -21343,6 +21352,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het vredesverdrag van Kades is het oudst bekende internationale verdrag; een kopie hangt in het VN-hoofdkwartier als symbool van diplomatie.',
       'De Hethietentaal is de vroegst gedocumenteerde Indo-Europese taal en daarmee een voorouder van moderne Europese talen.',
+      'De Hettieten waren een van de eerste volkeren die ijzer bewerkten, wat hen een militair voordeel gaf over hun bronzen tijdperk-vijanden.',
+      'Het Verdrag van Kadesh (1259 v.Chr.) tussen de Hettieten en Egypte is het oudste bewaard gebleven vredesverdrag ter wereld.',
+      'Het Hettitische Rijk verdween zo volledig dat het bestaan ervan pas in de 19e eeuw werd herontdekt door archeologen.',
     ],
     popularityScore: 70,
     uncertaintyLevel: 'approximate',
@@ -21360,6 +21372,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het woord "alfabet" komt van de eerste twee Griekse letters (alpha, beta), afgeleid van de Fenicische letters aleph en beth.',
       'Tyrisch purper was zo kostbaar dat het koningskleur werd; het was gram voor gram meer waard dan goud.',
+      'Het Fenicische alfabet had slechts 22 letters en was het eerste alfabet zonder afbeeldingen; de Grieken voegden later klinkers toe.',
+      'De Feniciërs stichtten Carthago in het huidige Tunesië, dat uitgroeide tot een van de machtigste steden van de oude wereld.',
+      'De kleurstof Tyrisch purper, gemaakt van zeeslakken, was zo kostbaar dat alleen koningen het konden betalen; hiervan komt het woord Fenicië (purperland).',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -21377,6 +21392,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De bibliotheek van Assurbanipal in Ninevé bevatte meer dan 30.000 kleitabletten – de vroegste bekende systematisch ingedeelde bibliotheek.',
       'Assyrische strijdkrachten gebruikten psychologische terreur en beschreven hun wreedheden op monumenten om andere steden af te schrikken.',
+      'De Assyriërs waren beroemd en berucht om hun wreedheid; ze decoreerden hun paleismuren met reliëfs van gevilde vijanden en afgehakte hoofden.',
+      'De bibliotheek van Assurbanipal in Nineveh bevatte meer dan 30.000 kleitabletten en is de oudst bekende systematische bibliotheek ter wereld.',
+      'Het Assyrische leger was het eerste dat een professioneel staand leger had met ijzeren wapens, belegeringswerktuigen en cavalerie.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -21394,6 +21412,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Minoïsche beschaving verdween plotseling rond 1450 v.Chr.; de vulkaanuitbarsting van Thera (Santorini) en de tsunami is de meest aanvaarde verklaring.',
       'Het Minoïsche "stierenspringen" – waarbij atleten over een rennende stier werden gelanceerd – kan de basis zijn van de Griekse Minotaurus-mythe.',
+      'De Minoïsche beschaving had als enige oude beschaving geen stadsmuren, wat suggereert dat ze zich veilig voelden dankzij hun vloot.',
+      'De legende van de Minotaurus in het labyrint is mogelijk gebaseerd op het complexe paleis van Knossos met zijn honderden kamers.',
+      'De Minoïsche beschaving werd waarschijnlijk vernietigd door de vulkaanuitbarsting van Thera (Santorini) rond 1600 v.Chr.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -21411,6 +21432,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Heinrich Schliemann groef in 1876 een gouden masker op en verklaarde het van Agamemnon te zijn – maar het masker dateert 300 jaar eerder.',
       'De Late Bronstijdcrisis rond 1200 v.Chr. vernietigde vrijwel alle grote beschavingen tegelijk: Hethieten, Myceense Grieken, Ugarit en Egypte.',
+      'Heinrich Schliemann ontdekte in 1876 het gouden dodenmasker van Agamemnon in Mycene; hij telegrafeerde: \'Ik heb het gezicht van Agamemnon gezien.\'',
+      'De Trojaanse Oorlog, beschreven door Homerus, was mogelijk gebaseerd op werkelijke conflicten tussen Mycene en steden in Klein-Azië.',
+      'Het Lineair B-schrift van de Myceners werd pas in 1952 ontcijferd door Michael Ventris en bleek een vroege vorm van Grieks te zijn.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'approximate',
@@ -21428,6 +21452,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De naam "marathon" stamt van de soldaat Pheidippides die van Marathon naar Athene rende om de overwinning aan te kondigen – en daarna stierf.',
       'Bij Thermopylae waren slechts 300 Spartanen; de Olympische Spelen vonden tegelijk plaats, waardoor Sparta geen groter leger kon sturen.',
+      'Bij de slag bij Thermopylae hielden 300 Spartanen onder Leonidas dagenlang het Perzische leger van meer dan 100.000 man tegen in een smalle bergpas.',
+      'De slag bij Marathon (490 v.Chr.) gaf aanleiding tot de marathon-afstand: een boodschapper rende 42 kilometer naar Athene om de overwinning te melden.',
+      'De Griekse overwinning bij Salamis (480 v.Chr.) was een keerpunt; de kleinere maar wendbare Griekse schepen versloegen de Perzische vloot in de nauwe zeestraat.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'approximate',
@@ -21445,6 +21472,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Atheense democratie gaf stemrecht aan mannelijke burgers – slechts 10-20% van de bevolking; vrouwen, slaven en buitenlanders waren uitgesloten.',
       'Pericles stierf aan de pest in 429 v.Chr.; de ziekte doodde naar schatting een kwart van de Atheense bevolking.',
+      'Pericles leidde Athene gedurende 30 jaar en financierde de bouw van de Parthenon met geld uit de Delische Bond dat eigenlijk bedoeld was voor gezamenlijke verdediging.',
+      'De Atheense democratie was direct: alle mannelijke burgers stemden persoonlijk over wetten, oorlog en bestuur op de Pnyx-heuvel.',
+      'De Peloponnesische Oorlog (431-404 v.Chr.) eindigde met de nederlaag van Athene tegen Sparta; Pericles stierf aan de pest die de stad trof.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -21462,6 +21492,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hannibal trok met 37 olifanten over de Alpen in de winter van 218 v.Chr.; slechts één overleefde maar zijn leger was een schok voor Rome.',
       'Na de val van Carthago zou Rome het land hebben bezaaid met zout – historici twijfelen of dit verhaal klopt.',
+      'Hannibal Barca stak in 218 v.Chr. de Alpen over met 37 olifanten en een leger van 50.000 man – een van de meest spectaculaire militaire ondernemingen ooit.',
+      'Na de Derde Punische Oorlog vernietigde Rome Carthago volledig en strooide zout over de ruïnes zodat er niets meer kon groeien.',
+      'Carthago was oorspronkelijk een Fenicische kolonie en werd de rijkste stad van het westelijke Middellandse Zeegebied dankzij haar handel.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -21479,6 +21512,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ashoka\'s Leeuwenkapiteel staat op de Indiase vlag; het Dharma Chakra op de vlag is ook gebaseerd op een Ashoka-symbool.',
       'Ashoka stuurde boeddhistische missionarissen naar Sri Lanka, Griekenland en Egypte – misschien de eerste georganiseerde missionaire beweging in de geschiedenis.',
+      'Ashoka bekeerde zich tot het boeddhisme na de bloedige verovering van Kalinga, waarbij meer dan 100.000 mensen stierven; hij zwoer geweld af.',
+      'Ashoka\'s edicten, gegraveerd op pilaren en rotsen door heel India, zijn de oudste leesbare inscripties van het Indiase subcontinent.',
+      'Het Ashoka-wiel (dharmachakra) op Ashoka\'s pilaren werd later opgenomen in de Indiase nationale vlag.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -21496,6 +21532,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Zijderoute was ook een route voor religieuze ideeën; boeddhistische kloosters langs de route fungeerden als herbergen en verspreidingscentra.',
       'Thailand heeft meer boeddhistische monniken per hoofd dan enig ander land; elke jonge man wordt traditioneel tijdelijk monnik.',
+      'Het boeddhisme verspreidde zich langs de Zijderoute van India naar China, Korea en Japan; monniken reisden mee met handelskaravanen.',
+      'In China vermengde het boeddhisme zich met het taoïsme en confucianisme tot uniek Chinese stromingen zoals Chan (Zen) boeddhisme.',
+      'De grootste boeddhabeelden ter wereld staan in Azië; het Spring Temple Buddha in China is met 128 meter het hoogste standbeeld ter wereld.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -21513,6 +21552,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het nulstelsel en het decimale positiestelsel zijn Indiase uitvindingen van de Gupta-periode; zonder de nul zijn moderne wiskunde en computers onmogelijk.',
       'Aryabhata berekende dat de aarde een bol was die om haar as draaide, eeuwen voor Copernicus.',
+      'Tijdens het Gupta-tijdperk werd het concept van nul als getal ontwikkeld door Indiase wiskundigen – een uitvinding die de wiskunde fundamenteel veranderde.',
+      'Het decimale getalsysteem dat wij dagelijks gebruiken is een Indiase uitvinding uit het Gupta-tijdperk; Arabieren namen het over en gaven het door aan Europa.',
+      'De Gupta-periode produceerde meesterwerken van Sanskrit-literatuur, waaronder het toneelstuk Shakuntala van Kalidasa.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -21530,6 +21572,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Olmeken sculpteerden kolossehoofden van soms drie meter hoog en 40 ton – vervoerd van vulkanen ver weg zonder wiel of trekdieren.',
       'Het Olmekse ballspel had religieuze betekenis; de verliezende teamcaptain werd in sommige gevallen geofferd.',
+      'De Olmeken maakten kolossale stenen hoofden van basalt die tot 3 meter hoog en 50 ton zwaar waren; hun functie is nog steeds een raadsel.',
+      'Het Olmekse balspel was het oudste in Amerika en had religieuze en politieke betekenis; het werd later door alle Meso-Amerikaanse beschavingen overgenomen.',
+      'De Olmeken ontwikkelden een van de vroegste schriftsystemen en kalenders in de Nieuwe Wereld.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -21547,6 +21592,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Machu Picchu werd in 1911 "herontdekt" door Hiram Bingham; de lokale bevolking wist altijd van zijn bestaan.',
       'Het quipu-systeem (touwen met knopen) kon complexe administratieve informatie opslaan; het kan ook als schrijfsysteem hebben gefungeerd.',
+      'De Inca\'s bouwden meer dan 40.000 kilometer aan wegen door het Andesgebergte, inclusief hangbruggen over diepe kloven.',
+      'Het Inca-rijk had geen schrift maar gebruikte quipu\'s – knoopscriften van gekleurde koorden – voor administratie en communicatie.',
+      'Machu Picchu werd gebouwd op 2.430 meter hoogte en was waarschijnlijk een koninklijk landgoed; het was onbekend bij de Spanjaarden.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -21564,6 +21612,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Atahualpa bood een kamer vol goud en twee kamers zilver als losgeld – vermoedelijk de grootste losgeldbetaling in de menselijke geschiedenis.',
       'Pokken doodden naar schatting 90% van de inheemse bevolking van Amerika in de eeuw na Europees contact.',
+      'Pizarro veroverde het Inca-rijk met slechts 168 Spanjaarden door de Inca-keizer Atahualpa te gijzelen tijdens een vredesgesprek.',
+      'Atahualpa bood een kamer vol goud en twee kamers vol zilver als losgeld aan; Pizarro nam het aan en executeerde hem alsnog.',
+      'De Spaanse verovering en de door hen meegebrachte ziekten doodden naar schatting 90% van de inheemse bevolking binnen een eeuw.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -21581,6 +21632,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Angkor Wat is zo groot dat moderne satellietfoto\'s nodig waren om de volledige omvang van het stedelijk systeem te begrijpen.',
       'Angkor Wat werd ter ere van Vishnu gebouwd maar later omgevormd tot een boeddhistische tempel.',
+      'Angkor Wat is het grootste religieuze monument ter wereld en was oorspronkelijk gewijd aan de hindoe-god Vishnu voordat het een boeddhistische tempel werd.',
+      'Op zijn hoogtepunt had de stad Angkor meer dan een miljoen inwoners – groter dan elk Europees stad in dezelfde periode.',
+      'Het waterbeheersysteem van Angkor met enorme reservoirs (barays) was essentieel voor de rijstteelt die het rijk voedde.',
     ],
     popularityScore: 81,
     uncertaintyLevel: 'approximate',
@@ -21598,6 +21652,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Ibn Battuta bezocht Kilwa in 1331 en noemde het een van de mooiste en best gebouwde steden ter wereld.',
       'Swahili is de meest gesproken Afrikaanse taal, met meer dan 200 miljoen sprekers als eerste of tweede taal.',
+      'De Swahili-taal is een mix van Bantu-talen en Arabisch en wordt vandaag door meer dan 100 miljoen mensen in Oost-Afrika gesproken.',
+      'Swahili-handelssteden als Kilwa en Zanzibar waren belangrijke schakels in de Indische Oceaan-handel en exporteerden goud, ivoor en slaven.',
+      'De architectuur van de Swahili-kuststeden combineerde Afrikaanse, Arabische en Perzische elementen in een unieke stijl.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -21615,6 +21672,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Nubische piramides van Meroë zijn slanker en puntigers dan de Egyptische piramides; er zijn meer dan 200 bewaard gebleven.',
       'Koningin Amanirenas van Kush versloeg het Romeinse leger van Augustus en sleepte een bronzen kop van hem als trofee mee naar Meroë.',
+      'Het Kush-rijk veroverde in 747 v.Chr. Egypte en regeerde als de 25e dynastie; Nubische farao\'s herstelden de piramidebouw die Egypte had opgegeven.',
+      'Het koninkrijk Meroë had meer piramiden dan Egypte, hoewel ze kleiner en steiler waren.',
+      'Kush was een van de eerste rijken in Afrika buiten Egypte dat een eigen schriftsysteem ontwikkelde, het Meroïtische schrift, dat nog niet volledig ontcijferd is.',
     ],
     popularityScore: 69,
     uncertaintyLevel: 'approximate',
@@ -21634,6 +21694,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Augustinus van Hippo schreef zijn "Stad Gods" als reactie op de plundering van Rome – hij betoogde dat het christendom niet verantwoordelijk was voor de val.',
       'De "val" van Rome was geen eenmalige catastrofe maar een langzaam proces; de Romeinse cultuur, taal en wetten bleven in grote delen van Europa voortleven.',
+      'De laatste West-Romeinse keizer, Romulus Augustulus, was ironisch genoeg vernoemd naar de legendarische stichter van Rome.',
+      'De val in 476 n.Chr. was niet een plotselinge gebeurtenis maar het einde van decennia van verval, invasies en interne machtsstrijd.',
+      'Het Oost-Romeinse Rijk (Byzantium) overleefde de val en duurde nog bijna 1.000 jaar tot de val van Constantinopel in 1453.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -21651,6 +21714,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Attila de Hun overleed op zijn huwelijksnacht in 453 aan een bloedneus; zijn dood beëindigde de Hunnische bedreiging abrupt.',
       'De Vandalen plunderden Rome in 455 zo methodisch dat hun naam synoniem werd voor zinloze vernieling – hoewel historici dit beeld nuanceren.',
+      'De Hunnen onder Attila joegen Germaanse stammen westwaarts het Romeinse Rijk in; de domino-effecten leidden tot de val van Rome.',
+      'De Vandalen plunderden Rome zo grondig in 455 dat hun naam synoniem werd met zinloze vernieling: vandalisme.',
+      'De Volksverhuizing legde de basis voor de moderne Europese natiestaten: Franken werden Frankrijk, Angelen werden Engeland, Alemannen werden Duitsland.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -21668,6 +21734,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Justinianus (r. 527–565) heroverde tijdelijk grote delen van het West-Romeinse grondgebied en codificeerde het Romeinse recht in het Corpus Iuris Civilis, nog steeds de basis van Europees recht.',
       'Grieks vuur – een brandbare vloeistof die op water bleef branden – was het geheime wapen van Byzantium; de exacte samenstelling is tot op heden onbekend.',
+      'Het Byzantijnse Rijk duurde meer dan 1.000 jaar (330-1453) en was de langstlevende beschaving in de Europese geschiedenis.',
+      'Het Grieks vuur, een geheim wapen van de Byzantijnen, was een brandende vloeistof die zelfs op water bleef branden; het recept is verloren gegaan.',
+      'De Hagia Sophia in Constantinopel was bijna 1.000 jaar lang de grootste kerk ter wereld en werd later een moskee en nu een museum.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -21685,6 +21754,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Karel de Grote was vermoedelijk zelf analfabeet, maar was een fervent promotor van lezen en schrijven; hij probeerde op latere leeftijd nog leren lezen maar slaagde er nooit volledig in.',
       'Zijn rijk werd na zijn dood verdeeld in drie delen (Verdrag van Verdun, 843), de voorlopers van Frankrijk, Duitsland en de Lage Landen.',
+      'Karel de Grote werd op kerstdag 800 door paus Leo III tot keizer gekroond, wat het begin markeerde van het Heilig Rooms Rijk.',
+      'Karel de Grote kon waarschijnlijk niet schrijven maar was een groot voorstander van onderwijs; hij richtte kloosterscholen op in heel zijn rijk.',
+      'Het Karolingische Rijk strekte zich uit van Spanje tot Duitsland en van Denemarken tot Italië – het grootste Europese rijk sinds de Romeinen.',
     ],
     popularityScore: 86,
     uncertaintyLevel: 'approximate',
@@ -21702,6 +21774,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Heilige Roomse Rijk had op zijn hoogtepunt meer dan 300 relatief autonome staatjes; het stond model voor de moderne federale staatsstructuur.',
       'Napoleon ontbond het Heilige Roomse Rijk in 1806 nadat hij Frans I dwong afstand te doen van de keizerstitel; Frans I werd vervolgens de eerste Oostenrijkse keizer.',
+      'Voltaire zei beroemd dat het Heilig Rooms Rijk \'noch heilig, noch Rooms, noch een Rijk was\' – een verwijzing naar zijn verdeeldheid.',
+      'Het Heilig Rooms Rijk bestond uit honderden semi-onafhankelijke staten, vorstendommen en vrije steden onder een gekozen keizer.',
+      'Het rijk duurde van 962 tot 1806, toen Napoleon het ontbond na zijn overwinningen in Duitsland.',
     ],
     popularityScore: 77,
     uncertaintyLevel: 'approximate',
@@ -21719,6 +21794,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Leif Eriksson stichtte een nederzetting in Vinland (mogelijk Newfoundland, Canada) rond het jaar 1000; archeologisch bewijs werd gevonden in L\'Anse aux Meadows.',
       'De Vikingen waren niet altijd barbaren met gehoorns op hun helm – die helm bestaat niet. Ze waren ook bekwame handelaars en smeden.',
+      'Vikingen ontdekten Amerika rond het jaar 1000, bijna 500 jaar voor Columbus; resten van een Vikingdorp werden gevonden in L\'Anse aux Meadows, Canada.',
+      'De Vikingen stichtten het Kievse Roes (het latere Rusland) en handelden van Scandinavië tot Constantinopel via de rivieren van Oost-Europa.',
+      'Vikingschepen waren technologische meesterwerken: licht genoeg om over land te dragen en zeewaardig genoeg om de Atlantische Oceaan over te steken.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -21736,6 +21814,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In het feodale stelsel was een boer zijn hele leven gebonden aan het land van zijn heer; hij mocht niet trouwen, verhuizen of zijn beroep kiezen zonder toestemming.',
       'De zwarte pest (1347–1351) verstoorde het feodale stelsel fundamenteel: zoveel arbeiders stierven dat overlevende boeren hogere lonen konden eisen en meer vrijheden verwerven.',
+      'Het feodale systeem was gebaseerd op land-voor-loyaliteit: een vazal ontving land (een leen) van zijn heer in ruil voor militaire dienst.',
+      'Horigen waren gebonden aan het land en konden niet vertrekken; ze werkten het grootste deel van de week op het land van hun heer.',
+      'De opkomst van steden en handel in de 12e-13e eeuw ondermijnde het feodalisme; geld verving land als bron van macht.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -21753,6 +21834,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De pest raasde zo snel door Europa dat sommige dorpen geen levenden meer hadden om de doden te begraven; lijken bleven weken liggen.',
       'De ziekte versnelde het einde van het feodalisme: de schaarste aan arbeiders gaf overlevende boeren onderhandelingsmacht die ze nooit eerder hadden gehad.',
+      'De pest doodde naar schatting een derde tot de helft van de Europese bevolking tussen 1347 en 1353.',
+      'De pest leidde tot een arbeidstekort dat de lonen deed stijgen en de macht van horigen vergrootte; het was ironisch genoeg een stap naar meer vrijheid.',
+      'Joden werden vals beschuldigd van het vergiftigen van waterputten en werden in veel steden vermoord of verdreven als zondebok voor de epidemie.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -21770,6 +21854,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Tempelieren waren pioniers in het vroege bankwezen: een pelgrim kon geld storten in Europa en het opnemen in Jeruzalem via een "chèque" – een vroege reischeque.',
       'Vrijdag de 13e is ongeluksgetal omdat op vrijdag 13 oktober 1307 alle Tempelieren in Frankrijk gelijktijdig werden gearresteerd op bevel van de Franse koning.',
+      'De Tempeliers werden zo rijk dat ze een internationaal banksysteem opzetten; pelgrims konden geld storten in Europa en opnemen in het Heilige Land.',
+      'De Orde van de Tempeliers werd in 1307 vernietigd door de Franse koning Filips IV, die hun rijkdom wilde; hun leider werd op de brandstapel verbrand.',
+      'De Hospitaalridders (nu de Maltezer Orde) bestaan nog steeds en geven paspoorten uit; het is de oudste nog bestaande ridderorde ter wereld.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -21787,6 +21874,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het woord "algebra" is afgeleid van Al-Khwarizmis boek "Al-jabr"; zijn naam gaf ook het woord "algoritme" (algorithm in het Engels).',
       'Ibn Sina\'s Canon of Medicine was het standaard medisch leerboek in Europa tot in de 17e eeuw – bijna 600 jaar na zijn dood.',
+      'Het Huis van de Wijsheid in Bagdad was een centrum van vertaling en wetenschap waar Griekse, Perzische en Indiase teksten werden vertaald en bestudeerd.',
+      'Al-Khwarizmi schreef het eerste boek over algebra; het woord \'algoritme\' is afgeleid van zijn naam.',
+      'Islamitische geleerden ontwikkelden ziekenhuizen, apotheken en medische opleidingen eeuwen voordat deze in Europa bestonden.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'approximate',
@@ -21804,6 +21894,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Mongolen gooiden de bibliotheek van het Huis der Wijsheid in de Tigris; de rivier kleurde zwart van de inkt, zo groot was de hoeveelheid boeken.',
       'De Kalief Al-Mutasim werd gewikkeld in een tapijt en doodgetrapt door paarden; de Mongolen wilden geen koninklijk bloed vergieten.',
+      'Hulagu Khan verwoestte Bagdad in 1258 zo grondig dat het irrigatiesysteem van Mesopotamië nooit volledig herstelde.',
+      'De Tigris-rivier kleurde volgens ooggetuigen zwart van de inkt van vernietigde boeken en rood van het bloed van slachtoffers.',
+      'De Mongoolse verwoesting van Bagdad wordt beschouwd als het einde van de Islamitische Gouden Eeuw.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -21821,6 +21914,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'William Wallace werd in 1305 op brute wijze terechtgesteld door de Engelsen: opgehangen, ontweid en gevierendeeld; zijn dood maakte hem een martelaar voor de Schotse zaak.',
       'Robert the Bruce werd in 1306 door de Engelsen verslagen en vluchtte; de legende van de spin die hem inspireerde om door te gaan is een van de bekendste Schotse folklore-verhalen.',
+      'William Wallace leidde het Schotse verzet tegen Engeland en werd na zijn gevangenneming gehangen, getrokken en gevierendeeld in Londen.',
+      'Robert the Bruce versloeg de Engelsen bij Bannockburn (1314) en verzekerde de Schotse onafhankelijkheid voor bijna 400 jaar.',
+      'De film Braveheart (1995) maakte Wallace wereldberoemd maar is historisch zeer onnauwkeurig.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -21838,6 +21934,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Spanje onder moslimheerschappij (Al-Andalus) was eeuwenlang een van de meest tolerante samenlevingen: joden, christenen en moslims leefden relatief vreedzaam samen.',
       'De val van Granada in 1492 werd gevolgd door de uitdrijving van alle Joden uit Spanje; honderdduizenden vluchtten naar het Ottomaanse Rijk, Noord-Afrika en elders.',
+      'De Reconquista duurde bijna 800 jaar (711-1492), van de Moorse invasie tot de val van Granada onder Ferdinand en Isabella.',
+      'Tijdens de Reconquista leefden christenen, moslims en joden soms eeuwenlang vreedzaam samen in de zogenaamde Convivencia.',
+      'De val van Granada in 1492 viel samen met de ontdekking van Amerika door Columbus; Ferdinand en Isabella financierden beide ondernemingen.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -21855,6 +21954,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het totale aantal door de Inquisitie terechtgestelden wordt geschat op 3.000–5.000 over 350 jaar – minder dan de mythe suggereert, maar elk geval was een aanval op de menselijke waardigheid.',
       'Het archief van de Spaanse Inquisitie is volledig bewaard gebleven en bevindt zich in Madrid; het is een onschatbare historische bron.',
+      'De Spaanse Inquisitie executeerde naar schatting 3.000 tot 5.000 mensen in 350 jaar; veel minder dan populaire cultuur suggereert.',
+      'De Inquisitie richtte zich vooral op bekeerde joden (conversos) en moslims (moriscos) die verdacht werden van het in het geheim beoefenen van hun oude geloof.',
+      'De Inquisitie werd pas definitief opgeheven in 1834; het was een van de langstlopende religieuze instituties in de Europese geschiedenis.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -21872,6 +21974,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Voor de drukpers moest een monnik maanden werken om één bijbel over te schrijven; Gutenberg kon er honderden tegelijk produceren.',
       'De drukpers leidde tot een alfabetiseringsgolf in Europa: voor 1450 kon minder dan 10% van de bevolking lezen; tegen 1700 was dat gestegen naar 30–40%.',
+      'Na de uitvinding van de drukpers vervijfvoudigde het aantal boeken in Europa binnen 50 jaar; de prijs van boeken daalde met 80%.',
+      'De eerste gedrukte krant verscheen in 1605 in Straatsburg; binnen een eeuw had elke grote Europese stad minstens één krant.',
+      'De drukpers maakte standaardisering van talen mogelijk; Luthers Bijbelvertaling hielp het moderne Duits te vormen.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'approximate',
@@ -21889,6 +21994,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hendrik IV stond drie dagen blootsvoets in de sneeuw voor de kasteelpoort van Canossa; de paus dwong hem tot deze vernedering voor hij vergiffenis schonk.',
       'De uitdrukking "naar Canossa gaan" is nog steeds in gebruik voor een vernedering of capitulatie; Bismarck gebruikte het beroemd in 1872.',
+      'De Investituurstrijd ging over de vraag wie bisschoppen mocht benoemen: de paus of de keizer – een machtsstrijd die Europa twee eeuwen verdeelde.',
+      'Keizer Hendrik IV stond drie dagen blootsvoets in de sneeuw bij Canossa (1077) om vergiffenis te vragen aan paus Gregorius VII.',
+      'Het Concordaat van Worms (1122) was het compromis: de keizer behield invloed maar de paus benoemde bisschoppen.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -21906,6 +22014,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Vladimir stuurde ambassadeurs naar moslims, joden, katholieken en orthodoxe christenen om de beste godsdienst te kiezen; het verhaal gaat dat hij de islam afwees omdat hij geen alcohol mocht drinken.',
       'De vernietiging van Kiev door de Mongolen in 1240 is een historisch trauma dat in Rusland en Oekraïne nog steeds politiek gevoelig ligt.',
+      'De Kievse Roes werd gesticht door Vikingen (Varjagen) die de rivieren van Oost-Europa afzakten; de naam Rusland komt van \'Rus\', hun stamnaam.',
+      'Vladimir I bekeerde zich in 988 tot het christendom en doopte zijn volk in de Dnjepr; dit bepaalde de religieuze identiteit van Rusland voor altijd.',
+      'Kiev was in de 11e eeuw een van de grootste steden van Europa met meer dan 50.000 inwoners.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'approximate',
@@ -21923,6 +22034,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De Wandtapijt van Bayeux vertelt het verhaal van de verovering in 70 meter borduurwerk – een uniek middeleeuws document dat ook Halley\'s komeet afbeeldt.',
       'Meer dan 10.000 Franse woorden kwamen via de Normandiërs het Engels binnen; woorden als "beef", "pork", "parliament" en "justice" zijn van Normandische oorsprong.',
+      'De Slag bij Hastings (1066) is een van de beroemdste veldslagen in de Europese geschiedenis; koning Harold werd gedood, mogelijk door een pijl in het oog.',
+      'Het Tapijt van Bayeux, 70 meter lang, vertelt het verhaal van de verovering in beelden en is een unieke bron van middeleeuwse geschiedenis.',
+      'Willem de Veroveraar liet het Domesday Book samenstellen (1086), een volkstelling van heel Engeland die tot op de dag van vandaag wordt bestudeerd.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -21940,6 +22054,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Tijdens het Westers Schisma exommuniceerden de pausen elkaar over en weer; gelovigen wisten niet aan wie ze moesten gehoorzamen.',
       'Petrarca noemde het Avignonse pausdom de "Babylonische ballingschap" van de Kerk – een vergelijking met de Joodse gevangenschap in Babylon.',
+      'Zeven pausen achtereenvolgend resideerden in Avignon (1309-1377) onder invloed van de Franse kroon; critici noemden het de \'Babylonische Ballingschap van de Kerk\'.',
+      'Het Pauselijk Paleis in Avignon is het grootste gotische paleis ter wereld en is nu een UNESCO Werelderfgoedlocatie.',
+      'De terugkeer naar Rome leidde tot het Westers Schisma (1378-1417) met twee en soms drie rivaliserende pausen tegelijk.',
     ],
     popularityScore: 68,
     uncertaintyLevel: 'exact',
@@ -21957,6 +22074,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De vredesonderhandelingen duurden vier jaar; afgezanten van bijna alle Europese staten namen deel – een vroege voorloper van internationale conferentiediplomatie.',
       'De vredesverdragen werden tegelijk getekend in twee Westfaalse steden: Osnabrück en Münster, voor respectievelijk de protestantse en katholieke partijen.',
+      'De Vrede van Westfalen (1648) beëindigde zowel de Dertigjarige Oorlog als de Tachtigjarige Oorlog en erkende de onafhankelijkheid van de Nederlandse Republiek.',
+      'Het verdrag introduceerde het concept van nationale soevereiniteit: staten mogen niet interveniëren in elkaars binnenlandse zaken.',
+      'De Dertigjarige Oorlog was de dodelijkste oorlog in de Europese geschiedenis voor de wereldoorlogen; sommige Duitse regio\'s verloren meer dan 50% van hun bevolking.',
     ],
     popularityScore: 75,
     uncertaintyLevel: 'exact',
