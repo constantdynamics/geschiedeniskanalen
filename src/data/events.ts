@@ -20486,6 +20486,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Dolly was vernoemd naar de zangeres Dolly Parton, omdat ze was gekloond uit een mammakliercel – "de beste paar titties in de industrie", aldus een onderzoeker.',
       'Dolly had versnelde verouderingsverschijnselen en stierf op de leeftijd van zes jaar (gemiddelde levensverwachting schaap: twaalf jaar), mogelijk door haar kloon-oorsprong.',
+      'Dolly werd geboren na 276 mislukte pogingen; het klonen van zoogdieren is extreem moeilijk en inefficiënt.',
+      'Na Dolly werden ook katten, honden, paarden en kamelen succesvol gekloond; rijke eigenaren betalen tot 50.000 dollar om hun huisdieren te klonen.',
+      'Het Roslin Institute bewaard Dolly\'s opgezette lichaam in het National Museum of Scotland in Edinburgh.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20505,6 +20508,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Wilberforce werd beschuldigd van economische sabotage door de plantage-eigenaren die van slavernij profiteerden; zijn strijd kostte hem zijn gezondheid.',
       'De abolitionistenbeweging gebruikte campagnemateriaal met de slogan "Am I Not A Man And A Brother?" – een van de eerste mensenrechtenslogans in de geschiedenis.',
+      'Wilberforce streed 46 jaar in het parlement voordat slavernij volledig werd afgeschaft; hij stierf drie dagen na de definitieve stemming.',
+      'De suikerboycot van 1791, georganiseerd door abolitionisten, was een van de eerste consumentenboycots in de geschiedenis; 300.000 Britten stopten met het eten van suiker.',
+      'Wilberforce was ook een dierenbeschermer en medeoprichter van de RSPCA, de eerste dierenwelzijnsorganisatie ter wereld.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -20522,6 +20528,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Suffragette Emily Davison gooide zich in 1913 voor het renpaard van koning George V bij de Derby-wedren en overleed; haar daad werd wereldnieuws.',
       'Nieuw-Zeeland was het eerste land dat vrouwen stemrecht gaf, al in 1893 – 25 jaar voor Groot-Brittannië.',
+      'Suffragettes gooiden stenen door ramen, staken brievenbussen in brand en ketenden zich vast aan hekken om aandacht te trekken voor hun zaak.',
+      'Gevangen suffragettes gingen in hongerstaking; de overheid reageerde met gedwongen voeding via buizen, wat publieke verontwaardiging veroorzaakte.',
+      'Finland was in 1906 het eerste Europese land dat vrouwen zowel actief als passief kiesrecht gaf; Nederland volgde in 1919.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -20539,6 +20548,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'King improviseerde het gedeelte "I have a dream" – het stond niet in zijn voorbereidde tekst; gospelzangeres Mahalia Jackson riep uit het publiek: "Vertel ze over de droom, Martin!"',
       'De FBI beluisterde King intensief en stuurde hem anoniem een brief met het advies zelfmoord te plegen; J. Edgar Hoover beschouwde hem als een staatsgevaar.',
+      'De mars werd georganiseerd door A. Philip Randolph, een 74-jarige vakbondsleider die al in 1941 een mars op Washington had gepland maar deze afblies na concessies van Roosevelt.',
+      'Meer dan 250.000 mensen verzamelden zich bij het Lincoln Memorial; het was de grootste demonstratie in de Amerikaanse geschiedenis tot dat moment.',
+      'King werd door Time Magazine uitgeroepen tot Man of the Year 1963 en won de Nobelprijs voor de Vrede in 1964 op 35-jarige leeftijd.',
     ],
     popularityScore: 93,
     uncertaintyLevel: 'exact',
@@ -20556,6 +20568,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Rosa Parks was niet zomaar een vermoeide vrouw die haar zitplaats niet wilde afstaan – ze was een getrainde NAACP-activiste en haar actie was deels zorgvuldig gepland.',
       'Ondanks de wetten bleven discriminatie en segregatie bestaan; de burgemeestersraces van 2020 en de Black Lives Matter-beweging toonden aan dat de strijd nooit echt voorbij is.',
+      'De Little Rock Nine waren negen zwarte leerlingen die in 1957 onder begeleiding van federale troepen naar een witte school gingen; president Eisenhower stuurde het leger.',
+      'De Freedom Riders, gemengde groepen activisten die segregatie in bussen testten, werden brutaal aangevallen door blanke menigten in het diepe Zuiden.',
+      'Malcolm X predikte zwarte trots en zelfverdediging, in contrast met Kings geweldloosheid; zijn moord in 1965 schokten de natie.',
     ],
     popularityScore: 89,
     uncertaintyLevel: 'exact',
@@ -20573,6 +20588,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'King was in Memphis om steun te betuigen aan stakende vuilnismannen; zijn laatste campagne ging over armoede en economische rechtvaardigheid, niet alleen rassengelijkheid.',
       'King had een voorgevoel van zijn dood; zijn laatste toespraak eindigde met woorden die zijn naderende dood bijna leken te voorspellen.',
+      'James Earl Ray werd veroordeeld voor de moord maar trok zijn bekentenis later in; samenzweringstheorieën bestaan tot op de dag van vandaag.',
+      'Na Kings dood braken rellen uit in meer dan 100 Amerikaanse steden; president Johnson stuurde 75.000 soldaten om de orde te herstellen.',
+      'Martin Luther King Day werd pas in 1986 een nationale feestdag in de VS, na jarenlange campagnes; het was de eerste feestdag voor een Afro-Amerikaan.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -20590,6 +20608,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De uitdrukking "Me Too" was al in 2006 bedacht door activist Tarana Burke voor overlevenden van seksueel geweld in gemarginaliseerde gemeenschappen; de hashtag maakte het viraal.',
       'Harvey Weinstein werd in 2020 veroordeeld tot 23 jaar gevangenisstraf – een van de zwaarste straffen ooit in een seksueel misbruikzaak van een beroemdheid.',
+      'De hashtag #MeToo werd in 24 uur door meer dan 12 miljoen mensen op Facebook gebruikt, waarmee het een van de snelst verspreide hashtags ooit was.',
+      'De beweging leidde tot nieuwe wetgeving in meerdere landen, waaronder strengere regels tegen seksuele intimidatie op de werkvloer.',
+      'Bekende beschuldigden naast Weinstein waren onder anderen Kevin Spacey, Matt Lauer en Les Moonves; de impact trof vrijwel elke sector.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -20607,6 +20628,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Toen Gandhi de zee bereikte en een handvol zout oppakte, schreef hij aan een vriend: "Dit is het ogenblik dat het Britse Rijk begon te wankelen."',
       'De Britse autoriteiten arresteerden meer dan 60.000 mensen als reactie op de campagne – het was precies de reactie die Gandhi wilde om wereldwijde aandacht te trekken.',
+      'Gandhi begon de mars met 78 volgelingen en eindigde met duizenden; elke dag sloten meer mensen zich aan langs de route.',
+      'Het Britse zoutmonopolie verbood Indiërs om hun eigen zout te winnen uit de zee die voor hun deur lag – een symbool van koloniaal onrecht.',
+      'De Zoutmars inspireerde latere protestbewegingen wereldwijd, waaronder de burgerrechtenbeweging in de VS en de anti-apartheidbeweging in Zuid-Afrika.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -20624,6 +20648,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het logo van Amnesty – een kaars omringd door prikkeldraad – stamt uit het Chinese spreekwoord: "Beter een kaars aan te steken dan de duisternis te vervloeken."',
       'Amnesty International won de Nobelprijs voor de Vrede in 1977 en heeft sindsdien meer dan 10 miljoen leden in meer dan 150 landen.',
+      'Amnesty schrijft elk jaar honderdduizenden brieven namens politieke gevangenen; veel regimes geven toe dat deze briefcampagnes effect hebben op hun beleid.',
+      'De organisatie is bewust onpartijdig: ze bekritiseert zowel westerse democratieën als dictaturen, wat haar geloofwaardigheid versterkt.',
+      'Amnesty\'s jaarlijkse mensenrechtenrapport wordt gelezen door regeringen, media en activisten wereldwijd als een betrouwbare bron over de staat van mensenrechten.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20641,6 +20668,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De lichamen werden na de moord van massagraven naar secundaire massagraven verplaatst om bewijzen te vernietigen; dit bemoeilijkt de identificatie van slachtoffers tot op vandaag.',
       'Ratko Mladic werd in 2017 door het Joegoslaviëtribunaal veroordeeld tot levenslang; het duurde 16 jaar na de genocide voordat hij werd berecht.',
+      'Nederlandse VN-soldaten (Dutchbat) waren verantwoordelijk voor de bescherming van de enclave maar stonden machteloos toe dat de mannen werden afgevoerd.',
+      'De val van Srebrenica leidde tot een diepgaand schuldgevoel in Nederland; de regering-Kok trad in 2002 af vanwege een rapport over de gebeurtenissen.',
+      'DNA-identificatie van slachtoffers uit massagraven duurt tot op de dag van vandaag voort; elk jaar worden nieuwe lichamen geïdentificeerd en herbegraven.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20658,6 +20688,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Thunberg verscheen op de VN-klimaattop in New York in 2019 en beschuldigde wereldleiders met de woorden: "Hoe durft u!"',
       'Ze reisde naar de VN in New York per zeilboot om haar vliegverbod te houden; de emotionele impact van haar aanwezigheid overschreed die van de meeste politici.',
+      'Thunberg heeft het syndroom van Asperger, wat ze beschrijft als haar superkracht: het stelt haar in staat om zich obsessief op één onderwerp te concentreren.',
+      'In september 2019 namen naar schatting 7,6 miljoen mensen deel aan de Global Climate Strike, de grootste klimaatactie ooit.',
+      'Fridays for Future is actief in meer dan 150 landen en wordt geleid door jongeren die te jong zijn om te stemmen maar oud genoeg om de gevolgen te dragen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20675,6 +20708,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De verkiezingen van 2020 zagen een recordopkomst van zwarte kiezers, deels gemotiveerd door BLM; Biden won mede dankzij dit electoraat.',
       'Na de Floyd-protesten werden in meer dan 70 Amerikaanse steden budgetten voor de politie verminderd of geherverd; een deel werd teruggedraaid na stijging van criminaliteit.',
+      'De video van George Floyds dood, waarin hij 9 minuten en 29 seconden werd vastgepind door agent Derek Chauvin, werd miljoenen keren bekeken en leidde tot wereldwijde protesten.',
+      'Derek Chauvin werd veroordeeld tot 22,5 jaar gevangenisstraf voor de moord op Floyd – een zeldzame veroordeling van een politieagent in de VS.',
+      'BLM-protesten vonden plaats in meer dan 60 landen, van Londen tot Tokio, waarmee het een wereldwijde beweging tegen racisme werd.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'exact',
@@ -20692,6 +20728,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Gandhi vergaf zijn moordenaar: zijn laatste woorden waren "He Ram" (Oh God), geen aanklacht of wraak.',
       'Gandhi\'s as werd verspreid over de Ganges en andere Indiase rivieren; een deel is ook bewaard in het museum in Aga Khan Palace in Pune, waar hij gevangen zat.',
+      'Nathuram Godse, de moordenaar, was lid van een hindoe-nationalistische organisatie die Gandhi beschuldigde van het bevoordelen van moslims.',
+      'Meer dan twee miljoen mensen volgden Gandhis rouwstoet door de straten van Delhi; het was een van de grootste begrafenissen in de geschiedenis.',
+      'Gandhis bezittingen bij zijn dood bestonden uit slechts een bril, sandalen, een horloge, een gebedsboek en een paar andere persoonlijke items.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -20709,6 +20748,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Na het mislukte moordaanslagop hem in 1981 bezocht hij zijn aanvaller Ali Agca in de gevangenis en vergaf hem; het beeld van de vergiffenis ging de hele wereld over.',
       'Johannes Paulus II was de meest reizende paus ooit; zijn pelgrimstochten legden meer dan 1,1 miljoen kilometer af – meer dan 28 keer om de aarde.',
+      'Voordat hij paus werd was Wojtyla een acteur, dichter en bergbeklimmer; hij was de meest atletische paus in de moderne geschiedenis.',
+      'Johannes Paulus II speelde een cruciale rol in de val van het communisme in Polen door zijn steun aan de Solidarnosc-vakbond.',
+      'Hij was de eerste paus die een moskee bezocht (Damascus, 2001) en een synagoge (Rome, 1986), als symbool van interreligieuze dialoog.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20726,6 +20768,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Moderne slavernij genereert naar schatting 150 miljard dollar per jaar – meer winst dan de totale inkomsten van alle VN-lidstaten samen bijdragen aan het VN-budget.',
       'Gedwongen arbeid komt voor in kledingproductie, elektronicafabricage, mijnbouw, visserij en landbouw in ketens die de meeste consumenten niet kennen.',
+      'De chocolade-industrie is berucht vanwege kinderarbeid op cacaoplantages in West-Afrika; miljoenen kinderen werken onder dwang.',
+      'Qatar kwam onder internationale druk vanwege de behandeling van arbeidsmigranten die de WK-stadions bouwden; duizenden stierven in de hitte.',
+      'De Modern Slavery Act van het Verenigd Koninkrijk (2015) verplicht grote bedrijven om te rapporteren over slavernij in hun toeleveringsketens.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -20743,6 +20788,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Meer dan 250 journalisten zitten momenteel gevangen wereldwijd; China, Iran en Wit-Rusland zijn de grootste gevangenisbewaarders van journalisten.',
       'De moord op Jamal Khashoggi in 2018 in het Saudische consulaat in Istanbul leidde tot internationale verontwaardiging maar weinig concrete actie.',
+      'Nobelprijs voor de Vrede-winnaar Liu Xiaobo stierf in 2017 in Chinese gevangenschap; hij was veroordeeld voor het schrijven van een democratisch manifest.',
+      'Turkije is een van de grootste gevangenbewaarders van journalisten ter wereld; na de couppoging van 2016 werden meer dan 150 mediakanalen gesloten.',
+      'Het internet heeft persvrijheid zowel bevorderd als bedreigd: het geeft iedereen een stem maar maakt ook surveillantie en censuur eenvoudiger.',
     ],
     popularityScore: 74,
     uncertaintyLevel: 'approximate',
@@ -20760,6 +20808,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Angela Merkel opende Duitsland voor de vluchtelingen met de woorden "Wir schaffen das" (We redden het); meer dan 800.000 vluchtelingen kwamen in 2015 naar Duitsland.',
       'De foto van Alan Kurdi leidde aantoonbaar tot een stijging van donaties aan vluchtelingenorganisaties; de kracht van één beeld om mentaliteit te veranderen was nooit duidelijker.',
+      'De EU-Turkije-deal van 2016 beperkte de vluchtelingenstroom drastisch doordat Turkije vluchtelingen tegenhield in ruil voor 6 miljard euro.',
+      'Hongarije bouwde een hek langs zijn grens met Servië om vluchtelingen tegen te houden; premier Orbán maakte anti-immigratiepolitiek tot zijn kernboodschap.',
+      'Veel vluchtelingen reisden de zogenaamde Balkanroute af, een levensgevaarlijke tocht van Turkije via Griekenland naar Duitsland.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'exact',
@@ -20777,6 +20828,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VS tekenden het Statuut van Rome maar ratificeerden het nooit; de George W. Bush-administratie trok de handtekening in 2002 zelfs formeel terug.',
       'Het ICC heeft tot nu toe slechts twee veroordelingen uitgesproken, ondanks tientallen onderzoeken; de procedure is langzaam maar de symbolische waarde is groot.',
+      'Het ICC heeft in 2023 een arrestatiebevel uitgevaardigd tegen de Russische president Poetin voor de deportatie van Oekraïense kinderen.',
+      'Omar al-Bashir van Soedan was het eerste zittende staatshoofd waartegen het ICC een arrestatiebevel uitvaardigde, in 2009.',
+      'Het ICC kan alleen personen berechten, geen staten; het vult daarmee het Internationaal Gerechtshof aan, dat geschillen tussen staten beslecht.',
     ],
     popularityScore: 73,
     uncertaintyLevel: 'exact',
@@ -20794,6 +20848,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Kinderarbeid is na de invoering van het verdrag wereldwijd gehalveerd, maar treft nog steeds 160 miljoen kinderen, voornamelijk in sub-Sahara Afrika.',
       'Malala Yousafzai, die werd neergeschoten door de Taliban voor haar strijd voor meisjesonderwijs, werd de jongste Nobelprijswinnaar voor de Vrede op 17-jarige leeftijd.',
+      'De VS heeft het Kinderrechtenverdrag niet geratificeerd vanwege bezwaren van conservatieve groeperingen over de nationale soevereiniteit.',
+      'Het verdrag garandeert kinderen het recht op onderwijs, gezondheidszorg en bescherming tegen uitbuiting, geweld en verwaarlozing.',
+      'UNICEF, opgericht in 1946, is de belangrijkste VN-organisatie die het Kinderrechtenverdrag implementeert en monitort.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20813,6 +20870,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Trump verloor de popular vote met 3 miljoen stemmen maar won het Electoral College – het vierde geval in de Amerikaanse geschiedenis dat de populaire stemwinnaar verloor.',
       'Russische beïnvloeding via sociale media en de DNC-hacks waren onderdeel van het politieke debat; de Mueller-commissie bevestigde Russische inmenging maar geen samenzwering met de Trump-campagne.',
+      'Trump was de eerste president zonder enige politieke of militaire ervaring; hij was eerder bekend als vastgoedmagnaat en tv-presentator van The Apprentice.',
+      'De verkiezing werd gekenmerkt door ongekende polarisatie en het fenomeen van \'fake news\' dat het politieke debat domineerde.',
+      'Trump won cruciale swingstaten als Wisconsin, Michigan en Pennsylvania met marges van minder dan 1%, wat de uitkomst bepaalde.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -20830,6 +20890,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zelensky\'s antwoord op het aanbod om te worden geëvacueerd: "Ik heb geen lift nodig, ik heb munitie." – die zin ging de wereld rond als symbool van Oekraïens verzet.',
       'Oekraïne gebruikt drones op een schaal die nooit eerder werd gezien in moderne oorlogsvoering; de oorlog transformeert militaire doctrine wereldwijd.',
+      'Meer dan 8 miljoen Oekraïners vluchtten naar het buitenland, de grootste vluchtelingencrisis in Europa sinds de Tweede Wereldoorlog.',
+      'De westerse sancties tegen Rusland waren de zwaarste ooit opgelegd aan een grote economie; Rusland werd afgesneden van het SWIFT-betalingssysteem.',
+      'Zelensky, een voormalig komiek en tv-acteur, transformeerde tot een oorlogsleider die dagelijks video-toespraken hield om de moraal hoog te houden.',
     ],
     popularityScore: 91,
     uncertaintyLevel: 'approximate',
@@ -20847,6 +20910,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De VN heeft 193 lidstaten – meer dan er landen waren toen ze werd opgericht. Vaticaanstad en Taiwan zijn geen lid.',
       'Het vetorecht van de permanente leden is een van de meest bekritiseerde aspecten van de VN; het heeft tientallen keren resoluties geblokkeerd, ook bij humanitaire crises.',
+      'De eerste Secretaris-Generaal was de Noorse Trygve Lie; sindsdien kwamen alle Secretarissen-Generaal uit verschillende werelddelen.',
+      'Het VN-hoofdkwartier in New York staat op internationaal grondgebied – technisch gezien is het geen Amerikaans grondgebied.',
+      'De VN heeft meer dan 70 vredeshandhavingsmissies uitgevoerd; de Blauwhelmen ontvingen de Nobelprijs voor de Vrede in 1988.',
     ],
     popularityScore: 83,
     uncertaintyLevel: 'exact',
@@ -20864,6 +20930,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'China heeft in 15 jaar meer beton gebruikt dan de VS in de gehele 20e eeuw, als indicator van de ongekende snelheid van haar infrastructuurontwikkeling.',
       'China is in 2030 naar verwachting \'s werelds grootste economie; voor het eerst in 200 jaar wordt de VS niet de grootste economie ter wereld.',
+      'Het Belt and Road Initiative is het grootste infrastructuurproject in de geschiedenis: meer dan 140 landen nemen eraan deel met investeringen van meer dan 1 biljoen dollar.',
+      'China heeft meer hogesnelheidstreinen dan de rest van de wereld bij elkaar; het netwerk groeit nog steeds explosief.',
+      'Xi Jinping schaffte in 2018 de termijnlimiet voor het presidentschap af, waarmee hij de machtigste Chinese leider werd sinds Mao Zedong.',
     ],
     popularityScore: 85,
     uncertaintyLevel: 'approximate',
@@ -20881,6 +20950,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Facebook heeft meer dan 3 miljard maandelijkse gebruikers – meer dan welke religies, naties of organisaties in de geschiedenis ook ooit hadden.',
       'Een gemiddelde persoon besteedt meer dan 2 uur per dag aan sociale media; de algoritmische aandachtseconomie is ontworpen om dit te maximaliseren.',
+      'De Arabische Lente (2011) werd mede mogelijk gemaakt door sociale media; Egyptische en Tunesische activisten organiseerden protesten via Facebook en Twitter.',
+      'Het Cambridge Analytica-schandaal in 2018 onthulde dat persoonlijke gegevens van 87 miljoen Facebook-gebruikers werden misbruikt voor politieke campagnes.',
+      'TikTok groeide van nul naar meer dan 1 miljard gebruikers in vier jaar en veranderde hoe een hele generatie content consumeert.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'exact',
@@ -20898,6 +20970,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De eurobiljetten tonen fictieve bruggen en gebouwen; na discussies over welk land welk gebouw zou krijgen, koos men voor fictieve ontwerpen zonder nationale bindingen.',
       'Groot-Brittannië, Denemarken en Zweden zijn EU-leden (of waren) die de euro nooit invoerden; zij behielden hun nationale valuta.',
+      'De Europese Centrale Bank in Frankfurt beheert de monetaire politiek voor 350 miljoen eurobezitters en bepaalt de rente voor de hele eurozone.',
+      'De overgang van nationale valuta naar de euro werd de \'Big Bang\' genoemd; in één nacht werden miljarden munten en biljetten gewisseld.',
+      'Elk euroland mag de achterkant van de munten zelf ontwerpen; verzamelaars jagen op zeldzame edities uit kleine landen als Monaco en het Vaticaan.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -20915,6 +20990,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'EU-voorzitters Barroso en Van Rompuy ontvingen de prijs in Oslo; buiten het gebouw protesteerden demonstranten vanwege de bezuinigingsmaatregelen die mensen in armoede dreven.',
       'De EU is de enige supranationale organisatie die de Nobelprijs voor de Vrede heeft gewonnen.',
+      'De oorspronkelijke zes oprichters van de Europese Gemeenschap (1957) waren landen die net twee verwoestende oorlogen hadden uitgevochten.',
+      'De Nobelprijs was controversieel omdat de EU op dat moment midden in de eurocrisis zat en bezuinigingen grote sociale onrust veroorzaakten.',
+      'Het prijsgeld van 930.000 euro werd gedoneerd aan kinderen in conflictgebieden via EU-programma\'s.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'exact',
@@ -20932,6 +21010,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'ChatGPT bereikte in 5 dagen een miljoen gebruikers; Netflix had er 3,5 jaar voor nodig en Facebook 10 maanden.',
       'Veel landen werken aan AI-wetgeving; de EU nam in 2024 de eerste AI-wet ter wereld aan die risicoprofielen hanteert voor AI-toepassingen.',
+      'OpenAI werd in 2015 opgericht als non-profit maar transformeerde later naar een winstgevend bedrijf met een waardering van meer dan 80 miljard dollar.',
+      'Generatieve AI kan inmiddels tekst, beeld, muziek, video en code creëren die vaak niet van menselijke creaties te onderscheiden is.',
+      'De AI-wapenwedloop tussen de VS en China wordt door sommige experts vergeleken met de nucleaire wapenwedloop van de Koude Oorlog.',
     ],
     popularityScore: 88,
     uncertaintyLevel: 'exact',
@@ -20949,6 +21030,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'India zal de komende decennia de snelst groeiende grote economie ter wereld zijn; het heeft meer mensen in de werkzame leeftijdsgroep dan enig ander land.',
       'De Indiase diaspora is de grootste ter wereld: meer dan 18 miljoen Indiërs wonen buiten India en sturen elk jaar meer dan 100 miljard dollar naar huis.',
+      'India\'s mediaan leeftijd is 28 jaar tegenover China\'s 39 jaar; dit demografisch dividend kan India\'s economische groei voor decennia aandrijven.',
+      'Uttar Pradesh, India\'s dichtstbevolkte staat, heeft meer inwoners dan Brazilië.',
+      'India\'s bevolkingsgroei vertraagt snel; het geboortecijfer is gedaald tot onder het vervangingsniveau van 2,1 kinderen per vrouw.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -20966,6 +21050,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Zonne-energie is nu de goedkoopste elektriciteitsproductiewijze in de geschiedenis van de mensheid – goedkoper dan kolen, gas of kernenergie.',
       'China produceert 80% van de zonnepanelen ter wereld; de groene transitie heeft een nieuwe technologische afhankelijkheid gecreëerd vergelijkbaar met olie.',
+      'De prijs van zonnepanelen daalde met 99% sinds 1976; een zonnepaneel dat toen 76 dollar per watt kostte, kost nu minder dan 0,30 dollar.',
+      'Denemarken wint meer dan 50% van zijn elektriciteit uit windenergie en is daarmee wereldleider in windkracht.',
+      'De lithium-ion batterij, essentieel voor energieopslag, werd uitgevonden door John Goodenough die er in 2019 op 97-jarige leeftijd de Nobelprijs voor won.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'approximate',
@@ -20983,6 +21070,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Katalin Karikó won de Nobelprijs voor Geneeskunde in 2023 voor haar pionierswerk aan mRNA; ze was decennialang een marginale figuur in de wetenschap voordat haar werk de wereld redde.',
       'Het BioNTech-vaccin was de eerste succesvol commerciële mRNA-toepassing in de menselijke geschiedenis – een fundamentele doorbraak in de geneeskunde.',
+      'Katalin Karikó, de Hongaarse wetenschapper achter de mRNA-technologie, werd jarenlang afgewezen voor onderzoeksfinanciering en zelfs gedegradeerd.',
+      'Het Pfizer-BioNTech vaccin werd in minder dan 11 maanden ontwikkeld, getest en goedgekeurd – een absoluut record in de vaccingeschiedenis.',
+      'mRNA-technologie wordt nu ook onderzocht als behandeling voor kanker, hartaandoeningen en zeldzame genetische ziekten.',
     ],
     popularityScore: 84,
     uncertaintyLevel: 'exact',
@@ -21000,6 +21090,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'SpaceX verlaagde de kosten van raketstarts met 90% door herbruikbare boosters; de eerste succesvol gelande booster (2015) was een ingenieursdoorbraak.',
       'Elon Musk heeft verklaard zelf op Mars te willen sterven – "maar niet bij de landing". SpaceX heeft plannen voor een permanente Mars-kolonie voor 2050.',
+      'SpaceX ontwikkelde herbruikbare raketten die zichzelf terugvliegen naar een landingsplatform – iets dat NASA-ingenieurs voor onmogelijk hielden.',
+      'Elon Musk investeerde bijna zijn gehele fortuin uit de verkoop van PayPal in SpaceX; het bedrijf stond drie keer op de rand van faillissement.',
+      'De Starship-raket van SpaceX is de grootste en krachtigste raket ooit gebouwd en is bedoeld om mensen naar Mars te brengen.',
     ],
     popularityScore: 82,
     uncertaintyLevel: 'approximate',
@@ -21017,6 +21110,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Wikipedia wordt beheerd door circa 70.000 actieve vrijwilligers en draait op een jaarlijks budget van ca. 150 miljoen dollar – een fractie van commerciële websites met vergelijkbaar bereik.',
       'De Engelse Wikipedia heeft meer dan 6,7 miljoen artikelen; de meest bewerkte pagina aller tijden is George W. Bush.',
+      'Wikipedia heeft meer dan 60 miljoen artikelen in meer dan 300 talen en is daarmee de grootste encyclopedie ooit gemaakt.',
+      'Slechts 1% van de Wikipedia-gebruikers schrijft of bewerkt artikelen; de rest consumeert alleen informatie.',
+      'Wikipedia weigert advertenties en wordt volledig gefinancierd door donaties; de jaarlijkse fondswerving haalt meer dan 150 miljoen dollar op.',
     ],
     popularityScore: 80,
     uncertaintyLevel: 'exact',
@@ -21034,6 +21130,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'In Nederland erkende premier Rutte in december 2022 dat de slavernij een misdaad was en bood namens de staat excuses aan; het was de eerste formele erkenning in de Nederlandse geschiedenis.',
       'Het standbeeld van Edward Colston in Bristol (een slavenhandelaar) werd in 2020 in de haven gegooid; de vier activisten die dit deden werden vrijgesproken.',
+      'België gaf in 2002 officieel excuses voor de moord op Patrice Lumumba, de eerste premier van Congo, in 1961.',
+      'Het debat over het teruggeven van geroofde kunstwerken uit koloniale musea groeide na de publicatie van het Sarr-Savoy-rapport in Frankrijk in 2018.',
+      'Nederland verontschuldigde zich in 2022 officieel voor het slavernijverleden, 159 jaar na de formele afschaffing.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
@@ -21051,6 +21150,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Meta investeerde meer dan 46 miljard dollar in het Metaverse-project maar de adoptie bleef teleurstellend; het leidde tot massaontslagen en een koersval van Meta-aandelen.',
       'VR-chirurgie-training vermindert aantoonbaar fouten bij echte operaties; dit is de meest succesvolle VR-toepassing tot nu toe.',
+      'Facebook veranderde zijn naam in Meta in 2021 en investeerde meer dan 36 miljard dollar in metaverse-technologie.',
+      'Virtual reality wordt al gebruikt in de geneeskunde voor pijnbestrijding, PTSS-behandeling en chirurgische training.',
+      'De Oculus Quest 2 headset verkocht meer dan 15 miljoen exemplaren en bracht VR voor het eerst naar de massamarkt.',
     ],
     popularityScore: 71,
     uncertaintyLevel: 'approximate',
@@ -21068,6 +21170,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Hongarije onder Orbán wordt door de EU niet langer als volledige democratie beschouwd; het is het eerste geval in de EU-geschiedenis van democratische achteruitgang van binnen.',
       'Het gemeenschappelijke kenmerk van succesvolle populistische leiders is niet ideologie maar persoonlijkheid: ze allen cultiveerden een sterk "ik tegen het establishment"-narratief.',
+      'Brexit (2016), Trumps verkiezing (2016) en de opkomst van partijen als het Rassemblement National in Frankrijk tonen een wereldwijde trend van populistisch nationalisme.',
+      'Populistische leiders presenteren zich als stem van het volk tegen de elite, maar hun beleid versterkt vaak ongelijkheid.',
+      'Sociale media versterken populisme door filterbubbels en emotionele content te bevorderen boven genuanceerde analyse.',
     ],
     popularityScore: 79,
     uncertaintyLevel: 'approximate',
@@ -21085,6 +21190,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Insecten staan bovenaan de lijst van bedreigde soorten; hun biomassa is met 75% gedaald in westerse landen, wat desastreus is voor bestuiving en voedselproductie.',
       'De VN-biodiversiteitstop van 2022 in Montreal produceerde een akkoord om 30% van land en zee te beschermen voor 2030 – "30 by 30" als pendant van de klimaatdoelen.',
+      'De Living Planet Index toont dat de populaties van wilde dieren gemiddeld met 69% zijn afgenomen sinds 1970.',
+      'Insectenpopulaties zijn in sommige regio\'s met meer dan 75% gedaald; dit bedreigt de bestuiving van gewassen en de voedselketen.',
+      'Het Kunming-Montreal Biodiversiteitsakkoord (2022) beloofde 30% van de aarde te beschermen tegen 2030, maar de implementatie verloopt traag.',
     ],
     popularityScore: 76,
     uncertaintyLevel: 'approximate',
@@ -21102,6 +21210,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'De aanslag van 7 oktober was de dodelijkste dag voor Joden sinds de Holocaust – wat leidde tot de Israëlische term "onze 11 september".',
       'ICC-aanklager Karim Khan vroeg arrestatiebevelen aan voor zowel Israëlische leiders als Hamas-leiders – een historisch precedent voor het gelijktijdig berechten van beide partijen.',
+      'De aanval van Hamas op 7 oktober 2023 doodde meer dan 1.200 Israelische burgers en soldaten en was de dodelijkste dag voor Joden sinds de Holocaust.',
+      'Het daaropvolgende Israëlische offensief veroorzaakte enorme verwoesting in Gaza en leidde tot tienduizenden Palestijnse burgerslachtoffers.',
+      'Het conflict polariseerde de wereldpolitiek: massale protesten vonden plaats in zowel pro-Israëlische als pro-Palestijnse kampen wereldwijd.',
     ],
     popularityScore: 87,
     uncertaintyLevel: 'approximate',
@@ -21119,6 +21230,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'IBM\'s kwantumcomputer heeft qubits die bij bijna absolute nultemperatuur (-273°C) werken – koeler dan de ruimte tussen de sterren.',
       'Kwantumcomputing bedreigt huidige encryptiesystemen; overheden investeren in "post-kwantum cryptografie" om zich voor te bereiden.',
+      'Google claimde in 2019 kwantum-suprematie: hun Sycamore-chip loste in 200 seconden een probleem op dat een supercomputer 10.000 jaar zou kosten.',
+      'Kwantumcomputers kunnen huidige encryptie potentieel kraken, wat een bedreiging vormt voor de wereldwijde digitale veiligheid.',
+      'IBM, Google en Chinese bedrijven investeren miljarden in een race om de eerste praktisch bruikbare kwantumcomputer te bouwen.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'approximate',
@@ -21136,6 +21250,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Gates Foundation en WHO waarschuwden al jaren voor een pandemie-gevaar; hun rapporten werden genegeerd totdat Covid-19 realiteit werd.',
       'De wereld gaf tijdens de eerste twee Covid-jaren meer uit aan economisch herstel dan in de 75 jaar daarvoor aan pandemiepreparedness.',
+      'De WHO werkt aan een internationaal pandemieverdrag om landen te verplichten sneller en transparanter te reageren op nieuwe uitbraken.',
+      'CEPI (Coalition for Epidemic Preparedness Innovations) ontwikkelt vaccins tegen de meest waarschijnlijke toekomstige pandemische pathogenen.',
+      'Het concept \'100 Days Mission\' beoogt vaccins binnen 100 dagen na het uitbreken van een pandemie beschikbaar te hebben.',
     ],
     popularityScore: 72,
     uncertaintyLevel: 'approximate',
@@ -21153,6 +21270,9 @@ const _events: HistoricalEvent[] = [
     funFacts: [
       'Het Schuman-plan (1950) van Robert Schuman bond de Franse en West-Duitse kolen- en staalproductie samen – de grondstoffen van de oorlog – om een nieuwe oorlog structureel onmogelijk te maken.',
       'De EU vertegenwoordigt 450 miljoen mensen en heeft het grootste collectieve bbp ter wereld, maar heeft geen eigen leger en slechts een beperkte buitenlandse politiek.',
+      'De Europese integratie begon met zes landen in 1957 en groeide uit tot 27 lidstaten na de Brexit.',
+      'Het Erasmus-programma heeft meer dan 12 miljoen studenten de kans gegeven in een ander Europees land te studeren.',
+      'De EU is de grootste hulpdonor ter wereld en verstrekt meer dan de helft van alle wereldwijde ontwikkelingshulp.',
     ],
     popularityScore: 78,
     uncertaintyLevel: 'exact',
